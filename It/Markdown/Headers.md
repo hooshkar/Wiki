@@ -1,7 +1,7 @@
 ---
-title: سرفصل‌ها در مارک‌داون (Markdown)  
+title: سرفصل‌ها در مارک داون (Markdown)  
 author: محمد رضا کریمی  
-description: آموزش ایجاد سرفصل در مارک‌داون (Markdown)  
+description: آموزش ایجاد سرفصل در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
 uid: ComputerAndIt/Markdown/Headers  

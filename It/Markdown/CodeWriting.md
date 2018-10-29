@@ -1,7 +1,7 @@
 ---
-title: نمایش کد در مارک‌داون (Markdown)  
+title: نمایش کد در مارک داون (Markdown)  
 author: محمد رضا کریمی  
-description: آموزش قواعد نمایش کد در مارک‌داون (Markdown)  
+description: آموزش قواعد نمایش کد در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
 uid: ComputerAndIt/Markdown/CodeWriting  

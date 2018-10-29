@@ -1,19 +1,19 @@
 ---
-title: ایجاد چک باکس در مارک‌داون (Markdown)  
+title: ایجاد چک باکس در مارک داون (Markdown)  
 author: محمد رضا کریمی  
-description: آموزش قواعد ایجاد چک باکس در مارک‌داون (Markdown)  
+description: آموزش قواعد ایجاد چک باکس در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
 uid: ComputerAndIt/Markdown/CheckBoxes  
 ---
 
-در این بخش، ایجاد چک باکس در مارک‌داون (Markdown) توضیح میدهیم.
-در مارک‌داون (Markdown) به این شکل `- [ ] متن چک باکس` چک باکس ایجاد میشود. و به این شکل `- [x] متن چک باکس`، چک باکس تیک خورده ایجتد میشود.
+در این بخش، ایجاد چک باکس در مارک داون (Markdown) توضیح میدهیم.
+در مارک داون (Markdown) به این شکل `- [ ] متن چک باکس` چک باکس ایجاد میشود. و به این شکل `- [x] متن چک باکس`، چک باکس تیک خورده ایجاد میشود.
 
 مثال :
 
 ```
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
@@ -21,7 +21,7 @@ uid: ComputerAndIt/Markdown/CheckBoxes
 
 خروجی:
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
