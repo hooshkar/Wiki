@@ -14,38 +14,38 @@ uid: ComputerAndIt/Markdown/Links
 مثال:
 
 ```
-[وب سایت هوشکار](https://hooshkar.ir)
+[وب سایت هوشکار](https://www.hooshkar.com)
 ```
 
 خروجی:
 
-[وب سایت هوشکار](https://hooshkar.ir)
+[وب سایت هوشکار](https://www.hooshkar.com)
 
 شما میتوانید متن لینک را بصورت Italic و یا Bold بنویسید.
 
 مثال:
 
 ```
-[_وب سایت هوشکار_](https://hooshkar.ir)
-[**وب سایت هوشکار**](https://hooshkar.ir)
+[_وب سایت هوشکار_](https://www.hooshkar.com)
+[**وب سایت هوشکار**](https://www.hooshkar.com)
 ```
 
 خروجی:
 
-[_وب سایت هوشکار_](https://hooshkar.ir)
-[**وب سایت هوشکار**](https://hooshkar.ir)
+[_وب سایت هوشکار_](https://www.hooshkar.com)
+[**وب سایت هوشکار**](https://www.hooshkar.com)
 
 همچنین میتوانید درون سرفصل لینک را قرار دهید.
 
 مثال:
 
 ```
-### وب سایت شرکت  [هوشکار](https://hooshkar.ir)
+### وب سایت شرکت  [هوشکار](https://www.hooshkar.com)
 ```
 
 خروجی:
 
-### وب سایت شرکت  [هوشکار](https://hooshkar.ir)
+### وب سایت شرکت  [هوشکار](https://www.hooshkar.com)
 
 نوع دیگر لینک‌ها در مارک داون (Markdown) Reference Link است، رفرنس لینک به این صورت است که برای آدرس یک نام مشخص میشود و بجای استفاده از آدرس از نام آن استفاده میشود. و اگر بخواهیم آدرس تغییر کند لازم نیست کل لینک‌ها را تغییر دهیم. برای استفاده از رفرنس لینک ابتدا باید برای آن آدرس یک اسم مشخص کنید و بعد از اسم آن استفاده کنید. بهتر است که رفرنس لینک‌ها را در ابتدا و یا انتهای فایل md تعریف کنید.
 
@@ -61,15 +61,15 @@ uid: ComputerAndIt/Markdown/Links
 مثال:
 
 ```
-[hooshkar]: https://hooshkar.ir
+[hooshkar]: https://www.hooshkar.com
 
-[hooshkar pardaz][hooshkar]
-[hoshkar website][hooshkar]
+[hooshkarpardaz][hooshkar]
+[hoshkar][hooshkar]
 ```
 
 خروجی:
 
-[hooshkar]: https://hooshkar.ir
+[hooshkar]: https://www.hooshkar.com
 
-[hooshkar pardaz][hooshkar]
-[hoshkar website][hooshkar]
+[hooshkarpardaz][hooshkar]
+[hoshkar][hooshkar]
