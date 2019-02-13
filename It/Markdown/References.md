@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: منابع آموزش مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/References  
+uid: It/Markdown/References  
 ---
 
 خب به عنوان حرف آخر باید بگم که در این آموزش تنها بخشی از کارهایی که میتوانیم با مارک داون (Markdown) انجام بدهیم را بیان کردیم. این تقریبا بخش‌های اصلی مارک داون (Markdown) است.

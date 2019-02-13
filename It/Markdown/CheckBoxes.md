@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش قواعد ایجاد چک باکس در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/CheckBoxes  
+uid: It/Markdown/CheckBoxes  
 ---
 
 در این بخش، ایجاد چک باکس در مارک داون (Markdown) توضیح میدهیم.

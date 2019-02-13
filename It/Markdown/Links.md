@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش قرار دادن لینک به صورت Inline Link و Refrence Link در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/Links  
+uid: It/Markdown/Links  
 ---
 
 در این بخش با نحوه لینک دادن به وب سایت‌های دیگر آشنا میشویم. در مارک داون (Markdown) دو نوع لینک دادن وجود دارد، اما هر دو نوع به یک شکل دیده میشود.

@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش قواعد ایجاد نقل قول در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/Blockquotes  
+uid: It/Markdown/Blockquotes  
 ---
 
 اگر شما لازم دارید که یک نقل قول از یک منبع دیگر را در متن خود بیان کنید، میتوانید از Blockquotes استفاده کنید.

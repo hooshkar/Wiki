@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش ایجاد سرفصل در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/Headers  
+uid: It/Markdown/Headers  
 ---
 
 در این بخش به سراغ یکی دیگر از قرارداد‌های قالب بندی میرویم: Heading (سرفصل)

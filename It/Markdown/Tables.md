@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش قواعد ایجاد جداول در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/Tables  
+uid: It/Markdown/Tables  
 ---
 
 در این بخش درباره‌ی ایجاد جدول در مارک داون (Markdown) صحبت میکنیم. در مارک داون (Markdown) ایجاد جدول هم به سادگی امکان پذیر است.

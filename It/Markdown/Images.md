@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش قرار دادن عکس به صورت Inline Image و Refrence Image در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/Images  
+uid: It/Markdown/Images  
 ---
 
 اگر شما مرحله قبل یعنی قرار دادن لینک در مارک داون (Markdown) را یاد گرفته باشید، شما میتوانید عکس هم قرار دهید. نحوه قراردادن عکس بسیار شبیه لینک است.

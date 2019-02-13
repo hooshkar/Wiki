@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش قواعد نمایش کد در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/CodeWriting  
+uid: It/Markdown/CodeWriting  
 ---
 
 برای نمایش متن و یا بهتر است بگوییم نمایش کد، کافیست آن قطعه کد را بین دو علامت بک‌‌ تیک (`) قرار دهید.که به این نوع نمایش کد، Inline Code می‌گویند.

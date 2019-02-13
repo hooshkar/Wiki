@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: آموزش Italic و Bold در مارک داون (Markdown)  
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
-uid: ComputerAndIt/Markdown/ItalicsAndBold  
+uid: It/Markdown/ItalicsAndBold  
 ---
 
 _Italic_ و **Bold** دو عنصر اساسی در قالب بندی متن به شمار می روند. در مارک داون Bold کردن و یا Italic کردن متن به سادگی امکان پذیر است.
