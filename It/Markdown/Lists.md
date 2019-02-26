@@ -74,7 +74,7 @@ uid: It/Markdown/Lists
     * Loves whiskey
         * Possibly also scotch? 
 
-شما میتوانید در لیت‌ها از عناصر دیگر مارک داون (Markdown) نیز استفاده کنید.
+شما میتوانید در لیست‌ها از عناصر دیگر مارک داون (Markdown) نیز استفاده کنید.
 
 مثال:
 
