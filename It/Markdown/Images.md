@@ -1,7 +1,7 @@
 ---
 title: قرار دادن عکس در مارک داون (Markdown)  
 author: محمد رضا کریمی  
-description: آموزش قرار دادن عکس به صورت Inline Image و Refrence Image در مارک داون (Markdown)  
+description: در مارک داون (Markdown) مانند لینک دو نوع عکس وجود دارد، و هر دو نوع به یک شکل دیده میشود. تنها تفاوت لینک و عکس در این است که عکس با علامت تعجب آغاز میشود.
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
 uid: It/Markdown/Images  
