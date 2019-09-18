@@ -26,12 +26,8 @@ uid: It/Markdown/Images
 
 مثال:
 ```
-![لوگو یاراد](./Images/mistakAddress.png)
+![لوگو یاراد](./Images/mistake-address.png)
 ```
-خروجی:
-
-![لوگو یاراد](./Images/mistakAddress.png)
-
 
 نوع دیگر قرار دادن عکس در مارک داون (Markdown) Reference Image نام دارد. این نوع مانند رفرنس لینک است. رفرنس عکس‌ها را تعریف میکنیم و به جای آدرس از آن استفاده میکنیم.
 
