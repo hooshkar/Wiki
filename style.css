@@ -1,0 +1,7 @@
+body {
+    direction: rtl;
+}
+
+p {
+    text-align: justify;
+}
