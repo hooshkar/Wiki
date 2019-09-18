@@ -1,7 +1,7 @@
 ---
 title: ایجاد چک باکس در مارک داون (Markdown)  
 author: محمد رضا کریمی  
-description: آموزش قواعد ایجاد چک باکس در مارک داون (Markdown)  
+description: در این بخش، ایجاد چک باکس در مارک داون را (Markdown) توضیح میدهیم. در مارک داون (Markdown) به این شکل  [ ]  چک باکس ایجاد میشود. و به این شکل [x]، چک باکس تیک خورده ایجاد میشود.
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
 uid: It/Markdown/CheckBoxes  
