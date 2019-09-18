@@ -13,6 +13,6 @@ uid: It/Github/MergePullRequest
 2. بر روی `Confirm merge` کلیک کنید.
 3. در نهایت برای حذف کردن branch بر روی `Delete branch` کلیک کنید.
 
-![merge pull request](./MergePullRequest/merge-button.png)
+![merge pull request](./Images/merge-button.png)
 
-![delete branch](./MergePullRequest/delete-button.png)
+![delete branch](./Images/delete-button.png)

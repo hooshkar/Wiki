@@ -16,11 +16,11 @@ Pull request ها، تفاوت و یا تفاوت های محتوا بر روی 
 
 مراحل | تصاویر
 ---- | ----
-بر روی تب pull request کلیک کنید، سپس در صفحه pull request بر روی گزینه سبز رنگ New pull request کلیک کنید. | ![باز کردن pull request](./OpenPullRequest/pr-tab.gif)
-در باکس Example Comparisons، برای مقایسه با `master branch` روی `readme-edits` کلیک کنید. | ![انتخاب branch](./OpenPullRequest/pick-branch.png)
-در صفحه مقایسه، به تغییرات و تفاوت ها دقت کنید و مطمئن شوید که آنها چیزی هستند که می خواهید ارسال کنید. | ![مقایسه تفاوت ها](./OpenPullRequest/diff.png)
-هنگامی که مطمئن شدید که این تغییراتی است که میخواهید ارسال کنید، بر روی دکمه سبز رنگ و بزرگ Create Pull Request کلیک کنید. | ![ارسال pull request](./OpenPullRequest/create-pr.png)
-برای pull request خود یک عنوان و یک توضیح مختصر در مورد تغییراتتان، بنویسید. | ![عنوان و توضیح pull request](./OpenPullRequest/pr-form.png)
+بر روی تب pull request کلیک کنید، سپس در صفحه pull request بر روی گزینه سبز رنگ New pull request کلیک کنید. | ![باز کردن pull request](./Images/pr-tab.gif)
+در باکس Example Comparisons، برای مقایسه با `master branch` روی `readme-edits` کلیک کنید. | ![انتخاب branch](./Images/pick-branch.png)
+در صفحه مقایسه، به تغییرات و تفاوت ها دقت کنید و مطمئن شوید که آنها چیزی هستند که می خواهید ارسال کنید. | ![مقایسه تفاوت ها](./Images/diff.png)
+هنگامی که مطمئن شدید که این تغییراتی است که میخواهید ارسال کنید، بر روی دکمه سبز رنگ و بزرگ Create Pull Request کلیک کنید. | ![ارسال pull request](./Images/create-pr.png)
+برای pull request خود یک عنوان و یک توضیح مختصر در مورد تغییراتتان، بنویسید. | ![عنوان و توضیح pull request](./Images/pr-form.png)
 
 
 هنگامی که پیام خود را نوشتید بر روی `Create pull request` کلیک کنید.

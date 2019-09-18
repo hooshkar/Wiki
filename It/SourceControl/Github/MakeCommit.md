@@ -18,6 +18,6 @@ uid: It/Github/MakeCommit
 4. یک پیام که تغییرات شما را توضیح میدهید، برای این commit بنویسید
 5. بر روی Commit changes کلیک کنید
 
-![ایجاد تغییر و Commit](./MakeCommit/commit.png)
+![ایجاد تغییر و Commit](./Images/commit.png)
 
 این تغییرات فقط روی فایل `README` بر روی `readme-edits branch` اعمال خواهد شد. اکنون این branch شامل محتوایی است که با `master branch` متفاوت است.

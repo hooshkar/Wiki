@@ -19,4 +19,4 @@ uid: It/Github/CreateRepository
 6. شما همچنین میتوانید با اضافه کردن لایسنس (license) به مخزن خود , دیگران را در استفاده از محتویات مخزن خود محدود کنید با انتخاب گزینه Add a license میتوانید یکی از لایسنس (license) های رایج را انتخاب کنید.
 7. برای ایجاد روی Create Repository کلیک کنید.
 
-![ایجاد repository](./CreateRepository/create-new-repo.png)
+![ایجاد repository](./Images/create-new-repo.png)
