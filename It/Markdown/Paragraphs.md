@@ -1,7 +1,7 @@
 ---
 title: Paragraphs در مارک داون (Markdown)  
 author: محمد رضا کریمی  
-description: آموزش قواعد ایجاد پاراگراف در مارک داون (Markdown)  
+description: ایجاد هر پاراگراف در مارک داون (Markdown) معادل ایجاد یک خط خالی (ٍEnter) است، توجه کنید که برای ایجاد پاراگراف جدید باید بین دو بلوک متن، یک خط خالی قرار دهید. 
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
 uid: It/Markdown/Paragraphs  
