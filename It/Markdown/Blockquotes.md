@@ -1,7 +1,7 @@
 ---
 title: Blockquotes در مارک داون (Markdown)  
 author: محمد رضا کریمی  
-description: آموزش قواعد ایجاد نقل قول در مارک داون (Markdown)  
+description: اگر شما لازم دارید که یک نقل قول از یک منبع دیگر را در متن خود بیان کنید، میتوانید از Blockquotes استفاده کنید. یک Blockquotes یک جمله و یا یک پاراگراف است که به طور خاص برای توجه خواننده طراحی شده است.
 dateModified: 2018/05/16  
 datePublished: 2018/05/16  
 uid: It/Markdown/Blockquotes  
