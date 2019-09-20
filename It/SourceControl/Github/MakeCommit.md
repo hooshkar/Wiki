@@ -4,7 +4,7 @@ author: محمد رضا کریمی
 description: در github، به ذخیره کردن تغییرات، Commit میگویند. هر commit شامل یک پیام است که توضیح میدهید چرا این تغییرات صورت گرفته است. دیگر همکاران شما با خواندن این پیام متوجه میشوند که شما چه کاری انجام داده اید. 
 dateModified: 2019/02/13  
 datePublished: 2019/02/13  
-uid: It/Github/MakeCommit  
+uid: It/SourceControl/Github/MakeCommit  
 ---
 
 اکنون میخواهیم روی `readme-edits branch` کار کنیم، این branch یک کپی از `master branch` است. میخواهیم تغییراتی روی آن ایجاد کنیم.
