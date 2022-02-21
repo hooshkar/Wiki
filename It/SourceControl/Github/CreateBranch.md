@@ -7,8 +7,8 @@ datePublished: 2019/02/13
 uid: It/SourceControl/Github/CreateBranch  
 ---
 
-Branching یک راه برای کار کردن روی ورژن های مختلف یک repository در یک زمان است.
-به صورت پیش فرض repository شما یک branch با نام master دارد که به عنوان branch اصلی در نظر گرفته میشود.
+Branching یک راه برای کار کردن روی ورژن های مختلف یک Repository در یک زمان است.
+به صورت پیش فرض Repository شما یک Branch با نام Master دارد که به عنوان Branch اصلی در نظر گرفته میشود.
 از branch ها برای آزمایش و ایجاد تغییرات قبل از commit کردن آن تغییرات روی master branch استفاده میشود.
 
 هنگامی که شما یک branch از روی master branch ایجاد میکنید در واقع یک کپی از master branch در  لحظه میسازید و همچنین  وقتی که شما روی branch خود کار میکنید و افراد دیگر روی master branch تغییراتی را ایجاد میکنند، شما میتوانید آن تغییرات را نیز دریافت کنید.
