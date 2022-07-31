@@ -2,9 +2,9 @@
 title:  حقوق و دستمزد چیست؟
 author: سمانه رشوند  
 description: مبلغی که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
-dateModified: 2022/07/19  
-datePublished: 2022/07/19 
-uid: Financial/Accounting/MultiLayeredAccounting  
+dateModified: 2022/07/31  
+datePublished: 2022/07/31 
+uid: Financial/Payroll/WhatIsPayroll  
 ---
 مبلغی که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
 
