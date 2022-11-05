@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: برنامه ریزی تولید، دنباله‌ای از مراحل است که تولیدکنندگان را قادر می‌سازد تا هوشمندانه کار کرده و روند تولید خود را به بهترین شکل ممکن بهینه نمایند.
 dateModified: 2022/11/05 
 datePublished: 2022/11/05
-uid: Software\Fennec\ProductionPlanning  
+uid: Software\Fennec\ProductionPlanning
 ---
 # برنامه ریزی
 
