@@ -1,7 +1,7 @@
 ---
 title: سیستم های تولیدی
 author: سمانه رشوند  
-description: 
+description: فیدبک + خروجی + پردازش + ورودی = سیستم تولید
 dateModified: 2022/11/05 
 datePublished: 2022/11/05
 uid: Software\Fennec\ProductionSystems  
@@ -78,7 +78,7 @@ uid: Software\Fennec\ProductionSystems
 *	هزینه
 
 **دسته بندی سازمانها (نوع فعالیت):**
-*	استراجی
+*	استراتژی
 *	ساخت و تولید
 *	خدمات
 
