@@ -1,7 +1,7 @@
 ---
 title: کانبان چیست؟
 author: سمانه رشوند  
-description: 
+description: کانبان یک سیستم ساده گردش مواد و اطلاعات است که برای حرکت مواد از یک ایستگاه کاری به سمت ایستگاه کاری دیگر مورد استفاده قرار می‌گیرد.
 dateModified: 2022/11/16 
 datePublished: 2022/11/19
 uid: Software\Fennec\WhatIsKanban
