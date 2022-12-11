@@ -6,7 +6,6 @@ dateModified: 2022/11/05
 datePublished: 2022/11/05
 uid: Software\Fennec\MRP
 ---
-# برنامه ریزی تامین مواد و قطعات
 
 #### برنامه ریزی احتیاجات مواد یا برنامه ریزی مواد مورد نیاز MRP (Material Requirement Planning): 
 
