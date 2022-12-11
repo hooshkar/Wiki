@@ -6,7 +6,6 @@ dateModified: 2022/11/05
 datePublished: 2022/11/05
 uid: Software\Fennec\ProductionSystems  
 ---
-# سیستم های تولیدی
 
 #### اجزای سیستم تولید
 فیدبک + خروجی + پردازش + ورودی = سیستم تولید
