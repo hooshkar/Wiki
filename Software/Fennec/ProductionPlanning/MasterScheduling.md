@@ -6,7 +6,6 @@ dateModified: 2022/11/05
 datePublished: 2022/11/05
 uid: Software\Fennec\MasterScheduling
 ---
-# زمان بندی اصلی
 
 #### برنامه ریزی ادغامی
 برنامه اصلی هر شرکت برای تولید محصول Aggregate Planning گفته می شود.
