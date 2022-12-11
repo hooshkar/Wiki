@@ -6,7 +6,6 @@ dateModified: 2022/07/31
 datePublished: 2022/07/31 
 uid: Financial/Payroll/PayrollFormula  
 ---
-# فرمول محاسبه حقوق و دستمزد
 
 #### محاسبه حقوق پایه:
 کارکرد ماه × 30 ÷ حقوق پایه در حکم
