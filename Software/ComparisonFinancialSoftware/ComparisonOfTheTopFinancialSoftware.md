@@ -2,7 +2,7 @@
 title:  مقایسه برترین نرم افزارهای مالی
 author: سمانه رشوند  
 description: 
-dateModified: 2022/07/31  
+dateModified: 2022/12/12  
 datePublished: 2022/07/31 
 uid: Financial/ComparisonFinancialSoftware/ComparisonOfTheTopFinancialSoftware  
 ---
