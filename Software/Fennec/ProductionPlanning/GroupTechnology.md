@@ -1,7 +1,7 @@
 ---
 title: تکنولوژی گروهی
 author: سمانه رشوند  
-description: تکنولوژی گروهی برخلاف تولید کارگاهی امکانات و تجهیزات تولیدی به گروه ها یا سلول های کوچکتری قابل تقسیم است.
+description: سیستم کارگاهی یا job shop کارگاه هایی هستند که ماشین آلات موازی رو در آن قرار می دهیم.
 dateModified: 2022/11/06 
 datePublished: 2022/11/06
 uid: Software\Fennec\GroupTechnology
