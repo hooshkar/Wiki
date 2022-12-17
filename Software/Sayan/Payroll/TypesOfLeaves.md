@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: آشنایی با انواع مرخصی در قانون کار
 dateModified: 2022/07/01  
 datePublished: 2022/07/01 
-uid: Financial/Payroll/TypesOfLeaves
+uid: Software/Sayan/Payroll/TypesOfLeaves
 ---
 
 1.	استحقاقی: 

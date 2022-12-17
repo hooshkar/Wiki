@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: کدینگ در معنای لغوی یعنی شماره گذاری که ترکیب آن با حسابداری یعنی حساب ها در حسابداری را کدگذاری نماییم، در یک تعریف ساده، یک نوع از دسته بندی حساب ها در حسابداری به شمار می رود.
 dateModified: 2022/07/19  
 datePublished: 2022/07/19 
-uid: Financial/Accounting/FinancialCoding  
+uid: Software/Sayan/Accounting/FinancialCoding  
 ---
 
 #### کدینگ حسابداری چیست؟
