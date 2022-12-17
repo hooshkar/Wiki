@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: آندون (هشدار دهنده) یکی از مهمترین ابزارهای مدیریت دیداری است، در واقع به کمک تابلوهای آندون می توان متوجه شد که کارها در چه مرحله ای قرار دارند.
 dateModified: 2022/11/20 
 datePublished: 2022/11/20
-uid: Software\Fennec\WhatIsAndon
+uid: Business\Andon\WhatIsAndon
 ---
 
 #### تفاوت تولید ناب و انبوه:

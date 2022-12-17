@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: برنامه ریزی تولید نقش بسزایی در برآورد تقاضای مشتریان، تهیه و تدارک مواد اولیه، کاهش هزینه های جاری و ثابت واحدهای تولیدی دارد. اما اکثر واحدهای تولیدی به دلیل مدیریت سنتی از ضعف برنامه ریزی تولید رنج می برند.
 dateModified: 2022/11/07
 datePublished: 2022/11/07
-uid: Software\Fennec\ProductionPlanningSeps
+uid: Business\ProductionPlanning\ProductionPlanningSeps
 ---
 #### گام های برنامه ریزی تولید
 

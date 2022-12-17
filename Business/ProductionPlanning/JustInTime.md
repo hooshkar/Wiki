@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: این سیستم دقیقا سیستم تولید MRP است. برنامه ریزی تولید بر مبنای داده هایی نظیر تقاضاهای پیش بینی شده، لیست مواد (Bill of Material)، زمان تدارک (Lead Time) و وضعیت موجودی صورت می گیرد.
 dateModified: 2022/11/12
 datePublished: 2022/11/12
-uid: Software\Fennec\JustInTime
+uid: Business\ProductionPlanning\JustInTime
 ---
 سیستم تولید Just in time در ایران بسیار محدود است. بخاطر برآورد کردن تقاضای احتمالی، در دسترس نبودن تامین کننده قطعی و نوسان نرخ ارز.
 

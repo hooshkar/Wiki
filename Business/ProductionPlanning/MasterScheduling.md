@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: زمان بندی اصلی پایه برنامه ریزی کوتاه مدت است که آن را به عنوان قلب برنامه ریزی تولید و کنترل موجودی می شناسند. کار اصلی آن ایجاد ارتباط بین برنامه ریزی میان مدت و کوتاه مدت می باشد.
 dateModified: 2022/11/05 
 datePublished: 2022/11/05
-uid: Software\Fennec\MasterScheduling
+uid: Business\ProductionPlanning\MasterScheduling
 ---
 
 #### برنامه ریزی ادغامی

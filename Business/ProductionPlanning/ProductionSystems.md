@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: فیدبک + خروجی + پردازش + ورودی = سیستم تولید
 dateModified: 2022/11/05 
 datePublished: 2022/11/05
-uid: Software\Fennec\ProductionSystems  
+uid: Business\ProductionPlanning\ProductionSystems  
 ---
 
 #### اجزای سیستم تولید

@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: کانبان و اسکرام هر دو از فریمورک های مدیریت پروژه هستند اما کدام یک کارآمدتر است؟
 dateModified: 2022/11/16 
 datePublished: 2022/11/19
-uid: Software\Fennec\KanbanVsScrum
+uid: Business\Kanban\KanbanVsScrum
 ---
 کانبان و اسکرام هر دو از فریمورک های مدیریت پروژه هستند اما کدام یک کارآمدتر است؟
 

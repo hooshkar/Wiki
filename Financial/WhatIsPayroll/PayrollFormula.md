@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
 dateModified: 2022/07/31  
 datePublished: 2022/07/31 
-uid: Software/Sayan/Payroll/PayrollFormula  
+uid: Financial/WhatIsPayroll/PayrollFormula  
 ---
 
 #### محاسبه حقوق پایه:

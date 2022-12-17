@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: امروز میخواهیم با موضوع جذاب مقایسه نرم افزارهای مالی در خدمتتون باشیم. آیا با قابلیت های یکی از آنها آشنا باشیم می توانیم با بقیه نرم افزارهای مالی هم کار کنیم؟
 dateModified: 2022/12/12  
 datePublished: 2022/07/31 
-uid: Financial/ComparisonFinancialSoftware/ComparisonOfTheTopFinancialSoftware  
+uid: Financial/ComparisonOfTheTopFinancialSoftware  
 ---
 امروز میخواهیم با موضوع جذاب مقایسه نرم افزارهای مالی در خدمتتون باشیم
 بارها این سوال پیش آمده که نرم افزارهای مالی باهمدیگر چه فرقی دارند؟
