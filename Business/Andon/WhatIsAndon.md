@@ -21,7 +21,7 @@ uid: Business\Andon\WhatIsAndon
 6.	اتلاف
 7.	KPI (شاخص کلیدی عملکرد)
 8.	[Takt Time](https://www.hooshkar.com/Wiki/Production/TaktTime)
-9.	Just-In-Time (تولید به هنگام) 
+9.	[Just-In-Time (تولید به هنگام)](https://www.hooshkar.com/Wiki/Production/JustInTime)
 10.	و...
 
 #### آندون (Andon) چیست؟
