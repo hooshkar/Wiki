@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: یعنی تعیین ترتیب یک کار بر روی یک ایستگاه کاری یا مراکز کاری مختلف
 dateModified: 2022/11/05 
 datePublished: 2022/11/05
-uid: Software\Fennec\SequenceOfOperations
+uid: Business\ProductionPlanning\SequenceOfOperations
 ---
 
 توالی عملیات و زمان بندی عملیات: یعنی تعیین ترتیب یک کار بر روی یک ایستگاه کاری یا مراکز کاری مختلف.
