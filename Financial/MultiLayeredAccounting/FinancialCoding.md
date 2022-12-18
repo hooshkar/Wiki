@@ -55,6 +55,8 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 
 #### سطوح مختلف کدینگ حسابداری
 
+![سطوح مختلف کدینگ حسابداری](./Images/CodingLevels.webp)
+
 * گروه حساب
 * سطح کل
 * سطح معین
