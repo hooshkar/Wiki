@@ -15,6 +15,7 @@ uid: Business\ProductionPlanning\ProductionSystems
 *	خروجی: در نهایت خروجی لازم میتونه کالاها و خدمات باشه.
 *	فیدبک: یکسری از تجربیات و دانش هایی هستند در جهت ارتقای کیفیت فرایند پردازش و ورودی ها که ما از خروجی استخراج کرده ایم
 
+![اجزای سیستم تولید](./Images/ProductionSystemComponents.webp)
 
 ### انواع سیستم های تولیدی
 
@@ -69,6 +70,8 @@ uid: Business\ProductionPlanning\ProductionSystems
 
 
 ### ایستگاه گلوگاه تولیدی:
+
+![ایستگاه گلوگاه تولیدی](./Images/Bottleneck.webp)
 
 ایستگاهی که بیشترین زمان در خط تولید و کندترین ایستگاه است
 
