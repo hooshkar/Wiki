@@ -15,6 +15,7 @@ uid: Business\ProductionPlanning\Planning
 * Scheduling: زمان بندی کردن
 * Controlling & Monitoring: کنترل و مانیتور کردن فرآیند اجرایی و انجام اقدامات لازم
 
+> ["مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن"](https://www.hooshkar.com/Wiki/Production/MasterScheduling)
 
 ## مراحل مختلف برنامه ریزی:
 
