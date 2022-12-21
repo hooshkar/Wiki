@@ -15,12 +15,12 @@ uid: Business\Andon\WhatIsAndon
 
 1.  آندون
 2.	5S
-3.	[کانبان](https://www.hooshkar.com/Wiki/Production/WhatIsKanban)
+3.	[کانبان](https://www.hooshkar.com/Wiki/Business/WhatIsKanban)
 4.	کایزن
 5.	تجزیه و تحلیل گلوگاه (Bottleneck Analysis)
 6.	اتلاف
 7.	KPI (شاخص کلیدی عملکرد)
-8.	[Takt Time](https://www.hooshkar.com/Wiki/Production/TaktTime)
+8.	[Takt Time](https://www.hooshkar.com/Wiki/Business/TaktTime)
 9.	[Just-In-Time (تولید به هنگام)](https://www.hooshkar.com/Wiki/Production/JustInTime)
 10.	و...
 
