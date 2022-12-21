@@ -52,3 +52,5 @@ uid: Business\ProductionPlanning\MasterScheduling
 *	ظرفیت انبارهای سازمان
 *	راندمان کاری
 *	زمان در دسترس (مهمترین و کلیدی ترین محدودیت)
+
+
