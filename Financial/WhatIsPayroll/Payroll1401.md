@@ -23,6 +23,6 @@ uid: Financial/WhatIsPayroll/Payroll1401
 
 > ["مطلب پیشنهادی: جزئیات متن قانون کار"](https://rc.majlis.ir/fa/law/show/99612)
 
-> ["مطلب پیشنهادی: نمونه ای از آیین نامه حقوق و دستمزد"](http://e30now.blogfa.com/post/101/%D8%A2%D8%A6%D9%8A%D9%86-%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D9%88-%D8%AF%D8%B3%D8%AA%D9%85%D8%B2%D8%AF)
+
 
 
