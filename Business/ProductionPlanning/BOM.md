@@ -9,7 +9,7 @@ uid: Business\ProductionPlanning\BOM
 
 ## درخت محصول چیست؟ (What is a bill of materials (BOM))
 
-![MRP](./Images/BillOfMaterial.webp)
+![BOM](./Images/BillOfMaterial.webp)
 
 ساختار محصول یا BOM، لیست اجزای مونتاژ یا دستور تولید (در فرایند صنایع تولید) نامیده می‌شود.  
 
