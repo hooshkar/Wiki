@@ -1,7 +1,7 @@
 ---
 title: Kubernetes چیست؟
 author: سمانه رشوند
-description: Kubernetes (کوبرنتیز) یا به اختصار"K8s"، یک پلتفرم مدیریت کانتینری است که توسط Google توسعه داده شده است 
+description: کوبرنتیز (Kubernetes) یا به اختصار"K8s"، یک پلتفرم مدیریت کانتینری است که توسط Google توسعه داده شده است 
 dateModified: 2023/04/13  
 datePublished: 2023/04/13   
 uid: It/WhatIsKubernetes
