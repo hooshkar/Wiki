@@ -1,8 +1,8 @@
 ---
-title: تفاوت ERP و حسابداری
+title: تفاوت ERP با حسابداری چیست؟
 author: سمانه رشوند  
 description: نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
-dateModified: 2022/11/27 
+dateModified: 2023/04/29 
 datePublished: 2022/11/27
 uid: Business\ErpVsAccounting\ErpVsAccounting
 ---
