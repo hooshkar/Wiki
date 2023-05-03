@@ -96,9 +96,9 @@ uid: Business\WhatIsBpmn
 
 بنابراین، استفاده از BPMN در نرم‌افزارهای ERP به بهبود عملکرد، کیفیت و کارآیی فرآیندهای کسب و کار کمک می‌کند.
 
-![Business Process Management System](./Images/BPMS.webp)
-
 ## تفاوت BPMN و BPMS:
+
+![Business Process Management System](./Images/BPMS.webp)
 
 مفهوم BPMN مخفف "Business Process Model and Notation" است و یک زبان ترسیمی برای نمایش فرایندهای کسب و کار به صورت گرافیکی و قابل فهم است. BPMN برای تحلیل، مستندسازی و بهبود فرآیندهای کسب و کار در سازمان‌ها استفاده می‌شود و این امکان را به شما می‌دهد تا فرآیندهای کاری را به صورت بصری و با استفاده از سمبل‌های گرافیکی نشان دهید.
 
