@@ -50,7 +50,7 @@ uid: Business\WhatIsBpmn
 
 ![BPM (Business Process Management)](./Images/BPM.webp)
 
-> ["مطلب پیشنهادی: نرم‌افزار BPMS چیست؟"](https://www.hooshkar.com/Wiki/Business/WhatIsBpms)
+> [مطلب پیشنهادی: نرم‌افزار BPMS چیست؟](https://www.hooshkar.com/Wiki/Business/WhatIsBpms)
 
 ## هدف مدلسازی مدیریت فرآیند کسب و کار چیست؟
 هدف اصلی مدلسازی فرآیند کسب و کار، بهبود و بهینه‌سازی فرایندهای کسب و کار است. با مدل‌سازی فرایندها، می‌توان بهترین روش‌های اجرای فرآیندها را شناسایی کرده و برای بهبود و بهینه‌سازی آن‌ها از روش‌هایی مانند استانداردسازی و اتوماسیون استفاده کرد.
