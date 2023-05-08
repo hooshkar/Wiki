@@ -2,7 +2,7 @@
 title: سیستم تولید به هنگام (Just in time)
 author: سمانه رشوند  
 description: این سیستم دقیقا سیستم تولید MRP است. برنامه ریزی تولید بر مبنای داده هایی نظیر تقاضاهای پیش بینی شده، لیست مواد (Bill of Material)، زمان تدارک (Lead Time) و وضعیت موجودی صورت می گیرد.
-dateModified: 2022/11/12
+dateModified: 2023/05/08
 datePublished: 2022/11/12
 uid: Business\ProductionPlanning\JustInTime
 ---
@@ -134,7 +134,7 @@ uid: Business\ProductionPlanning\JustInTime
     *	اطلاعات مربوط به تولید قطعات
 *	این ایده بر آن است که همه اجزای مورد نیاز باید به موقع و به تعداد معین شده تولید و تحویل گردند.
 
-> ["مطلب پیشنهادی: کانبان چیست؟ تفاوت های کانبان و اسکرام"](https://www.hooshkar.com/Wiki/Business/WhatIsKanban)
+> [مطلب پیشنهادی: کانبان چیست؟ تفاوت های کانبان و اسکرام](https://www.hooshkar.com/Wiki/Business/WhatIsKanban)
 
 #### تابلو آندون (Andon):
 
@@ -142,7 +142,7 @@ uid: Business\ProductionPlanning\JustInTime
 
 یک وسیله اطلاع رسانی بسیار سریع که در آن اطلاعات کلی از وضعیت تولید کنونی و مقادیر هدف برای زمان تولید، مقدار تولید و... نمایش داده می شود.
 
-> ["مطلب پیشنهادی: آندون چیست؟"](https://www.hooshkar.com/Wiki/Business/WhatIsAndon)
+> [مطلب پیشنهادی: آندون چیست؟](https://www.hooshkar.com/Wiki/Business/WhatIsAndon)
 
 #### زمان تکت (Takt Time):
 
@@ -150,4 +150,4 @@ uid: Business\ProductionPlanning\JustInTime
 
 مدت زمانی که (به ثانیه) برای فرآوری هر واحد از محصول مورد تقاضا صرف می شود. برای بدست آوردن زمان تکت، تعداد محصول مورد نیاز از نظر تولید تقسیم بر زمان در دسترس برای آن روز می شود.
 
-> ["مطلب پیشنهادی: اهمیت استفاده از تکت تایم"](https://www.hooshkar.com/Wiki/Business/TaktTime)
+> [مطلب پیشنهادی: اهمیت استفاده از تکت تایم](https://www.hooshkar.com/Wiki/Business/TaktTime)

@@ -1,8 +1,8 @@
 ---
-title: محاسبه حقوق و دستمزد و فرمولهای آن
+title: فرمولهای حقوق و محاسبه حقوق و دستمزد
 author: سمانه رشوند  
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2023/02/15  
+dateModified: 2023/05/08  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/PayrollFormula  
 ---
@@ -41,4 +41,4 @@ _فرمول حقوق و دستمزد شیفت کاری 14 الی 22 شب_
 ## فرمول محاسبه کسر کار ماه:
 کسر کار ماه × (2 × 220   ÷ حقوق پایه در حکم)
 
-> ["مطلب پیشنهادی: انواع مرخصی در قانون کار"](https://www.hooshkar.com/Wiki/Payroll/TypesOfLeaves)
+> [مطلب پیشنهادی: انواع مرخصی در قانون کار](https://www.hooshkar.com/Wiki/Payroll/TypesOfLeaves)

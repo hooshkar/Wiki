@@ -13,15 +13,16 @@ uid: Business\Andon\WhatIsAndon
 
 #### برخی از مهمترین ابزارهای تولید ناب:
 
+
 1.  آندون
-2.	5S
+2.	[فایو اس (5S)](https://www.hooshkar.com/Wiki/Business/5S)
 3.	[کانبان](https://www.hooshkar.com/Wiki/Business/WhatIsKanban)
 4.	کایزن
 5.	تجزیه و تحلیل گلوگاه (Bottleneck Analysis)
 6.	اتلاف
-7.	KPI (شاخص کلیدی عملکرد)
-8.	[Takt Time](https://www.hooshkar.com/Wiki/Business/TaktTime)
-9.	[Just-In-Time (تولید به هنگام)](https://www.hooshkar.com/Wiki/Production/JustInTime)
+7.	شاخص کلیدی عملکرد (KPI)
+8.	[زمان تکت (Takt Time)](https://www.hooshkar.com/Wiki/Business/TaktTime)
+9.	[تولید به هنگام (Just-In-Time)](https://www.hooshkar.com/Wiki/Production/JustInTime)
 10.	و...
 
 #### آندون (Andon) چیست؟

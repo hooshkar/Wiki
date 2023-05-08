@@ -2,7 +2,7 @@
 title: برنامه ریزی چیست؟
 author: سمانه رشوند  
 description: برنامه ریزی، دنباله‌ای از مراحل است که تولیدکنندگان را قادر می‌سازد تا هوشمندانه کار کرده و روند تولید خود را به بهترین شکل ممکن بهینه نمایند.
-dateModified: 2023/02/14 
+dateModified: 2023/05/08 
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\Planning
 ---
@@ -15,7 +15,7 @@ uid: Business\ProductionPlanning\Planning
 * Scheduling: زمان بندی کردن
 * Controlling & Monitoring: کنترل و مانیتور کردن فرآیند اجرایی و انجام اقدامات لازم
 
-> ["مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن"](https://www.hooshkar.com/Wiki/Production/MasterScheduling)
+> [مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن](https://www.hooshkar.com/Wiki/Production/MasterScheduling)
 
 ## مراحل مختلف برنامه ریزی:
 
@@ -71,3 +71,4 @@ uid: Business\ProductionPlanning\Planning
 *	ایجاد یک بانک اطلاعاتی مناسب
 
 
+> [مطلب پیشنهادی: برنامه ریزی تولید](https://www.hooshkar.com/Wiki/Production/ProductionPlanning)

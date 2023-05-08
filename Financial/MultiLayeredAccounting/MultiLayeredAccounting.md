@@ -2,7 +2,7 @@
 title:  حسابداری چند لایه چیست؟
 author: سمانه رشوند  
 description: حسابداری چند لایه به شما کمک می کند تا در عین حال که اصول حسابداری مثل اصل تفکیک حسابها را رعایت کرده اید با در نظر گرفتن ماهیت حسابها امکان این را داشته باشید تا گردش حسابهای مختلف را در لایه های متعدد برچسب گذاری نمایید.
-dateModified: 2022/07/19  
+dateModified: 2023/05/08  
 datePublished: 2022/07/19 
 uid: Financial/MultiLayeredAccounting/MultiLayeredAccounting  
 ---

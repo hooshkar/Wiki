@@ -2,7 +2,7 @@
 title: برنامه‌ریزی منابع سازمانی (ERP) چیست؟
 author: سمانه رشوند  
 description: سیستم ERP جهت یکپارچه و هماهنگ نمودن تمامی قسمت های یک سازمان در راستای بهبود عملکرد یک سازمان می باشد.
-dateModified: 2022/12/04 
+dateModified: 202/05/08 
 datePublished: 2022/12/04
 uid: Business\ErpVsAccounting\WhatIsErp
 ---
@@ -29,6 +29,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 5.	سامانه ای یکپارچه و آنلاین که اطلاعات را بدون نیاز به بروزرسانی دوره ای نگهداری می کند.
 6.	سامانه ای که از یک دیتابیس مشترک برای داده ها استفاده می کند و در قابلیت دسترسی در تمام بخش های سازمان را دارد.
 
+> [مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟](https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations)
 
 ### چرا باید از سیستم ERP در سازمان ها استفاده کنیم؟
 
