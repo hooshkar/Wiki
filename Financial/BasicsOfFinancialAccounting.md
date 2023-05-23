@@ -2,7 +2,7 @@
 title: مبانی حسابداری مالی (اهمیت، ابزارها و نکات کلیدی)
 author: سمانه رشوند  
 description: مبانی حسابداری مالی یکی از مفاهیم اساسی در علم حسابداری است که به بررسی روش‌های ثبت و تجزیه و تحلیل اطلاعات مالی یک شرکت می‌پردازد. 
-dateModified: 2023/03/07
+dateModified: 2023/05/23
 datePublished: 2023/03/01
 uid: Financial\BasicsOfFinancialAccounting
 ---
