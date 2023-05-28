@@ -10,10 +10,10 @@ uid: Business\ProductionPlanning\Planning
 برنامه ریزی در واقع تنظیم کننده هدف ها و مقاصد سازمانی بوده که می تواند دارای بازه زمانی (کوتاه مدت، میان مدت و بلند مدت) باشد. تعیین محور زمانی در برنامه ریزی بسته به حجم تولید و سهم بازار هر سازمانی متفاوت خواهد بود.
 بعنوان یه کارشناس برنامه ریزی باید تفاوت بین Planning, Programming, Scheduling و Controlling & Monitoring را بدانید.
 
-* Planning: برنامه ریزی کردن
-* Programming: برنامه نویسی کردن
-* Scheduling: زمان بندی کردن
-* Controlling & Monitoring: کنترل و مانیتور کردن فرآیند اجرایی و انجام اقدامات لازم
+* برنامه ریزی کردن: Planning
+* برنامه نویسی کردن: Programming
+* زمان بندی کردن: Scheduling
+* کنترل و مانیتور کردن فرآیند اجرایی و انجام اقدامات لازم: Controlling & Monitoring
 
 > [مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن](https://www.hooshkar.com/Wiki/Production/MasterScheduling)
 
