@@ -7,8 +7,6 @@ datePublished: 2022/11/05
 uid: Business\ProductionPlanning\MRP
 ---
 
-## برنامه ریزی احتیاجات مواد یا برنامه ریزی مواد مورد نیاز MRP (Material Requirement Planning): 
-
 پایه زمان بندی برای تولید یا خرید قطعات یا زیر مونتاژهای محصول است که براساس MPS و یکسری ورودی ها مثل Lead Time، وضعیت موجودی ها، ساختار محصول (BOM) و سایر سیاست های سفارش دهی به منظور تامین کردن ریز مونتاژهای محصول انجام می شود.
 
 > [مطلب پیشنهادی: درخت محصول چیست؟ (What is a bill of materials (BOM))](https://www.hooshkar.com/Wiki/Production/BOM)
