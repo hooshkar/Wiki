@@ -28,7 +28,7 @@ I think you should use an
 I think you should use an
 `code here` element here instead
 
-هرچیزی که داخل دو علامت بک تیک (`) قرار دهید به همان شکل نشان داده میشوند.
+هرچیزی که داخل دو علامت بک تیک (`) قرار دهید به همان شکل نشان داده می شوند.
 
 ## بلاک کد
 
