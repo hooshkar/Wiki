@@ -9,12 +9,12 @@ uid: It/Markdown/Links
 
 **راهنمای مطالب**
 
-- [Inline Link](#inline-link)
-- [Reference Link](#reference-link)
+- [کد درون خطی (Inline Code)](#کد-درون-خطی-inline-code)
+- [لینک مرجع (Reference Link)](#لینک-مرجع-reference-link)
 
 در این بخش از مارک داون با نحوه لینک دادن به وب سایت‌های دیگر آشنا میشویم. در مارک داون (Markdown) دو نوع لینک دادن وجود دارد، اما هر دو نوع به یک شکل دیده میشود.
 
-## Inline Link
+## کد درون خطی (Inline Code)
 
 اولین نوع لینک دادن، Inline Link نام دارد. برای ایجاد این نوع لینک متن لینک را در `[]`، و آدرس را در `()` قرار میدهیم.
 
@@ -54,7 +54,7 @@ uid: It/Markdown/Links
 
 ### وب سایت شرکت  [هوشکار](https://www.hooshkar.com)
 
-## Reference Link
+## لینک مرجع (Reference Link)
 
 نوع دیگر لینک‌ها در مارک داون (Markdown) Reference Link است، رفرنس لینک به این صورت است که برای آدرس یک نام مشخص میشود و بجای استفاده از آدرس از نام آن استفاده میشود. و اگر بخواهیم آدرس تغییر کند لازم نیست کل لینک‌ها را تغییر دهیم. برای استفاده از رفرنس لینک ابتدا باید برای آن آدرس یک اسم مشخص کنید و بعد از اسم آن استفاده کنید. بهتر است که رفرنس لینک‌ها را در ابتدا و یا انتهای فایل md تعریف کنید.
 
@@ -84,5 +84,5 @@ uid: It/Markdown/Links
 [hoshkar][hooshkar]
 
 
-[Inline Link]: #inline-link
-[Reference Link]: #reference-link
+[کد درون خطی (Inline Code)]: #کد-درون-خطی-inline-code
+[لینک مرجع (Reference Link)]: #لینک-مرجع-reference-link

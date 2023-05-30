@@ -9,11 +9,11 @@ uid: It/Markdown/CodeWriting
 
 **راهنمای مطالب**
 
-- [Inline Code](#inline-code)
+- [کد درون خطی (Inline Code)](#کد-درون-خطی-inline-code)
 - [بلاک کد](#بلاک-کد)
 - [نمایش کد به صورت رنگی](#نمایش-کد-به-صورت-رنگی)
 
-## Inline Code
+## کد درون خطی (Inline Code)
 برای نمایش متن و یا بهتر است بگوییم نمایش کد، کافیست آن قطعه کد را بین دو علامت بک‌‌ تیک (`) قرار دهید.که به این نوع نمایش کد، Inline Code می‌گویند.
 
 مثال:
@@ -74,6 +74,6 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-[Inline Code]: #inline-code
+[کد درون خطی (Inline Code)]: #کد-درون-خطی-inline-code
 [بلاک کد]: #بلاک-کد
 [نمایش کد به صورت رنگی]: #نمایش-کد-به-صورت-رنگی

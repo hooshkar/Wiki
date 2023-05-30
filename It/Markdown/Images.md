@@ -8,14 +8,14 @@ uid: It/Markdown/Images
 ---
 **راهنمای مطالب**
 
-- [Inline Iamge](#inline-iamge)
-- [Reference Image](#reference-image)
+- [تصویر درون خطی (Inline Iamge)](#تصویر-درون-خطی-inline-iamge)
+- [تصویر مرجع (Reference Image)](#تصویر-مرجع-reference-image)
 
 اگر شما مرحله قبل یعنی قرار دادن لینک در مارک داون (Markdown) را یاد گرفته باشید، شما میتوانید عکس هم قرار دهید. نحوه قراردادن عکس بسیار شبیه لینک است.
 
 در مارک داون (Markdown) مانند لینک دو نوع عکس وجود دارد، و هر دو نوع به یک شکل دیده میشود. تنها تفاوت لینک و عکس در این است که عکس با علامت تعجب آغاز میشود.
 
-## Inline Iamge
+## تصویر درون خطی (Inline Iamge)
 
 اولین نوع قرار دادن عکس در مارک داون (Markdown) Inline Iamge نام دارد.
 
@@ -34,7 +34,7 @@ uid: It/Markdown/Images
 ```
 ![لوگو یاراد](./Images/mistake-address.png)
 ```
-## Reference Image
+## تصویر مرجع (Reference Image)
 
 نوع دیگر قرار دادن عکس در مارک داون (Markdown)`Reference Image` نام دارد. این نوع مانند رفرنس لینک است. رفرنس عکس‌ها را تعریف میکنیم و به جای آدرس از آن استفاده میکنیم.
 
@@ -59,5 +59,5 @@ uid: It/Markdown/Images
 ![لوگو یاراد][logo yarad]
 
 
-[Inline Iamge]: #inline-iamge
-[Reference Image]: #reference-image
+[تصویر درون خطی (Inline Iamge)]: #تصویر-درون-خطی-inline-iamge
+[تصویر مرجع (Reference Image)]: #تصویر-مرجع-reference-image
