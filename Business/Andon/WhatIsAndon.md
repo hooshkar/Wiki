@@ -9,7 +9,7 @@ uid: Business\Andon\WhatIsAndon
 **راهنمای مطالب**
 - [تفاوت تولید ناب و انبوه](#تفاوت-تولید-ناب-و-انبوه)
     - [برخی از مهمترین ابزارهای تولید ناب](#برخی-از-مهمترین-ابزارهای-تولید-ناب)
-- [آندون (Andon) چیست؟](#آندون-andon-چیست؟)
+- [آندون چیست؟](#آندون-چیست؟)
 
 
 ## تفاوت تولید ناب و انبوه
@@ -30,7 +30,7 @@ uid: Business\Andon\WhatIsAndon
 9.	[تولید به هنگام (Just-In-Time)](https://www.hooshkar.com/Wiki/Production/JustInTime)
 10.	و...
 
-## آندون (Andon) چیست؟
+## آندون چیست؟
 
 ![آندون (Andon)](./Images/Andon.webp)
 
