@@ -6,6 +6,7 @@ dateModified: 2023/05/31
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\MRP
 ---
+
 **راهنمای مطالب**
 - [مقدمه](#مقدمه)
 - [اهداف سیستم برنامه ریزی مواد](#اهداف-سیستم-برنامه-ریزی-مواد)
