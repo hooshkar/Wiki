@@ -22,8 +22,6 @@ uid: Business\WhatIsBpmn
 - [مزایای استفاده از BPMN در نرم افزارهای ERP](#مزایای-استفاده-از-bpmn-در-نرم-افزارهای-erp)
 - [تفاوت BPMN و BPMS](#تفاوت-bpmn-و-bpms)
 
-
-
 ## مقدمه
 به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
 
