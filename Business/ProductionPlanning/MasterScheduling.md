@@ -15,9 +15,6 @@ uid: Business\ProductionPlanning\MasterScheduling
 - [برنامه ریزی ظرفیت سر انگشتی RCCP (Rough Cut Capacity Planning)](#برنامه-ریزی-ظرفیت-سر-انگشتی-rccp-rough-cut-capacity-planning)
 
 
-
-
-
 ## برنامه ریزی ادغامی
 برنامه اصلی هر شرکت برای تولید محصول Aggregate Planning گفته می شود.
 در برنامه ریزی ادغامی (Aggregate Planning) به ازای هر یک از محصولات یک برنامه تولید میان مدت بصورت ماهیانه ایجاد می شود.
