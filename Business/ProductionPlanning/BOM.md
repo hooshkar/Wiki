@@ -2,7 +2,7 @@
 title: درخت محصول چیست؟ (What is a bill of materials)
 author: سمانه رشوند  
 description: ساختار محصول یا BOM، لیست اجزای مونتاژ یا دستور تولید (در فرایند صنایع تولید) نامیده می‌شود
-dateModified: 2023/05/08 
+dateModified: 2023/05/31
 datePublished: 2023/02/14
 uid: Business\ProductionPlanning\BOM
 ---
