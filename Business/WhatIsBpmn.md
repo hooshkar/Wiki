@@ -1,5 +1,5 @@
 ---
-title: BPMN (Business Process Model and Notation) چیست؟
+title: BPMN یا مدلسازی فرآیند کسب و کار چیست ؟ تفاوت آن با BPM
 author: سمانه رشوند
 description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
 dateModified: 2023/05/31
