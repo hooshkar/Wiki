@@ -34,9 +34,9 @@ uid: Business\WhatIsMps
 
 **7.	بسته‌بندی و تحویل:** کالا یا خدمات بسته‌بندی و آماده تحویل به مشتری می‌شود.
 
-> [مطلب پیشنهادی: برنامه ریزی](https://www.hooshkar.com/Wiki/Production/Planning){:target="_blank"}
+> [مطلب پیشنهادی: برنامه ریزی](https://www.hooshkar.com/Wiki/Production/Planning)
 
-<a href="https://www.hooshkar.com/Wiki/Production/Planning" target="_blank">مطلب پیشنهادی: برنامه ریزی</a>
+<!-- <a href="https://www.hooshkar.com/Wiki/Production/Planning" target="_blank">مطلب پیشنهادی: برنامه ریزی</a> -->
 
 ## مزایای سربرنامه تولید
 
