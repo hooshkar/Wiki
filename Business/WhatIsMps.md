@@ -36,6 +36,8 @@ uid: Business\WhatIsMps
 
 > [مطلب پیشنهادی: برنامه ریزی](https://www.hooshkar.com/Wiki/Production/Planning)
 
+[لینک در صفحه جدید باز می‌شود](https://www.hooshkar.com/Wiki/Production/Planning){:target="_blank"}
+
 <!-- <a href="https://www.hooshkar.com/Wiki/Production/Planning" target="_blank">مطلب پیشنهادی: برنامه ریزی</a> -->
 
 ## مزایای سربرنامه تولید
