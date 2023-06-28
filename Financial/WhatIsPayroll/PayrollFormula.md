@@ -16,6 +16,10 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 - [فرمول محاسبه کسر کار ماه](#فرمول-محاسبه-کسر-کار-ماه)
 
 
+> [مطلب پیشنهادی: پایه حقوق 1402](https://www.hooshkar.com/Wiki/Payroll/Payroll1402)
+
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حقوق و دستمزد سایان](https://www.hooshkar.com/Software/Sayan/Module/Payroll)
+
 ### محاسبه حقوق پایه
 کارکرد ماه × 30 ÷ حقوق پایه در حکم
 

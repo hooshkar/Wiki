@@ -1,5 +1,5 @@
 ---
-title: تفاوت و شباهت (ERP و MRP)
+title: تفاوت و شباهت ERP و MRP
 author: سمانه رشوند  
 description: سیستم‌های ERP امروزی در واقع شکل توسعه یافته MRPII هستند. بنابراین درک تفاوت‌های موجود در این دو سیستم در بکارگیری آنها اهمیت ویژه‌ای دارد.
 dateModified: 2023/05/31 
@@ -18,6 +18,9 @@ uid: Business\ErpVsMrp\ErpVsMrp
 
 > [مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟](https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations)
 
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک](https://www.hooshkar.com/Software/Fennec)
+
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان](https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning)
 ## تفاوت ERP و MRP
 
 کاربرد MRP برنامه ریزی می‌باشد که خود در درون سیستم ERP قرار گرفته است. در واقع ERP یک سیستم یکپارچه و جامع جهت مدیریت حجم بالایی از اطلاعات در سازمان‌ها است. کاربرد ERP جهت توسعه و نظارت و حتی تکامل بر روی برنامه‌هایی است که در بخش MRP اجرا شده‌اند.
