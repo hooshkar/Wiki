@@ -13,6 +13,13 @@ uid: Business\ErpVsAccounting\ErpVsAccounting
     - [2. یکپارچه سازی](#2-یکپارچه-سازی)
     - [3. برنامه ریزی برای تولید](#3-برنامه-ریزی-برای-تولید)
 
+
+> [مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟](https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations)
+
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک](https://www.hooshkar.com/Software/Fennec)
+
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری سایان](https://www.hooshkar.com/Software/Sayan/Module/Accounting)
+
 ## مقدمه
 نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، [حقوق و دستمزد](https://www.hooshkar.com/Software/Sayan/Module/Payroll)، [CRM (مدیریت ارتباط با مشتری)](https://www.hooshkar.com/Wiki/Business/WhatIsCrm)  ، برنامه ریزی تولید، اجرای سفارشات، صورتحساب ها و… می باشد.
 

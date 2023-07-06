@@ -28,6 +28,9 @@ uid: Business\ProductionPlanning\JustInTime
 
 ![سیستم تولید به هنگام (Just in time)](./Images/JustInTime.webp)
 
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان](https://www.hooshkar.com/Software/Sayan/Package/Industrial)
+
+
 ## سیستم برنامه ریزی و کنترل تولید فشاری Push SYS
 
 تا اینجا با MRP آشنا شدید، در این مقاله MRP1 (Material Requirement Planning) را شرح دادیم و MRP2 (Money Requirement Planning) یکسری برنامه ریزی های تامین مالی و پولی می باشد. علاوه بر اینکه برآورد و برنامه ای را ایجاد می کند جهت تولیدات مختلف، روند تولید و برنامه ریزی پولی و مالی نیز کاربرد دارد. 

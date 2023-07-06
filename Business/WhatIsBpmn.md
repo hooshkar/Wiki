@@ -25,6 +25,9 @@ uid: Business\WhatIsBpmn
 ## مقدمه
 به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
 
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار مدیریت فرایند (BPMS)](https://www.hooshkar.com/Software/Fennec/Module/BPMS)
+
+
 ## تاریخچه BPMN
 
 استاندارد BPMN در سال ۲۰۰6 توسط یک گروه کاری به نام Object Management Group (OMG) پذیرفته شد. [OMG](https://www.omg.org/) یک سازمان بین‌المللی است که در زمینه توسعه استانداردهای صنعتی و فناوری اطلاعات فعالیت می‌کند.

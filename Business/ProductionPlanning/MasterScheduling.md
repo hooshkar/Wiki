@@ -14,6 +14,8 @@ uid: Business\ProductionPlanning\MasterScheduling
     - [سیاست های تولیدی در زمان بندی اصلی](#سیاست-های-تولیدی-در-زمان-بندی-اصلی)
 - [برنامه ریزی ظرفیت سر انگشتی RCCP (Rough Cut Capacity Planning)](#برنامه-ریزی-ظرفیت-سر-انگشتی-rccp-rough-cut-capacity-planning)
 
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان](https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning)
+
 
 ## برنامه ریزی ادغامی
 برنامه اصلی هر شرکت برای تولید محصول Aggregate Planning گفته می شود.

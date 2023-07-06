@@ -23,6 +23,9 @@ uid: Business\ProductionPlanning\Planning
 
 > [مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن](https://www.hooshkar.com/Wiki/Production/MasterScheduling)
 
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان](https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning)
+
+
 ## مراحل مختلف برنامه ریزی
 
 در راستای افزایش قدرت رقابت پذیری، هر سازمان باید مراحل مختلف برنامه ریزی را به صورت سلسه مراتبی انجام دهد.

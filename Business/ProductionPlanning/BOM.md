@@ -7,6 +7,9 @@ datePublished: 2023/02/14
 uid: Business\ProductionPlanning\BOM
 ---
 
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان](https://www.hooshkar.com/Software/Sayan/Package/Industrial)
+
+
 ![BOM](./Images/BillOfMaterial.webp)
 
 ساختار محصول یا BOM، لیست اجزای مونتاژ یا دستور تولید (در فرایند صنایع تولید) نامیده می‌شود.  

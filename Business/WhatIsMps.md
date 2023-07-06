@@ -16,6 +16,11 @@ uid: Business\WhatIsMps
 ## مقدمه
 سربرنامه تولید (MPS) یک ابزار مهم در مدیریت تولید و پروژه‌های صنعتی است که به تیم‌های تولید کمک می‌کند تا به طور مؤثر و کارآمد برای تولید کالا یا خدمات پیش بینی شده، برنامه ریزی و کنترل داشته باشند. در این سند، به برنامه ریزی مراحل تولید از شروع تا تحویل کالا یا خدمات پرداخته خواهد شد.
 
+> [مطلب پیشنهادی: برنامه ریزی تولید چیست؟](https://www.hooshkar.com/Wiki/Production/ProductionPlanning)
+
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان](https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning)
+
+
 ![سربرنامه تولید (MPS)](./Images/MPS-01.webp)
 
 ## مراحل سربرنامه تولید
@@ -34,11 +39,10 @@ uid: Business\WhatIsMps
 
 **7.	بسته‌بندی و تحویل:** کالا یا خدمات بسته‌بندی و آماده تحویل به مشتری می‌شود.
 
-> [مطلب پیشنهادی: برنامه ریزی](https://www.hooshkar.com/Wiki/Production/Planning)
 
-[لینک در صفحه جدید باز می‌شود](https://www.hooshkar.com/Wiki/Production/Planning){:target="_blank"}
+<!--[لینک در صفحه جدید باز می‌شود](https://www.hooshkar.com/Wiki/Production/Planning){:target="_blank"} -->
 
-<!-- <a href="https://www.hooshkar.com/Wiki/Production/Planning" target="_blank">مطلب پیشنهادی: برنامه ریزی</a> -->
+ <!-- <a href="https://www.hooshkar.com/Wiki/Production/Planning" target="_blank">مطلب پیشنهادی: برنامه ریزی</a> -->
 
 ## مزایای سربرنامه تولید
 

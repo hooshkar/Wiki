@@ -21,6 +21,8 @@ uid: Business\ErpVsAccounting\WhatIsErp
 
 > [مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟](https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations)
 
+> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک](https://www.hooshkar.com/Software/Fennec)
+
 
 ## حداقل ویژگی های سامانه های ERP
 
