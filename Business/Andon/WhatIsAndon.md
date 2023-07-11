@@ -11,7 +11,11 @@ uid: Business\Andon\WhatIsAndon
     - [برخی از مهمترین ابزارهای تولید ناب](#برخی-از-مهمترین-ابزارهای-تولید-ناب)
 - [آندون چیست](#آندون-چیست)
 
+<!--
 > [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان](https://www.hooshkar.com/Software/Sayan/Package/Industrial)
+-->
+
+<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان</a>
 
 ## تفاوت تولید ناب و انبوه
 
