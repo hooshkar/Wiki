@@ -15,7 +15,7 @@ uid: Business\Andon\WhatIsAndon
 > [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان](https://www.hooshkar.com/Software/Sayan/Package/Industrial)
 -->
 
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان</a>
+<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات نرم افزار تولیدی سایان</a>
 
 ## تفاوت تولید ناب و انبوه
 
@@ -51,6 +51,7 @@ uid: Business\Andon\WhatIsAndon
 
 هرچند تولید محصول ناب بسیار زمان بر و هزینه بر است، اما اگر با سیستم آندون پیش برویم می توانید هزینه های توسعه، تغییر و نگهداری بعد از تولید را به حداقل برسانید. 
 
+<a href="https://www.hooshkar.com/Software/Sayan" target="_blank">جهت اطلاع از امکانات و قیمت محصولات سایان با ما تماس بگیرید</a>
 
 [تفاوت تولید ناب و انبوه]: #تفاوت-تولید-ناب-و-انبوه
 [برخی از مهمترین ابزارهای تولید ناب]: #برخی-از-مهمترین-ابزارهای-تولید-ناب
