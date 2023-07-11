@@ -13,23 +13,39 @@ uid: Business\ErpVsAccounting\ErpVsAccounting
     - [2. یکپارچه سازی](#2-یکپارچه-سازی)
     - [3. برنامه ریزی برای تولید](#3-برنامه-ریزی-برای-تولید)
 
-
+<!-- 
 > [مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟](https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations)
 
 > [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک](https://www.hooshkar.com/Software/Fennec)
 
 > [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری سایان](https://www.hooshkar.com/Software/Sayan/Module/Accounting)
+-->
+
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟</a>
+</blockquote>
 
 ## مقدمه
 نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، [حقوق و دستمزد](https://www.hooshkar.com/Software/Sayan/Module/Payroll)، [CRM (مدیریت ارتباط با مشتری)](https://www.hooshkar.com/Wiki/Business/WhatIsCrm)  ، برنامه ریزی تولید، اجرای سفارشات، صورتحساب ها و… می باشد.
 
  سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP فنک</a> 
+</blockquote>
+
 به کمک نرم افزارهای حسابداری می توان تمام امور مالی (گردش مالی، چک، مالیات، ترازنامه و...) یک کسب و کار را مدیریت کرد. جهت ارائه تصویری روشن از عملکرد و وضعیت جاری شرکت بایستی در انتخاب نرم افزار حسابداری بیشترین دقت را بکار گرفت؛ اما نرم افزارهای حسابداری به تنهایی قابلیت برنامه ریزی و پیش بینی آینده سازمان را ندارند. چراکه نرم افزارهای حسابداری تنها برای کسب و کارهای کوچک، مناسب بوده و نیازهای آنها را می تواند تامین نماید. 
 
 هرچه سازمانی بزرگتر شود جهت یکپارچه سازی و مدیریت جامع تر در راستای عملکرد بهتر نیازمند استفاده از سیستم های ERP می باشد.
 
+<!-- 
 > [مطلب پیشنهادی: حسابداری چیست؟](https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting)
+-->
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting" target="_blank">مطلب پیشنهادی: حسابداری چیست؟</a> 
+</blockquote>
 
 ## تفاوت ERP و حسابداری
 
