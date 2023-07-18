@@ -11,22 +11,28 @@ uid: Business\ErpVsMrp\ErpVsMrp
 - [تفاوت ERP و MRP](#تفاوت-erp-و-mrp)
 - [شباهت های بین ERP و MRP در چیست](#شباهت-های-بین-erp-و-mrp-در-چیست)
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟</a>
+</blockquote>
+
 ## مقدمه
 سیستم‌های ERP امروزی در واقع شکل توسعه یافته MRPII هستند. این دو سیستم در سازمان‌‌ها به جهت توسعه و بهبود عملکرد سازمانی مورد استفاده قرار می‌گیرند و عملکرد منابع سازمانی را مدیریت و کنترل می‌کنند. بنابراین درک تفاوت‌های موجود در این دو سیستم در بکارگیری آنها اهمیت ویژه‌ای دارد.
 
 ![تفاوت و شباهت (ERP و MRP)](./Images/ErpVsMrp.webp)
 
-> [مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟](https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک</a>
+</blockquote>
 
-> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک](https://www.hooshkar.com/Software/Fennec)
-
-> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان](https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning)
 ## تفاوت ERP و MRP
 
 کاربرد MRP برنامه ریزی می‌باشد که خود در درون سیستم ERP قرار گرفته است. در واقع ERP یک سیستم یکپارچه و جامع جهت مدیریت حجم بالایی از اطلاعات در سازمان‌ها است. کاربرد ERP جهت توسعه و نظارت و حتی تکامل بر روی برنامه‌هایی است که در بخش MRP اجرا شده‌اند.
 
 تمرکز MRP بیشتر بر روی مشتری هدف خود است در صورتی که ERP به سمت دامنه وسیعی تری از کسب و کارهای مشتری حرکت می‌‌کند. MRP دارای مزایایی برای تولید کنندگانی است که دارای کسب و کار کوچکی هستند و تقاضای انها را با در نظر گرفتن مقدار و چشم انداز زمانی لحاظ نماید اما ERP می تواند حتی سازندگان محصول و یا هر نوع کسب و کاری را شامل شود و با الزامات تقاضا یا درخواست‌ها شروع می‌شود نه فقط فروش محصولات و یا پیش بینی‌ها.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان</a>
+</blockquote>
 
 ## شباهت های بین ERP و MRP در چیست
 
