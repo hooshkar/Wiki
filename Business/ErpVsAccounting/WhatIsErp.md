@@ -12,9 +12,6 @@ uid: Business\ErpVsAccounting\WhatIsErp
 - [انواع برنامه ریزی](#انواع-برنامه-ریزی)
 - [چرا باید از سیستم ERP در سازمان ها استفاده کنیم](#چرا-باید-از-سیستم-erp-در-سازمان-ها-استفاده-کنیم)
 
-<a href="https://www.hooshkar.com/Wiki/Business/WhatIsCrm" target="_blank">CRM</a> 
-
-
 ## مقدمه
 به مجموعه ای از فعالیت های متنوعی که به جهت بهبود عملکرد یک سازمان انجام می شود ERP گویند. 
 
@@ -22,9 +19,9 @@ uid: Business\ErpVsAccounting\WhatIsErp
 
 هرچه سازمانی گسترده تر شود برنامه ریزی و مدیریت آن سخت تر خواهد شد اینجاست که اهمیت نرم افزارهای ERP مشخص می گردد.
 
-> [مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟](https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations)
-
-> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک](https://www.hooshkar.com/Software/Fennec)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟</a>
+</blockquote>
 
 
 ## حداقل ویژگی های سامانه های ERP
@@ -35,6 +32,10 @@ uid: Business\ErpVsAccounting\WhatIsErp
 4.	سامانه ای یکپارچه که بدون نیاز به نرم افزارهای مختلف پاسخگوی تقاضای دو بخش مختلف سازمان باشد.
 5.	سامانه ای یکپارچه و آنلاین که اطلاعات را بدون نیاز به بروزرسانی دوره ای نگهداری می کند.
 6.	سامانه ای که از یک دیتابیس مشترک برای داده ها استفاده می کند و در قابلیت دسترسی در تمام بخش های سازمان را دارد.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک</a>
+</blockquote>
 
 ## انواع برنامه ریزی
 

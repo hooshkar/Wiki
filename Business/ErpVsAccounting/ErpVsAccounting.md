@@ -26,8 +26,9 @@ uid: Business\ErpVsAccounting\ErpVsAccounting
 <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟</a>
 </blockquote>
 
+
 ## مقدمه
-نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، [حقوق و دستمزد](https://www.hooshkar.com/Software/Sayan/Module/Payroll)، [CRM (مدیریت ارتباط با مشتری)](https://www.hooshkar.com/Wiki/Business/WhatIsCrm)  ، برنامه ریزی تولید، اجرای سفارشات، صورتحساب ها و… می باشد.
+نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">حقوق و دستمزد</a>، <a href="https://www.hooshkar.com/Wiki/Business/WhatIsCrm" target="_blank">CRM (مدیریت ارتباط با مشتری)</a>، برنامه ریزی تولید، اجرای سفارشات، صورتحساب ها و… می باشد.
 
  سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
 
