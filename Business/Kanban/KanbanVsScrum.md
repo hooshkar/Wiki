@@ -12,10 +12,9 @@ uid: Business\Kanban\KanbanVsScrum
 - [تفاوت در زمان بندی و برنامه ریزی](#تفاوت-در-زمان-بندی-و-برنامه-ریزی)
 - [تفاوت در معیارها و ارزش ها](#تفاوت-در-معیارها-و-ارزش-ها)
 
-> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان](https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning)
 
 ## مقدمه
-کانبان و اسکرام هر دو از فریمورک‌های مدیریت پروژه هستند اما کدام یک کارآمدتر است؟
+<a href="https://www.hooshkar.com/Wiki/Business/WhatIsKanban" target="_blank">کانبان</a> و اسکرام هر دو از فریمورک‌های مدیریت پروژه هستند اما کدام یک کارآمدتر است؟
 
 ![تفاوت کانبان و اسکرام](./Images/KanbanVsScrum.webp)
 
@@ -28,6 +27,9 @@ uid: Business\Kanban\KanbanVsScrum
 
 4.	در روش اسکرام، امکان تغییر تسک‌‌ها در میانه اسپرینت مجاز نیست، اما روش کانبان نسبت به تغییر برنامه کاملا منعطف عمل می‌کند.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان</a>
+</blockquote>
 
 ## تفاوت در معیارها و ارزش ها
 
