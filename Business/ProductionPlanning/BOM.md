@@ -28,6 +28,7 @@ uid: Business\ProductionPlanning\BOM
 
 هدف رشته صنایع اینست که بهینه سازی انجام دهد. بعنوان کارشناس برنامه ریزی تولید بایستی توانایی بهینه سازی را داشته باشید. اگر قصد دارید بعنوان یک کارشناس برنامه ریزی حرفه‌ای فعالیت نمایید باید بر روی برنامه‌های لینگو (Lingo) یا گمز (GAMS) تخصص لازم را به دست آورید.
 
-
-> [مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن](https://www.hooshkar.com/Wiki/Production/MasterScheduling)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Production/MasterScheduling" target="_blank">مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن</a>
+</blockquote>
 
