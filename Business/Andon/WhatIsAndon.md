@@ -15,27 +15,26 @@ uid: Business\Andon\WhatIsAndon
 > [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان](https://www.hooshkar.com/Software/Sayan/Package/Industrial)
 -->
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار تولیدی سایان</a>
-</blockquote>
-
-
 ## تفاوت تولید ناب و انبوه
 
 تولید انبوه (Mass Production) که توسط هنری فورد و با توجه به شرایط بازار خود معرفی شد روشی جهت ساخت و ارائه محصولات در مقیاس بسیار وسیع بود، در حالی که تولید ناب (Lean production) توسط Taiichi Ohno در سالهای پایانی جنگ جهانی دوم مطرح شد بر به حداقل رساندن ضایعات تولید در کنار حفظ کیفیت تولید اشاره داشت.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار تولیدی سایان</a>
+</blockquote>
 
 ### برخی از مهمترین ابزارهای تولید ناب
 
 
 1.  آندون
-2.	[فایو اس (5S)](https://www.hooshkar.com/Wiki/Business/5S)
-3.	[کانبان](https://www.hooshkar.com/Wiki/Business/WhatIsKanban)
+2.	<a href="https://www.hooshkar.com/Wiki/Business/5S" target="_blank">فایو اس (5S)</a>
+3.	<a href="https://www.hooshkar.com/Wiki/Business/WhatIsKanban" target="_blank">کانبان</a>
 4.	کایزن
 5.	تجزیه و تحلیل گلوگاه (Bottleneck Analysis)
 6.	اتلاف
 7.	شاخص کلیدی عملکرد (KPI)
-8.	[زمان تکت (Takt Time)](https://www.hooshkar.com/Wiki/Business/TaktTime)
-9.	[تولید به هنگام (Just-In-Time)](https://www.hooshkar.com/Wiki/Production/JustInTime)
+8.  <a href="https://www.hooshkar.com/Wiki/Business/TaktTime" target="_blank">زمان تکت (Takt Time)</a>
+9.	<a href="https://www.hooshkar.com/Wiki/Production/JustInTime" target="_blank">تولید به هنگام (Just-In-Time)</a>
 10.	و...
 
 ## آندون چیست
