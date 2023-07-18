@@ -12,6 +12,9 @@ uid: Business\ErpVsAccounting\WhatIsErp
 - [انواع برنامه ریزی](#انواع-برنامه-ریزی)
 - [چرا باید از سیستم ERP در سازمان ها استفاده کنیم](#چرا-باید-از-سیستم-erp-در-سازمان-ها-استفاده-کنیم)
 
+<a href="https://www.hooshkar.com/Wiki/Business/WhatIsCrm" target="_blank">CRM</a> 
+
+
 ## مقدمه
 به مجموعه ای از فعالیت های متنوعی که به جهت بهبود عملکرد یک سازمان انجام می شود ERP گویند. 
 
