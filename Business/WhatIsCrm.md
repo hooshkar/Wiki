@@ -13,10 +13,12 @@ uid: Business\WhatIsCrm
 
 
 ## مقدمه
-مدیریت ارتباط با مشتری CRM مخفف عبارت "Customer Relationship Management" است و به یک سیستم مدیریتی اشاره دارد که برای مدیریت ارتباط با مشتریان در یک سازمان به جهت بهبود روابط تجاری استفاده می‌شود. CRM برای ساده سازی فرایند پیگیری و مدیریت ارتباط با مشتریان از تماس‌های تلفنی، ایمیل‌ها، جلسات، فرم‌های ورودی و دیگر کانال‌های ارتباطی استفاده می‌کند.
+مدیریت ارتباط با مشتری <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">CRM
+</a> مخفف عبارت "Customer Relationship Management" است و به یک سیستم مدیریتی اشاره دارد که برای مدیریت ارتباط با مشتریان در یک سازمان به جهت بهبود روابط تجاری استفاده می‌شود. CRM برای ساده سازی فرایند پیگیری و مدیریت ارتباط با مشتریان از تماس‌های تلفنی، ایمیل‌ها، جلسات، فرم‌های ورودی و دیگر کانال‌های ارتباطی استفاده می‌کند.
 
-> [مطلب پیشنهادی:  تفاوت CRM و ERP چیست؟](https://www.hooshkar.com/Wiki/Business/CrmAndErpDifferences)
-
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Business/CrmAndErpDifferences" target="_blank">مطلب پیشنهادی: تفاوت CRM و  ERP چیست؟
+</a></blockquote>
 
 ![مدیریت ارتباط با مشتری (CRM) چیست؟](./Images/CRM.webp)
 

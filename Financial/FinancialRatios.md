@@ -27,7 +27,8 @@ uid: Financial\FinancialRatios
 
 **• نسبت سود ناخالص به فروش:** این نسبت، نشان دهنده درصد سود ناخالص (سود قبل از کسر هزینه‌های مالی و مالیاتی) بر فروش است. این نسبت نشان دهنده سوددهی واقعی شرکت به دلیل آنکه تمامی هزینه‌های مالی و مالیاتی کسر شده‌اند است.
 
-> [مطلب پیشنهادی: تحلیلی بر برنامه ریزی مالی، راهی سریع برای بهبود وضعیت مالی](https://www.hooshkar.com/Wiki/Financial/FinancialManagementSolution)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Financial/FinancialManagementSolution" target="_blank">مطلب پیشنهادی: تحلیلی بر برنامه ریزی مالی، راهی سریع برای بهبود وضعیت مالی</a></blockquote>
 
 ## 2- نسبت های بدهی
 
@@ -45,7 +46,8 @@ uid: Financial\FinancialRatios
 
 **•	نسبت پوشش بهره:** این نسبت، نشان دهنده توانایی شرکت در پرداخت بهره‌های خود به بانک‌ها و سرمایه‌گذاران است. این نسبت نشان می‌دهد که شرکت چقدر توانایی دارد تا بهره‌های خود را پرداخت کند.
 
-> [مطلب پیشنهادی: مبانی حسابداری مالی](https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">مطلب پیشنهادی: مبانی حسابداری مالی</a></blockquote>
 
 ### نتیجه گیری
 نسبت‌های مالی برای مدیران، سرمایه‌گذاران و بورس بسیار مهم هستند. با استفاده از این نسبت‌ها، این افراد می‌توانند وضعیت مالی شرکت را بررسی کنند و تصمیمات خوبی در خصوص سرمایه‌گذاری در آن بگیرند. اما در عین حال، باید توجه داشت که هر شرکت و هر صنعتی خصوصیات خود را دارد و بهتر است که نسبت‌های مالی برای هر شرکت به طور جداگانه بررسی شود و تنها به صورت یک عامل در تصمیم گیری‌ها در نظر گرفته نشود.

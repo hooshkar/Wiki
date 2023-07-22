@@ -44,7 +44,7 @@ uid: Business\ProductionPlanning\ProductionSystems
 **4. فیدبک:** یکسری از تجربیات و دانش هایی هستند در جهت ارتقای کیفیت فرایند پردازش و ورودی ها که ما از خروجی استخراج کرده ایم
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار تولیدی سایان
+<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حسابداری تولیدی سایان
 </a></blockquote>
 
 
@@ -63,6 +63,9 @@ uid: Business\ProductionPlanning\ProductionSystems
 ### 5. زنجیری
 تعداد محصولات و ماشین آلات بسیار می باشد که اولین گام در آن طراحی و بکارگیری جداول شدت ترافیک است، اما طراحی سیستم حمل و نقل بسیار ساده است.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">مطلب پیشنهادی: برنامه ریزی تولید چیست؟
+</a></blockquote>
 
 ## تعریف یکسری مفاهیم کاربردی
 
@@ -106,6 +109,9 @@ uid: Business\ProductionPlanning\ProductionSystems
 **4. سیاست ها و استراتژی های افزایش ظرفیت:**
     سیاست راهبری و دنباله روی
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Production/GroupTechnology" target="_blank">مطلب پیشنهادی: تکنولوژی گروهی چیست؟
+</a></blockquote>
 
 ## ایستگاه گلوگاه تولیدی
 
