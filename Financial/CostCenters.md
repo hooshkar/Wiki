@@ -24,6 +24,10 @@ uid: Financial\CostCenters
 
 **5. سنجش عملکرد:** با تعیین مراکز هزینه و محاسبه هزینه‌های مربوط به هر مرکز، می‌توان عملکرد هر مرکز را با سایر مراکز مقایسه کرد و از این طریق به بهبود عملکرد و بالا بردن کیفیت کار شرکت دست یافت.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار تولیدی سایان
+</a></blockquote>
+
 ![مراکز هزینه در شرکت‌های تولیدی](./Images/CostCenter.webp)
 
 ## مراکز هزینه در شرکت های تولیدی

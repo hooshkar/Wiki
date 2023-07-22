@@ -43,7 +43,9 @@ uid: Business\ProductionPlanning\ProductionSystems
 
 **4. فیدبک:** یکسری از تجربیات و دانش هایی هستند در جهت ارتقای کیفیت فرایند پردازش و ورودی ها که ما از خروجی استخراج کرده ایم
 
-> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان](https://www.hooshkar.com/Software/Sayan/Package/Industrial)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار تولیدی سایان
+</a></blockquote>
 
 
 ![اجزای سیستم تولید](./Images/ProductionSystemComponents.webp)

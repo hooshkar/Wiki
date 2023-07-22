@@ -21,7 +21,7 @@ uid: Business\Kanban\WhatIsKanban
 سیستم کانبان از روش عرضه کالاهای سوپر مارکتها الگو برداری شده است بدین صورت که سوپر مارکت‌ها موظفند زنجیره تامین را با تقاضای مشتری هماهنگ نمایند و این مشتری‌ها نیستند که باید نگران خالی شدن قفسه‌ها باشند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید فنک</a>
+<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک</a>
 </blockquote>
 
 کانبان نشان می‌‌دهد چه محصولی، در چه زمانی و به چه مقدار باید تولید شود. کانبان یک سیستم ساده گردش مواد و اطلاعات است که برای حرکت مواد از یک ایستگاه کاری به سمت ایستگاه کاری دیگر مورد استفاده قرار می‌گیرد.
@@ -47,6 +47,10 @@ uid: Business\Kanban\WhatIsKanban
 3.	کاهش اتلاف منابع زمانی و مالی
 4.	جریان تحویل محصولات و خدمات به مشتری را نظم و بهبود می‌‌بخشد
 5.	افزایش سرعت و دقت در فرایند کار به جهت کاهش زمان چرخه
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Business/KanbanVsScrum" target="_blank">مطلب پیشنهادی:  تفاوت کانبان و اسکرام</a>
+</blockquote>
 
 ### معایب کانبان
 

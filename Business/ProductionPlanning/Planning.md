@@ -21,10 +21,8 @@ uid: Business\ProductionPlanning\Planning
 * زمان بندی کردن: Scheduling
 * کنترل و مانیتور کردن فرآیند اجرایی و انجام اقدامات لازم: Controlling & Monitoring
 
-> [مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن](https://www.hooshkar.com/Wiki/Production/MasterScheduling)
-
-> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید سایان](https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning)
-
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Production/MasterScheduling" target="_blank">مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن</a></blockquote>
 
 ## مراحل مختلف برنامه ریزی
 
@@ -66,6 +64,9 @@ uid: Business\ProductionPlanning\Planning
 
 **6. چشم انداز:** بیان آرمان ها و ارزشهای سازمان
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید
+</a></blockquote>
 
 ## برنامه ریزی تولید
 برنامه ریزی تولید فرآیند تصمیم گیری در خصوص منابعی است که سازمان برای عملیات تولید آینده خود به آنها نیاز دارد در آن از تخصیص منابع، فعالیت های کارمندان، مواد و ظرفیت تولید به منظور رفع نیازهای مشتریان گوناگون استفاده می شود.

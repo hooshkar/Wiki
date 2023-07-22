@@ -21,7 +21,7 @@ uid: Business\ErpVsMrp\ErpVsMrp
 ![تفاوت و شباهت (ERP و MRP)](./Images/ErpVsMrp.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار ERP فنک</a>
+<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار ERP فنک</a>
 </blockquote>
 
 ## تفاوت ERP و MRP
@@ -31,7 +31,7 @@ uid: Business\ErpVsMrp\ErpVsMrp
 تمرکز MRP بیشتر بر روی مشتری هدف خود است در صورتی که ERP به سمت دامنه وسیعی تری از کسب و کارهای مشتری حرکت می‌‌کند. MRP دارای مزایایی برای تولید کنندگانی است که دارای کسب و کار کوچکی هستند و تقاضای انها را با در نظر گرفتن مقدار و چشم انداز زمانی لحاظ نماید اما ERP می تواند حتی سازندگان محصول و یا هر نوع کسب و کاری را شامل شود و با الزامات تقاضا یا درخواست‌ها شروع می‌شود نه فقط فروش محصولات و یا پیش بینی‌ها.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار برنامه ریزی تولید فنک</a>
+<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک</a>
 </blockquote>
 
 ## شباهت های بین ERP و MRP در چیست

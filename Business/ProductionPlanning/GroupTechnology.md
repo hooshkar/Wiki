@@ -25,7 +25,7 @@ uid: Business\ProductionPlanning\GroupTechnology
 کارایی این روش در مواجهه با حجم کم تولید یا مشابهت کم فرایندها کاهش می‌یابد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حسابداری تولیدی سایان</a>
+<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حسابداری تولیدی سایان</a>
 </blockquote>
 
 ![MRP](./Images/JobShop.webp)
