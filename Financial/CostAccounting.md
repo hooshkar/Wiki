@@ -2,7 +2,7 @@
 title: حسابداری صنعتی چیست؟
 author: سمانه رشوند
 description: حسابداری صنعتی یک شاخه از حسابداری محسوب می شود که به محاسبه بهای تمام شده محصولات و کنترل هزینه های تولید می‌پردازد.
-dateModified: 2023/07/18
+dateModified: 2023/08/07
 datePublished: 2023/07/18
 uid: Financial\CostAccounting
 ---

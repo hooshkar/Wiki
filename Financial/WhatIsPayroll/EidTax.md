@@ -2,7 +2,7 @@
 title: محاسبه عیدی و مالیات عیدی
 author: سمانه رشوند  
 description: فردی که یک سال گذشته در واحد اقتصادی مشغول بوده باشد در پایان سال مبلغی معادل دو برابر حقوق پایه ماهیانه خود به عنوان عیدی دریافت خواهد کرد.
-dateModified: 2023/05/30
+dateModified: 2023/08/07
 datePublished: 2023/02/19
 uid: Financial/WhatIsPayroll/EidTax
 ---

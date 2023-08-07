@@ -2,7 +2,7 @@
 title: فرمول محاسبه حقوق و دستمزد
 author: سمانه رشوند  
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2023/05/30  
+dateModified: 2023/08/07  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/PayrollFormula  
 ---

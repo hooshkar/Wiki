@@ -2,7 +2,7 @@
 title: پایه حقوق وزارت کار 1401؛ میزان افزایش و جدول پایه حقوق اداره کار
 author: سمانه رشوند  
 description: حداقل پایه حقوق وزارت کار در سال ۱۴۰۱ ماهانه ۴ میلیون و ۱۷۹ هزار و ۷۵۰ تومان تعیین شده است. 
-dateModified: 2023/05/08  
+dateModified: 2023/08/07
 datePublished: 2023/02/13 
 uid: Financial/WhatIsPayroll/Payroll1401
 ---

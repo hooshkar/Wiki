@@ -2,7 +2,7 @@
 title: مقایسه بهترین نرم افزار های حسابداری
 author: سمانه رشوند  
 description: امروز میخواهیم با موضوع جذاب مقایسه بهترین نرم افزارهای حسابداری در خدمتتون باشیم. آیا با قابلیت های یکی از آنها آشنا باشیم می توانیم با بقیه نرم افزارهای حسابداری هم کار کنیم؟
-dateModified: 2023/07/24  
+dateModified: 2023/08/07  
 datePublished: 2022/07/31 
 uid: Financial/ComparisonOfTheTopFinancialSoftware  
 ---

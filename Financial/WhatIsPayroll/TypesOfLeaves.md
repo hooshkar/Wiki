@@ -2,7 +2,7 @@
 title: انواع مرخصی در قانون کار
 author: سمانه رشوند  
 description: آشنایی با انواع مرخصی در قانون کار
-dateModified: 2023/05/30  
+dateModified: 2023/08/07 
 datePublished: 2022/07/01 
 uid: Financial/WhatIsPayroll/TypesOfLeaves
 ---
