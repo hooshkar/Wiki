@@ -2,7 +2,7 @@
 title: ارسال صورت حساب الکترونیکی تا 31 شهریور تمدید شد
 author: سمانه رشوند  
 description: تمدید مهلت ارسال صورتحساب الکترونیکی تا پایان شهریور 1402
-dateModified: 2023/07/22
+dateModified: 2023/04/23
 datePublished: 2023/07/22
 uid: Financial\TaxPayersSystemUpdate
 ---

@@ -9,4 +9,4 @@ uid: It/SourceControl/Github/References
 
 برخی از منابع این آموزش:
 
-* [https://github.com](https://github.com/)
+* <a href="https://github.com/" target="_blank">https://github.com</a>

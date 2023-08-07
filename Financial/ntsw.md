@@ -2,7 +2,7 @@
 title: سامانه جامع تجارت ایران (ntsw.ir)
 author: سمانه رشوند  
 description: در این مقاله هدف از اجرای سامانه جامع تجارت، اجزای موثر و مزایای آن مورد بررسی قرار می گیرد.
-dateModified: 2023/05/30
+dateModified: 2023/07/23
 datePublished: 2022/12/14
 uid: Financial\ntsw
 ---
