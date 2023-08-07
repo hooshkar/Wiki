@@ -16,9 +16,9 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 - [فرمول محاسبه کسر کار ماه](#فرمول-محاسبه-کسر-کار-ماه)
 
 
-> [مطلب پیشنهادی: پایه حقوق 1402](https://www.hooshkar.com/Wiki/Payroll/Payroll1402)
-
-> [مطلب پیشنهادی: بررسی قابلیت ها و قیمت نرم افزار حقوق و دستمزد سایان](https://www.hooshkar.com/Software/Sayan/Module/Payroll)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">مطلب پیشنهادی: پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
+</a></blockquote>
 
 ## محاسبه حقوق پایه
 کارکرد ماه × 30 ÷ حقوق پایه در حکم
@@ -54,7 +54,9 @@ _فرمول حقوق و دستمزد شیفت کاری 14 الی 22 شب_
 ## فرمول محاسبه کسر کار ماه
 کسر کار ماه × (2 × 220   ÷ حقوق پایه در حکم)
 
-> [مطلب پیشنهادی: انواع مرخصی در قانون کار](https://www.hooshkar.com/Wiki/Payroll/TypesOfLeaves)
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">مطلب پیشنهادی: جزئیات متن قانون کار
+</a></blockquote>
 
 
 [محاسبه حقوق پایه]: #محاسبه-حقوق-پایه
