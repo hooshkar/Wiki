@@ -8,7 +8,7 @@ uid: Financial/WhatIsPayroll/Payroll1401
 ---
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">مطلب پیشنهادی: پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
+<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">مطلب پیشنهادی: پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
 </a></blockquote>
 
 ## حداقل حقوق سال 1401
