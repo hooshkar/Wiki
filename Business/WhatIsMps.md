@@ -46,10 +46,6 @@ uid: Business\WhatIsMps
 <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک
 </a></blockquote>
 
-<!--[لینک در صفحه جدید باز می‌شود](https://www.hooshkar.com/Wiki/Production/Planning){:target="_blank"} -->
-
- <!-- <a href="https://www.hooshkar.com/Wiki/Production/Planning" target="_blank">مطلب پیشنهادی: برنامه ریزی</a> -->
-
 ## مزایای سربرنامه تولید
 
 *	بهبود برنامه ریزی و کنترل تولید

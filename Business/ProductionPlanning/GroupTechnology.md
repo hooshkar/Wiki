@@ -2,7 +2,7 @@
 title: تکنولوژی گروهی چیست؟
 author: سمانه رشوند  
 description: سیستم کارگاهی یا job shop کارگاه‌هایی هستند که ماشین آلات موازی رو در آن قرار می‌دهیم.
-dateModified: 2023/05/31
+dateModified: 2023/08/08
 datePublished: 2022/11/06
 uid: Business\ProductionPlanning\GroupTechnology
 ---
