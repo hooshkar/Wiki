@@ -2,7 +2,7 @@
 title: تفاوت CRM و ERP چیست؟
 author: سمانه رشوند
 description: CRM برای بهبود ارتباط با مشتریان و بهبود تجربه مشتریان طراحی شده است، در حالیکه ERP برای بهبود فرایندهای داخلی شرکت و بهبود بهره‌وری آن طراحی شده است.
-dateModified: 2023/08/08
+dateModified: 2023/08/09
 datePublished: 2023/04/29
 uid: Business\CrmAndErpDifferences
 ---
