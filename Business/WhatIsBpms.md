@@ -13,6 +13,7 @@ uid: Business\WhatIsBpms
 
 
 ## تعریف نرم افزار BPMS
+
 <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار BPMS
 </a> یکی از ابزارهای مدیریت فرایند کسب و کار است که به شما کمک می‌کند تا فرایندهای سازمان خود را از طریق اتوماسیون و بهینه‌سازی بهبود ببخشید.
 
