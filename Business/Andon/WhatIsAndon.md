@@ -2,7 +2,7 @@
 title: آندون چیست؟
 author: سمانه رشوند  
 description: آندون (هشدار دهنده) یکی از مهمترین ابزارهای مدیریت دیداری است، در واقع به کمک تابلوهای آندون می توان متوجه شد که کارها در چه مرحله ای قرار دارند.
-dateModified: 2023/08/09 
+dateModified: 2023/08/13 
 datePublished: 2022/11/20
 uid: Business\Andon\WhatIsAndon
 ---
@@ -16,7 +16,7 @@ uid: Business\Andon\WhatIsAndon
 تولید انبوه (Mass Production) که توسط هنری فورد و با توجه به شرایط بازار خود معرفی شد روشی جهت ساخت و ارائه محصولات در مقیاس بسیار وسیع بود، در حالی که تولید ناب (Lean production) توسط Taiichi Ohno در سالهای پایانی جنگ جهانی دوم مطرح شد بر به حداقل رساندن ضایعات تولید در کنار حفظ کیفیت تولید اشاره داشت.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار تولیدی سایان</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات نرم افزار تولیدی سایان</a>
 </blockquote>
 
 ### برخی از مهمترین ابزارهای تولید ناب

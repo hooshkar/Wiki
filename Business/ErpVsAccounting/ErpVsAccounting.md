@@ -2,7 +2,7 @@
 title: تفاوت ERP با حسابداری چیست؟
 author: سمانه رشوند  
 description: نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
-dateModified: 2023/08/09 
+dateModified: 2023/08/13 
 datePublished: 2022/11/27
 uid: Business\ErpVsAccounting\ErpVsAccounting
 ---
@@ -14,7 +14,7 @@ uid: Business\ErpVsAccounting\ErpVsAccounting
     - [3. برنامه ریزی برای تولید](#3-برنامه-ریزی-برای-تولید)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">نقش ERP در سازمان ها چیست؟</a>
 </blockquote>
 
 
@@ -24,7 +24,7 @@ uid: Business\ErpVsAccounting\ErpVsAccounting
  سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار ERP فنک</a> 
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP فِنِک</a> 
 </blockquote>
 
 به کمک نرم افزارهای حسابداری می توان تمام امور مالی (گردش مالی، چک، مالیات، ترازنامه و...) یک کسب و کار را مدیریت کرد. جهت ارائه تصویری روشن از عملکرد و وضعیت جاری شرکت بایستی در انتخاب نرم افزار حسابداری بیشترین دقت را بکار گرفت؛ 
@@ -38,7 +38,7 @@ uid: Business\ErpVsAccounting\ErpVsAccounting
 -->
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting" target="_blank">مطلب پیشنهادی: حسابداری چیست؟</a> 
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting" target="_blank">حسابداری چیست؟</a> 
 </blockquote>
 
 ## تفاوت ERP و حسابداری

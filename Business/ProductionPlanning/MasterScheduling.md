@@ -2,7 +2,7 @@
 title: زمان بندی اصلی تولید [MPS] چیست؟
 author: سمانه رشوند  
 description: زمان بندی اصلی پایه برنامه ریزی کوتاه مدت است که آن را به عنوان قلب برنامه ریزی تولید و کنترل موجودی می شناسند. کار اصلی آن ایجاد ارتباط بین برنامه ریزی میان مدت و کوتاه مدت می باشد.
-dateModified: 2023/08/09
+dateModified: 2023/08/13
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\MasterScheduling
 ---
@@ -24,7 +24,7 @@ uid: Business\ProductionPlanning\MasterScheduling
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## زمان بندی اصلی چیست
 برنامه زمان بندی اصلی (Master Scheduling) محور فعالیت های شرکت در زمینه مهندسی، خرید، ساخت، فروش و امور مالی می باشد. 
@@ -52,7 +52,7 @@ uid: Business\ProductionPlanning\MasterScheduling
 3.	مقدار قابل قول دادن (Available to Promise): مقداری از موجودیست که تعهدی برای آن وجود ندارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">مطلب پیشنهادی: اتصال ترازو و باسکول به نرم افزار حسابداری سایان</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">اتصال ترازو و باسکول به نرم افزار حسابداری سایان</a></blockquote>
 
 ### سیاست های تولیدی در زمان بندی اصلی
 *   **سیاست بهر به بهر (LfL):** تولید تا زمان رفع تقاضا یا رسیدن به نقطه اطمینان انجام می شود.

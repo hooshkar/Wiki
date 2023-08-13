@@ -2,7 +2,7 @@
 title: آشنایی با تجزیه و تحلیل صورتهای مالی
 author: سمانه رشوند  
 description: تجزیه و تحلیل صورتهای مالی می‌تواند به شما کمک کند تا بهترین تصمیمات را برای سرمایه گذاری در شرکت بگیرید. به عنوان مثال، اگر سودآوری شرکت در دوره مالی جاری کمتر از دوره قبلی بوده باشد، می‌توانید بررسی کنید که چه مشکلاتی باعث این کاهش شده‌اند و تلاش کنید برای بهبود آنها. همچنین، اگر شرکت در حال رشد است، می‌توانید سرمایه گذاری بیشتری در آن انجام دهید تا سود بیشتری کسب کنید.
-dateModified: 2023/07/24
+dateModified: 2023/08/13
 datePublished: 2023/03/12
 uid: Financial\FinancialAnalysisBasics
 ---
@@ -23,7 +23,7 @@ uid: Financial\FinancialAnalysisBasics
 در این مقاله، به بررسی اجزای صورت‌های مالی و نحوه تجزیه و تحلیل آن‌ها می پردازیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/FinancialRatios" target="_blank">مطلب پیشنهادی: آشنایی با انواع نسبت های مالی</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/FinancialRatios" target="_blank">آشنایی با انواع نسبت های مالی</a></blockquote>
 
 ## اجزای صورت های مالی
 صورت‌های مالی شامل 3 بخش اصلی هستند: ترازنامه، صورت سود و زیان و گزارش جریان وجوه نقد. 
@@ -47,7 +47,7 @@ uid: Financial\FinancialAnalysisBasics
 دارایی‌های ثابت نشان دهنده دارایی‌هایی هستند که در طول یک دوره طولانی خریداری شده‌اند و در طول زمان از ارزش آنها کاسته می شود مانند: ماشین آلات، ساختمان، اثاثیه و... .
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">مطلب پیشنهادی: کدینگ تفصیلی حسابداری چیست؟</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">کدینگ تفصیلی حسابداری چیست؟</a></blockquote>
 
 **بدهی** نیز به دو دسته تقسیم می‌شود: بدهی‌ها و حقوق صاحبان سهام.
 
@@ -68,7 +68,7 @@ uid: Financial\FinancialAnalysisBasics
 **هزینه عملیاتی** نیز نشان دهنده هزینه‌هایی است که شرکت برای انجام فعالیت‌های خود می‌پردازد. مانند: هزینه‌های مواد اولیه، هزینه‌های نیروی کار، هزینه‌های حمل و نقل و... .
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مطلب پیشنهادی: مقایسه و بررسی بهترین نرم افزارهای حسابداری</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مقایسه و بررسی بهترین نرم افزارهای حسابداری</a></blockquote>
 
 ## تجزیه و تحلیل جریان وجه نقد
 
@@ -83,7 +83,7 @@ uid: Financial\FinancialAnalysisBasics
 برای تجزیه و تحلیل جریان وجه نقد، ابتدا باید جریان وجه نقد عملیاتی را بررسی کنید و ببینید که شرکت چقدر وجه نقد از فعالیت‌های خود بدست آورده است. 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">مطلب پیشنهادی: مبانی حسابداری مالی</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">مبانی حسابداری مالی</a></blockquote>
 
 ## تجزیه و تحلیل نسبت های مالی
 

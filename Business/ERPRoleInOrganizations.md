@@ -2,7 +2,7 @@
 title: نقش ERP در سازمان ها چیست؟
 author: سمانه رشوند  
 description: نقش سیستم ERP در سازمان‌ها شامل بهبود کارایی و کارکرد، کاهش هدررفت‌ها، بهبود فرآیندهای کسب و کار، بهبود تصمیم‌گیری‌های استراتژیک، افزایش هماهنگی و همکاری سازمانی، پیش‌بینی و مدیریت منابع است. با استفاده از سیستم ERP مناسب و بهینه، سازمان‌ها می‌توانند عملکرد خود را بهبود بخشند.
-dateModified: 2023/08/08
+dateModified: 2023/08/13
 datePublished: 2023/04/15
 uid: Business\ERPRoleInOrganizations
 ---
@@ -17,7 +17,7 @@ uid: Business\ERPRoleInOrganizations
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">مطلب پیشنهادی: آشنایی با امکانات بهترین نرم افزار ERP در ایران
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات بهترین نرم افزار ERP در ایران
 </a></blockquote>
 
 نقش ERP در سازمان‌ها به عنوان یک سیستم مدیریت جامع تمامی فعالیت‌های سازمان، از جمله مالی، حسابداری، منابع انسانی، عملیات تولید، مدیریت زنجیره تأمین، مدیریت انبار و انبارداری، فروش و بازاریابی، مدیریت پروژه و سایر فعالیت‌ها، بسیار حائز اهمیت است. 
@@ -35,7 +35,7 @@ uid: Business\ERPRoleInOrganizations
 **3. یکپارچگی اطلاعات:** سیستم ERP به سازمان‌ها کمک می‌کند تا اطلاعات مرتبط با فعالیت‌های مختلف سازمان را در یک پایگاه داده مشترک ذخیره و به‌روزرسانی کنند. این امکان از سازمان‌ها، نیازهای مرتبط با گزارش‌دهی، ارتباطات داخلی و خارجی، و تصمیم‌گیری‌های استراتژیک را سهولت می‌بخشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/ErpVsM/ErpVsMrp" target="_blank">مطلب پیشنهادی: تفاوت ERP و MRP
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/ErpVsM/ErpVsMrp" target="_blank">تفاوت ERP و MRP
 </a></blockquote>
 
 **4. پشتیبانی از تصمیم‌گیری‌های استراتژیک:** سیستم ERP اطلاعات مرتبط با تمامی جنبه‌های فعالیت‌های سازمان را در اختیار مدیران قرار می‌دهد و به آن‌ها کمک می‌کند تصمیم‌های استراتژیک را بر اساس داده‌ها و اطلاعات به‌روز و دقیق بگیرند. این امر می‌تواند به بهبود روند تصمیم‌گیری‌ها و کاهش ابهامات و اشتباهات کمک کند.
@@ -47,7 +47,7 @@ uid: Business\ERPRoleInOrganizations
 **8. پیش‌بینی و مدیریت منابع:** سیستم ERP به سازمان‌ها کمک می‌کند تا بهبود قابلیت‌های پیش‌بینی و برنامه‌ریزی منابع خود را تجربه کنند. با دسترسی به اطلاعات دقیق و به‌روز درباره تقاضا، موجودی‌ها، تامین‌کنندگان و سایر عوامل مرتبط، سازمان‌ها می‌توانند تصمیم‌گیری‌های هوشمندانه‌تری در مورد مدیریت منابع مالی، انسانی و مواد اولیه خود انجام دهند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/CrmAndErpDifferences" target="_blank">مطلب پیشنهادی: تفاوت CRM و ERP چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/CrmAndErpDifferences" target="_blank">تفاوت CRM و ERP چیست؟
 </a></blockquote>
 
 ### نتیجه گیری

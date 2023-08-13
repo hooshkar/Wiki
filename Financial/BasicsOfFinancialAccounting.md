@@ -2,7 +2,7 @@
 title: مبانی حسابداری مالی
 author: سمانه رشوند  
 description: مبانی حسابداری مالی یکی از مفاهیم اساسی در علم حسابداری است که به بررسی روش‌های ثبت و تجزیه و تحلیل اطلاعات مالی یک شرکت می‌پردازد. 
-dateModified: 2023/08/07
+dateModified: 2023/08/13
 datePublished: 2023/03/01
 uid: Financial\BasicsOfFinancialAccounting
 ---
@@ -25,7 +25,7 @@ uid: Financial\BasicsOfFinancialAccounting
 در این مطلب، به بررسی مفاهیم اساسی حسابداری مالی پرداخته خواهد شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">مطلب پیشنهادی: بازار کار حسابداری در ایران، چالش‌ها و راه‌حل‌ها
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">بازار کار حسابداری در ایران، چالش‌ها و راه‌حل‌ها
 </a></blockquote>
 
 ## مفاهیم اساسی حسابداری مالی
@@ -36,7 +36,7 @@ uid: Financial\BasicsOfFinancialAccounting
 دوره حسابرسی به مدت زمانی اشاره دارد که در طی آن حسابرسان برای بررسی صحت و صداقت گزارش‌های مالی شرکت، به شرکت مراجعه می‌کنند. معمولاً دوره حسابرسی به صورت سالانه برگزار می‌شود و باید توسط یک حسابرس مستقل انجام شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/TypesOfAudits" target="_blank">مطلب پیشنهادی:  حسابرسی چیست و انواع حسابرسی کدام است؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TypesOfAudits" target="_blank">حسابرسی چیست و انواع حسابرسی کدام است؟
 </a></blockquote>
 
 ### دارایی ها
@@ -53,7 +53,7 @@ uid: Financial\BasicsOfFinancialAccounting
 **2. حفاظت از جریان نقدی:**
 در برخی موارد، استفاده از بدهی‌ها می‌تواند به شرکت کمک کند تا جریان نقدی خود را حفظ کند. به عنوان مثال، اگر شرکت بخواهد یک ساختمان جدید را ساخته و تجهیزاتی را خریداری کند، احتمالاً به بدهی‌ها نیاز خواهد داشت تا جریان نقدی خود را حفظ کند.
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">مطلب پیشنهادی: حسابداری صنعتی چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
 </a></blockquote>
 
 ### حساب ترازنامه

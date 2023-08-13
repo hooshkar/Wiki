@@ -2,7 +2,7 @@
 title: فرمول محاسبه حقوق و دستمزد
 author: سمانه رشوند  
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2023/08/07  
+dateModified: 2023/08/13  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/PayrollFormula  
 ---
@@ -17,7 +17,7 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">مطلب پیشنهادی: پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
 </a></blockquote>
 
 ## محاسبه حقوق پایه
@@ -55,7 +55,7 @@ _فرمول حقوق و دستمزد شیفت کاری 14 الی 22 شب_
 کسر کار ماه × (2 × 220   ÷ حقوق پایه در حکم)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">مطلب پیشنهادی: جزئیات متن قانون کار
+مطلب پیشنهادی: <a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">جزئیات متن قانون کار
 </a></blockquote>
 
 

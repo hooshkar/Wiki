@@ -2,7 +2,7 @@
 title: محاسبه عیدی و مالیات عیدی
 author: سمانه رشوند  
 description: فردی که یک سال گذشته در واحد اقتصادی مشغول بوده باشد در پایان سال مبلغی معادل دو برابر حقوق پایه ماهیانه خود به عنوان عیدی دریافت خواهد کرد.
-dateModified: 2023/08/07
+dateModified: 2023/08/13
 datePublished: 2023/02/19
 uid: Financial/WhatIsPayroll/EidTax
 ---
@@ -22,7 +22,7 @@ uid: Financial/WhatIsPayroll/EidTax
 لازم به ذکر است عیدی و سنوات سال جاری (1401) بر‌اساس کارکرد اشخاص در آن سال (1401) محاسبه و پرداخت می‌شود؛ اما از آنجا که این پرداختی منتهی به نوروز سال 1402 است، در بیان عمومی عیدی و سنوات سال 1402 نامیده می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">مطلب پیشنهادی: پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
 </a></blockquote>
 
 ## محاسبه عیدی
@@ -51,7 +51,7 @@ uid: Financial/WhatIsPayroll/EidTax
 مزایای رفاهی و انگیزشی از قبیل حق مسکن، حق بن، پاداش افزایش تولید، حق جذب و... در این خصوص لحاظ نخواهد شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Payroll/PayrollFormula" target="_blank">مطلب پیشنهادی: فرمول محاسبه حقوق و دستمزد
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/PayrollFormula" target="_blank">فرمول محاسبه حقوق و دستمزد
 </a></blockquote>
 
 ## محاسبه مالیات عیدی
@@ -68,7 +68,7 @@ uid: Financial/WhatIsPayroll/EidTax
 نکته مهمی که درباره مالیات عیدی بازنشستگان تامین اجتماعی وجود دارد این است که طبق قانون، از عیدی آنها هیچ گونه مالیاتی کسر نمی‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
 </a></blockquote>
 
 [مقدمه]: #مقدمه

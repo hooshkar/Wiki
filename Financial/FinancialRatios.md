@@ -2,7 +2,7 @@
 title: آشنایی با انواع نسبت های مالی
 author: سمانه رشوند  
 description: نسبت‌های مالی برای مدیران، سرمایه‌گذاران و بورس بسیار مهم هستند. با استفاده از این نسبت‌ها، این افراد می‌توانند وضعیت مالی شرکت را بررسی کنند و تصمیمات خوبی در خصوص سرمایه‌گذاری در آن بگیرند. اما در عین حال، باید توجه داشت که هر شرکت و هر صنعتی خصوصیات خود را دارد و بهتر است که نسبت‌های مالی برای هر شرکت به طور جداگانه بررسی شود و تنها به صورت یک عامل در تصمیم گیری‌ها در نظر گرفته نشود.
-dateModified: 2023/08/07
+dateModified: 2023/08/13
 datePublished: 2023/05/23
 uid: Financial\FinancialRatios
 ---
@@ -25,7 +25,7 @@ uid: Financial\FinancialRatios
 نسبت‌های سودآوری، به نسبت‌هایی اطلاق می‌شود که میزان سود ساختار مالی یک شرکت را با میزان حجم فروش آن شرکت مقایسه می‌کند. در این رابطه، چند نسبت مهم هستند:
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/FinancialManagementSolution" target="_blank">مطلب پیشنهادی: روش های مؤثر در تحلیل و برنامه ریزی مالی</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/FinancialManagementSolution" target="_blank">روش های مؤثر در تحلیل و برنامه ریزی مالی</a></blockquote>
 
 **• نسبت سود تقسیم شده به فروش:** این نسبت، نشان دهنده درصد سود تقسیم شده بر فروش است. که نشان دهنده عملکرد مالی شرکت و همچنین توانایی آن در به دست آوردن سود از هر فروش است.
 
@@ -50,7 +50,7 @@ uid: Financial\FinancialRatios
 **•	نسبت پوشش بهره:** این نسبت، نشان دهنده توانایی شرکت در پرداخت بهره‌های خود به بانک‌ها و سرمایه‌گذاران است. این نسبت نشان می‌دهد که شرکت چقدر توانایی دارد تا بهره‌های خود را پرداخت کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">مطلب پیشنهادی: مبانی حسابداری مالی</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">مبانی حسابداری مالی</a></blockquote>
 
 ### نتیجه گیری
 نسبت‌های مالی برای مدیران، سرمایه‌گذاران و بورس بسیار مهم هستند. با استفاده از این نسبت‌ها، این افراد می‌توانند وضعیت مالی شرکت را بررسی کنند و تصمیمات خوبی در خصوص سرمایه‌گذاری در آن بگیرند. 

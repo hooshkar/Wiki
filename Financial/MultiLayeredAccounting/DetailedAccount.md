@@ -2,13 +2,13 @@
 title: حساب تفصیلی چیست؟  
 author: سمانه رشوند  
 description: حساب تفصیلی در توصیف حساب های کل و معین تعریف می شود. معنای لغوی تفصیل یعنی شرح دادن؛ بنابراین حساب های تفصیلی، جزئی ترین حساب های یک سازمان یا شرکت هستند.
-dateModified: 2023/08/07 
+dateModified: 2023/08/13 
 datePublished: 2022/07/19 
 uid: Financial/MultiLayeredAccounting/DetailedAccount  
 ---
 **راهنمای مطالب**
 
-- [مقدمه](#مقدمه)
+- [تعریف حساب تفصیلی](#تعریف-حساب-تفصیلی)
 - [کاربرد حساب تفصیلی](#کاربرد-حساب-تفصیلی)
 - [ماهیت حساب تفصیلی](#ماهیت-حساب-تفصیلی)
 - [تفاوت حساب تفصیلی و معین و کل](#تفاوت-حساب-تفصیلی-و-معین-و-کل)
@@ -19,7 +19,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 - [تعریف حساب تفصیلی در سایان](#تعریف-حساب-تفصیلی-در-سایان)
 
 
-## مقدمه
+## تعریف حساب تفصیلی
 حساب تفصیلی در توصیف حساب های کل و معین تعریف می شود. معنای لغوی تفصیل یعنی شرح دادن؛ 
 
 بنابراین حساب های تفصیلی، جزئی ترین حساب های یک سازمان یا شرکت هستند.
@@ -32,7 +32,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 
 بنابراین حسابداران برای تکمیل و دقیق بودن اطلاعات و ثبت هایشان از حساب های تفصیلی کمک می گیرند.
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">مطلب پیشنهادی: کدینگ تفصیلی حسابداری چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">کدینگ تفصیلی حسابداری چیست؟
 </a></blockquote>
 
 ## کاربرد حساب تفصیلی
@@ -44,7 +44,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 حساب های تفصیلی ماهیت جزئی دارند. جزئیات اگرچه بسیار مهم هستند اما به تنهایی بی معنا می شوند. حساب های تفصیلی به نوعی ماهیت خود را از حساب معین خود دریافت می کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>
 
 ## تفاوت حساب تفصیلی و معین و کل
@@ -64,7 +64,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 از حساب تفصیلی زمانی که رویدادهای مالی جزئیات بالایی دارند و حساب معین، پاسخگوی تمام اطلاعات نیست استفاده می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">مطلب پیشنهادی: حسابداری صنعتی چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
 </a></blockquote>
 
 ## انواع حساب تفصیلی
@@ -88,7 +88,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 
 ### تعریف حساب تفصیلی در نرم افزار حسابداری سایان
 <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان
-</a> یکی از بهترین نرم افزارهای مطرح در عرصه نرم افزارهای مالی و حسابداری است.
+</a> یکی از بهترین نرم افزار های مطرح در عرصه نرم افزارهای مالی و حسابداری است.
 
 در حسابداری سایان جهت ایجاد حساب تفصیلی ابتدا باید ویژگی تفصیل پذیر بودن به حساب معین تخصیص داده شود.
 

@@ -2,7 +2,7 @@
 title: حقوق و دستمزد چیست؟
 author: سمانه رشوند  
 description: مبلغی که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
-dateModified: 2023/08/07  
+dateModified: 2023/08/13  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/WhatIsPayroll  
 ---
@@ -23,7 +23,7 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
 ![حقوق و دستمزد](./Images/Salaries.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">مطلب پیشنهادی: پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
 </a></blockquote>
 
 ## اجزای اصلی حقوق و دستمزد

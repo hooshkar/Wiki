@@ -2,7 +2,7 @@
 title: کانبان چیست؟
 author: سمانه رشوند  
 description: کانبان یک سیستم ساده گردش مواد و اطلاعات است که برای حرکت مواد از یک ایستگاه کاری به سمت ایستگاه کاری دیگر مورد استفاده قرار می‌گیرد.
-dateModified: 2023/08/08
+dateModified: 2023/08/13
 datePublished: 2022/11/19
 uid: Business\Kanban\WhatIsKanban
 ---
@@ -21,7 +21,7 @@ uid: Business\Kanban\WhatIsKanban
 سیستم کانبان از روش عرضه کالاهای سوپر مارکتها الگو برداری شده است بدین صورت که سوپر مارکت‌ها موظفند زنجیره تامین را با تقاضای مشتری هماهنگ نمایند و این مشتری‌ها نیستند که باید نگران خالی شدن قفسه‌ها باشند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک</a>
 </blockquote>
 
 کانبان نشان می‌‌دهد چه محصولی، در چه زمانی و به چه مقدار باید تولید شود. کانبان یک سیستم ساده گردش مواد و اطلاعات است که برای حرکت مواد از یک ایستگاه کاری به سمت ایستگاه کاری دیگر مورد استفاده قرار می‌گیرد.
@@ -49,7 +49,7 @@ uid: Business\Kanban\WhatIsKanban
 5.	افزایش سرعت و دقت در فرایند کار به جهت کاهش زمان چرخه
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/KanbanVsScrum" target="_blank">مطلب پیشنهادی:  تفاوت کانبان و اسکرام</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/KanbanVsScrum" target="_blank">تفاوت کانبان و اسکرام چیست؟</a>
 </blockquote>
 
 ### معایب کانبان

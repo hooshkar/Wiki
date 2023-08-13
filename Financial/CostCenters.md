@@ -2,7 +2,7 @@
 title: مراکز هزینه در شرکت های تولیدی
 author: سمانه رشوند  
 description: هدف از ایجاد مراکز هزینه در شرکت‌ها، تعیین و محاسبه هزینه‌های مربوط به هر بخش و فعالیت مختلف است. با تقسیم هزینه‌ها بر اساس مراکز هزینه، می‌توان مشخص کرد کدام بخش بیشترین هزینه را دارد و در نتیجه، عملکرد مراکز را مدیریت کرد.
-dateModified: 2023/07/24
+dateModified: 2023/08/13
 datePublished: 2023/03/16
 uid: Financial\CostCenters
 ---
@@ -29,7 +29,7 @@ uid: Financial\CostCenters
 **5. سنجش عملکرد:** با تعیین مراکز هزینه و محاسبه هزینه‌های مربوط به هر مرکز، می‌توان عملکرد هر مرکز را با سایر مراکز مقایسه کرد و از این طریق به بهبود عملکرد و بالا بردن کیفیت کار شرکت دست یافت.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار تولیدی سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات نرم افزار تولیدی سایان
 </a></blockquote>
 
 ![مراکز هزینه در شرکت‌های تولیدی](./Images/CostCenter.webp)
@@ -50,7 +50,7 @@ uid: Financial\CostCenters
 در کل، استفاده از مراکز هزینه در شرکت‌های تولیدی برای بهبود عملکرد و کاهش هزینه‌های اضافی، بهبود بودجه‌بندی و افزایش سود شرکت بسیار مهم است. با تعیین و محاسبه هزینه‌های مربوط به هر مرکز هزینه، می‌توان تصمیمات بهتری در فرآیند تولید گرفت و باعث بهبود کارایی و بازدهی شرکت شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">مطلب پیشنهادی: حسابداری صنعتی چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
 </a></blockquote>
 
 [مزایای استفاده از مراکز هزینه در شرکت ها]: #مزایای-استفاده-از-مراکز-هزینه-در-شرکت-ها

@@ -2,7 +2,7 @@
 title: سیستم تولید به هنگام (Just in time) چیست؟
 author: سمانه رشوند  
 description: این سیستم دقیقا سیستم تولید MRP است. برنامه ریزی تولید بر مبنای داده هایی نظیر تقاضاهای پیش بینی شده، لیست مواد (Bill of Material)، زمان تدارک (Lead Time) و وضعیت موجودی صورت می گیرد.
-dateModified: 2023/08/08
+dateModified: 2023/08/13
 datePublished: 2022/11/12
 uid: Business\ProductionPlanning\JustInTime
 ---
@@ -33,7 +33,7 @@ uid: Business\ProductionPlanning\JustInTime
 ![سیستم تولید به هنگام (Just in time)](./Images/JustInTime.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">مطلب پیشنهادی: برنامه ریزی تولید چیست؟</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید چیست؟</a></blockquote>
 
 ## سیستم برنامه ریزی و کنترل تولید فشاری Push SYS
 
@@ -45,25 +45,33 @@ uid: Business\ProductionPlanning\JustInTime
 
 
 *	این سیستم دقیقا سیستم تولید MRP است. برنامه ریزی تولید بر مبنای داده هایی نظیر تقاضاهای پیش بینی شده، لیست مواد (<a href="https://www.hooshkar.com/Wiki/Production/BOM" target="_blank">Bill of Material</a>)، زمان تدارک (Lead Time) و وضعیت موجودی صورت می گیرد.
+
 *	در این سیستم بعد از تهیه یک سربرنامه تولید برای محصولات نهایی و قابل تحویل به مشتری، برنامه براساس ساختار BOM شکسته شده و تبدیل به برنامه تولید قطعات ساختنی و برنامه خرید سایر مواد و قطعات می شود.
+
 *	سپس براساس برنامه های ساخت قطعات، مواد اولیه مورد نیاز به ترتیب از ایستگاه اول به سمت ایستگاه آخر جریان یافته تا تبدیل به محصولات مورد نظر شوند. 
+
 *	در این سیستم ایستگاه های بالاتر قطعات مورد نیاز را برای ایستگاه های بعدی فراهم می سازند.
 
 ## سیستم برنامه ریزی و کنترل تولید کششی Pull SYS
 
 *	این سیستم برخلاف سیستم فشاری از تقاضای پیش بینی شده برای کنترل تولید استفاده نمی کند. این سیستم بر اساس تقاضای واقعی از مواد، قطعات یا محصولات نهایی برنامه ریزی می شود.
+
 *	وقتی سفارش از طرف مشتری وارد سیستم می شود، این سفارش به ایستگاه آخر که معمولا مونتاژ است می رود. این ایستگاه قطعات مورد نیاز خود را از ایستگاه ماقبل گرفته و این روال تا ایستگاه اول ادامه می یابد.
+
 *	به همین دلیل از سیستم تولید کششی تحت عنوان سیستم Just in time (JIT) یاد می شود. پس روند کار با سیستم تولید 
 
 ![Push SYS و Pull SYS](./Images/PushandPull.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی و کنترل تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی و کنترل تولید</a></blockquote>
 
 ### تفاوت سیستم برنامه ریزی و کنترل تولید فشاری و کششی
 *	در سیستم های فشاری، تولید با تمام توان و ظرفیت صورت می گیرد ولی در سیستم کششی تنها وقتی که مشتری تقاضا می کند و دقیقا به همان میزان انجام می گیرد.
+
 *	در سیستم فشاری یک کار وقتی اجازه ورود به خط تولید را دارد که به وسیله یک زمان بندی از پیش تعیین شده خوانده شود ولی در سیستم کششی یک کار وقتی اجازه ورود به خط دارد که علامت به وسیله وضعیت خط ایجاد شود.
+
 *	سیستم فشاری در انطباق سریع با تغییراتی که در سیستم ایجاد می شود توانایی پاسخگویی سریع به تغییرات را ندارد و با مشکل مواجه می شود. (این تغییرات یا ناشی از نوسانات تقاضا می تواند باشد یا مشکلاتی که در برخی فرایندها صورت می گیرد.)
+
 *	لذا برای انطباق با این تغییرات، خط تولید باید برنامه تولید را برای تمامی مراحل تولید به طور همزمان تغییر دهد که این امر بسیار مشکل است و این موضوع منجر به ایجاد موجودی غیر ضرروی و نیز تجهیزات و کارگران اضافی می شود.
 
 ### مزایا و معایب سیستم تولید فشاری
@@ -103,7 +111,7 @@ uid: Business\ProductionPlanning\JustInTime
 امروزه به لحاظ محدودیت های اقتصادی مختلفی که بر سر راه مدیران قرار گرفته و توسعه و پیچیدگی بازارها، استفاده بهینه از منابع در دسترس، شناخت و پاسخگویی به نیازها و خواسته های مشتریان در بخش های مختلف بازار به امری اجتناب ناپذیر تبدیل شده که در واقع اشاره می کند که بایستی سیستم را به سمت تولید به هنگام (Just in time) پیش ببریم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Production/SequenceOfOperations" target="_blank">مطلب پیشنهادی: توالی عملیات و زمان بندی عملیات</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/SequenceOfOperations" target="_blank">توالی عملیات و زمان بندی عملیات</a></blockquote>
 
 ## کایزن (Kaizen): بهبود مستمر و ترویجی
 برای ایجاد یک سازمان بهره ور نیاز نیست تغییرات انفجاری را ایجاد کنیم بلکه هر بهبود و هر اصلاحی به شرط اینکه مداوم و پیوسته باشد بر اساس اصل کایزن باعث ارتقای بهره وری در سازمان می شود. یکی از اصول تولید به هنگام همین کایزن می باشد.  
@@ -131,7 +139,7 @@ uid: Business\ProductionPlanning\JustInTime
 مثال مودا در تولید: موارد زیادی وجود دارد که هر کدام طبقه بندی های خاص خودشان را دارند. مثل بایگانی های غیر ضروری، موجودی های اضافی، توقف کارکنان در صف سلف غذا، انتظار و تاخیر، تولید مازاد، کار اضافی، جابجایی های غیر ضرروی وسایل حمل و نقل و حتی نیروی انسانی  
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار ترازوی تولیدی</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">آشنایی با امکانات نرم افزار ترازوی تولیدی</a></blockquote>
 
 **2. موری**
 
@@ -165,7 +173,7 @@ uid: Business\ProductionPlanning\JustInTime
 در سیستم تولید به هنگام برای آنکه اهداف تولیدی قابل دسترس باشند. باید تمام منشاهای ایجاد عیوب از میان برداشته شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/BarcodeReader" target="_blank">مطلب پیشنهادی: آشنایی با امکانات بارکد خوان تولیدی</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/BarcodeReader" target="_blank">آشنایی با امکانات بارکد خوان تولیدی</a></blockquote>
 
 **صفر کردن آماده سازی:**
 معمولا اندازه انباشته تولید (دسته تولیدی) از تعادل بین هزینه های نگهداری و هزینه های راه اندازی بدست می آید. در سیستم تولید به هنگام، مفاهیم زمان آماده سازی صفر و اندازه انباشته، اعدادی باهم مرتبط هستند.  
@@ -200,7 +208,7 @@ uid: Business\ProductionPlanning\JustInTime
 *	این ایده بر آن است که همه اجزای مورد نیاز باید به موقع و به تعداد معین شده تولید و تحویل گردند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/WhatIsKanban" target="_blank">مطلب پیشنهادی: کانبان چیست؟</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsKanban" target="_blank">کانبان چیست؟</a></blockquote>
 
 
 ## تابلو آندون (Andon)
@@ -210,7 +218,7 @@ uid: Business\ProductionPlanning\JustInTime
 یک وسیله اطلاع رسانی بسیار سریع که در آن اطلاعات کلی از وضعیت تولید کنونی و مقادیر هدف برای زمان تولید، مقدار تولید و... نمایش داده می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/WhatIsAndon" target="_blank">مطلب پیشنهادی: آندون چیست؟</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsAndon" target="_blank">آندون چیست؟</a></blockquote>
 
 ## زمان تکت (Takt Time)
 
@@ -219,7 +227,7 @@ uid: Business\ProductionPlanning\JustInTime
 مدت زمانی که (به ثانیه) برای فرآوری هر واحد از محصول مورد تقاضا صرف می شود. برای بدست آوردن زمان تکت، تعداد محصول مورد نیاز از نظر تولید تقسیم بر زمان در دسترس برای آن روز می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/TaktTime" target="_blank">مطلب پیشنهادی: زمان تکت (Takt Time) چیست؟</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/TaktTime" target="_blank">زمان تکت (Takt Time) چیست؟</a></blockquote>
 
 
 

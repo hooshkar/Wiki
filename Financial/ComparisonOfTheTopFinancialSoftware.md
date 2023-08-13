@@ -2,7 +2,7 @@
 title: مقایسه 3 تا از بهترین نرم افزار های حسابداری مطرح [سایان، سپیدار، هلو]
 author: سمانه رشوند  
 description: امروز میخواهیم با موضوع جذاب مقایسه بهترین نرم افزارهای حسابداری در خدمتتون باشیم. آیا با قابلیت های یکی از آنها آشنا باشیم می توانیم با بقیه نرم افزارهای حسابداری هم کار کنیم؟
-dateModified: 2023/08/08  
+dateModified: 2023/08/13  
 datePublished: 2022/07/31 
 uid: Financial/ComparisonOfTheTopFinancialSoftware  
 ---
@@ -34,7 +34,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 در این نرم افزار باید به ترتیب گروه حساب‌ها، کل و معین و تفصیل را تعریف نموده و سپس ارتباط تفصیل با معین را تعریف کنید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">مطلب پیشنهادی: بهترین نرم افزار حسابداری بهای تمام شده چه ویژگی هایی دارد؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">بهترین نرم افزار حسابداری بهای تمام شده چه ویژگی هایی دارد؟
 </a></blockquote>
 
 ## 2. ویژگی ها و قابلیت های کلیدی هر نرم افزار
@@ -63,7 +63,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 * در **<a href="https://www.hooshkar.com/Software/Sayan" target="_blank">نرم افزار سایان</a>** سطح تفصیلی شناور با سطوح نامحدود می‌باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">مطلب پیشنهادی: بهترین نرم افزار انبارداری چه ویژگی هایی دارد؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">بهترین نرم افزار انبارداری چه ویژگی هایی دارد؟
 </a></blockquote>
 
 ## نتیجه گیری

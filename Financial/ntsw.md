@@ -2,7 +2,7 @@
 title: سامانه جامع تجارت ایران چیست [سایت ntsw.ir]
 author: سمانه رشوند  
 description: در این مقاله هدف از اجرای سامانه جامع تجارت، اجزای موثر و مزایای آن مورد بررسی قرار می گیرد.
-dateModified: 2023/08/07
+dateModified: 2023/08/13
 datePublished: 2022/12/14
 uid: Financial\ntsw
 ---
@@ -21,7 +21,7 @@ uid: Financial\ntsw
 قرار می‌گیرد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">مطلب پیشنهادی: سامانه مودیان مالیاتی چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">سامانه مودیان مالیاتی چیست؟
 </a></blockquote>
 
 ![سامانه جامع تجارت](./Images/ntsw.webp)
@@ -70,7 +70,7 @@ uid: Financial\ntsw
 جهت اطلاعات بیشتر می‌توانید راهنمای کامل سامانه جامع تجارت را از طریق لینک زیر مطالعه نمایید:
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.ecommerce.gov.ir/uploads/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C_%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA139604__357.pdf" target="_blank">راهنمای کامل سامانه جامع تجارت
+مطلب پیشنهادی: <a href="https://www.ecommerce.gov.ir/uploads/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C_%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA139604__357.pdf" target="_blank">راهنمای کامل سامانه جامع تجارت
 </a></blockquote>
 
 [مقدمه]: #مقدمه

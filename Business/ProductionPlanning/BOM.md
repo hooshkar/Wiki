@@ -2,7 +2,7 @@
 title: درخت محصول چیست؟ (What is a bill of materials)
 author: سمانه رشوند  
 description: ساختار محصول یا BOM، لیست اجزای مونتاژ یا دستور تولید (در فرایند صنایع تولید) نامیده می‌شود
-dateModified: 2023/08/08
+dateModified: 2023/08/13
 datePublished: 2023/02/14
 uid: Business\ProductionPlanning\BOM
 ---
@@ -17,7 +17,7 @@ uid: Business\ProductionPlanning\BOM
 همچنین گاهی اوقات تعداد لازم از هر قطعه برای مونتاژ یک واحد محصول سطح بالاتر نیز در کنار نام قطعه نشان داده می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات بسته تولیدی سایان</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات بسته تولیدی سایان</a>
 </blockquote>
 
 **مثال:** اگر یک سازنده دوچرخه بخواهد 1000 دوچرخه بسازد، صورتحساب مواد شامل تمام قطعات جداگانه مورد نیاز برای ساخت دوچرخه است.
@@ -32,6 +32,6 @@ uid: Business\ProductionPlanning\BOM
 اگر قصد دارید بعنوان یک کارشناس برنامه ریزی حرفه‌ای فعالیت نمایید باید بر روی برنامه‌های لینگو (Lingo) یا گمز (GAMS) تخصص لازم را به دست آورید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Production/MasterScheduling" target="_blank">مطلب پیشنهادی: زمان بندی اصلی، ورودی و خروجی های آن</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/MasterScheduling" target="_blank">زمان بندی اصلی، ورودی و خروجی های آن</a>
 </blockquote>
 

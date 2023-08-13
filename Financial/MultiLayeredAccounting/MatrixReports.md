@@ -2,7 +2,7 @@
 title: گزارشات ماتریسی حسابها  
 author: سمانه رشوند  
 description: مدیریت ماتریسی در دهه 1970 توسط شرکت فیلیپس راه اندازی شد. سازمانی که براساس مدیریت ماتریسی بنا شده در آن سیستم گزارش دهی کارکنان به مدیران بصورت شبکه ای تنظیم می شود در صورتیکه در دیگر سازمان های فاقد مدیریت سازمانی گزارش دهی کارکنان بصورت سلسه مراتبی طی می شود. 
-dateModified: 2023/08/07  
+dateModified: 2023/08/13  
 datePublished: 2022/07/19 
 uid: Financial/MultiLayeredAccounting/MatrixReports  
 ---
@@ -20,7 +20,7 @@ uid: Financial/MultiLayeredAccounting/MatrixReports
 گزارش ماتریسی نیز برگرفته از همین عنوان می باشد، تهیه یک گزارش ماتریسی از فرایندهای مختلف مالی جهت تصمیم گیری های کلان، یکی از بهترین گزارشات جهت ارائه به مدیران مجموعه است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">مطلب پیشنهادی: حسابداری چند لایه چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
 </a></blockquote>
 
 ## گزارش ماتریسی در نرم افزار سایان

@@ -2,7 +2,7 @@
 title: کدینگ حسابداری چیست
 author: سمانه رشوند  
 description: کدینگ در معنای لغوی یعنی شماره گذاری که ترکیب آن با حسابداری یعنی حساب ها در حسابداری را کدگذاری نماییم، در یک تعریف ساده، یک نوع از دسته بندی حساب ها در حسابداری به شمار می رود.
-dateModified: 2023/08/07  
+dateModified: 2023/08/13  
 datePublished: 2022/07/19 
 uid: Financial/MultiLayeredAccounting/FinancialCoding  
 ---
@@ -27,13 +27,16 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 مشخص می شود که دارای سطوح مختلف و کدهای متنوعی هستند، به این نوع شاخه بندی کردن و کدگذاری حساب ها کدینگ حسابداری گفته می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Accounting/DetailedAccount" target="_blank">مطلب پیشنهادی: حساب تفصیلی چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Accounting/DetailedAccount" target="_blank">حساب تفصیلی چیست؟
 </a></blockquote>
 
 ### اهداف کدینگ در حسابداری
 1. کدینگ حسابداری موجب استاندارد سازی عملیات های مالی و یکپارچه نمودن آنها براساس یک فرمت خاص می گردد.
+
 2. سرعت و دقت در ثبت و پردازش رویدادهای مالی را افزایش داده و موجب پایین آمدن خطای انسانی در تیم های حسابداری می شود.
+
 3. موجب افزایش سرعت و دقت در تهیه گزارشات مالی (مانند صورت معاملات فصلی) می گردد.
+
 4. فرایند کدینگ، تحلیل و بررسی های مالی جهت سرمایه گذاری یا محاسبه میزان دارایی ها را تسهیل می بخشد که موجب بهبود قدرت در تصمیم گیری برای تصمیم گیرندگان درون سازمانی و برون سازمانی می گردد.
 
 ## انواع کدینگ حسابداری
@@ -42,7 +45,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 ![انواع کدینگ حسابداری](./Images/TypesOfAccountingCoding.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>
 
 ### 1. کدینگ سلسه مراتبی
@@ -77,7 +80,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 از این روش زمانی استفاده می شود که می خواهیم در یک دوره مالی یک کد را به یک حساب اختصاص دهیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/AccountingPrinciples" target="_blank">مطلب پیشنهادی: تعریف اصول حسابداری و انواع آن
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingPrinciples" target="_blank">تعریف اصول حسابداری و انواع آن
 </a></blockquote>
 
 ## سطوح کدینگ حسابداری
@@ -101,7 +104,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 * این امکان را فراهم می آورد تا حساب شرکت های تولیدی و بازرگانی به طور موثر و براساس با نیازهای تجاری سازماندهی گردد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مطلب پیشنهادی: مقایسه بهترین نرم افزار های حسابداری
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مقایسه بهترین نرم افزار های حسابداری
 </a></blockquote>
 
 برای انجام این کار در ابتدا گروه حسابها (حساب های اصلی) تعیین می گردد که براساس آن شکل کلی حساب ها نشان داده می شوند.
@@ -115,7 +118,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 زمانیکه حساب تفصیلی به حساب معین متصل باشد، به آن حساب استاندارد و در غیر این صورت به آن حساب شناور می گویند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">مطلب پیشنهادی: حسابداری چند لایه چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
 </a></blockquote>
 
 ### استاندارد سازی کدینگ حسابداری

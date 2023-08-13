@@ -2,7 +2,7 @@
 title: حسابداری صنعتی چیست؟
 author: سمانه رشوند
 description: حسابداری صنعتی یک شاخه از حسابداری محسوب می شود که به محاسبه بهای تمام شده محصولات و کنترل هزینه های تولید می‌پردازد.
-dateModified: 2023/08/07
+dateModified: 2023/08/13
 datePublished: 2023/07/18
 uid: Financial\CostAccounting
 ---
@@ -39,7 +39,7 @@ uid: Financial\CostAccounting
 به طور خلاصه، حسابداری صنعتی به شرکت‌های تولیدی کمک می‌کند تا با کنترل هزینه‌ها، بهبود کیفیت و کارایی تولید و تصمیم‌گیری دقیق‌تر در زمینه قیمت‌گذاری، به سودآوری بیشتری دست یابند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">مطلب پیشنهادی: بهترین نرم افزار حسابداری بهای تمام شده چه ویژگی هایی دارد؟</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">بهترین نرم افزار حسابداری بهای تمام شده چه ویژگی هایی دارد؟</a>
 </blockquote>
 
 ## نقش حسابداری صنعتی در مدیریت مالی و تصمیم‌گیری‌های استراتژیک
@@ -66,7 +66,7 @@ uid: Financial\CostAccounting
 با به دست آوردن و ارائه این اطلاعات به صورت دقیق و به موقع، حسابدار صنعتی در بهبود فرآیندهای مالی و عملکرد شرکت نقش مهمی را ایفا می‌کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">مطلب پیشنهادی: مبانی حسابداری مالی</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">مبانی حسابداری مالی</a>
 </blockquote>
 
 ## طبقه بندی هزینه در حسابداری صنعتی
@@ -95,7 +95,7 @@ uid: Financial\CostAccounting
 این طبقه‌بندی هزینه‌ها به حسابداران و مدیران کمک می‌کند تا هزینه‌های مختلف را به صورت دقیق تشخیص داده و برای برنامه ریزی مالی و تصمیم‌گیری‌های استراتژیک مورد استفاده قرار دهند. همچنین، این طبقه‌بندی به تجزیه و تحلیل هزینه‌ها، کاهش هزینه‌ها و بهبود کارایی در فرآیندهای تولید کمک می‌کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">مطلب پیشنهادی: بهترین نرم افزار انبارداری چه ویژگی هایی دارد؟</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">بهترین نرم افزار انبارداری چه ویژگی هایی دارد؟</a>
 </blockquote>
 
 ## وظایف حسابداری
@@ -124,7 +124,7 @@ uid: Financial\CostAccounting
 گزارشات برون سازمانی هم به سازمان‌های دولتی ارائه می‌شوند تا اطلاعاتی درباره سود و زیان شرکت و قیمت تمام شده محصول را دریافت کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/CostCenters" target="_blank">مطلب پیشنهادی: مراکز هزینه در شرکت‌های تولیدی</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/CostCenters" target="_blank">مراکز هزینه در شرکت‌های تولیدی</a>
 </blockquote>
 
 ## بررسی روش‌های هزینه یابی در حسابداری صنعتی
@@ -181,7 +181,7 @@ uid: Financial\CostAccounting
 این هزینه باید توسط حسابدار در گزارشی به مدیریت ارسال شود. این گزارش شامل جزئیات دستمزد مستقیم کارکنان، مانند میزان واحدی که به آنها پرداخت می‌شود و تعداد کارکنان مشغول به کار است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Payroll/PayrollFormula" target="_blank">مطلب پیشنهادی: فرمول محاسبه حقوق و دستمزد</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/PayrollFormula" target="_blank">فرمول محاسبه حقوق و دستمزد</a>
 </blockquote>
 
 **5. گزارش قیمت تمام شده محصول:**

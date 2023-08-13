@@ -2,7 +2,7 @@
 title: بازار کار حسابداری در ایران، چالش‌ها و راه‌حل‌ها
 author: سمانه رشوند  
 description: با توجه به رشد روزافزون بخش خصوصی در ایران و افزایش تعداد شرکت‌ها و سازمان‌ها، نیاز به حسابداران و کارشناسان مالی در این بخش نیز افزایش یافته است. بنابراین، برای ایجاد بازار کار حسابداری سالم و بهبود وضعیت آن، توجه به آموزش و پرورش کارشناسان مالی و حسابداران، ایجاد شغل‌های جدید و تنوع در این بازار کار و استفاده از فناوری‌های روز، ضروری است.
-dateModified: 2023/08/07
+dateModified: 2023/08/13
 datePublished: 2023/03/07
 uid: Financial\AccountingJobMarketInIran
 ---
@@ -21,7 +21,7 @@ uid: Financial\AccountingJobMarketInIran
 </a> یکی از حوزه‌های مهم در اقتصاد کشور است که از اهمیت بسیاری برخوردار است. بنابراین، بازار کار حسابداری نیز یکی از مهمترین بازارهای کاری در ایران است. در این مقاله به بررسی بازار کار حسابداری در ایران می‌پردازیم و عوامل موثر در آن را بررسی می‌کنیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">مطلب پیشنهادی: حسابداری صنعتی چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
 </a></blockquote>
 
 ## شرایط بازار کار حسابداری در ایران
@@ -34,7 +34,7 @@ uid: Financial\AccountingJobMarketInIran
 از جمله شغل‌هایی که در بازار کار حسابداری در ایران موجود است می‌توان به حسابدار، بازرس قانونی، حسابرس، مدیر مالی، ممیز مالیاتی، کارشناسان مالی دولتی و... اشاره کرد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">مطلب پیشنهادی: حسابداری چند لایه چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
 </a></blockquote>
 
 ## آینده بازار کار حسابداری در ایران
@@ -58,7 +58,7 @@ uid: Financial\AccountingJobMarketInIran
 همچنین، برای استخدام در بازار کار حسابداری، داشتن تحصیلات مرتبط و مهارت‌های لازم، تجربه کاری قبلی و رزومه کاری، نقش مهمی در استخدام در این حوزه دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>
 
 ## نتیجه گیری

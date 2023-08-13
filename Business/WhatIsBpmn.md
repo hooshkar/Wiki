@@ -2,7 +2,7 @@
 title: BPMN یا مدلسازی فرآیند کسب و کار چیست ؟ تفاوت آن با BPM
 author: سمانه رشوند
 description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
-dateModified: 2023/08/08
+dateModified: 2023/08/13
 datePublished: 2023/05/03
 uid: Business\WhatIsBpmn
 ---
@@ -36,7 +36,7 @@ uid: Business\WhatIsBpmn
 در حال حاضر، BPMN یکی از پراستفاده‌ترین استانداردهای مدلسازی فرآیند کسب و کار در سراسر جهان است و به عنوان یک ابزار کارآمد در بسیاری از صنایع و سازمان‌ها مورد استفاده قرار می‌گیرد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/WhatIsBpms" target="_blank">مطلب پیشنهادی: BPMS چیست؟</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsBpms" target="_blank">BPMS چیست؟</a></blockquote>
 
 ![BPMN (Business Process Model and Notation) چیست؟](./Images/BPMN.webp)
 
@@ -79,7 +79,7 @@ uid: Business\WhatIsBpmn
 ![BPM (Business Process Management)](./Images/BPM.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار مدیریت فرایند (BPMS) فنک
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">آشنایی با امکانات نرم افزار مدیریت فرایند (BPMS) فنک
 </a></blockquote>
 
 ## هدف مدلسازی مدیریت فرآیند کسب و کار چیست

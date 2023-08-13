@@ -2,7 +2,7 @@
 title: تکنولوژی گروهی چیست؟
 author: سمانه رشوند  
 description: سیستم کارگاهی یا job shop کارگاه‌هایی هستند که ماشین آلات موازی رو در آن قرار می‌دهیم.
-dateModified: 2023/08/08
+dateModified: 2023/08/13
 datePublished: 2022/11/06
 uid: Business\ProductionPlanning\GroupTechnology
 ---
@@ -25,7 +25,7 @@ uid: Business\ProductionPlanning\GroupTechnology
 کارایی این روش در مواجهه با حجم کم تولید یا مشابهت کم فرایندها کاهش می‌یابد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حسابداری تولیدی سایان</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات نرم افزار حسابداری تولیدی سایان</a>
 </blockquote>
 
 ![MRP](./Images/JobShop.webp)
@@ -33,6 +33,7 @@ uid: Business\ProductionPlanning\GroupTechnology
 ## چیدمان فیزیکی
 
 * **خط جریان:** هنگامی مورد استفاده قرار می‌گیرد که در آن تمامی قطعات مربوط به گروه به ترتیب ماشین آلات شکل می‌گیرند.
+
 * **سلول گروهی:** قطعات از ماشینی به ماشین دیگر به راحتی حرکت داده می‌شود این حرکت یک طرفه نمی‌باشد.
 
 چیدمان‌های دیگری هم وجود دارد اما در اینجا فقط به این دو مورد اشاره نمودیم.

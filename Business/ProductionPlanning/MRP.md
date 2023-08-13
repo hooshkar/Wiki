@@ -2,7 +2,7 @@
 title: برنامه ریزی مواد و قطعات [MRP] چیست؟
 author: سمانه رشوند  
 description:  پایه زمان بندی برای تولید یا خرید قطعات یا زیر مونتاژهای محصول است که براساس MPS و یکسری ورودی ها مثل Lead Time، وضعیت موجودی ها، ساختار محصول (BOM) و سایر سیاست های سفارش دهی به منظور تامین کردن ریز مونتاژهای محصول انجام می شود.
-dateModified: 2023/08/09 
+dateModified: 2023/08/13 
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\MRP
 ---
@@ -38,7 +38,7 @@ uid: Business\ProductionPlanning\MRP
 *	کاهش میزان موجودی انبار
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## حلقه بسته MRP
 
@@ -67,7 +67,7 @@ uid: Business\ProductionPlanning\MRP
 ## مدل سازی نمونه ای از مسائل برنامه ریزی ادغامی
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/ErpVsM/ErpVsMrp" target="_blank">مطلب پیشنهادی: تفاوت ERP و MRP</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/ErpVsM/ErpVsMrp" target="_blank">تفاوت ERP و MRP</a></blockquote>
 
 **به دو دلیل امکان مدل سازی در اکسل وجود ندارد:**
 

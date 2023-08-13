@@ -2,7 +2,7 @@
 title: انواع مرخصی در قانون کار
 author: سمانه رشوند  
 description: آشنایی با انواع مرخصی در قانون کار
-dateModified: 2023/08/07 
+dateModified: 2023/08/13 
 datePublished: 2022/07/01 
 uid: Financial/WhatIsPayroll/TypesOfLeaves
 ---
@@ -20,7 +20,7 @@ uid: Financial/WhatIsPayroll/TypesOfLeaves
 طبق قانون، مرخصی هر نیروی انسانی به مدت 30 روز در طول سال می باشد. این 30 روز معادل 26 روز کاری و 4 جمعه است. طبق استاندارد وزارت کار معادل 2.5 روز در ماه می باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">مطلب پیشنهادی: پایه حقوق وزارت کار 1401؛ میزان افزایش و جدول پایه حقوق اداره کار
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق وزارت کار 1401؛ میزان افزایش و جدول پایه حقوق اداره کار
 </a></blockquote>
 
 ### 2. مرخصی استعلاجی
@@ -46,7 +46,7 @@ uid: Financial/WhatIsPayroll/TypesOfLeaves
 بعد از اتمام دوره مرخصی کارفرما ملزم به پرداخت حق سنوات و عیدی این مدت مرخصی بوده و علاوه بر آن کارفرما موظف است با ادامه فعالیت شخص موافقت نماید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
 </a></blockquote>
 
 

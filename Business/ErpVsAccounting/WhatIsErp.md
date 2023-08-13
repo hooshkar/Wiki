@@ -2,7 +2,7 @@
 title: برنامه ریزی منابع سازمانی [ERP] چیست؟
 author: سمانه رشوند  
 description: سیستم ERP جهت یکپارچه و هماهنگ نمودن تمامی قسمت های یک سازمان در راستای بهبود عملکرد یک سازمان می باشد.
-dateModified: 2023/08/09 
+dateModified: 2023/08/13 
 datePublished: 2022/12/04
 uid: Business\ErpVsAccounting\WhatIsErp
 ---
@@ -20,7 +20,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 هرچه سازمانی گسترده تر شود برنامه ریزی و مدیریت آن سخت تر خواهد شد اینجاست که اهمیت نرم افزارهای ERP مشخص می گردد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">مطلب پیشنهادی: نقش ERP در سازمان ها چیست؟</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">نقش ERP در سازمان ها چیست؟</a>
 </blockquote>
 
 
@@ -34,7 +34,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 6.	سامانه ای که از یک دیتابیس مشترک برای داده ها استفاده می کند و در قابلیت دسترسی در تمام بخش های سازمان را دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار ERP فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP فنک</a>
 </blockquote>
 
 ## انواع برنامه ریزی

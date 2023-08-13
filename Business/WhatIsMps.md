@@ -2,7 +2,7 @@
 title: سربرنامه تولید (MPS) چیست
 author: سمانه رشوند
 description: سربرنامه تولید یک ابزار مهم در مدیریت تولید و پروژه‌های صنعتی است که به تیم‌های تولید کمک می‌کند تا به طور مؤثر و کارآمد برای تولید کالا یا خدمات پیش بینی شده، برنامه ریزی و کنترل داشته باشند.
-dateModified: 2023/08/08
+dateModified: 2023/08/13
 datePublished: 2023/05/28
 uid: Business\WhatIsMps
 ---
@@ -20,7 +20,7 @@ uid: Business\WhatIsMps
 در این سند، به برنامه ریزی مراحل تولید از شروع تا تحویل کالا یا خدمات پرداخته خواهد شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">مطلب پیشنهادی: برنامه ریزی تولید چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید چیست؟
 </a></blockquote>
 
 
@@ -43,7 +43,7 @@ uid: Business\WhatIsMps
 **7.	بسته‌بندی و تحویل:** کالا یا خدمات بسته‌بندی و آماده تحویل به مشتری می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">مطلب پیشنهادی: آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک
 </a></blockquote>
 
 ## مزایای سربرنامه تولید
