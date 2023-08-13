@@ -6,6 +6,9 @@ dateModified: 2023/08/13
 datePublished: 2023/07/22
 uid: Financial\TaxPayersSystemUpdate
 ---
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار ارسال صورت حساب الکترونیکی به سامانه مودیان سایان
+</a></blockquote>
 
 ## تمدید مهلت ارسال صورتحساب الکترونیکی تا پایان شهریور 1402
 
