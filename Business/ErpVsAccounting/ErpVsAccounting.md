@@ -24,7 +24,7 @@ uid: Business\ErpVsAccounting\ErpVsAccounting
  سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP فِنِک</a> 
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP ایرانی فنک</a>
 </blockquote>
 
 به کمک نرم افزارهای حسابداری می توان تمام امور مالی (گردش مالی، چک، مالیات، ترازنامه و...) یک کسب و کار را مدیریت کرد. جهت ارائه تصویری روشن از عملکرد و وضعیت جاری شرکت بایستی در انتخاب نرم افزار حسابداری بیشترین دقت را بکار گرفت؛ 

@@ -34,7 +34,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 6.	سامانه ای که از یک دیتابیس مشترک برای داده ها استفاده می کند و در قابلیت دسترسی در تمام بخش های سازمان را دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP ایرانی فنک</a>
 </blockquote>
 
 ## انواع برنامه ریزی
