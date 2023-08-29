@@ -25,7 +25,7 @@ uid: Business\ErpVsMrp\ErpVsMrp
 ![تفاوت و شباهت (ERP و MRP)](./Images/ErpVsMrp.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی با امکانات نرم افزار ERP ایرانی فنک</a>
 </blockquote>
 
 ## تفاوت ERP و MRP
