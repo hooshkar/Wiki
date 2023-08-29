@@ -7,7 +7,7 @@ datePublished: 2023/08/28
 uid: Business\ProductionPlanning\WhatIsLeadTime
 ---
 
-## lead time تعریف
+## تعریف lead time
 زمان انجام یا lead time به مدت زمانی اشاره دارد که از زمان درخواست یک محصول یا خدمت توسط مشتری تا زمان تحویل نهایی آن به مشتری می‌گذرد. 
 
 به عبارت دیگر، این مفهوم نشان‌دهنده زمان لازم برای پردازش، تولید، حمل و نقل و تحویل یک سفارش به مشتری نهایی است.
@@ -15,9 +15,9 @@ uid: Business\ProductionPlanning\WhatIsLeadTime
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
-![LeadTime](./Images/LeadTime.webp)
+![lead time](./Images/LeadTime.webp)
 
-**Lead time در صنایع مختلف می‌تواند معانی و زمان‌های متفاوتی داشته باشد. به عنوان مثال:**
+**زمان انجام یا Lead time در صنایع مختلف بدین صورت است:**
 
 **تولیدی:** در صنایع تولیدی،"lead time"  ممکن است شامل مدت زمانی باشد که از شروع تولید محصول تا زمانی که آماده‌سازی و تولید تمام شده و محصول آماده به فروش شود. این شامل زمان تولید، اجزای مورد نیاز، تست کیفیت و مراحل دیگر تولید می‌شود.
 
