@@ -11,6 +11,10 @@ uid: Business\Carton\CartonIndustry
 
 ![صنعت کارتن](./Images/CartonIndustryMachinery.webp)
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Box" target="_blank">آشنایی با امکانات نرم افزار جعبه سازی
+</a></blockquote>
+
 ### 1. دستگاه دایکات (Die-cutting Machine):
 
 دستگاه دایکات برای برش، خمیر کاغذ را با الگوهای مورد نظر برش می‌دهد تا قالب‌ها و شکل‌های مختلف بر روی کارتن ایجاد شود. دستگاه‌های دایکات ممکن است به صورت پینگ پنگی (Flatbed)، فکی (Platen) و روتاری (Rotary) باشند.
@@ -27,6 +31,10 @@ uid: Business\Carton\CartonIndustry
 ### 3. دستگاه خط و تیغ و برش (Creasing and Cutting Machine):
 
 این دستگاه برای ایجاد خطوط و جاهای برش در کارتن به منظور تسهیل در انعطاف‌پذیری و بسته‌بندی استفاده می‌شود. با استفاده از دستگاه خط و تیغ و برش، می‌توان به راحتی کارتن را خمیر کاغذ کرده و قالب‌های مختلف بر روی آن را ایجاد کرد.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank">آشنایی با امکانات نرم افزار کارتن سازی
+</a></blockquote>
 
 ![Creasing and Cutting Machine](./Images/CreasingCuttingMachine.webp)
 
@@ -48,5 +56,5 @@ uid: Business\Carton\CartonIndustry
 همه این دستگاه‌ها همراه با تنظیمات و تجهیزات مربوطه برای انجام فرآیندهای دقیق و کیفیت بالا در تولید کارتن استفاده می‌شوند. همچنین، در کارخانه کارتن سازی ممکن است دیگر ماشین‌آلات و تجهیزاتی نیز مورد استفاده قرار گیرند که به ویژگی‌ها و نیازهای خاص تولید محصولات شما مرتبط باشند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Box" target="_blank">آشنایی با امکانات نرم افزار جعبه سازی
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Sheet" target="_blank">آشنایی با امکانات نرم افزار ورق سازی
 </a></blockquote>
