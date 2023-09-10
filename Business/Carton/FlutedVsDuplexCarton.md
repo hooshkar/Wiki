@@ -2,14 +2,14 @@
 title: تفاوت کارتن فلکسویی و لمینتی
 author: سمانه رشوند  
 description: کارتن فلکسویی یا همان کارتن ممبرانی، شامل لایه‌هایی از کاغذ با سلول‌های خالی در وسط آن است. کارتن لمینتی دارای لایه‌هایی از کاغذ سفید در بالا و پایین است که به صورت لمینیت (پوشش) روی کارتن قرار می‌گیرند
-dateModified: 2023/08/31
+dateModified: 2023/09/10
 datePublished: 2023/08/31
 uid: Business\Carton\FlutedVsDuplexCarton
 ---
 
 ## تفاوت های کارتن فلکسویی و کارتن لمینتی در چیست؟
 
-در صنعت کارتن سازی، دو نوع کارتن رایج است که شامل کارتن فلکسویی و کارتن لمینتی می‌شود. این دو نوع کارتن دارای ویژگی‌ها و کاربردهای مختلفی هستند. 
+در <a href="https://www.hooshkar.com/Wiki/Business/CartonIndustry" target="_blank">صنعت کارتن سازی</a>، دو نوع کارتن رایج است که شامل کارتن فلکسویی و کارتن لمینتی می‌شود. این دو نوع کارتن دارای ویژگی‌ها و کاربردهای مختلفی هستند. 
 
 ### 1. کارتن فلکسویی (Fluted Carton):
 
@@ -21,7 +21,7 @@ uid: Business\Carton\FlutedVsDuplexCarton
 این نوع کارتن به دلیل وزن سبک، مقاومت به خمش و قابلیت قابل بازیافت در بسته‌بندی محصولات مختلف استفاده می‌شود. کارتن فلکسویی برای ساخت جعبه‌ها، ظروف و سازه‌های بسته‌بندی استفاده می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">آشنایی با امکانات نرم افزار کارتن سازی
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank">آشنایی با امکانات نرم افزار کارتن سازی
 </a></blockquote>
 
 ### 2. کارتن لمینتی (Duplex Carton):
