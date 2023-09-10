@@ -2,7 +2,7 @@
 title: صنعت کارتن سازی و راهنمای کامل برای ورود به آن
 author: سمانه رشوند  
 description: صنعت کارتن یکی از صنایع مهم و پررونق در جهان است که نقش مهمی در بسته‌بندی، حمل و نقل محصولات دارد.
-dateModified: 2023/08/30
+dateModified: 2023/09/10
 datePublished: 2023/08/30
 uid: Business\Carton\CartonIndustry
 ---
