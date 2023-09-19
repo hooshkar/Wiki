@@ -28,4 +28,4 @@ uid: It/SourceControl/Github/CreateRepository
 
 7. برای ایجاد روی Create Repository کلیک کنید.
 
-![ایجاد repository](./Images/create-new-repo.png)
+![ایجاد repository](./Images/create-new-repo.webp)

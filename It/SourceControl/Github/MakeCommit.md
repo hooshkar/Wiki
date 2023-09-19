@@ -20,6 +20,6 @@ uid: It/SourceControl/Github/MakeCommit
 4. یک پیام که تغییرات شما را توضیح میدهید، برای این commit بنویسید
 5. بر روی Commit changes کلیک کنید
 
-![ایجاد تغییر و Commit](./Images/commit.png)
+![ایجاد تغییر و Commit](./Images/commit.webp)
 
 این تغییرات فقط روی فایل `README` بر روی `readme-edits branch` اعمال خواهد شد. اکنون این branch شامل محتوایی است که با `master branch` متفاوت است.

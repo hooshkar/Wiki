@@ -19,7 +19,7 @@ Branching یک راه برای کار کردن روی ورژن های مختلف
 * یک branch جدید به اسم feature
 * مسیری که feature branch از ایجاد تا merge شدن با master branch طی می کند
 
-![ایجاد branch](./Images/branching.png)
+![ایجاد branch](./Images/branching.webp)
 
 تا به حال پیش آمده که چندین ورژن از یک فایل را ذخیره کنید؟ مانند فایل های زیر:
 * story.txt
