@@ -21,18 +21,18 @@ uid: It/Markdown/Images
 
 مثال:
 ```
-![لوگو یاراد](./Images/yarad.png)
+![لوگو یاراد](./Images/yarad.webp)
 ```
 
 خروجی:
 
-![لوگو یاراد](./Images/yarad.png)
+![لوگو یاراد](./Images/yarad.webp)
 
 متن نوشته شده به عنوان alt روی عکس قرار میگرد تا اگر مسیر عکس درست نبود و یا عکس لود نشد، متن نوشته شود.
 
 مثال:
 ```
-![لوگو یاراد](./Images/mistake-address.png)
+![لوگو یاراد](./Images/mistake-address.webp)
 ```
 ## تصویر مرجع (Reference Image)
 
@@ -47,14 +47,14 @@ uid: It/Markdown/Images
 
 مثال:
 ```
-[logo yarad]: ./Images/yarad.png
+[logo yarad]: ./Images/yarad.webp
 
 ![لوگو یاراد][logo yarad]
 ```
 
 خروجی:
 
-[logo yarad]: ./Images/yarad.png
+[logo yarad]: ./Images/yarad.webp
 
 ![لوگو یاراد][logo yarad]
 
