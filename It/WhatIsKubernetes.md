@@ -1,5 +1,5 @@
 ---
-title: Kubernetes چیست؟
+title: Kubernetes چیست؟ کاربردهای آن
 author: سمانه رشوند
 description: کوبرنتیز (Kubernetes) یا به اختصار"K8s"، یک پلتفرم مدیریت کانتینری است که توسط Google توسعه داده شده است 
 dateModified: 2023/07/24  
