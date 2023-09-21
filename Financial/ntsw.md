@@ -2,7 +2,7 @@
 title: سامانه جامع تجارت ایران چیست [سایت ntsw.ir]
 author: سمانه رشوند  
 description: در این مقاله هدف از اجرای سامانه جامع تجارت، اجزای موثر و مزایای آن مورد بررسی قرار می گیرد.
-dateModified: 2023/08/13
+dateModified: 2023/09/21
 datePublished: 2022/12/14
 uid: Financial\ntsw
 ---
@@ -24,7 +24,7 @@ uid: Financial\ntsw
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">سامانه مودیان مالیاتی چیست؟
 </a></blockquote>
 
-![سامانه جامع تجارت](./Images/ntsw.webp)
+<a href="https://www.ntsw.ir" target="_blank">![سامانه جامع تجارت](./Images/ntsw.webp)</a>
 
 یکی از وظایف دولتها، ایجاد زیرساخت‌های لازم در جهت انجام بهینه امور و فعالیت‌‌‌های اقتصادی است. 
 

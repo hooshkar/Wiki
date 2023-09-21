@@ -2,7 +2,7 @@
 title: بازار کار حسابداری در ایران، چالش‌ها و راه‌حل‌ها
 author: سمانه رشوند  
 description: با توجه به رشد روزافزون بخش خصوصی در ایران و افزایش تعداد شرکت‌ها و سازمان‌ها، نیاز به حسابداران و کارشناسان مالی در این بخش نیز افزایش یافته است. بنابراین، برای ایجاد بازار کار حسابداری سالم و بهبود وضعیت آن، توجه به آموزش و پرورش کارشناسان مالی و حسابداران، ایجاد شغل‌های جدید و تنوع در این بازار کار و استفاده از فناوری‌های روز، ضروری است.
-dateModified: 2023/08/13
+dateModified: 2023/09/21
 datePublished: 2023/03/07
 uid: Financial\AccountingJobMarketInIran
 ---
@@ -58,7 +58,7 @@ uid: Financial\AccountingJobMarketInIran
 همچنین، برای استخدام در بازار کار حسابداری، داشتن تحصیلات مرتبط و مهارت‌های لازم، تجربه کاری قبلی و رزومه کاری، نقش مهمی در استخدام در این حوزه دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
+مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> نرم افزار حسابداری سایان
 </a></blockquote>
 
 ## نتیجه گیری

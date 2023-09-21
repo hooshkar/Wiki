@@ -2,7 +2,7 @@
 title: فرمول محاسبه حقوق و دستمزد
 author: سمانه رشوند  
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2023/08/13  
+dateModified: 2023/09/21  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/PayrollFormula  
 ---
@@ -17,7 +17,7 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حقوق وزارت کار 1401
 </a></blockquote>
 
 ## محاسبه حقوق پایه

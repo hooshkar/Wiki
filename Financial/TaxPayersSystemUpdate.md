@@ -2,7 +2,7 @@
 title: ارسال صورت حساب الکترونیکی تا 31 شهریور تمدید شد
 author: سمانه رشوند  
 description: تمدید مهلت ارسال صورتحساب الکترونیکی تا پایان شهریور 1402
-dateModified: 2023/08/13
+dateModified: 2023/09/21
 datePublished: 2023/07/22
 uid: Financial\TaxPayersSystemUpdate
 ---
@@ -17,6 +17,7 @@ uid: Financial\TaxPayersSystemUpdate
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">سامانه مودیان مالیاتی چیست؟
 </a></blockquote>
+
 
 ![ارسال صورت حساب الکترونیکی تا 31 شهریور تمدید شد](./Images/Bakhshnameh.webp)
 

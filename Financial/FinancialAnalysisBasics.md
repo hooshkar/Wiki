@@ -2,7 +2,7 @@
 title: آشنایی با تجزیه و تحلیل صورتهای مالی
 author: سمانه رشوند  
 description: تجزیه و تحلیل صورتهای مالی می‌تواند به شما کمک کند تا بهترین تصمیمات را برای سرمایه گذاری در شرکت بگیرید. به عنوان مثال، اگر سودآوری شرکت در دوره مالی جاری کمتر از دوره قبلی بوده باشد، می‌توانید بررسی کنید که چه مشکلاتی باعث این کاهش شده‌اند و تلاش کنید برای بهبود آنها. همچنین، اگر شرکت در حال رشد است، می‌توانید سرمایه گذاری بیشتری در آن انجام دهید تا سود بیشتری کسب کنید.
-dateModified: 2023/08/13
+dateModified: 2023/09/21
 datePublished: 2023/03/12
 uid: Financial\FinancialAnalysisBasics
 ---
@@ -68,7 +68,7 @@ uid: Financial\FinancialAnalysisBasics
 **هزینه عملیاتی** نیز نشان دهنده هزینه‌هایی است که شرکت برای انجام فعالیت‌های خود می‌پردازد. مانند: هزینه‌های مواد اولیه، هزینه‌های نیروی کار، هزینه‌های حمل و نقل و... .
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مقایسه و بررسی بهترین نرم افزارهای حسابداری</a></blockquote>
+مطلب پیشنهادی: مقایسه و بررسی<a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank"> بهترین نرم افزارهای حسابداری</a></blockquote>
 
 ## تجزیه و تحلیل جریان وجه نقد
 

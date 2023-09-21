@@ -2,7 +2,7 @@
 title: آموزش مبانی حسابداری مالی
 author: سمانه رشوند  
 description: مبانی حسابداری مالی یکی از مفاهیم اساسی در علم حسابداری است که به بررسی روش‌های ثبت و تجزیه و تحلیل اطلاعات مالی یک شرکت می‌پردازد. 
-dateModified: 2023/08/13
+dateModified: 2023/09/21
 datePublished: 2023/03/01
 uid: Financial\BasicsOfFinancialAccounting
 ---
@@ -25,7 +25,7 @@ uid: Financial\BasicsOfFinancialAccounting
 در این مطلب، به بررسی مفاهیم اساسی حسابداری مالی پرداخته خواهد شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">بازار کار حسابداری در ایران، چالش‌ها و راه‌حل‌ها
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">بازار کار حسابداری در ایران
 </a></blockquote>
 
 ## مفاهیم اساسی حسابداری مالی

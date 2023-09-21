@@ -2,7 +2,7 @@
 title: اصول حسابداری یا مفروضات چیست؟
 author: سمانه رشوند  
 description: مهم است که سازمان‌ها برای مدیریت مالی به درستی اصول حسابداری را رعایت کنند. این کار نه تنها به آن‌ها کمک می‌کند تا در قبال بدهی‌ها و دارایی‌های خود شفافیت داشته باشند، بلکه به آن‌ها کمک می‌کند تا در تصمیم‌گیری‌های مالی بهتر عمل کنند و به صورت کلی، بهبود عملکرد سازمان را در بلند مدت فراهم کنند.
-dateModified: 2023/08/13
+dateModified: 2023/09/21
 datePublished: 2023/03/07
 uid: Financial\AccountingPrinciples
 ---
@@ -26,7 +26,7 @@ uid: Financial\AccountingPrinciples
 ![اصول حسابداری](./Images/AccountingPrinciples.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">بازار کار حسابداری در ایران، چالش‌ها و راه‌حل‌ها
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">بازار کار حسابداری در ایران
 </a></blockquote>
 
 **1.	اصل همانی:**
@@ -56,7 +56,7 @@ uid: Financial\AccountingPrinciples
 اصل تمیزی به معنای آن است که دفاتر حسابداری باید به صورت تمیز و خوانا باشند. این اصل به دلیل آن است که دفاتر حسابداری برای افراد دیگری باید قابل فهم و خواندن باشند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
+مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> نرم افزار حسابداری سایان
 </a></blockquote>
 
 ## تعریف دو روش حسابداری شناور و ثابت

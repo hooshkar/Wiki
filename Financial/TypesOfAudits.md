@@ -2,7 +2,7 @@
 title: حسابرسی چیست و انواع حسابرسی کدام است؟
 author: سمانه رشوند  
 description: حسابرسی یک فرایند مهم در حوزه حسابداری و مالیاتی است که به جهت بررسی صحت و صلاحیت گزارش‌های مالی یک شرکت یا سازمان توسط حسابرسان مستقل صورت می‌گیرد. در ادامه، انواع حسابرسی را بررسی خواهیم کرد.
-dateModified: 2023/08/13
+dateModified: 2023/09/21
 datePublished: 2023/03/02
 uid: Financial\TypesOfAudits
 ---
@@ -25,7 +25,7 @@ uid: Financial\TypesOfAudits
 این نوع حسابرسی توسط یک تیم داخلی از حسابرسان انجام می‌شود. این حسابرسی به منظور اطمینان از دقت و صحت گزارش‌های مالی، ارزیابی عملکرد و بهبود فرایندهای کسب و کار انجام می‌شود. حسابرسی داخلی معمولاً توسط مدیران بالاترین سطح در یک سازمان انجام می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مقایسه و بررسی بهترین نرم افزار های حسابداری</a></blockquote>
+مطلب پیشنهادی: بررسی<a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank"> بهترین نرم افزار های حسابداری</a></blockquote>
 
 ## حسابرسی خارجی
 حسابرسی خارجی توسط یک شرکت حسابرسی مستقل انجام می‌شود. این شرکت مسئول بررسی و تأیید گزارش‌های مالی و حسابداری یک سازمان است. حسابرسی خارجی برای اطمینان از صحت و دقت گزارش‌های مالی و کاهش خطرات حسابرسی در آینده انجام می‌شود.
@@ -43,7 +43,7 @@ uid: Financial\TypesOfAudits
 ![حسابرسی مالیاتی](./Images/TaxAudit.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مقایسه و بررسی بهترین نرم افزارهای حسابداری</a></blockquote>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> نرم افزار حسابداری سایان</a></blockquote>
 
 ## حسابرسی گزارش شده
 در این نوع حسابرسی، حسابرس برای بررسی صحت و قابلیت اطمینان گزارش‌های مالی شرکت به صورت رسمی برای سهامداران و دیگر ذینفعان یک گزارش حسابرسی صادر می‌کند. 
