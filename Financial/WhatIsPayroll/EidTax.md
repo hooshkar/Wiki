@@ -2,7 +2,7 @@
 title: محاسبه عیدی و مالیات عیدی
 author: سمانه رشوند  
 description: فردی که یک سال گذشته در واحد اقتصادی مشغول بوده باشد در پایان سال مبلغی معادل دو برابر حقوق پایه ماهیانه خود به عنوان عیدی دریافت خواهد کرد.
-dateModified: 2023/09/21
+dateModified: 2023/09/25
 datePublished: 2023/02/19
 uid: Financial/WhatIsPayroll/EidTax
 ---
@@ -67,7 +67,7 @@ uid: Financial/WhatIsPayroll/EidTax
 نکته مهمی که درباره مالیات عیدی بازنشستگان تامین اجتماعی وجود دارد این است که طبق قانون، از عیدی آنها هیچ گونه مالیاتی کسر نمی‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد سایان
+مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه حقوق سایان
 </a></blockquote>
 
 [مقدمه]: #مقدمه

@@ -32,6 +32,11 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 کارکرد شب کاری × 100 ÷ 35 × (220 ÷ حقوق پایه در حکم)
 
 -------------------
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد سایان
+</a>
+</blockquote>
+
 ## فرمول محاسبه حقوق و دستمزد نوبت کاری
 
 _فرمول حقوق و دستمزد شیفت کاری 6 الی 14 بعد از ظهر_
