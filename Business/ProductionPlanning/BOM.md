@@ -17,7 +17,7 @@ uid: Business\ProductionPlanning\BOM
 همچنین گاهی اوقات تعداد لازم از هر قطعه برای مونتاژ یک واحد محصول سطح بالاتر نیز در کنار نام قطعه نشان داده می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات بسته تولیدی سایان</a>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> بسته تولیدی سایان</a>
 </blockquote>
 
 **مثال:** اگر یک سازنده دوچرخه بخواهد 1000 دوچرخه بسازد، صورتحساب مواد شامل تمام قطعات جداگانه مورد نیاز برای ساخت دوچرخه است.

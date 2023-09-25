@@ -33,7 +33,7 @@ uid: Business\Kanban\KanbanVsScrum
 4.	در روش اسکرام، امکان تغییر تسک‌‌ها در میانه اسپرینت مجاز نیست، اما روش کانبان نسبت به تغییر برنامه کاملا منعطف عمل می‌کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک</a>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید فنک</a>
 </blockquote>
 
 ## تفاوت در معیارها و ارزش ها

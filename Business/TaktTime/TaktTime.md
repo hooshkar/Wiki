@@ -30,7 +30,7 @@ Takt Time ابزاری بسیار قدرتمند برای مدیران پروژ�
 ![فرمول زمان تکت](./Images/TaktTime.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات نرم افزار تولیدی سایان
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> نرم افزار تولیدی سایان
 </a></blockquote>
 
 ## فرمول زمان تکت
@@ -125,7 +125,9 @@ _**زمان تکت = تعداد کل ساعات کاری پروژه تقسیم �
 
 توجه به این موارد توان عملیاتی هر مجموعه‌ای را افزایش خواهد داد.
 
-![5S](./Images/5S.webp)
+<a href="https://www.hooshkar.com/Wiki/Business/5S" target="_blank">![5S](./Images/5S.webp)
+</a>
+
 
 **3.	انعطاف پذیری در تولید**
 

@@ -2,7 +2,7 @@
 title: CRM یا مدیریت ارتباط با مشتری چیست؟
 author: سمانه رشوند
 description: مدیریت ارتباط با مشتری CRM مخفف عبارت "Customer Relationship Management" است و به یک سیستم مدیریتی اشاره دارد که برای مدیریت ارتباط با مشتریان در یک سازمان به جهت بهبود روابط تجاری استفاده می‌شود.
-dateModified: 2023/08/13
+dateModified: 2023/09/25
 datePublished: 2023/04/26
 uid: Business\WhatIsCrm
 ---
@@ -14,10 +14,9 @@ uid: Business\WhatIsCrm
 
 
 ## تعریف مدیریت ارتباط با مشتری
-مدیریت ارتباط با مشتری یا <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">CRM
-</a> مخفف عبارت "Customer Relationship Management" است.
+مدیریت ارتباط با مشتری یا CRM مخفف عبارت "Customer Relationship Management" است.
 
-سازمان‌ها و شرکت‌ها از  <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">نرم افزار مدیریت ارتباط با مشتری</a> (CRM) برای تعیین، جذب، گسترش، حفظ و بهبود ارتباط با مشتریان خود استفاده می‌کنند. 
+سازمان‌ها و شرکت‌ها از  <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">نرم افزار مدیریت ارتباط با  مشتری (CRM)</a> برای تعیین، جذب، گسترش، حفظ و بهبود ارتباط با مشتریان خود استفاده می‌کنند. 
 این ارتباطات ممکن است از طریق کانال‌های مختلفی مانند تلفن، ایمیل، وب‌سایت‌ها، شبکه‌های اجتماعی و غیره برقرار شود.
 
 هدف اصلی CRM، بهبود تجربه مشتریان، افزایش رضایت آن‌ها، ارتقاء فرآینده‌های فروش و بازاریابی، بهینه‌سازی خدمات پس از فروش و تقویت ارتباط بین سازمان و مشتریان است.
@@ -27,7 +26,8 @@ uid: Business\WhatIsCrm
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/CrmAndErpDifferences" target="_blank">تفاوت CRM و  ERP چیست؟
 </a></blockquote>
 
-![مدیریت ارتباط با مشتری (CRM) چیست؟](./Images/CRM.webp)
+<a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">![CRM چیست؟](./Images/CRM.webp)</a>
+
 
 ## کاربردهای CRM در سازمان ها عبارتند از
 
@@ -50,7 +50,7 @@ uid: Business\WhatIsCrm
 **7. بهبود امنیت و حفاظت اطلاعات:** با داشتن سیستم مرکزی برای ذخیره و مدیریت اطلاعات مشتریان، امنیت و حفاظت از اطلاعات حساس مشتریان بهبود یافته و احتمال نفوذ و دسترسی غیرمجاز به اطلاعات کاهش می‌یابد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">آشنایی امکانات نرم افزار ERP ایرانی
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> نرم افزار ERP ایرانی
 </a></blockquote>
 
 ## انواع CRM

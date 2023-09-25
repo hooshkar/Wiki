@@ -2,7 +2,7 @@
 title: برنامه ریزی مواد و قطعات [MRP] چیست؟
 author: سمانه رشوند  
 description:  پایه زمان بندی برای تولید یا خرید قطعات یا زیر مونتاژهای محصول است که براساس MPS و یکسری ورودی ها مثل Lead Time، وضعیت موجودی ها، ساختار محصول (BOM) و سایر سیاست های سفارش دهی به منظور تامین کردن ریز مونتاژهای محصول انجام می شود.
-dateModified: 2023/08/13 
+dateModified: 2023/09/25 
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\MRP
 ---
@@ -38,7 +38,7 @@ uid: Business\ProductionPlanning\MRP
 *	کاهش میزان موجودی انبار
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## حلقه بسته MRP
 
@@ -51,7 +51,8 @@ uid: Business\ProductionPlanning\MRP
 
 ## ساختار محصول (Bill of Material)
 
-![BOM](./Images/BillOfMaterial.webp)
+<a href="https://www.hooshkar.com/Wiki/Production/BOM" target="_blank">![BOM](./Images/BillOfMaterial.webp)
+</a>
 
 ساختار محصول (BOM)، لیستی که شامل کلیه اقلام مورد نیاز برای تولید یک محصول نهایی نیاز است. که کلیه مونتاژها و زیر مونتاژها را نیز نشان می دهد. این لیست اغلب اوقات بصورت سلسه مراتبی نشان داده می شود. مسیرهای این درخت، زیر مونتاژهای لازم برای تولید قطعات در سطوح بالاتر را نشان می دهد. همچنین مسیر مونتاژ قطعات برای رسیدن به محصول نهایی نیز نمایش داده می شود.
 

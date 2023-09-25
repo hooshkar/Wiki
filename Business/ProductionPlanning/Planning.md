@@ -69,7 +69,7 @@ uid: Business\ProductionPlanning\Planning
 **6. چشم انداز:** بیان آرمان ها و ارزشهای سازمان
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید
 </a></blockquote>
 
 ## برنامه ریزی تولید

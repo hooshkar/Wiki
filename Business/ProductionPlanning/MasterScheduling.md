@@ -2,7 +2,7 @@
 title: زمان بندی اصلی تولید [MPS] چیست؟
 author: سمانه رشوند  
 description: زمان بندی اصلی پایه برنامه ریزی کوتاه مدت است که آن را به عنوان قلب برنامه ریزی تولید و کنترل موجودی می شناسند. کار اصلی آن ایجاد ارتباط بین برنامه ریزی میان مدت و کوتاه مدت می باشد.
-dateModified: 2023/08/13
+dateModified: 2023/09/25
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\MasterScheduling
 ---
@@ -24,7 +24,7 @@ uid: Business\ProductionPlanning\MasterScheduling
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## زمان بندی اصلی چیست
 برنامه زمان بندی اصلی (Master Scheduling) محور فعالیت های شرکت در زمینه مهندسی، خرید، ساخت، فروش و امور مالی می باشد. 

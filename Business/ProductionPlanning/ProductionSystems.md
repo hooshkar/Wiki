@@ -2,7 +2,7 @@
 title: بررسی انواع سیستم های تولیدی - ایستگاه گلوگاه تولیدی و...
 author: سمانه رشوند  
 description: فیدبک + خروجی + پردازش + ورودی = سیستم تولید
-dateModified: 2023/08/13
+dateModified: 2023/09/25
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\ProductionSystems  
 ---
@@ -44,7 +44,7 @@ uid: Business\ProductionPlanning\ProductionSystems
 **4. فیدبک:** یکسری از تجربیات و دانش هایی هستند در جهت ارتقای کیفیت فرایند پردازش و ورودی ها که ما از خروجی استخراج کرده ایم
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">آشنایی با امکانات نرم افزار تولیدی سایان
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> نرم افزار تولیدی سایان
 </a></blockquote>
 
 

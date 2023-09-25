@@ -36,7 +36,7 @@ uid: Business\Carton\CartonIndustryMachinery
 ![ ماشین آلات مورد نیاز در صنعت کارتن سازی](./Images/CartonIndustryMachinery.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Box" target="_blank">آشنایی با امکانات نرم افزار جعبه سازی
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Box" target="_blank"> نرم افزار جعبه سازی
 </a></blockquote>
 
 ### دستگاه دایکات (Die-cutting Machine)
@@ -78,7 +78,7 @@ uid: Business\Carton\CartonIndustryMachinery
 ![دستگاه لمینت ساز (Laminating Machine)](./Images/LaminatingMachine.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Sheet" target="_blank">آشنایی با امکانات نرم افزار ورق سازی
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Sheet" target="_blank"> نرم افزار ورق سازی
 </a></blockquote>
 
 ### دستگاه لب چسب
@@ -110,7 +110,7 @@ uid: Business\Carton\CartonIndustryMachinery
 لیستی که ارائه شد، به تعدادی از دستگاه‌های اصلی و مهم در خط تولید کارتن اشاره می‌کند. بسته به مقیاس تولید و نیازهای خاص شما، ممکن است برخی از این دستگاه‌ها را در خط تولید خود استفاده کنید یا به دستگاه‌های دیگری نیز نیاز داشته باشید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank">آشنایی با امکانات نرم افزار کارتن سازی
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank"> نرم افزار کارتن سازی
 </a></blockquote>
 
 ## انواع چاپ بر روی کارتن

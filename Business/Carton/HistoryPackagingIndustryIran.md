@@ -28,5 +28,5 @@ uid: Business\Carton\HistoryPackagingIndustryIran
 کارخانه هفت تپه در خوزستان هم به عنوان اولین کارخانه مدرن ایران شناخته می‌شود که در سال‌های اخیر توانایی تولید لایه‌های بیرونی کارتن را دارد. همچنین، لایه‌های پلیمری برای بسته بندی محصولات پاستوریزه نیز در حال تولید در ایران هستند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging" target="_blank">آشنایی با امکانات نرم افزار  صنایع چاپ و بسته بندی
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/PrintingAndPackaging" target="_blank"> نرم افزار  صنایع چاپ و بسته بندی
 </a></blockquote>

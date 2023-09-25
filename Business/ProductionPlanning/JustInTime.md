@@ -2,7 +2,7 @@
 title: سیستم تولید به هنگام (Just in time) چیست؟
 author: سمانه رشوند  
 description: این سیستم دقیقا سیستم تولید MRP است. برنامه ریزی تولید بر مبنای داده هایی نظیر تقاضاهای پیش بینی شده، لیست مواد (Bill of Material)، زمان تدارک (Lead Time) و وضعیت موجودی صورت می گیرد.
-dateModified: 2023/08/13
+dateModified: 2023/09/25
 datePublished: 2022/11/12
 uid: Business\ProductionPlanning\JustInTime
 ---
@@ -63,7 +63,7 @@ uid: Business\ProductionPlanning\JustInTime
 ![Push SYS و Pull SYS](./Images/PushandPull.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی و کنترل تولید</a></blockquote>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی و کنترل تولید</a></blockquote>
 
 ### تفاوت سیستم برنامه ریزی و کنترل تولید فشاری و کششی
 *	در سیستم های فشاری، تولید با تمام توان و ظرفیت صورت می گیرد ولی در سیستم کششی تنها وقتی که مشتری تقاضا می کند و دقیقا به همان میزان انجام می گیرد.
@@ -139,7 +139,7 @@ uid: Business\ProductionPlanning\JustInTime
 مثال مودا در تولید: موارد زیادی وجود دارد که هر کدام طبقه بندی های خاص خودشان را دارند. مثل بایگانی های غیر ضروری، موجودی های اضافی، توقف کارکنان در صف سلف غذا، انتظار و تاخیر، تولید مازاد، کار اضافی، جابجایی های غیر ضرروی وسایل حمل و نقل و حتی نیروی انسانی  
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">آشنایی با امکانات نرم افزار ترازوی تولیدی</a></blockquote>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank"> نرم افزار ترازوی تولیدی</a></blockquote>
 
 **2. موری**
 
@@ -173,7 +173,7 @@ uid: Business\ProductionPlanning\JustInTime
 در سیستم تولید به هنگام برای آنکه اهداف تولیدی قابل دسترس باشند. باید تمام منشاهای ایجاد عیوب از میان برداشته شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/BarcodeReader" target="_blank">آشنایی با امکانات بارکد خوان تولیدی</a></blockquote>
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Module/BarcodeReader" target="_blank"> بارکد خوان تولیدی</a></blockquote>
 
 **صفر کردن آماده سازی:**
 معمولا اندازه انباشته تولید (دسته تولیدی) از تعادل بین هزینه های نگهداری و هزینه های راه اندازی بدست می آید. در سیستم تولید به هنگام، مفاهیم زمان آماده سازی صفر و اندازه انباشته، اعدادی باهم مرتبط هستند.  

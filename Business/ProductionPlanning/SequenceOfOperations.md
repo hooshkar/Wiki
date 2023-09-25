@@ -2,7 +2,7 @@
 title: توالی عملیات و زمان بندی عملیات چیست؟
 author: سمانه رشوند  
 description: توالی عملیات و زمان بندی عملیات یعنی تعیین ترتیب یک کار بر روی یک ایستگاه کاری یا مراکز کاری مختلف.
-dateModified: 2023/08/13
+dateModified: 2023/09/25
 datePublished: 2022/11/05
 uid: Business\ProductionPlanning\SequenceOfOperations
 ---
@@ -87,7 +87,7 @@ uid: Business\ProductionPlanning\SequenceOfOperations
 *	درصدی از فعالیت ها که دچار تاخیر می شوند یا درصدی از فعالیت ها که بدون تاخیر انجام می شوند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار تولیدی سایان
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank"> نرم افزار تولیدی سایان
 </a></blockquote>
 
 ### اولویت بندی فعالیتها بر روی بیش از یک ماشین (موازی)

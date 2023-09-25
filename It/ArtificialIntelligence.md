@@ -2,7 +2,7 @@
 title: هوش مصنوعی، هوش صناعی یا هوش ماشینی
 author: سمانه رشوند
 description: هوش مصنوعی به ایجاد کامپیوترها یا سیستم‌هایی اطلاق می‌شود که قادر به تمامیت یا برخی ویژگی‌های هوش طبیعی انسان‌ها می‌باشند.
-dateModified: 2023/08/13 
+dateModified: 2023/09/25 
 datePublished: 2023/05/28   
 uid: It/ArtificialIntelligence
 ---
@@ -19,3 +19,6 @@ uid: It/ArtificialIntelligence
 
 
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Github/Intro" target="_blank"> آموزش گیت هاب (github)
+</a></blockquote>

@@ -2,7 +2,7 @@
 title: مدیریت فرآیند (BPMS) چیست؟
 author: سمانه رشوند
 description: نرم‌افزار BPMS یکی از ابزارهای مدیریت فرایند کسب و کار است که به شما کمک می‌کند تا فرایندهای سازمان خود را از طریق اتوماسیون و بهینه‌سازی بهبود ببخشید.
-dateModified: 2023/08/13
+dateModified: 2023/09/25
 datePublished: 2023/05/03
 uid: Business\WhatIsBpms
 ---
@@ -23,7 +23,7 @@ uid: Business\WhatIsBpms
 ![Business Process Management System](./Images/BPMS.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">آشنایی با امکانات نرم افزار مدیریت فرایند فِنِک
+مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank"> نرم افزار مدیریت فرایند فِنِک
 </a></blockquote>
 
 ## از مزایای استفاده از نرم افزار BPMS می توان به موارد زیر اشاره کرد
