@@ -31,7 +31,9 @@ uid: Financial\FinancialRatios
 
 **• نسبت سود ناخالص به فروش:** این نسبت، نشان دهنده درصد سود ناخالص (سود قبل از کسر هزینه‌های مالی و مالیاتی) بر فروش است. این نسبت نشان دهنده سوددهی واقعی شرکت به دلیل آنکه تمامی هزینه‌های مالی و مالیاتی کسر شده‌اند است.
 
-
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
 
 ## 2- نسبت های بدهی
 

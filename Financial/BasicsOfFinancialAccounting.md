@@ -67,6 +67,10 @@ uid: Financial\BasicsOfFinancialAccounting
 در صورتی که سود شرکت بیشتر از زیان باشد، به معنی این است که شرکت در یک دوره مالی به سود رسیده است. این گزارش برای مدیران، سهامداران و بورسیه‌ها بسیار مهم است.
 
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
+
 ## نتیجه گیری
 
 در کل، مبانی حسابداری مالی یکی از مهم‌ترین موضوعات در حوزه مدیریت و اقتصاد است. 

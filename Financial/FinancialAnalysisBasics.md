@@ -32,7 +32,13 @@ uid: Financial\FinancialAnalysisBasics
 2. صورت سود و زیان نشان دهنده درآمد، هزینه‌ها، سود و زیان شرکت در یک دوره مشخص است. 
 3. گزارش جریان وجوه نقد نشان دهنده جریان وجوه نقد در شرکت در یک دوره مشخص است.
 
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+
+</a></blockquote>
 ## تجزیه و تحلیل ترازنامه
+
 
 ![ترازنامه](./Images/BalanceSheetAccount.webp)
 

@@ -21,6 +21,10 @@ uid: Financial\AccountingPrinciples
 
 در ادامه، به بررسی اصول حسابداری، تفاوت بین دو روش حسابداری و همچنین کاربردهای اصول حسابداری در سازمان‌ها پرداخته می‌شود.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
+
 ## انواع اصول حسابداری و کاربردهای آن‌ها
 
 ![اصول حسابداری](./Images/AccountingPrinciples.webp)

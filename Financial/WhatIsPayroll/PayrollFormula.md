@@ -48,6 +48,10 @@ _فرمول حقوق و دستمزد شیفت کاری 14 الی 22 شب_
 (کارکرد نوبت کاری 15% × 100 ÷ 15 × (220 ÷ حقوق پایه در حکم))
 
 -------------------
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
+
 ## فرمول محاسبه حقوق و دستمزد سنوات
 روزهای کارکرد سنوات خدمت × 365 ÷ حقوق پایه در حکم
 

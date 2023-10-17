@@ -23,6 +23,11 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 
 آیا این نرم افزارها خیلی بهم شبیه هستند یا نه تفاوت زیادی باهم دارند؟
 
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
+
 ## 1. مقایسه نرم افزار های حسابداری برتر براساس دانش حسابداری طبق بازار هدف
 
 **- نرم افزار هلو** نیازمند سطح پایینی از دانش حسابداری می‌باشد حتی بدون نیاز به دانش حسابداری هم می‌توان با این نرم افزار کار کرد. در واقع کدینگ ها بصورت پیش فرض در این نرم افزار تعریف شده است.

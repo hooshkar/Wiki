@@ -52,6 +52,10 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
 
 جهت محاسبه حقوق و دستمزد کارکنان با توجه به جایگاه شغلی و سمتی که دارند باید عوامل مختلفی نظیر مکان، مهارت، مدارک تحصیلی و... بررسی شود.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
+
 ## لیست حقوق چیست
 
 در واقع بدهکاری است که شرکت در ازای کارکرد (هفتگی یا ماهانه یا حتی روزانه) کارکنان پرداخت می کند.

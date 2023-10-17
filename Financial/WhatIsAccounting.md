@@ -35,6 +35,9 @@ uid: Financial\WhatIsAccounting
 
 حسابداری علاوه بر ارائه اطلاعات مالی، می‌تواند در تصمیم‌گیری‌های مدیریتی، برنامه‌ریزی مالی، بودجه‌بندی، کنترل هزینه‌ها، ارزیابی عملکرد، مدیریت سرمایه و استفاده بهینه از منابع مالی و اقتصادی کمک کند.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
 
 [حسابداری]: #حسابداری
 [حسابداری مالی]: #حسابداری-مالی

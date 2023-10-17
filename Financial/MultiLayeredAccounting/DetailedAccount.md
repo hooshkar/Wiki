@@ -40,6 +40,10 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 
 بعنوان مثال نیاز داریم گردش و مانده حسابهای اشخاص حقیقی یا حقوقی خود را به تفکیک در سیستم حسابداری داشته باشیم که بدون بکارگیری حساب تفصیل، این امکان وجود نخواهد داشت.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
+
 ## ماهیت حساب تفصیلی
 حساب های تفصیلی ماهیت جزئی دارند. جزئیات اگرچه بسیار مهم هستند اما به تنهایی بی معنا می شوند. حساب های تفصیلی به نوعی ماهیت خود را از حساب معین خود دریافت می کنند.
 
