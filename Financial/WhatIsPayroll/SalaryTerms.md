@@ -4,7 +4,7 @@ author: روشان رضایی
 description: حقوق و دستمزد یکی از مهم‌ترین بخش‌های مالی هر شرکت است. امروزه با کمک نرم افزارهای مختلف می‌توان روند پرداخت حقوق را تسریع بخشید.
 dateModified: 2023/10/30  
 datePublished: 2022/10/30 
-uid: Financial/WhatIsPayroll/SalaryTerms 
+uid: Financial/WhatIsPayroll/ExaminingSalaryTerminology  
 ---
 **راهنمای مطالب**
 - [حقوق و دستمزد](#حقوق-و-دستمزد)
