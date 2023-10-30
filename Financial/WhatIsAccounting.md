@@ -39,6 +39,16 @@ uid: Financial\WhatIsAccounting
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
 </a></blockquote>
 
+
+
+----
+<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting
+" target="_blank">حسابداری سایان</a> ابزاری قدرتمند است. هم‌اکنون با کارشناسان <a href="https://www.hooshkar.com
+" target="_blank">هوشکار</a>
+
+ تماس بگیرید و مسیر بهبود واحد حسابداری خود را شروع کنید.
+
+
 [حسابداری]: #حسابداری
 [حسابداری مالی]: #حسابداری-مالی
 [حسابداری مدیریتی]: #حسابداری-مدیریتی
