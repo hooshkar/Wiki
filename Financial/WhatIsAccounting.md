@@ -19,7 +19,7 @@ uid: Financial\WhatIsAccounting
 " target="_blank">برنامه ریزی مالی</a>، مدیریت سرمایه، بودجه‌بندی و ارزیابی عملکرد مالی می‌تواند نقش مهمی ایفا کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: بررسی <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">بهترین نرم افزار های حسابداری</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">بررسی بهترین نرم افزار های حسابداری</a></blockquote>
 
 **حسابداری به دو دسته حسابداری مالی و حسابداری مدیریتی تقسیم می‌شود.**
 
@@ -42,13 +42,6 @@ uid: Financial\WhatIsAccounting
 
 
 ----
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting
-" target="_blank">حسابداری سایان</a> ابزاری قدرتمند است. هم‌اکنون با کارشناسان <a href="https://www.hooshkar.com
-" target="_blank">هوشکار</a>
+حسابداری بخشی بسیار اساسی و حیاتی در هر سازمان است. بدون وجود نرم افزارهای حرفه‌ای‌ انجام وظایف، مدیریت کارهای سازمانی به راحتی قابل پیاده سازی نیست.
 
- تماس بگیرید و مسیر بهبود واحد حسابداری خود را شروع کنید.
-
-
-[حسابداری]: #حسابداری
-[حسابداری مالی]: #حسابداری-مالی
-[حسابداری مدیریتی]: #حسابداری-مدیریتی
+در این راستا <a href="https://www.hooshkar.com" target="_blank">شرکت هوشکار</a>، با سابقه سال‌ها در ارائه نرم‌افزارهای حسابداری، آماده است تا خدمات خود را به شما ارائه دهد. برای مشاوره و انجام سفارش، با ما تماس حاصل فرمایید.

@@ -36,7 +36,7 @@ uid: Financial\WhatIsCosting
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Fennec/Module/Costing" target="_blank">نرم افزار بهای تمام شده
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/Costing" target="_blank">آشنایی با امکانات نرم افزار بهای تمام شده
 </a></blockquote>
 
 ## حسابداری بهای تمام شده چیست
@@ -44,7 +44,7 @@ uid: Financial\WhatIsCosting
 با توجه به توسعه حوزه علم حسابداری و نیاز به دستیابی به اهداف خاص و دقیق هر نوع کسب و کار، حسابداری به چندین زیرشاخه تخصصی تقسیم شده است. حسابداری بهای تمام شده، یک زیرشاخه از <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی</a> است که وظیفه جمع‌آوری اطلاعات مرتبط با هزینه‌ها را دارد، سپس محاسبات بهای تمام شده برای محصولات و خدمات صورت می‌گیرد و روش‌های کاهش بهای تمام شده و بهبود عملکرد تولیدات تحلیل و ارائه می‌شود. این اطلاعات از طریق تحلیل گزارش‌ها و بررسی روش‌های تولید به مدیران ارائه می‌شوند. اصول حسابداری بهای تمام شده به سازمان‌ها کمک می‌کند تا عملکرد مالی و عملیاتی خود را بهبود بخشند و منابع خود را بهینه‌سازی کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: ویژگی های <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">بهترین نرم افزار انبارداری
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">بهترین نرم افزار انبارداری چه ویژگی هایی دارد؟
 </a></blockquote>
 
 ## برخی از وظایف حسابدار بهای تمام شده عبارتند از
@@ -65,7 +65,7 @@ uid: Financial\WhatIsCosting
 **6. تحلیل و بررسی موجودی کالاها:** حسابدار بهای تمام شده برای قیمت‌گذاری محصولات و کنترل موجودی‌ها، باید موجودی‌های کالاها را با دقت تحلیل و بررسی کند. این اطلاعات اساسی برای تعیین قیمت‌ها و مدیریت موجودی‌ها می‌باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: ویژگی های <a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">بهترین نرم افزار بهای تمام شده
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">بهترین نرم افزار بهای تمام شده چه ویژگی هایی دارد؟
 </a></blockquote>
 
 <a href="https://www.hooshkar.com/Software/Fennec/Module/Costing" target="_blank"> ![سایان، بهترین نرم افزار حسابداری بهای تمام شده](./Images/TheBestCostAccounting-01.webp)</a>
@@ -88,7 +88,7 @@ uid: Financial\WhatIsCosting
 **2. بهای تمام شده غیرمستقیم:** در این نوع بهای تمام شده، هزینه‌هایی که به طور غیرمستقیم به تولید کالاها مرتبط هستند مانند هزینه‌های ماشین‌آلات و تجهیزات تولیدی نیز در محاسبات در نظر گرفته می‌شوند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی:  <a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">سامانه مودیان مالیاتی چیست؟
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">سامانه مودیان مالیاتی چیست؟
 </a></blockquote>
 
 **3. بهای تمام شده فرصت از دست رفته:** در این روش، بهای تمام شده با توجه به فرصت‌هایی که از دست می‌روند محاسبه می‌شود. مثلاً، اگر یک شرکت تصمیم بگیرد به جای سرمایه‌گذاری در یک پروژه با بازدهی 10٪، در پروژه‌ای با بازدهی 15٪ سرمایه‌گذاری کند، تفاوت سود این دو پروژه به عنوان بهای تمام شده فرصت از دست رفته محاسبه می‌شود.
@@ -150,7 +150,7 @@ uid: Financial\WhatIsCosting
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات و ویژگی های نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## فرمول بهای تمام شده
 
