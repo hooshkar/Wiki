@@ -13,5 +13,5 @@ uid: Financial/MultiLayeredAccounting/MultiLayeredAccounting
 سود و زیان، ترازنامه و حتی دفاتر را بر روی لایه های موازی و دلخواه تان تهیه کنید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>

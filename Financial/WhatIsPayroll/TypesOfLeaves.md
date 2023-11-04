@@ -50,7 +50,7 @@ uid: Financial/WhatIsPayroll/TypesOfLeaves
 بعد از اتمام دوره مرخصی کارفرما ملزم به پرداخت حق سنوات و عیدی این مدت مرخصی بوده و علاوه بر آن کارفرما موظف است با ادامه فعالیت شخص موافقت نماید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank"> نرم افزار حقوق و دستمزد سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank"> آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
 </a></blockquote>
 
 

@@ -74,7 +74,7 @@ uid: Financial\FinancialAnalysisBasics
 **هزینه عملیاتی** نیز نشان دهنده هزینه‌هایی است که شرکت برای انجام فعالیت‌های خود می‌پردازد. مانند: هزینه‌های مواد اولیه، هزینه‌های نیروی کار، هزینه‌های حمل و نقل و... .
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: مقایسه و بررسی<a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank"> بهترین نرم افزارهای حسابداری</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank"> مقایسه و بررسی بهترین نرم افزارهای حسابداری</a></blockquote>
 
 ## تجزیه و تحلیل جریان وجه نقد
 

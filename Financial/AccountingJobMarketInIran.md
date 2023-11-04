@@ -62,7 +62,7 @@ uid: Financial\AccountingJobMarketInIran
 همچنین، برای استخدام در بازار کار حسابداری، داشتن تحصیلات مرتبط و مهارت‌های لازم، تجربه کاری قبلی و رزومه کاری، نقش مهمی در استخدام در این حوزه دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>
 
 ## نتیجه گیری

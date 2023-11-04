@@ -16,7 +16,7 @@ uid: Financial/WhatIsPayroll/Payroll1401
 حداقل حقوق وزارت کار در سال ۱۴۰۱ ماهانه ۴ میلیون و ۱۷۹ هزار و ۷۵۰ تومان تعیین شده است. این مبلغ در سال ۱۴۰۰، ۲ میلیون و ۵۵۴ هزار و ۹۵۰ تومان بود. 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
 </a>
 </blockquote>
 

@@ -60,7 +60,7 @@ uid: Financial\AccountingPrinciples
 اصل تمیزی به معنای آن است که دفاتر حسابداری باید به صورت تمیز و خوانا باشند. این اصل به دلیل آن است که دفاتر حسابداری برای افراد دیگری باید قابل فهم و خواندن باشند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>
 
 ## تعریف دو روش حسابداری شناور و ثابت

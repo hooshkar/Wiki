@@ -49,7 +49,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 ![انواع کدینگ حسابداری](./Images/TypesOfAccountingCoding.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>
 
 ### 1. کدینگ سلسه مراتبی

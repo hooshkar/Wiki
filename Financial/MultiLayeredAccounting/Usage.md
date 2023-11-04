@@ -12,5 +12,5 @@ uid: Financial/MultiLayeredAccounting/Usage
 با ایجاد لایه های حساب و تخصیص معین های مناسب به لایه ها شما می توانید گردش حساب پروژه ها یا شعب را به تفکیک حساب، ثبت و نگهداری کنید، همچنین با استفاده از لایه های حساب، شما می توانید سود و زیان پروژه ها و شعب را نیز به تفکیک حساب محاسبه و ثبت نمایید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>

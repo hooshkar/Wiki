@@ -66,7 +66,7 @@ uid: Financial\Inventory
 این سیستم برای محصولاتی مناسب است که دارای تاریخ انقضای مشخصی هستند و باید زودتر از اقلام جدید، از انبار خارج شوند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">نرم افزار انبار و حسابداری انبار سایان</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">آشنایی با امکانات نرم افزار انبار و حسابداری انبار سایان</a></blockquote>
 
 ### سیستم LiFo
 سیستم لایفو، کاملا برعکس سیستم فایفو است. در این سیستم، کالای جدیدتر بر کالای قدیمی اولویت دارد و زودتر خارج می‌شود. سیستم لایفو بیشتر برای محصولات الکترونیکی کاربرد دارد تا کالاهایی با تکنولوژی جدیدتر، جایگزین کالاهای قدیمی شوند.
@@ -109,7 +109,7 @@ uid: Financial\Inventory
 در این مرحله، برای خروج کالا لازم است تا مجوز خروج از انبار صادر شود. اگر صاحب کالا درخواست بسته‌بندی محصول را کرده باشد، باید قبل از بارگیری عملیات بسته‌بندی انجام شود. سپس کالا آماده‌ی ارسال است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## انواع روش های انبارداری و بهترین آن
 
@@ -135,7 +135,7 @@ uid: Financial\Inventory
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Assets" target="_blank">نرم افزار اموال و دارایی ثابت سایان</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Assets" target="_blank">آشنایی با امکانات نرم افزار اموال و دارایی ثابت سایان</a></blockquote>
 
 ## رسید انبار چیست
 
@@ -181,7 +181,7 @@ uid: Financial\Inventory
 برای 3 مورد از مهم‌ترین مزایای این نرم‌افزارها، می‌توان به نکات زیر اشاره نمود:
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">آشنایی با امکانات نرم افزار انبارداری سایان
 </a></blockquote>
 
 ![مزایای استفاده از نرم افزار‌ انبارداری](./Images/WarehousingSoftware.webp)

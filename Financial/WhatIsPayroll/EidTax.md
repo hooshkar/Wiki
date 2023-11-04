@@ -71,7 +71,7 @@ uid: Financial/WhatIsPayroll/EidTax
 نکته مهمی که درباره مالیات عیدی بازنشستگان تامین اجتماعی وجود دارد این است که طبق قانون، از عیدی آنها هیچ گونه مالیاتی کسر نمی‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه حقوق سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">آشنایی با امکانات نرم افزار محاسبه حقوق سایان
 </a></blockquote>
 
 [مقدمه]: #مقدمه

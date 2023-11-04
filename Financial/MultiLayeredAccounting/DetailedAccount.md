@@ -48,7 +48,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 حساب های تفصیلی ماهیت جزئی دارند. جزئیات اگرچه بسیار مهم هستند اما به تنهایی بی معنا می شوند. حساب های تفصیلی به نوعی ماهیت خود را از حساب معین خود دریافت می کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> نرم افزار حسابداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> آشنایی با امکانات نرم افزار حسابداری سایان
 </a></blockquote>
 
 ## تفاوت حساب تفصیلی و معین و کل

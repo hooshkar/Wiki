@@ -36,7 +36,7 @@ uid: Financial/WhatIsPayroll/CalculationOfYears
  پایه سنوات بعد از یک سال سابقه کار، به حقوق ماهیانه اضافه شده و شامل بیمه، اضافه کاری و… می‌شود و در اصل پاداشی است که در ازای سابقه پرداخت می‌گردد. اما حق سنوات به‌معنای پاداش کار می باشد که در پایان هر سال یا پایان کار به کارگران و کارمندان تعلق می‌گیرد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank"> نرم افزار حقوق و دستمزد سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank"> آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
 </a></blockquote>
 
 [سنوات]: #سنوات

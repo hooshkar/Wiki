@@ -34,12 +34,11 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 
 **- نرم افزار سپیدار** سطح متوسطه از دانش حسابداری را می‌طلبد. در نرم افزار سپیدار باید بصورت دستی کدینگ متناسب با فعالیت شرکتتان را تعریف نمایید.
 
-**- <a href="https://www.hooshkar.com/Software/Sayan" target="_blank">نرم افزار سایان
-</a>** علاوه بر قابلیت انعطاف پذیری دارای رابط کاربری ساده‌ای است که جهت استفاده از آن نیازمند دانش حسابداری متوسطه رو به بالا می‌باشد.
+**- <a href="https://www.hooshkar.com/Software/Sayan" target="_blank">نرم افزار سایان</a>** علاوه بر قابلیت انعطاف پذیری دارای رابط کاربری ساده‌ای است که جهت استفاده از آن نیازمند دانش حسابداری متوسطه رو به بالا می‌باشد.
 در این نرم افزار باید به ترتیب گروه حساب‌ها، کل و معین و تفصیل را تعریف نموده و سپس ارتباط تفصیل با معین را تعریف کنید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: ویژگی های <a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">بهترین نرم افزار قیمت تمام شده
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">بهترین نرم افزار قیمت تمام شده چه ویژگی هایی دارد
 </a></blockquote>
 
 ## 2. ویژگی ها و قابلیت های کلیدی هر نرم افزار
@@ -68,7 +67,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 * در **<a href="https://www.hooshkar.com/Software/Sayan" target="_blank">نرم افزار سایان</a>** سطح تفصیلی شناور با سطوح نامحدود می‌باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: ویژگی های <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">بهترین نرم افزار انبارداری
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">بهترین نرم افزار انبارداری چه ویژگی هایی دارد
 </a></blockquote>
 
 ## نتیجه گیری
