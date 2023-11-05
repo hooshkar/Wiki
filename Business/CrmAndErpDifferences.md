@@ -31,7 +31,7 @@ uid: Business\CrmAndErpDifferences
 </a> و ERP هر دو به منظور بهبود عملکرد شرکت‌ها و افزایش بهره‌وری آن‌ها طراحی شده‌اند، اما تفاوت‌های زیادی بین این دو وجود دارد. 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> نرم افزار ERP ایرانی
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> آشنایی با امکانات نرم افزار ERP ایرانی
 </a></blockquote>
 
 در اینجا ما به طور خلاصه به بررسی چندین تفاوت مهم بین این دو می‌پردازیم:
@@ -62,7 +62,7 @@ uid: Business\CrmAndErpDifferences
 نرم‌ افزار CRM برای تحلیل داده‌های مشتریان و تعاملات آن‌ها طراحی شده است. در حالیکه نرم‌ افزار ERP برای تحلیل داده‌های داخلی شرکت، مانند داده‌های مالی، تولید و موجودی طراحی شده است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank"> نرم افزار مدیریت ارتباط با مشتری
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank"> آشنایی با امکانات نرم افزار مدیریت ارتباط با مشتری
 </a></blockquote>
 
 ### 8. شبکه عرضه

@@ -10,7 +10,7 @@ uid: Business\ProductionPlanning\ProductionPlanning
 برنامه ریزی تولید، فرآیند تصمیم گیری در خصوص منابعی است که سازمان برای عملیات تولید آینده خود به آنها نیاز دارد در آن از تخصیص منابع، فعالیت های کارمندان، مواد و ظرفیت تولید با صرف هزینه کمتر به منظور رفع نیازهای مشتریان گوناگون استفاده می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> نرم افزار تولیدی سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> آشنایی با امکانات نرم افزار تولیدی سایان
 </a></blockquote>
 
 

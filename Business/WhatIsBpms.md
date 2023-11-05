@@ -23,7 +23,7 @@ uid: Business\WhatIsBpms
 ![Business Process Management System](./Images/BPMS.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank"> نرم افزار مدیریت فرایند فِنِک
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank"> آشنایی با امکانات نرم افزار مدیریت فرایند فِنِک
 </a></blockquote>
 
 ## از مزایای استفاده از نرم افزار BPMS می توان به موارد زیر اشاره کرد

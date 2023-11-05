@@ -21,7 +21,7 @@ uid: Business\Carton\FlutedVsDuplexCarton
 این نوع کارتن به دلیل وزن سبک، مقاومت به خمش و قابلیت قابل بازیافت در بسته‌بندی محصولات مختلف استفاده می‌شود. کارتن فلکسویی برای ساخت جعبه‌ها، ظروف و سازه‌های بسته‌بندی استفاده می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank"> نرم افزار کارتن سازی
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank"> آشنایی با امکانات نرم افزار کارتن سازی
 </a></blockquote>
 
 ### 2. کارتن لمینتی (Duplex Carton):
@@ -35,5 +35,5 @@ uid: Business\Carton\FlutedVsDuplexCarton
 همچنین، علاوه بر این دو نوع کارتن، نوع‌های دیگری نیز در صنعت کارتن سازی وجود دارند، از جمله کارتن همراه با روکش پلاستیکی (به عنوان مثال کارتن پلاست)، کارتن میکروفلوت (Microflute) که دارای سلول‌هایی با اندازه کوچکتر است و برای بسته‌بندی محصولات حساس استفاده می‌شود
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Box" target="_blank"> نرم افزار جعبه سازی
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Box" target="_blank"> آشنایی با امکانات رم افزار جعبه سازی
 </a></blockquote>

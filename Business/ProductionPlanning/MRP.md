@@ -38,7 +38,7 @@ uid: Business\ProductionPlanning\MRP
 *	کاهش میزان موجودی انبار
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## حلقه بسته MRP
 

@@ -24,7 +24,7 @@ uid: Business\ProductionPlanning\MasterScheduling
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## زمان بندی اصلی چیست
 برنامه زمان بندی اصلی (Master Scheduling) محور فعالیت های شرکت در زمینه مهندسی، خرید، ساخت، فروش و امور مالی می باشد. 

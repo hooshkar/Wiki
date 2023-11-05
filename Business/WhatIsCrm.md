@@ -50,7 +50,7 @@ uid: Business\WhatIsCrm
 **7. بهبود امنیت و حفاظت اطلاعات:** با داشتن سیستم مرکزی برای ذخیره و مدیریت اطلاعات مشتریان، امنیت و حفاظت از اطلاعات حساس مشتریان بهبود یافته و احتمال نفوذ و دسترسی غیرمجاز به اطلاعات کاهش می‌یابد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> نرم افزار ERP ایرانی
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> آشنایی با امکانات نرم افزار ERP ایرانی
 </a></blockquote>
 
 ## انواع CRM

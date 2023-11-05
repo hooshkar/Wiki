@@ -19,7 +19,7 @@ uid: Business\WhatIsRoleAccountantWarehouse
 انباردار یک شخص یا کارمند در سازمان یا شرکت است که مسئولیت مدیریت و کنترل فعالیت‌های انبار و موجودی کالاها را بر عهده دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">آشنایی با امکانات نرم افزار انبارداری سایان
 </a></blockquote>
 
 ## وظایف حسابدار انبار چیست
@@ -35,7 +35,7 @@ uid: Business\WhatIsRoleAccountantWarehouse
 **5. توزیع کالاها:** انباردار مسئولیت تخصیص کالاها به بخش‌های مختلف سازمان یا مشتریان را دارد. او باید کالاها را با دقت از انبار خارج کرده و تحویل مقصد نهایی دهد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">نرم افزار حسابداری انبار سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری انبار سایان
 </a></blockquote>
 
 **6. همکاری با تیم‌های مرتبط:** انباردار باید با تیم‌های خرید، حسابداری، تولید و مدیران مشترک در سازمان همکاری داشته باشد تا به بهره‌وری و کارایی بهتری در عملیات انبارگردانی برسد.

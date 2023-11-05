@@ -14,7 +14,7 @@ uid: Business\ProductionPlanning\ProductionPlanningSeps
 راه های گوناگونی جهت پیش بینی وجود دارد مانند مطالعه روند بازار و تغییرات اقتصادی و یا تخمین بر اساس داده های گذشته که رایج ترین آن ها می باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> نرم افزار تولیدی سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> آشنایی با امکانات نرم افزار تولیدی سایان
 </a></blockquote>
 
 **2. مشخص نمودن گزینه های دیگر برای تولید**

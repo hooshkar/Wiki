@@ -43,7 +43,7 @@ uid: Business\WhatIsMps
 **7.	بسته‌بندی و تحویل:** کالا یا خدمات بسته‌بندی و آماده تحویل به مشتری می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی تولید فنک
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک
 </a></blockquote>
 
 ## مزایای سربرنامه تولید

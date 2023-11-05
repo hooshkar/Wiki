@@ -13,7 +13,7 @@ uid: Business\ProductionPlanning\WhatIsLeadTime
 به عبارت دیگر، این مفهوم نشان‌دهنده زمان لازم برای پردازش، تولید، حمل و نقل و تحویل یک سفارش به مشتری نهایی است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> نرم افزار برنامه ریزی تولید</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ![lead time](./Images/LeadTime.webp)
 

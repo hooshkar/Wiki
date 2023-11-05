@@ -87,7 +87,7 @@ uid: Business\ProductionPlanning\SequenceOfOperations
 *	درصدی از فعالیت ها که دچار تاخیر می شوند یا درصدی از فعالیت ها که بدون تاخیر انجام می شوند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank"> نرم افزار تولیدی سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار تولیدی سایان
 </a></blockquote>
 
 ### اولویت بندی فعالیتها بر روی بیش از یک ماشین (موازی)

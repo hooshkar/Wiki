@@ -30,7 +30,7 @@ Takt Time ابزاری بسیار قدرتمند برای مدیران پروژ�
 ![فرمول زمان تکت](./Images/TaktTime.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> نرم افزار تولیدی سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> آشنایی با امکانات نرم افزار تولیدی سایان
 </a></blockquote>
 
 ## فرمول زمان تکت
