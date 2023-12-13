@@ -15,10 +15,8 @@ uid: Financial/WhatIsPayroll/CalculationOfYears
 سنوات که با عنوان‌هایی همچون مزایای اتمام کار و مزایای پایان خدمت هم شناخته می‌شود، بخشی از تسهیلات وزارت کار برای افراد شاغل زیر نظر این وزارتخانه است که از طرف کارفرمایان (طبق قانون وزارت کار و رفاه اجتماعی به دلایلی مثل بازنشستگی، فوت کارگر، اتمام مدت قرارداد و...) به کارگران پرداخت می‌گردد. 
 
 در واقع می‌توان گفت سنوات، بخشی از پایین بودن میزان حقوق کارمندان و هزینه‌های آنها را جبران کرده و جهت ایجاد انگیزه و افزایش کارکرد پرسنل پرداخت می‌گردد.
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
-</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی اصطلاحات حقوق و دستمزد و نرم افزارهای آن</a></blockquote>
 
 تمامی شاغلان تحت پوشش وزارت کار حتی با کارکرد کمتر از یکسال، طبق روزهای کارکردشان مشمول سنوات می‌باشند و نحوه اتمام همکاری آنها با سازمان (ترک کار، اخراج و...) هیچ تاثیری بر دریافتی آنها نخواهد داشت.
 
@@ -29,6 +27,10 @@ uid: Financial/WhatIsPayroll/CalculationOfYears
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
+</a></blockquote>
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق وزارت کار 1402؛ میزان افزایش و جدول پایه حقوق اداره کار
 </a></blockquote>
 
  ## حق سنوات و پایه سنوات

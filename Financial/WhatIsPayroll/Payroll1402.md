@@ -56,6 +56,9 @@ uid: Financial/WhatIsPayroll/Payroll1402
 مطلب پیشنهادی: <a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">جزئیات متن قانون کار
 </a></blockquote>
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی اصطلاحات حقوق و دستمزد و نرم افزارهای آن</a></blockquote>
+
 [مقدمه]: #مقدمه
 [حداقل حقوق سال 1402]: #حداقل-حقوق-سال-1402
 [جدول حقوق کارگران 1402]: #جدول-حقوق-کارگران-1402

@@ -67,6 +67,8 @@ _فرمول حقوق و دستمزد شیفت کاری 14 الی 22 شب_
 مطلب پیشنهادی: <a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">جزئیات متن قانون کار
 </a></blockquote>
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی اصطلاحات حقوق و دستمزد و نرم افزارهای آن</a></blockquote>
 
 [محاسبه حقوق پایه]: #محاسبه-حقوق-پایه
 [فرمول محاسبه حقوق و دستمزد بر اساس اضافه کاری]: #فرمول-محاسبه-حقوق-و-دستمزد-بر-اساس-اضافه-کاری

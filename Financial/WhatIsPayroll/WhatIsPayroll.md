@@ -79,6 +79,9 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
 
 مهمترین و پیچیده ترین بخش حقوق و دستمزد، سند حسابداری آن می باشد که این سند بعد از ثبت می تواند در اختیار صورت های مالی (تراز) قرار گیرد.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی اصطلاحات حقوق و دستمزد و نرم افزارهای آن</a></blockquote>
+
 ## سند حقوق و دستمزد
 
 سند حقوق و دستمزد یک سند حسابداری است که نتایج محاسبه حقوق و دستمزد کارکنان به صورت ماهانه در آن ثبت می شود که جهت ثبت این سند نیاز به سرفصل های زیر می باشد:

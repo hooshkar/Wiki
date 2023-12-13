@@ -38,9 +38,8 @@ uid: Financial/WhatIsPayroll/Payroll1401
 ![حقوق و دستمزد](./Images/Payroll1401.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">جزئیات متن قانون کار
+بیشتر بخوانید: <a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">جزئیات متن قانون کار
 </a></blockquote>
 
-
-
-
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی اصطلاحات حقوق و دستمزد و نرم افزارهای آن</a></blockquote>
