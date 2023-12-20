@@ -155,9 +155,6 @@ uid: Financial\WhatIsCosting
 **10. ارائه گزارشات:** گزارشات حاوی اطلاعات بهای تمام شده به مدیران ارائه می‌شوند تا بتوانند تصمیم‌گیری‌های مالی بهتری اتخاذ کنند.
 
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات و ویژگی های نرم افزار برنامه ریزی تولید</a></blockquote>
-
 ## فرمول بهای تمام شده
 
 ![فرمول بهای تمام شده](./Images/CostFormula.webp)
@@ -190,6 +187,8 @@ uid: Financial\WhatIsCosting
 #### - هزینه یابی دسته ای
 این روش برای محصولات گروهی با ویژگی‌های یکسان یا مشابه، که در یک زمان و تعداد مشخص تولید می‌شوند و از یک فاکتور عبور می‌کنند، مورد استفاده قرار می‌گیرد. هر گروه به عنوان یک واحد شناخته می‌شود و هزینه آن به‌صورت مستقل محاسبه می‌شود. این روش به‌طور اصلی در صنایعی مانند تولید پوشاک آماده، تولید چیپس و سایر مشاغل مشابه به‌کار می‌رود.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات و ویژگی های نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ### 2-	هزینه یابی بهای تمام شده مرحله ای
 
