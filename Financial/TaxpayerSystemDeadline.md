@@ -9,7 +9,7 @@ uid: Financial\TaxpayerSystemDeadline
 
 ## مهلت ارسال صورتحساب برای اشخاص حقیقی 1402
 
-<a href="https://my.tax.gov.ir" target="_blank">![سامانه مودیان مالیاتی چیست؟](./Images/TpTaxGov-01.webp)</a>
+<a href="https://my.tax.gov.ir" target="_blank">![سامانه مودیان مالیاتی](./Images/TpTaxGov-01.webp)</a>
 
 آخرین مهلت برای ارسال (صورتحساب) فاکتورهای الکترونیکی به <a href="https://my.tax.gov.ir/?url_back=https://tp.tax.gov.ir" target="_blank">سامانه مودیان</a> به سرعت نزدیک می‌شود. 
 
