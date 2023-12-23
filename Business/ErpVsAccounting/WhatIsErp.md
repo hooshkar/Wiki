@@ -46,7 +46,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 این اجزا با یکدیگر ارتباط دارند و اطلاعات را در سیستم مشترک به اشتراک می‌گذارند تا به بهبود کارایی و افزایش تصمیم‌گیری‌های بهتر در سازمان کمک کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> نرم افزار ERP ایرانی فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> آشنایی با امکانات نرم افزار ERP ایرانی فنک</a>
 </blockquote>
 
 ## مزایای استفاده از ERP در سازمان‌ها
@@ -82,7 +82,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 **14. افزایش رضایت مشتری:** با درگیر کردن مشتری در فرآیندهای کاری، از سفارش تا تحویل محصول، رضایت مشتری افزایش می‌یابد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/FormBuilder" target="_blank"> نرم افزار Form Builder فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/FormBuilder" target="_blank"> آشنایی با امکانات نرم افزار Form Builder فنک</a>
 </blockquote>
 
 **15. افزایش فروش و رشد سازمان:** با بهبود فرآیندها و توسعه کسب‌وکار، سازمان می‌تواند فروش خود را افزایش دهد و رشد کند.
@@ -116,7 +116,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 **29. کاهش هزینه عملیات مالی:** ERP  به بهینه‌سازی فرآیندهای مالی کمک می‌کند و هزینه‌های مرتبط با آنها را کاهش می‌دهد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/Dashboard" target="_blank"> نرم افزار BPMS فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/Dashboard" target="_blank"> آشنایی با امکانات نرم افزار BPMS فنک</a>
 </blockquote>
 
 **30. تغییر برنامه‌نویسی کامپیوتری در سازمان برای بهبود فعالیت‌ها:** با استفاده از ERP، سازمان می‌تواند فرآیندهای برنامه‌نویسی را مجدداً برای بهبود عملکرد تطبیق دهد.
@@ -129,7 +129,7 @@ uid: Business\ErpVsAccounting\WhatIsErp
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: آشنایی با امکانات<a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank"> نرم افزار CRM فنک</a>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank"> آشنایی با امکانات نرم افزار CRM فنک</a>
 </blockquote>
 
 
