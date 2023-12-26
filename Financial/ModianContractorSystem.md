@@ -116,6 +116,7 @@ uid: Financial\ModianContractorSystem
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxGov" target="_blank">استفاده سامانه مودیان برای شهرداری ها</a></blockquote>
+
 ### الگوهای صورتحساب الکترونیکی نوع دوم
 
 1. الگوی فروش کالا و خدمات
