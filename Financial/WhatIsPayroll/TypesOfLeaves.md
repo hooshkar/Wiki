@@ -1,9 +1,9 @@
 ---
-title: تعریف مرخصی و انواع و نحوه محاسبه آن در قانون کار
+title: جدول مرخصی کارگران
 author: سمانه رشوند  
 author: سمانه رشوند  
 description: آیا با قوانین مربوط به مرخصی آشنایی دارید؟ چگونه مرخصی ها در قانون کار محاسبه می‌شوند؟
-dateModified: 2023/12/03 
+dateModified: 2023/12/30 
 datePublished: 2022/07/01 
 uid: Financial/WhatIsPayroll/TypesOfLeaves
 ---
