@@ -27,8 +27,7 @@ uid: Financial\IndustrialAccountingRecords
 این مقاله به بررسی اهمیت و انواع ثبتهای حسابداری صنعتی به‌عنوان یک فرآیند بلندمدت و چگونگی انجام دقیق و موثر آن می‌پردازد. در این راستا، با توجه به اهمیت حسابداری صنعتی در موفقیت هر سازمان، آماده‌ایم شما را در راهی دقیق به سوی مدیریت مالی کارآمد همراهی کنیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
-</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting" target="_blank">حسابداری چیست؟</a></blockquote>
 
 ## تعریف ثبت های حسابداری صنعتی
 
@@ -53,6 +52,9 @@ uid: Financial\IndustrialAccountingRecords
 #### الف- حقوق
 این مورد به پرداخت به افرادی اشاره دارد که به صورت مستقیم در فرآیند تولید یا ارائه خدمات شرکت دارند و شامل افرادی که وظایف اداری یا فروش را انجام می‌دهند نمی‌شود.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی اصطلاحات حقوق و دستمزد و نرم افزارهای آن</a></blockquote>
+
 ### 3. سایر هزینه‌ها (هزینه‌های سربار ساخت)
 
 #### الف- هزینه‌های انبار
@@ -75,6 +77,9 @@ uid: Financial\IndustrialAccountingRecords
 ![انواع ثبت های حسابداری صنعتی](./Images/IndustrialAccountingRecords-04.webp)
 
 حوزه حسابداری صنعتی شامل عملیات متنوع حسابداری است که برای نظارت و ثبت همه تراکنش‌های مالی یک سازمان صنعتی ضروری است. در زیر به برخی از اصطلاحات و ثبت‌های کلیدی در حسابداری صنعتی اشاره می‌شود:
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/PurchaseAndSale" target="_blank">آشنایی با امکانات نرم افزار خرید و فروش سایان</a></blockquote>
 
 ### 1. ثبت تراکنش‌های مالی
 **- فاکتورها و رسیدهای خرید و فروش:** ثبت تمامی فاکتورها و رسیدهای خرید و فروش جهت نظارت بر تراکنش‌های مرتبط با مواد، کالاها و خدمات.
