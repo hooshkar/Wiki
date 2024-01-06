@@ -52,12 +52,3 @@ uid: Business\WhatIsCrm
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> آشنایی با امکانات نرم افزار ERP ایرانی
 </a></blockquote>
-
-## انواع CRM
-
-**1. عملیاتی**
-
-**2. تحلیلی**
-
-**3. مشارکتی**
-
