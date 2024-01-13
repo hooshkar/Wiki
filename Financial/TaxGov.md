@@ -25,7 +25,7 @@ uid: Financial\TaxGov
 
 شرکت <a href="https://www.hooshkar.com" target="_blank">هوشکار</a> با هدف افزایش آگاهی از الزامات، قوانین و مقررات مربوطه و ایجاد شفافیت بیشتر جهت بهبود عملکرد و استفاده بهینه از سامانه مؤدیان، مقاله‌ای تخصصی تدوین کرده است.
 
-<a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">![سامانه مودیان و شهرداری ها](./Images/TaxGov.webp)</a>
+![سامانه مودیان و شهرداری ها](./Images/TaxGov.webp)
 
 ## سامانه مودیان
 
@@ -51,12 +51,9 @@ uid: Financial\TaxGov
 
 با کمک این مقاله آموزشی، کارشناسان شهرداری ها و دهیاری ها قادرند مطابق با قوانین مالیاتی عمل کنند.
 
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی تا پایان شهریور 1402
 </a></blockquote>
-
-
 
 ## تعریف شماره مالیاتی منحصر به فرد
 

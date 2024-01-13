@@ -1,5 +1,5 @@
 ---
-title: ارسال صورت حساب الکترونیکی در سامانه مودیان تا 31 شهریور تمدید شد
+title: مهلت ارسال صورتحساب در سامانه مودیان تا 31 شهریور
 author: سمانه رشوند  
 description: تمدید مهلت ارسال صورتحساب الکترونیکی در سامانه مودیان تا پایان شهریور 1402
 dateModified: 2023/09/21
@@ -7,7 +7,7 @@ datePublished: 2023/07/22
 uid: Financial\TaxPayersSystemUpdate
 ---
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار ارسال صورت حساب الکترونیکی به سامانه مودیان سایان
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار ارسال صورتحساب الکترونیکی به سامانه مودیان سایان
 </a></blockquote>
 
 ## مهلت ارسال صورتحساب الکترونیکی در سامانه مودیان
