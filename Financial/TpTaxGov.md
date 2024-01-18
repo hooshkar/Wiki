@@ -16,10 +16,9 @@ uid: Financial\TpTaxGov
 
 
 ## سامانه مودیان
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی تا پایان شهریور 1402
-</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">آشنایی با امکانات نرم افزار واسط سامانه مودیان</a></blockquote>
+
 
 **سامانه مودیان مالیاتی** یک سامانه آنلاین است که توسط سازمان مالیاتی کشور برای ارتباط و ارسال اطلاعات بین مالکین و عرضه‌کنندگان خدمات و کالاها (مودیان) با اداره کنندگان مالیات تعبیه شده است. 
 
@@ -28,7 +27,8 @@ uid: Financial\TpTaxGov
 با استفاده از <a href="https://my.tax.gov.ir/?url_back=https://tp.tax.gov.ir" target="_blank">سامانه مودیان مالیاتی</a>، مودیان می‌توانند اطلاعات مربوط به درآمدها، هزینه‌ها و سایر اطلاعات مربوط به تعهدات مالیاتی خود را به صورت آنلاین و در قالب اظهارنامه مالیاتی وارد کنند و آن را به سازمان مالیاتی ارسال کنند. این سامانه همچنین امکاناتی مانند پرداخت آنلاین مالیات، مشاهده وضعیت مالیاتی و پیگیری وضعیت اظهارنامه مالیاتی را نیز فراهم می‌کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار ارسال صورت حساب الکترونیکی به سامانه مودیان</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">آخرین مهلت ارسال صورتحساب در سامانه مودیان - سال 1402
+</a></blockquote>
 
 استفاده از سامانه مودیان مالیاتی برای ارسال اظهارنامه مالیاتی و پرداخت آنلاین مالیات به مودیان کمک می‌کند تا به طریقی سریعتر، مطمئن‌تر و امن‌تر اقدامات مالیاتی خود را انجام دهند و تعاملات مالیاتی خود را با سازمان مالیاتی سریع‌تر و موثرتر انجام دهند.
 
@@ -37,7 +37,7 @@ uid: Financial\TpTaxGov
  >  **بند پ ماده 1 قانون پایانه های فروشگاهی و سامانه مودیان، در تعریف سامانه مودیان مالیاتی مقرر داشته:** "سامانه‌ای است، تحت مدیریت سازمان که در آن، به هر مودی، کارپوشه ویژه‌ای اختصاص یافته و تبادل اطلاعات میان مودیان و سازمان، منحصرا از طریق آن کارپوشه انجام می‌شود. مودیان می‌توانند با استفاده از هرگونه سخت افزار یا نرم افزار، اعم از رایانه شخصی، پایانه فروشگاهی، سامانه‌های ابری یا هر وسیله دیگری که حافظه مالیاتی به آن متصل شده باشد، به سامانه مودیان متصل شوند. مرجع نهائی ثبت، صدور و استعلام صورتحساب الکترونیکی، سامانه مودیان می‌باشد."
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">شرکتهای معتمد ارائه دهنده خدمات مالیاتی</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">لیست شرکتهای معتمد ارائه دهنده خدمات مالیاتی</a></blockquote>
 
 ## قانون سامانه مودیان مکمل قوانین مالیاتی کشور
 
@@ -74,7 +74,7 @@ uid: Financial\TpTaxGov
 لازم به ذکر است موارد مطرح شده در فهرست فوق، بصورت کلی بیان شده است و ممکن است در مواردی خاص آیتمی به لیست اضافه شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxGov" target="_blank">استفاده سامانه مودیان برای شهرداری ها</a></blockquote>
+مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxGov" target="_blank">آشنایی با امکانات نرم افزار مودیان مالیاتی سایان مخصوص شهرداری ها</a></blockquote>
 
 ## اهداف اجرای قانون سامانه مودیان مالیاتی چیست
 
