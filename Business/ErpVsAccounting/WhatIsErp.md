@@ -3,7 +3,7 @@ title: نرم افزار erp چیست؟
  برنامه ریزی منابع سازمانی [ERP] چیست؟
 author: سمانه رشوند  
 description: سیستم ERP جهت یکپارچه و هماهنگ نمودن تمامی قسمت های یک سازمان در راستای بهبود عملکرد یک سازمان می باشد.
-dateModified: 2023/09/25 
+dateModified: 2024/01/20 
 datePublished: 2022/12/04
 uid: Business\ErpVsAccounting\WhatIsErp
 ---
