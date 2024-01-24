@@ -42,7 +42,7 @@ uid: Financial/WhatIsPayroll/AllAboutSalary
 با کمک نرم افزارهای حقوق و دستمزد، این پروسه به راحت‌ترین و بهترین شکل ممکن صورت می‌گیرد. اگر شما هم علاقه‌مندید با این نرم افزارها و همچنین تمام مباحث حقوق و دستمزد آشنا شوید، در این مقاله با ما همراه باشید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a>:</br>
+<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات سایان</a>:</br>
 
 این نرم افزار، یکی از محصولات کاربردی شرکت نرم‌افزاری هوشکار در حوزه منابع انسانی است که به منظور ساده‌سازی محاسبات پیچیده حقوق و دستمزد طراحی و تولید شده است.
 

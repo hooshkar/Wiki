@@ -7,20 +7,28 @@ datePublished: 2023/02/13
 uid: Financial/WhatIsPayroll/Payroll1401
 ---
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">پایه حقوق وزارت کار 1402
-</a>
-</blockquote>
-
 ## حداقل حقوق سال 1401
 حداقل حقوق وزارت کار در سال ۱۴۰۱ ماهانه ۴ میلیون و ۱۷۹ هزار و ۷۵۰ تومان تعیین شده است. این مبلغ در سال ۱۴۰۰، ۲ میلیون و ۵۵۴ هزار و ۹۵۰ تومان بود. 
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">آشنایی با امکانات نرم افزار حقوق و دستمزد سایان
-</a>
-</blockquote>
-
 کارفرمایان هم در بخش خصوصی و هم در بخش دولتی موظف به افزایش حقوق و مزایای کارگران با توجه به مصوبه‌های اداره کار هستند.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات سایان</a>:</br>
+
+این نرم افزار، یکی از محصولات کاربردی شرکت نرم‌افزاری هوشکار در حوزه منابع انسانی است که به منظور ساده‌سازی محاسبات پیچیده حقوق و دستمزد طراحی و تولید شده است.
+
+**ویژگی‌ها و قابلیت‌های نرم افزار حقوق و دستمزد سایان:**
+
+- محاسبه دقیق و سریع انواع حقوق، مزایا، کسورات و مالیات‌ها
+- امکان محاسبه عیدی، پاداش، حق مرخصی و سایر مزایا
+- صدور خودکار فیش حقوقی و سایر گزارشات مورد نیاز
+- تهیه لیست بیمه و مالیات
+- یکپارچگی با نرم‌افزار حضور و غیاب جهت کاهش حجم کاری
+- انعطاف‌پذیری بالا در تعریف انواع فرمول‌های محاسباتی
+- گزارش‌گیری آسان و قدرتمند جهت تحلیل آماری
+- رابط کاربری ساده و دوستانه
+
+</blockquote>
 
 ## جدول حقوق اداره کار 1401
 *   حقوق روزانه: ۱.۳۹۳.۲۵۰ ریال
@@ -29,11 +37,12 @@ uid: Financial/WhatIsPayroll/Payroll1401
 *   حق مسکن: 6.۵۰۰.۰۰۰ ریال
 *   بن کارگری: ۸.۵۰۰.۰۰۰ ریال
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Payroll/PayrollFormula" target="_blank">فرمول محاسبه حقوق و دستمزد
-</a></blockquote>
-
 با این حساب، دریافتی یک کارگر حداقل بگیر که هیچ سابقه و فرزندی ندارد با مجموع پایه مزد ماهانه‌ ۴۱.۷۹۷.۵۰۰ ریال و بن ۸.۵۰۰.۰۰۰ ریال و حق مسکن 6.۵۰۰.۰۰۰ ریال، برابر با ۵۶.۷۹۷.۵۰۰ ریال می‌شود.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">پایه حقوق وزارت کار 1402
+</a>
+</blockquote>
 
 ![حقوق و دستمزد](./Images/Payroll1401.webp)
 
@@ -42,4 +51,4 @@ uid: Financial/WhatIsPayroll/Payroll1401
 </a></blockquote>
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی اصطلاحات حقوق و دستمزد و نرم افزارهای آن</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">آشنایی با تعاریف حقوق و دستمزد و نرم افزارهای مرتبط با آن</a></blockquote>
