@@ -118,7 +118,7 @@ uid: Financial/WhatIsPayroll/EidTax
 کارمندان نمی توانند به خاطر عیدی و سنوات از شما شکایت کنند
 چون تا آخرین ریال آن را پرداخت می‌کنید.
 
-<a href="https://www.hooshkar.com" target="_blank">هوشکار</a> مشاوره نرم افزار تخصصی محاسبه حقوق
+**<a href="https://www.hooshkar.com" target="_blank">هوشکار</a> ارائه دهنده نرم افزار تخصصی محاسبه حقوق**
 
 
 

@@ -40,7 +40,7 @@ uid: Financial/WhatIsPayroll/Payroll1401
 با این حساب، دریافتی یک کارگر حداقل بگیر که هیچ سابقه و فرزندی ندارد با مجموع پایه مزد ماهانه‌ ۴۱.۷۹۷.۵۰۰ ریال و بن ۸.۵۰۰.۰۰۰ ریال و حق مسکن 6.۵۰۰.۰۰۰ ریال، برابر با ۵۶.۷۹۷.۵۰۰ ریال می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">پایه حقوق وزارت کار 1402
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">حقوق وزارت کار 1402
 </a>
 </blockquote>
 
@@ -52,3 +52,8 @@ uid: Financial/WhatIsPayroll/Payroll1401
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">آشنایی با تعاریف حقوق و دستمزد و نرم افزارهای مرتبط با آن</a></blockquote>
+
+-----
+ برای اطلاع از قیمت نرم افزار محاسبه عیدی و سنوات سایان، همین حالا با شماره های 02691001012 - 09120259585 تماس بگیرید. 
+ 
+ مشاوران ما آماده پاسخگویی به تمام سوالات شما در این زمینه هستند. با مراجعه به سایت <a href="https://www.hooshkar.com/Wiki" target="_blank">هوشکار</a> نیز می‌توانید از آخرین اخبار و جزئیات مربوط به افزایش حقوق آگاه شوید.

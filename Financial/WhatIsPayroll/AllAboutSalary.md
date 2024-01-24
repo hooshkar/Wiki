@@ -138,7 +138,7 @@ uid: Financial/WhatIsPayroll/AllAboutSalary
 </p>
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">فرمول محاسبه عیدی و سنوات سال 1401
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">فرمول محاسبه عیدی و سنوات
 </a>
 </blockquote>
 
