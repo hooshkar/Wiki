@@ -1,8 +1,8 @@
 ---
-title: اجرا و استفاده سامانه مودیان برای شهرداری ها
+title: اجرا و استفاده سامانه مودیان در شهرداری ها
 author: سمانه رشوند  
 description: شهرداری ها به عنوان یکی از سازمان‌های بزرگ، با گردش مالی فراوان، موظف به پیوستن به سامانه مودیان هستند. شرکت هوشکار با هدف افزایش آگاهی از الزامات، قوانین، و مقررات مربوطه و ایجاد شفافیت بیشتر جهت بهبود عملکرد و استفاده بهینه از سامانه مؤدیان، مقاله‌ای تخصصی تدوین کرده است.
-dateModified: 2023/11/06
+dateModified: 2024/02/03
 datePublished: 2023/11/06
 uid: Financial\TaxGov
 ---
@@ -25,6 +25,13 @@ uid: Financial\TaxGov
 
 شرکت <a href="https://www.hooshkar.com" target="_blank">هوشکار</a> با هدف افزایش آگاهی از الزامات، قوانین و مقررات مربوطه و ایجاد شفافیت بیشتر جهت بهبود عملکرد و استفاده بهینه از سامانه مؤدیان، مقاله‌ای تخصصی تدوین کرده است.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان</a>:</br>
+نرم افزار مودیان مالیاتی سایان یکی از نرم‌افزارهای تخصصی ارسال صورتحساب الکترونیکی به سامانه مودیان است که توسط شرکت نرم‌افزاری هوشکار ارائه شده‌است.
+
+این نرم‌افزار با هدف تسهیل فرایند ارسال فاکتور برای مودیان محترم مالیاتی طراحی گردیده است. کلیه صاحبان مشاغل و شرکت‌ها می‌توانند با استفاده از نرم‌افزار مودیان سایان، انواع صورتحساب‌های خود را به راحتی و به صورت نامحدود به سامانه مودیان ارسال نمایند.
+</blockquote>
+
 ![سامانه مودیان و شهرداری ها](./Images/TaxGov.webp)
 
 ## سامانه مودیان
@@ -37,7 +44,7 @@ uid: Financial\TaxGov
 4. به عنوان مرجع ثبت، صدور و استعلام صورتحساب عمل می‌کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">شرکتهای معتمد ارائه دهنده خدمات مالیاتی</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">شرکتهای معتمد ارائه دهنده خدمات مالیاتی</a></blockquote>
 
 ## حافظه مالیاتی چیست
 
@@ -52,8 +59,7 @@ uid: Financial\TaxGov
 با کمک این مقاله آموزشی، کارشناسان شهرداری ها و دهیاری ها قادرند مطابق با قوانین مالیاتی عمل کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی تا پایان شهریور 1402
-</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت سامانه مودیان تا چه تاریخی می باشد؟</a></blockquote>
 
 ## تعریف شماره مالیاتی منحصر به فرد
 
@@ -108,7 +114,7 @@ uid: Financial\TaxGov
 - تاریخ اجرای قانون سامانه مؤدیان برای کلیه اشخاص مشمول باقیمانده از تاریخ: 1402/10/01
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ModianContractorSystem" target="_blank">سامانه مودیان شرکتهای پیمانکاری</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/ModianContractorSystem" target="_blank">سامانه مودیان شرکتهای پیمانکاری</a></blockquote>
 
 ## جرائم ناشی از عدم اجرای قانون سامانه مودیان
 
@@ -132,7 +138,7 @@ uid: Financial\TaxGov
 
 پیش از شروع ثبت‌نام، توصیه می‌شود که قوانین مربوط به سامانه مودیان مالیاتی را به دقت مطالعه نمایید. می‌توانید با کلیک بر روی دکمه زیر، قوانین سامانه مودیان را از سایت سازمان امور مالیاتی مطالعه کنید.
 
-<blockquote style="padding:0.5rem justify-content: center;">
+<blockquote style="padding:0.5rem justify-content: center">
 <a href="https://inta.tax.gov.ir/Pages/Action/LawsIndex/8/1" target="_blank">قوانین سامانه مودیان</a></blockquote>
 
 ### باید و نبایدها در نرم افزارهای ارسال صورتحساب به سامانه مودیان مالیاتی
@@ -143,8 +149,6 @@ uid: Financial\TaxGov
 
 ![نرم افزارهای ارسال صورتحساب به سامانه مودیان مالیاتی](./Images/TpTaxGovSoftware.webp)
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار مودیان مالیاتی</a></blockquote>
 روش ارسال مستقیم صورتحساب ها به سامانه مودیان به این صورت است که مودیان مالیاتی از طریق نرم افزار مخصوص خود، صورتحساب ها را به سامانه مودیان ارسال نمایند. در این راستا شرکت نرم افزاری هوشکار پرداز برای مشتریان خود نرم افزار سامانه مودیان را ارائه داده است. برای کسب اطلاعات بیشتر، می‌توانید به صفحه سامانه مؤدیان مالیاتی سایان مراجعه کنید. همچنین با مشاهده ویدئوی آموزشی در این رابطه می توانید به راحتی کلیدهای عمومی، اختصاصی و CSR خود را دریافت نمایید. 
 
 علاوه بر آن، شرکت‌هایی که بنا به دلایلی نخواهند از شرکت‌های معتمد استفاده کنند و نرم افزاری برای ارسال صورتحساب به سامانه مودیان نداشته باشند، می‌توانند از <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">ماژول سامانه مودیان سایان</a> به تنهایی استفاده کنند.

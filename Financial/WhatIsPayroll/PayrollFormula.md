@@ -76,12 +76,9 @@ _فرمول حقوق و دستمزد شیفت کاری 14 الی 22 شب_
 ## فرمول محاسبه کسر کار ماه
 کسر کار ماه × (2 × 220   ÷ حقوق پایه در حکم)
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://rc.majlis.ir/fa/law/show/99612" target="_blank">جزئیات متن قانون کار
-</a></blockquote>
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی نرم افزار و اصطلاحات حقوق و دستمزد</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank"> همه چیز درباره حقوق و دستمزد (محاسبه + فرمول ها + ثبت سند)</a></blockquote>
 
 ---
  عزیزانی که در حوزه حسابداری و حقوق و دستمزد فعالیت می‌کنند، دوره‌های آموزشی <a href="https://www.aparat.com/Hooshkar_Pardaz" target="_blank">کانال آپارات هوشکار</a> در این زمینه، فرصت مناسبی برای ارتقای دانش شماست. 

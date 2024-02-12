@@ -98,7 +98,10 @@ uid: Financial/WhatIsPayroll/WhatIsSalary1403
 
 در سال 1403، مالیات بر حقوق و دستمزد بر اساس جدول مالیاتی جدید محاسبه خواهد شد که البته هنوز به تصویب نهایی نرسیده است.
 
-## جدول حقوق و دستمزد کارگران در <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">سال 1402</a> و 1403
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank"> همه چیز درباره حقوق و دستمزد (محاسبه + فرمول ها + ثبت سند)</a></blockquote>
+
+## جدول حقوق و دستمزد کارگران در 1402 و 1403
 
  سال 1403 (ریال)|سال 1402 (ریال)|اقلام|ردیف
 ------------ | -------------| -------------| -------------

@@ -1,8 +1,8 @@
 ---
-title: آموزش مبانی حسابداری مالی
+title: آموزش مبانی حسابداری
 author: سمانه رشوند  
 description: مبانی حسابداری مالی یکی از مفاهیم اساسی در علم حسابداری است که به بررسی روش‌های ثبت و تجزیه و تحلیل اطلاعات مالی یک شرکت می‌پردازد. 
-dateModified: 2023/09/21
+dateModified: 2024/01/29
 datePublished: 2023/03/01
 uid: Financial\BasicsOfFinancialAccounting
 ---
@@ -25,8 +25,15 @@ uid: Financial\BasicsOfFinancialAccounting
 در این مطلب، به بررسی مفاهیم اساسی حسابداری مالی پرداخته خواهد شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">بازار کار حسابداری در ایران
-</a></blockquote>
+<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان</a>:</br>
+
+نرم‌افزار حسابداری شرکتی سایان، گزینه‌ای هوشمند و کارآمد برای مدیریت حسابداری شرکت‌های بزرگ و کوچک است. 
+
+این نرم‌افزار با قابلیت‌های پیشرفته مانند مدیریت صورتحساب‌ها، تهیه صورت‌های مالی، گزارش‌گیری، مدیریت انبار و پروژه‌ها، ثبت تراکنش‌های مالی،حسابداری، همچنین پشتیبانی از چند ارز مختلف و... فرایند حسابداری شرکت شما را بهینه می‌کند.
+
+سایان با درک نیازهای حسابداری در ایران، نرم‌افزاری طراحی کرده که کاملاً با انواع کسب‌وکارها سازگار است. برای آشنایی بیشتر با قابلیت‌های این نرم‌افزار هوشمند با ما تماس بگیرید.
+
+</blockquote>
 
 ## مفاهیم اساسی حسابداری مالی
 ### دوره مالی
@@ -36,7 +43,7 @@ uid: Financial\BasicsOfFinancialAccounting
 دوره حسابرسی به مدت زمانی اشاره دارد که در طی آن حسابرسان برای بررسی صحت و صداقت گزارش‌های مالی شرکت، به شرکت مراجعه می‌کنند. معمولاً دوره حسابرسی به صورت سالانه برگزار می‌شود و باید توسط یک حسابرس مستقل انجام شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TypesOfAudits" target="_blank">حسابرسی چیست و انواع حسابرسی کدام است؟
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TypesOfAudits" target="_blank">حسابرسی چیست و انواع حسابرسی کدام است؟
 </a></blockquote>
 
 ### دارایی ها
@@ -53,7 +60,7 @@ uid: Financial\BasicsOfFinancialAccounting
 **2. حفاظت از جریان نقدی:**
 در برخی موارد، استفاده از بدهی‌ها می‌تواند به شرکت کمک کند تا جریان نقدی خود را حفظ کند. به عنوان مثال، اگر شرکت بخواهد یک ساختمان جدید را ساخته و تجهیزاتی را خریداری کند، احتمالاً به بدهی‌ها نیاز خواهد داشت تا جریان نقدی خود را حفظ کند.
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
 </a></blockquote>
 
 ### حساب ترازنامه
@@ -65,11 +72,6 @@ uid: Financial\BasicsOfFinancialAccounting
 گزارش سود و زیان شامل گزارشی از درآمدها، هزینه‌ها، سود و زیان یک شرکت است. این گزارش به عنوان ابزاری برای ارزیابی عملکرد مالی شرکت استفاده می‌شود. 
 
 در صورتی که سود شرکت بیشتر از زیان باشد، به معنی این است که شرکت در یک دوره مالی به سود رسیده است. این گزارش برای مدیران، سهامداران و بورسیه‌ها بسیار مهم است.
-
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
-</a></blockquote>
 
 ## نتیجه گیری
 

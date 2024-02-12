@@ -49,7 +49,7 @@ uid: Financial/WhatIsPayroll/EidTax
 لازم به ذکر است عیدی و سنوات سال جاری (1401) بر‌اساس کارکرد اشخاص در آن سال (1401) محاسبه و پرداخت می‌شود؛ اما از آنجا که این پرداختی منتهی به نوروز سال 1402 است، در بیان عمومی عیدی و سنوات سال 1402 نامیده می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حداقل پایه حقوق 1401</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">پایه حقوق 1401</a></blockquote>
 
 ## فرمول محاسبه سنوات
 فرمول محاسبه حق سنوات و پایه سنوات کارگران در سال 1402 به چه صورت است؟
@@ -107,7 +107,7 @@ uid: Financial/WhatIsPayroll/EidTax
 یعنی اگر یک نفر 10 میلیون تومان عیدی دریافت کند، ابتدا باید 5 میلیون و 600 هزار تومان از این مبلغ کسر شود و سپس باقیمانده ضربدر 10% گردد. البته برای ارقام بالاتر این درصد، افزایش خواهد یافت.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">بررسی نرم افزار و اصطلاحات حقوق و دستمزد</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank"> همه چیز درباره حقوق و دستمزد (محاسبه + فرمول ها + ثبت سند)</a></blockquote>
 
 ## عیدی بازنشستگان تامین اجتماعی
 بازنشستگان و مستمری بگیران تحت پوشش تامین اجتماعی هم مانند کارگران مشغول به کار، هر ساله مبلغی را تحت عنوان عیدی دریافت می‌نمایند، با این تفاوت که مبلغ عیدی آنها، توسط هیئت دولت تعیین می‌شود و توسط سازمان تامین اجتماعی پرداخت می‌گردد. 

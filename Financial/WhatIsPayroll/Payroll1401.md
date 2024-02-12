@@ -51,7 +51,7 @@ uid: Financial/WhatIsPayroll/Payroll1401
 </a></blockquote>
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank">آشنایی با تعاریف حقوق و دستمزد و نرم افزارهای مرتبط با آن</a></blockquote>
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AllAboutSalary" target="_blank"> همه چیز درباره حقوق و دستمزد (محاسبه + فرمول ها + ثبت سند)</a></blockquote>
 
 -----
  برای اطلاع از قیمت نرم افزار محاسبه عیدی و سنوات سایان، همین حالا با شماره های 02691001012 - 09120259585 تماس بگیرید. 

@@ -27,8 +27,15 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 مشخص می شود که دارای سطوح مختلف و کدهای متنوعی هستند، به این نوع شاخه بندی کردن و کدگذاری حساب ها کدینگ حسابداری گفته می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Accounting/DetailedAccount" target="_blank">حساب تفصیلی چیست؟
-</a></blockquote>
+<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان</a>:</br>
+
+نرم افزار حسابداری شرکتی سایان، گزینه‌ای هوشمند و کارآمد برای مدیریت حسابداری شرکت‌های بزرگ و کوچک است. 
+
+این نرم‌افزار با قابلیت‌های پیشرفته مانند مدیریت صورتحساب‌ها، تهیه صورت‌های مالی، گزارش‌گیری، مدیریت انبار و پروژه‌ها، ثبت تراکنش‌های مالی،حسابداری، همچنین پشتیبانی از چند ارز مختلف و... فرایند حسابداری شرکت شما را بهینه می‌کند.
+
+سایان با درک نیازهای حسابداری در ایران، نرم‌افزاری طراحی کرده که کاملاً با انواع کسب‌وکارها سازگار است. برای آشنایی بیشتر با قابلیت‌های این نرم‌افزار هوشمند با ما تماس بگیرید.
+
+</blockquote>
 
 ### اهداف کدینگ در حسابداری
 1. کدینگ حسابداری موجب استاندارد سازی عملیات های مالی و یکپارچه نمودن آنها براساس یک فرمت خاص می گردد.
@@ -39,17 +46,13 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 
 4. فرایند کدینگ، تحلیل و بررسی های مالی جهت سرمایه گذاری یا محاسبه میزان دارایی ها را تسهیل می بخشد که موجب بهبود قدرت در تصمیم گیری برای تصمیم گیرندگان درون سازمانی و برون سازمانی می گردد.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت ارسال صورت حساب الکترونیکی 1402
-</a></blockquote>
-
 ## انواع کدینگ حسابداری
 کدینگ حسابداری امری تخصصی به شمار می آید که باید توسط حسابداران متخصص و مدیران مالی با تجربه انجام شود تا بتواند از بروز مشکلات مالی و حسابداری واحدهای اقتصادی جلوگیری نماید.
 
 ![انواع کدینگ حسابداری](./Images/TypesOfAccountingCoding.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank"> آشنایی با امکانات نرم افزار حسابداری سایان
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Accounting/DetailedAccount" target="_blank">حساب تفصیلی چیست؟
 </a></blockquote>
 
 ### 1. کدینگ سلسه مراتبی
@@ -84,7 +87,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 از این روش زمانی استفاده می شود که می خواهیم در یک دوره مالی یک کد را به یک حساب اختصاص دهیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingPrinciples" target="_blank">تعریف اصول حسابداری و انواع آن
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingPrinciples" target="_blank">تعریف اصول حسابداری و انواع آن
 </a></blockquote>
 
 ## سطوح کدینگ حسابداری
@@ -108,7 +111,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 * این امکان را فراهم می آورد تا حساب شرکت های تولیدی و بازرگانی به طور موثر و براساس با نیازهای تجاری سازماندهی گردد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مقایسه نرم افزار های حسابداری
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">مقایسه نرم افزار های حسابداری
 </a></blockquote>
 
 برای انجام این کار در ابتدا گروه حسابها (حساب های اصلی) تعیین می گردد که براساس آن شکل کلی حساب ها نشان داده می شوند.
@@ -122,7 +125,7 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 زمانیکه حساب تفصیلی به حساب معین متصل باشد، به آن حساب استاندارد و در غیر این صورت به آن حساب شناور می گویند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
 </a></blockquote>
 
 ### استاندارد سازی کدینگ حسابداری
