@@ -49,7 +49,7 @@ uid: Financial/WhatIsPayroll/Payroll1401
 با این حساب، دریافتی یک کارگر حداقل بگیر که هیچ سابقه و فرزندی ندارد با مجموع پایه مزد ماهانه‌ ۴۱.۷۹۷.۵۰۰ ریال و بن ۸.۵۰۰.۰۰۰ ریال و حق مسکن 6.۵۰۰.۰۰۰ ریال، برابر با ۵۶.۷۹۷.۵۰۰ ریال می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">حقوق وزارت کار 1402
+بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">حقوق وزارت کار 1402 چقدر است؟
 </a>
 </blockquote>
 
@@ -61,5 +61,5 @@ uid: Financial/WhatIsPayroll/Payroll1401
 
 -----
 آیا می خواهید محاسبات حقوق و دستمزد پرسنل را بدون هیچ خطایی و در سریع ترین زمان انجام دهید؟
-
-مشاوران ما آماده پاسخگویی به تمام سوالات شما در این زمینه هستند. با مراجعه به این <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll"  target="_blank">لینک</a> می‌توانید قیمت و کاتالوگ را مشاهده نمایید.
+ با مراجعه به این <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll"  target="_blank">لینک</a> می‌توانید قیمت و کاتالوگ را مشاهده نمایید.
+مشاوران ما آماده پاسخگویی به تمام سوالات شما در این زمینه هستند.
