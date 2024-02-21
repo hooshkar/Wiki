@@ -2,7 +2,7 @@
 title: حقوق و دستمزد چیست؟
 author: سمانه رشوند  
 description: مبلغی که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
-dateModified: 2024/02/17  
+dateModified: 2024/02/20  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/WhatIsPayroll
 ---
@@ -27,22 +27,7 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
 در این مقاله قصد داریم تا به بررسی جزئیات و فرایند محاسبه حقوق و دستمزد بپردازیم و روش‌های صحیح آن را تشریح کنیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد سایان</a>:</br>
-
-این نرم افزار، یکی از محصولات کاربردی شرکت نرم‌افزاری هوشکار در حوزه منابع انسانی است که به منظور ساده‌سازی محاسبات پیچیده حقوق و دستمزد طراحی و تولید شده است.
-
-**امکانات نرم افزار محاسبه حقوق سایان:**
-
-- محاسبه دقیق و سریع انواع حقوق، مزایا، کسورات و مالیات‌ها
-- امکان محاسبه عیدی، پاداش، حق مرخصی و سایر مزایا
-- صدور خودکار فیش حقوقی و سایر گزارشات مورد نیاز
-- تهیه لیست بیمه و مالیات
-- یکپارچگی با نرم‌افزار حضور و غیاب جهت کاهش حجم کاری
-- انعطاف‌پذیری بالا در تعریف انواع فرمول‌های محاسباتی
-- گزارش‌گیری آسان و قدرتمند جهت تحلیل آماری
-- رابط کاربری ساده و دوستانه
-
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
 
 ## تعریف حقوق و دستمزد
 حقوق و دستمزد مبلغی است که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
@@ -50,8 +35,8 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
 ![حقوق و دستمزد](./Images/Salaries.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حقوق وزارت کار 1402
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حقوق وزارت کار 1402
+</a></p></strong></blockquote>
 
 ### اجزای اصلی حقوق و دستمزد
 *	حقوق پایه 

@@ -2,7 +2,7 @@
 title: فرمول محاسبه حقوق و دستمزد
 author: سمانه رشوند  
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2024/02/17  
+dateModified: 2024/02/20  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/PayrollFormula
 ---
@@ -29,22 +29,7 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 در این مقاله، قصد داریم تا به بررسی فرمول های محاسبه حقوق پایه، اضافه کاری و شب‌کاری کارکنان و... بپردازیم. فرمول‌های ارائه شده در ادامه، راهنمای مناسبی برای محاسبه دقیق حقوق و مزایای کارکنان بر اساس ضوابط قانون کار هستند. پیروی از این فرمول‌ها می‌تواند از بروز خطا در محاسبات جلوگیری کرده و عدالت را در پرداخت‌ها تضمین نماید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد سایان</a>:</br>
-
-این نرم افزار، یکی از محصولات کاربردی شرکت نرم‌افزاری هوشکار در حوزه منابع انسانی است که به منظور ساده‌سازی محاسبات پیچیده حقوق و دستمزد طراحی و تولید شده است.
-
-**ویژگی‌ها و قابلیت‌های نرم افزار حقوق و دستمزد سایان:**
-
-- محاسبه دقیق و سریع انواع حقوق، مزایا، کسورات و مالیات‌ها
-- امکان محاسبه عیدی، پاداش، حق مرخصی و سایر مزایا
-- صدور خودکار فیش حقوقی و سایر گزارشات مورد نیاز
-- تهیه لیست بیمه و مالیات
-- یکپارچگی با نرم‌افزار حضور و غیاب جهت کاهش حجم کاری
-- انعطاف‌پذیری بالا در تعریف انواع فرمول‌های محاسباتی
-- گزارش‌گیری آسان و قدرتمند جهت تحلیل آماری
-- رابط کاربری ساده و دوستانه
-
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
 
 ## انواع فرمول های حقوق و دستمزد
 
@@ -76,9 +61,8 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 روزهای کارکرد سنوات خدمت × 365 ÷ حقوق پایه در حکم
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">فرمول محاسبه عیدی و سنوات
-</a>
-</blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">فرمول محاسبه عیدی و سنوات
+</a></p></strong></blockquote>
 
 ### فرمول شب کاری
 ساعت کاری عادی کارمندان از شنبه تا پنجشنبه، 7 ساعت و 20 دقیقه در روز است. این 7 ساعت و 20 دقیقه از 6 صبح شروع می‌شود و تا 22 شب ادامه دارد که روز کاری محسوب می‌شود.
@@ -107,7 +91,7 @@ _فرمول حقوق و دستمزد شیفت کاری 14 الی 22 شب_
 کسر کار ماه × (2 × 220   ÷ حقوق پایه در حکم)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم افزارهای حقوق و دستمزد</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم افزارهای حقوق و دستمزد</a></p></strong></blockquote>
 
 ## حق اولاد چیست و چگونه محاسبه می شود
 

@@ -1,17 +1,16 @@
 ---
-title:  حسابداری چند لایه چیست؟
-author: سمانه رشوند  
+title: حسابداری چند لایه چیست؟
+author: سمانه رشوند
 description: حسابداری چند لایه به شما کمک می کند تا در عین حال که اصول حسابداری مثل اصل تفکیک حسابها را رعایت کرده اید با در نظر گرفتن ماهیت حسابها امکان این را داشته باشید تا گردش حسابهای مختلف را در لایه های متعدد برچسب گذاری نمایید.
-dateModified: 2023/09/21   
+dateModified: 2024/02/20   
 datePublished: 2022/07/19 
-uid: Financial/MultiLayeredAccounting/MultiLayeredAccounting  
+uid: Financial/MultiLayeredAccounting/MultiLayeredAccounting
 ---
-## حسابداری چند لایه در حسابداری سایان
+## حسابداری چند لایه در نرم افزار سایان
 حسابداری چند لایه به شما کمک می کند تا در عین حال که اصول حسابداری مثل اصل تفکیک حسابها را رعایت کرده اید با در نظر گرفتن ماهیت حسابها امکان این را داشته باشید تا گردش حسابهای مختلف را در لایه های متعدد برچسب گذاری نمایید.
 
 در ادامه می توانید گزارش های مختلف مانند:
 سود و زیان، ترازنامه و حتی دفاتر را بر روی لایه های موازی و دلخواه تان تهیه کنید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری سایان
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری</a> سایان</strong></p></blockquote>

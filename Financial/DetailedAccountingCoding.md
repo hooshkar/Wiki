@@ -1,10 +1,10 @@
 ---
 title: کدینگ تفصیلی حسابداری چیست؟
-author: سمانه رشوند  
+author: سمانه رشوند
 description: کدینگ تفصیلی حسابداری، یکی از مهم‌ترین قسمت‌های سیستم حسابداری است که به کمک آن می‌توان تمامی تراکنش‌های مالی یک شرکت را به صورت دقیق و مفصل ثبت کرد.
-dateModified: 2024/01/29
+dateModified: 2024/02/21
 datePublished: 2023/03/07
-uid: Financial\DetailedAccountingCoding
+uid: Financial/DetailedAccountingCoding
 ---
 
 ## تعریف کدینگ تفصیلی حسابداری
@@ -15,6 +15,7 @@ uid: Financial\DetailedAccountingCoding
 
 این سیستم کدینگ تفصیلی حسابداری، بسیار مفید و حیاتی برای شرکت‌ها و سازمان‌هاست، زیرا ثبت دقیق تراکنش‌های مالی می‌تواند در افزایش بهبود کارایی مالی، کاهش هزینه‌ها و... به شرکتها کمک کند.
 
+
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">حساب تفصیلی چیست</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/BasicsOfFinancialAccounting" target="_blank">حساب تفصیلی چیست</a></p></strong></blockquote>
 

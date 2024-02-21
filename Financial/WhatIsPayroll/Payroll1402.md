@@ -2,7 +2,7 @@
 title: حقوق وزارت کار 1402
 author: سمانه رشوند  
 description: طبق اخباری که از لایحه بودجه 1402 منتشر شده، کف پایه حقوق کارمندان در سال 1402، 7 میلیون تومان در نظر گرفته شده است. گرچه این افزایش در حالی است که هنوز مدل افزایش آن به طور کامل مشخص نشده که به چه صورت است؟ پلکانی معکوس یا برابر برای همه؟ 
-dateModified: 2024/02/17  
+dateModified: 2024/02/20  
 datePublished: 2023/02/13 
 uid: Financial/WhatIsPayroll/Payroll1402
 ---
@@ -28,22 +28,7 @@ uid: Financial/WhatIsPayroll/Payroll1402
 چرا‌که بحث اصلی عدم تطابق درصد افزایش حقوق با میزان تورم می‌باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات سایان</a>:</br>
-
-این نرم افزار، یکی از محصولات کاربردی شرکت نرم‌افزاری هوشکار در حوزه منابع انسانی است که به منظور ساده‌سازی محاسبات پیچیده حقوق و دستمزد طراحی و تولید شده است.
-
-**ویژگی‌ها و قابلیت‌های نرم افزار حقوق و دستمزد سایان:**
-
-- محاسبه دقیق و سریع انواع حقوق، مزایا، کسورات و مالیات‌ها
-- امکان محاسبه عیدی، پاداش، حق مرخصی و سایر مزایا
-- صدور خودکار فیش حقوقی و سایر گزارشات مورد نیاز
-- تهیه لیست بیمه و مالیات
-- یکپارچگی با نرم‌افزار حضور و غیاب جهت کاهش حجم کاری
-- انعطاف‌پذیری بالا در تعریف انواع فرمول‌های محاسباتی
-- گزارش‌گیری آسان و قدرتمند جهت تحلیل آماری
-- رابط کاربری ساده و دوستانه
-
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
 
 ## حقوق اداره کار 1402
 
@@ -55,7 +40,7 @@ uid: Financial/WhatIsPayroll/Payroll1402
 البته قابل ذکر است هنوز تعیین حداقل حقوق سال ۱۴۰۲ در مرحله کارشناسی است و به تایید نهایی نرسیده است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حداقل حقوق ۱۴۰۱</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حداقل حقوق ۱۴۰۱</a></p></strong></blockquote>
 
 ## جدول حقوق کارگران 1402
 
@@ -81,7 +66,7 @@ uid: Financial/WhatIsPayroll/Payroll1402
 حاصل این تقسیم برابر با 24.1394 تومان است که نشان‌دهنده درآمد به ازای هر ساعت کاری بدون در نظر گرفتن پاداش، بیمه، حق مسکن و هزینه‌های دیگر می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم افزارهای حقوق و دستمزد</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم افزارهای حقوق و دستمزد</a></p></strong></blockquote>
 
 ---
 آیا از هزینه‌ها و زمان صرف شده برای محاسبات دستی حقوق و دستمزد پرسنل خسته شده‌اید؟ 

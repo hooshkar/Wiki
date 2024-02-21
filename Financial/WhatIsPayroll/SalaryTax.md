@@ -2,7 +2,7 @@
 title: محاسبه مالیات حقوق
 author: سمانه رشوند  
 description: فردی که یک سال گذشته در واحد اقتصادی مشغول بوده باشد در پایان سال مبلغی معادل دو برابر حقوق پایه ماهیانه خود به عنوان عیدی دریافت خواهد کرد.
-dateModified: 2024/02/17
+dateModified: 2024/02/20
 datePublished: 2023/02/19
 uid: Financial/WhatIsPayroll/SalaryTax
 ---
@@ -31,11 +31,7 @@ uid: Financial/WhatIsPayroll/SalaryTax
 سایت: <a href="https://www.tax.gov.ir" target="_blank">tax.gov.ir</a>
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان مالیاتی</a>:</br>
-نرم افزار مودیان مالیاتی سایان یکی از نرم‌افزارهای تخصصی ارسال صورتحساب الکترونیکی به سامانه مودیان است که توسط شرکت نرم‌افزاری هوشکار ارائه شده‌است.
-
-این نرم‌افزار با هدف تسهیل فرایند ارسال فاکتور برای مودیان محترم مالیاتی طراحی گردیده است. کلیه صاحبان مشاغل و شرکت‌ها می‌توانند با استفاده از این نرم‌افزار، انواع صورتحساب‌های خود را به راحتی و به صورت نامحدود به سامانه مودیان ارسال نمایند.
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان مالیاتی</a> سایان</strong></p></blockquote>
 
 ## انواع مالیات حقوق
 
@@ -50,7 +46,7 @@ uid: Financial/WhatIsPayroll/SalaryTax
 مالیات غیرمستقیم، به نوعی از مالیات گفته می‌شود که ما هنگام خرید اجناس و کالا آن را می‌پردازیم. مانند مالیات بر ارزش افزوده.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">محاسبه مالیات عیدی</a>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">محاسبه مالیات عیدی</a></p></strong>
 </blockquote>
 
 ## معافیت های مالیات حقوق

@@ -2,11 +2,12 @@
 title: حساب تفصیلی چیست؟
 author: سمانه رشوند  
 description: حساب تفصیلی در توصیف حساب های کل و معین تعریف می شود. معنای لغوی تفصیل یعنی شرح دادن؛ بنابراین حساب های تفصیلی، جزئی ترین حساب های یک سازمان یا شرکت هستند.
-dateModified: 2024/01/29
+dateModified: 2024/02/20
 datePublished: 2022/07/19
 uid: Financial/MultiLayeredAccounting/DetailedAccount  
 ---
-**راهنمای مطالب**
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
 
 - [تعریف حساب تفصیلی](#تعریف-حساب-تفصیلی)
 - [کاربرد حساب تفصیلی](#کاربرد-حساب-تفصیلی)
@@ -18,6 +19,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 - [گزارش تفصیلی چیست](#گزارش-تفصیلی-چیست)
 - [تعریف حساب تفصیلی در نرم افزار حسابداری سایان](#تعریف-حساب-تفصیلی-در-نرم-افزار-حسابداری-سایان)
 
+</blockquote>
 
 ## تعریف حساب تفصیلی
 حساب تفصیلی در توصیف حساب های کل و معین تعریف می شود. معنای لغوی تفصیل یعنی شرح دادن؛ 
@@ -33,27 +35,19 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 بنابراین حسابداران برای تکمیل و دقیق بودن اطلاعات و ثبت هایشان از حساب های تفصیلی کمک می گیرند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان</a>:</br>
-
-نرم افزار حسابداری شرکتی سایان، گزینه‌ای هوشمند و کارآمد برای مدیریت حسابداری شرکت‌های بزرگ و کوچک است. 
-
-این نرم‌افزار با قابلیت‌های پیشرفته مانند مدیریت صورتحساب‌ها، تهیه صورت‌های مالی، گزارش‌گیری، مدیریت انبار و پروژه‌ها، ثبت تراکنش‌های مالی،حسابداری، همچنین پشتیبانی از چند ارز مختلف و... فرایند حسابداری شرکت شما را بهینه می‌کند.
-
-سایان با درک نیازهای حسابداری در ایران، نرم‌افزاری طراحی کرده که کاملاً با انواع کسب‌وکارها سازگار است. برای آشنایی بیشتر با قابلیت‌های این نرم‌افزار هوشمند با ما تماس بگیرید.
-
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری</a> سایان</strong></p></blockquote>
 
 ## کاربرد حساب تفصیلی
 حساب های تفصیلی در تکمیل اطلاعات حساب های معین کاربرد دارند یا به تعریف دیگر مهمترین کاربرد حساب تفصیلی، پاسخگویی مناسب به گزارش گیری حسابداری و مالیست که بدون استفاده از حساب تفصیلی، امکان پاسخگویی به نیازهای گزارش گیری مدیران درون سازمانی و ذینفعان برون سازمانی وجود نخواهد داشت.
 
 بعنوان مثال نیاز داریم گردش و مانده حسابهای اشخاص حقیقی یا حقوقی خود را به تفکیک در سیستم حسابداری داشته باشیم که بدون بکارگیری حساب تفصیل، این امکان وجود نخواهد داشت.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">کدینگ تفصیلی حسابداری چیست؟
-</a></blockquote>
-
 ## ماهیت حساب تفصیلی
 حساب های تفصیلی ماهیت جزئی دارند. جزئیات اگرچه بسیار مهم هستند اما به تنهایی بی معنا می شوند. حساب های تفصیلی به نوعی ماهیت خود را از حساب معین خود دریافت می کنند.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">کدینگ تفصیلی حسابداری چیست؟
+</a></p></strong></blockquote>
 
 ## تفاوت حساب تفصیلی و معین و کل
 
@@ -72,8 +66,8 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 از حساب تفصیلی زمانی که رویدادهای مالی جزئیات بالایی دارند و حساب معین، پاسخگوی تمام اطلاعات نیست استفاده می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
+</a></p></strong></blockquote>
 
 ## انواع حساب تفصیلی
 
@@ -95,7 +89,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 گردش حسابهای مربوط به یک شخص حقیقی یا حقوقی که نشان دهنده عملکرد مالی آن شخص می باشد.
 
 ## تعریف حساب تفصیلی در نرم افزار حسابداری سایان
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">حسابداری سایان
+<a href="https://www.hooshkar.com/Software/Sayan" target="_blank">سایان
 </a> یکی از بهترین نرم افزار های مطرح در عرصه نرم افزارهای مالی و حسابداری است.
 
 در حسابداری سایان جهت ایجاد حساب تفصیلی ابتدا باید ویژگی تفصیل پذیر بودن به حساب معین تخصیص داده شود.

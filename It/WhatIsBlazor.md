@@ -1,8 +1,8 @@
 ---
-title: برنامه نویسی Blazor (بلیزر) چیست؟
+title: بلیزر چیست؟
 author: سمانه رشوند
 description: Blazor  یک فریم‌ورک پویا و قدرتمند برای توسعه برنامه‌های وب با استفاده از C# و Razor است که توسعه‌دهندگان را قادر می‌سازد برنامه‌های بسیار پویا و قابل تعامل را با کارایی بالا و تجربه کاربری بهتر بسازند.
-dateModified: 2023/09/25
+dateModified: 2024/02/21
 datePublished: 2023/04/17   
 uid: It/WhatIsBlazor
 ---
@@ -12,10 +12,10 @@ uid: It/WhatIsBlazor
 - [بلیزر چیست](#بلیزر-چیست)
 - [امکانات Blazor برای توسعه دهندگان](#امکانات-blazor-برای-توسعه-دهندگان)
 
-## بلیزر چیست
+ ## بلیزر - Blazor
 
 بلیزر <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">Blazor</a>
-یک فریم‌ورک توسعه وب تحت پلتفرم ASP.NET توسط شرکت مایکروسافت است. با استفاده از Blazor، برنامه‌نویسان می‌توانند برنامه‌های وب تعاملی را با استفاده از زبان‌های برنامه‌نویسی #C و Razor بنویسند.
+یک فریم ورک توسعه وب تحت پلتفرم ASP.NET توسط شرکت مایکروسافت است. با استفاده از Blazor، برنامه‌نویسان می‌توانند برنامه‌های وب تعاملی را با استفاده از زبان‌های برنامه‌نویسی #C و Razor بنویسند.
 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">!["Blazor"](./Images/Blazor.webp)</a>
 
