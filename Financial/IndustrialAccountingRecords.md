@@ -27,8 +27,7 @@ uid: Financial/IndustrialAccountingRecords
 
 این مقاله به بررسی اهمیت و انواع ثبتهای حسابداری صنعتی به‌عنوان یک فرآیند بلندمدت و چگونگی انجام دقیق و موثر آن می‌پردازد.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری</a> سایان</strong></p></blockquote>
+
 
 ![ثبت های حسابداری صنعتی](./Images/IndustrialAccountingRecords.webp)
 

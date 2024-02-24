@@ -1,12 +1,15 @@
 ---
 title: اجرا و استفاده سامانه مودیان در شهرداری ها
-author: سمانه رشوند  
+author: سمانه رشوند
 description: شهرداری ها به عنوان یکی از سازمان‌های بزرگ، با گردش مالی فراوان، موظف به پیوستن به سامانه مودیان هستند. شرکت هوشکار با هدف افزایش آگاهی از الزامات، قوانین، و مقررات مربوطه و ایجاد شفافیت بیشتر جهت بهبود عملکرد و استفاده بهینه از سامانه مؤدیان، مقاله‌ای تخصصی تدوین کرده است.
-dateModified: 2024/02/03
+dateModified: 2024/02/24
 datePublished: 2023/11/06
-uid: Financial\TaxGov
+uid: Financial/TaxGov
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [به کارگیری سامانه مودیان در شهرداری ها](#به-کارگیری-سامانه-مودیان-در-شهرداری-ها)
 - [سامانه مودیان](#سامانه-مودیان)
 - [حافظه مالیاتی چیست](#حافظه-مالیاتی-چیست)
@@ -16,6 +19,7 @@ uid: Financial\TaxGov
 - [جرائم ناشی از عدم اجرای قانون سامانه مودیان](#جرائم-ناشی-از-عدم-اجرای-قانون-سامانه-مودیان)
 - [باید و نبایدها در نرم افزارهای ارسال صورتحساب به سامانه مودیان مالیاتی](#باید-و-نبایدها-در-نرم-افزارهای-ارسال-صورتحساب-به-سامانه-مودیان-مالیاتی)
 
+</blockquote>
 
 ## به کارگیری سامانه مودیان در شهرداری ها
 
@@ -26,11 +30,8 @@ uid: Financial\TaxGov
 شرکت <a href="https://www.hooshkar.com" target="_blank">هوشکار</a> با هدف افزایش آگاهی از الزامات، قوانین و مقررات مربوطه و ایجاد شفافیت بیشتر جهت بهبود عملکرد و استفاده بهینه از سامانه مؤدیان، مقاله‌ای تخصصی تدوین کرده است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان</a>:</br>
-نرم افزار مودیان مالیاتی سایان یکی از نرم‌افزارهای تخصصی ارسال صورتحساب الکترونیکی به سامانه مودیان است که توسط شرکت نرم‌افزاری هوشکار ارائه شده‌است.
-
-این نرم‌افزار با هدف تسهیل فرایند ارسال فاکتور برای مودیان محترم مالیاتی طراحی گردیده است. کلیه صاحبان مشاغل و شرکت‌ها می‌توانند با استفاده از نرم‌افزار مودیان سایان، انواع صورتحساب‌های خود را به راحتی و به صورت نامحدود به سامانه مودیان ارسال نمایند.
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار مودیان مالیاتی
+</a> سایان</strong></p></blockquote>
 
 ![سامانه مودیان و شهرداری ها](./Images/TaxGov.webp)
 
@@ -42,9 +43,6 @@ uid: Financial\TaxGov
 2. برای هر مؤدی، یک کارپوشه مخصوص تعریف می‌شود.
 3. اتصال سامانه با استفاده از حافظه مالیاتی.
 4. به عنوان مرجع ثبت، صدور و استعلام صورتحساب عمل می‌کند.
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">شرکتهای معتمد ارائه دهنده خدمات مالیاتی</a></blockquote>
 
 ## حافظه مالیاتی چیست
 
@@ -59,7 +57,9 @@ uid: Financial\TaxGov
 با کمک این مقاله آموزشی، کارشناسان شهرداری ها و دهیاری ها قادرند مطابق با قوانین مالیاتی عمل کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت سامانه مودیان تا چه تاریخی می باشد؟</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">مهلت ارسال صورتحساب در سامانه مودیان
+</a></p></strong></blockquote>
+
 
 ## تعریف شماره مالیاتی منحصر به فرد
 
@@ -91,6 +91,9 @@ uid: Financial\TaxGov
 
 3. **شرکت های معتمد نوع سوم:** این شرکت‌ها وظایف محدودتری در زمینه قوانین پایانه‌های فروشگاهی و سامانه مؤدیان دارند، که شامل تهیه صورت های مالی، حسابرسی مالی، مشاوره فنی و غیر عملیاتی و مشاوره مالیاتی می‌شود.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">شرکتهای معتمد ارائه دهنده خدمات مالیاتی</a></p></strong></blockquote>
+
 ## تاریخ اجرای قانون سامانه مؤدیان
 
 تاریخ اجرای قانون سامانه مؤدیان برای گروه‌های مختلف متفاوت است و بستگی به نوع شرکت دارد. طبق قانونی که در مجلس شورای اسلامی تصویب شده، قانون سامانه مؤدیان همزمان برای همه شرکت‌ها اجرا نمی‌شود. 
@@ -114,7 +117,7 @@ uid: Financial\TaxGov
 - تاریخ اجرای قانون سامانه مؤدیان برای کلیه اشخاص مشمول باقیمانده از تاریخ: 1402/10/01
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/ModianContractorSystem" target="_blank">سامانه مودیان شرکتهای پیمانکاری</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/ModianContractorSystem" target="_blank">سامانه مودیان شرکتهای پیمانکاری</a></p></strong></blockquote>
 
 ## جرائم ناشی از عدم اجرای قانون سامانه مودیان
 
@@ -138,8 +141,8 @@ uid: Financial\TaxGov
 
 پیش از شروع ثبت‌نام، توصیه می‌شود که قوانین مربوط به سامانه مودیان مالیاتی را به دقت مطالعه نمایید. می‌توانید با کلیک بر روی دکمه زیر، قوانین سامانه مودیان را از سایت سازمان امور مالیاتی مطالعه کنید.
 
-<blockquote style="padding:0.5rem justify-content: center">
-<a href="https://inta.tax.gov.ir/Pages/Action/LawsIndex/8/1" target="_blank">قوانین سامانه مودیان</a></blockquote>
+<blockquote style="padding:0.5rem justify-content: center"><p><strong>
+<a href="https://inta.tax.gov.ir/Pages/Action/LawsIndex/8/1" target="_blank">قوانین سامانه مودیان</a></p></strong></blockquote>
 
 ### باید و نبایدها در نرم افزارهای ارسال صورتحساب به سامانه مودیان مالیاتی
 

@@ -1,12 +1,14 @@
 ---
 title: سامانه جامع تجارت چیست [سایت ntsw.ir]
-author: سمانه رشوند  
-description: در این مقاله هدف از اجرای سامانه جامع تجارت، اجزای موثر و مزایای آن مورد بررسی قرار می گیرد.
-dateModified: 2024/01/30
+author: سمانه رشوند
+description: سامانه جامع تجارت، یک سامانه یکپارچه برای مدیریت تمامی فرایندهای مرتبط با تجارت خارجی از جمله واردات، صادرات، حمل و نقل، انبارداری، پرداخت و ترخیص است که به صورت برخط و در یک محیط واحد انجام می‌شود.
+dateModified: 2024/02/24
 datePublished: 2022/12/14
-uid: Financial\ntsw
+uid: Financial/ntsw
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
 
 - [سامانه جامع تجارت چیست](#سامانه-جامع-تجارت-چیست)
 - [هدف از اجرای سامانه جامع تجارت چیست](#هدف-از-اجرای-سامانه-جامع-تجارت-چیست)
@@ -14,7 +16,9 @@ uid: Financial\ntsw
 - [زیر مجموعه های سامانه جامع تجارت](#زیر-مجموعه-های-سامانه-جامع-تجارت)
 - [مزایای سامانه جامع تجارت](#مزایای-سامانه-جامع-تجارت)
 
-## سامانه جامع تجارت چیست
+</blockquote>
+
+## سامانه جامع تجارت
 
 <a href="https://www.ntsw.ir" target="_blank">![سامانه جامع تجارت](./Images/ntsw.webp)</a>
 
@@ -23,11 +27,8 @@ uid: Financial\ntsw
 سامانه جامع تجارت، یک سامانه یکپارچه برای مدیریت تمامی فرایندهای مرتبط با تجارت خارجی از جمله واردات، صادرات، حمل و نقل، انبارداری، پرداخت و ترخیص است که به صورت برخط و در یک محیط واحد انجام می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان</a>:</br>
-نرم افزار مودیان مالیاتی سایان یکی از نرم‌افزارهای تخصصی ارسال صورتحساب الکترونیکی به سامانه مودیان است که توسط شرکت نرم‌افزاری هوشکار ارائه شده‌است.
-
-این نرم‌افزار با هدف تسهیل فرایند ارسال فاکتور برای مودیان محترم مالیاتی طراحی گردیده است. کلیه صاحبان مشاغل و شرکت‌ها می‌توانند با استفاده از نرم‌افزار مودیان سایان، انواع صورتحساب‌های خود را به راحتی و به صورت نامحدود به سامانه مودیان ارسال نمایند.
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار سامانه مودیان
+</a> سایان</strong></p></blockquote>
 
 یکی از وظایف دولتها، ایجاد زیرساخت‌های لازم در جهت انجام بهینه امور و فعالیت‌‌‌های اقتصادی است. 
 
@@ -42,8 +43,8 @@ uid: Financial\ntsw
 </a> و استفاده صحیح از آن می‌تواند امیدبخش رونق و شفافیت اقتصادی بیشتر برای کشور باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">سامانه مودیان مالیاتی چیست؟
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TpTaxGov" target="_blank">سامانه مودیان مالیاتی چیست؟
+</a></p></strong></blockquote>
 
 ## هدف از اجرای سامانه جامع تجارت چیست
 
@@ -76,7 +77,8 @@ uid: Financial\ntsw
 موارد فوق که به عنوان زیر مجموعه‌های این سامانه فعال می‌باشند، به طور کلی باعث تسریع در انجام مکاتبات مبادله اسناد و اطلاعات و کاهش مدت زمان تشریفات اداری می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">تمدید مهلت سامانه مودیان تا چه تاریخی می باشد؟</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">مهلت ارسال صورتحساب در سامانه مودیان
+</a></p></strong></blockquote>
 
 ## مزایای اجرای سامانه جامع تجارت برای کشور چیست
 
@@ -105,8 +107,8 @@ uid: Financial\ntsw
 جهت اطلاعات بیشتر می‌توانید راهنمای کامل سامانه جامع تجارت را از طریق لینک زیر مطالعه نمایید:
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-بیشتر بخوانید: <a href="https://www.ecommerce.gov.ir/uploads/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C_%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA139604__357.pdf" target="_blank">راهنمای کامل سامانه جامع تجارت
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.ecommerce.gov.ir/uploads/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C_%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA139604__357.pdf" target="_blank">راهنمای کامل سامانه جامع تجارت
+</a></p></strong></blockquote>
 
 [مقدمه]: #مقدمه
 [هدف سامانه جامع تجارت]: #هدف-سامانه-جامع-تجارت
