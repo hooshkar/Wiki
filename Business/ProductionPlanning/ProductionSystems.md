@@ -4,9 +4,12 @@ author: سمانه رشوند
 description: فیدبک + خروجی + پردازش + ورودی = سیستم تولید
 dateModified: 2023/09/25
 datePublished: 2022/11/05
-uid: Business\ProductionPlanning\ProductionSystems  
+uid: Business/ProductionPlanning/ProductionSystems  
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [اجزای سیستم تولید](#اجزای-سیستم-تولید)
 - [انواع سیستم های تولیدی](#انواع-سیستم-های-تولیدی)
     - [1. محصولی (خط تولید = انبوه سازی)](#1-محصولی-خط-تولید--انبوه-سازی)
@@ -29,6 +32,7 @@ uid: Business\ProductionPlanning\ProductionSystems
 - [دسته بندی سازمانها (نوع فعالیت)](#دسته-بندی-سازمانها-نوع-فعالیت)
 - [دسته بندی سازمانها (ماهیت محصول)](#دسته-بندی-سازمانها-ماهیت-محصول)
 
+</blockquote>
 
 
 ## اجزای سیستم تولید

@@ -7,10 +7,13 @@ datePublished: 2023/04/17
 uid: It/WhatIsBlazor
 ---
 
-**راهنمای مطالب**
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
 
 - [بلیزر چیست](#بلیزر-چیست)
 - [امکانات Blazor برای توسعه دهندگان](#امکانات-blazor-برای-توسعه-دهندگان)
+
+</blockquote>
 
  ## بلیزر - Blazor
 

@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: کارتن فلکسویی یا همان کارتن ممبرانی، شامل لایه‌هایی از کاغذ با سلول‌های خالی در وسط آن است. کارتن لمینتی دارای لایه‌هایی از کاغذ سفید در بالا و پایین است که به صورت لمینیت (پوشش) روی کارتن قرار می‌گیرند
 dateModified: 2023/09/25
 datePublished: 2023/08/31
-uid: Business\Carton\FlutedVsDuplexCarton
+uid: Business/Carton/FlutedVsDuplexCarton
 ---
 
 ## تفاوت های کارتن فلکسویی و کارتن لمینتی در چیست؟

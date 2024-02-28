@@ -6,10 +6,14 @@ dateModified: 2024/01/20
 datePublished: 2023/05/03
 uid: Business\WhatIsBpms
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [نرم افزار BPMS چیست](#نرم-افزار-bpms-چیست)
 - [مزایای نرم افزار BPMS](#مزایای-نرم-افزار-bpms)
 
+</blockquote>
 
 ##  نرم افزار BPMS چیست
 

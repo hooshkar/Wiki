@@ -4,9 +4,12 @@ author: سمانه رشوند
 description: زمان تکت فرمولی در ساخت و تولید می باشد، جهت شرح زمان مورد نیاز تولید یک محصول به گونه ای که با تقاضا همخوانی داشته باشد. 
 dateModified: 2023/08/13 
 datePublished: 2022/11/13
-uid: Business\TaktTime\TaktTime
+uid: Business/TaktTime/TaktTime
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [تعریف Takt Time](#تعریف-takt-time)
 - [فرمول زمان تکت](#فرمول-زمان-تکت)
 - [مزایای Takt Time](#مزایای-takt-time)
@@ -14,6 +17,8 @@ uid: Business\TaktTime\TaktTime
 - [تفاوت Takt Time و Cycle Time و Lead Time](#تفاوت-takt-time-و-cycle-time-و-lead-time)
 - [چرا استفاده از Takt Time اهمیت دارد](#چرا-استفاده-از-takt-time-اهمیت-دارد)
 - [روش های همسو نمودن زمان تکت با سرعت تولید](#روش-های-همسو-نمودن-زمان-تکت-با-سرعت-تولید)
+
+</blockquote>
 
 ## تعریف Takt Time
 زمان تکت فرمولی در ساخت و تولید می باشد، جهت شرح زمان مورد نیاز تولید یک محصول، به گونه ای که با تقاضا همخوانی داشته باشد. در واقع مدیریت فرایندهای تولید به صورت موثر و بدون اتلاف زمان و هزینه انجام می شود. 

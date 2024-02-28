@@ -6,12 +6,14 @@ dateModified: 2023/07/24
 datePublished: 2023/04/13   
 uid: It/WhatIsKubernetes
 ---
-**راهنمای مطالب**
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
 
 - [کوبرنتیز چیست](#کوبرنتیز-چیست)
 - [برخی از ویژگی های اصلی Kubernetes عبارتند از](#برخی-از-ویژگی-های-اصلی-kubernetes-عبارتند-از)
 - [کاربردهای Kubernetes در حوزه های مختلف عبارت است از](#کاربردهای-kubernetes-در-حوزه-های-مختلف-عبارت-است-از)
 
+</blockquote>
 
 ## کوبرنتیز چیست
 کوبرنتیز (<a href="https://kubernetes.io/" target="_blank">Kubernetes</a>) یا به اختصار"K8s"، یک پلتفرم مدیریت کانتینری است که توسط Google توسعه داده شده است و اکنون تحت حمایت و پشتیبانی انواع شرکت‌ها و جوامع متن‌باز قرار دارد. Kubernetes برای اتوماسیون، اجرا، مدیریت و اسکالینگ برنامه‌های کانتینری مبتنی بر <a href="https://www.hooshkar.com/Wiki/InformationTechnology/WhatIsDocker" target="_blank">Docker</a> (و سایر واسط‌های کانتینری) استفاده می‌شود.

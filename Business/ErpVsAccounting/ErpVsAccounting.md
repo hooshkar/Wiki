@@ -4,14 +4,18 @@ author: سمانه رشوند
 description: نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
 dateModified: 2023/09/25 
 datePublished: 2022/11/27
-uid: Business\ErpVsAccounting\ErpVsAccounting
+uid: Business/ErpVsAccounting/ErpVsAccounting
 ---
-**راهنمای مطالب**
-- [مقدمه](#مقدمه)
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [تفاوت ERP و حسابداری](#تفاوت-erp-و-حسابداری)
     - [1. ساختار](#1-ساختار)
     - [2. یکپارچه سازی](#2-یکپارچه-سازی)
     - [3. برنامه ریزی برای تولید](#3-برنامه-ریزی-برای-تولید)
+
+</blockquote>
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">نقش ERP در سازمان ها چیست؟</a>

@@ -4,9 +4,12 @@ author: سمانه رشوند
 description: ماشین الات مورد نیاز در صنعت کارتن سازی شامل دایکات، فلسکو، خط تیغ، لمینت ساز، منگنه کوب، لیبل زن، شیتر و...
 dateModified: 2023/09/10
 datePublished: 2023/08/30
-uid: Business\Carton\CartonIndustryMachinery
+uid: Business/Carton/CartonIndustryMachinery
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [چه تجهیزاتی در صنعت کارتن سازی مورد نیاز است؟](#چه-تجهیزاتی-در-صنعت-کارتن-سازی-مورد-نیاز-است؟)
     - [دستگاه دایکات (Die-cutting Machine)](#دستگاه-دایکات-die-cutting-machine)
     - [دستگاه چاپ فلکسو (Flexo Printing Machine)](#دستگاه-چاپ-فلکسو-flexo-printing-machine)
@@ -30,6 +33,8 @@ uid: Business\Carton\CartonIndustryMachinery
     - [کارتن های دایکاتی](#کارتن-های-دایکاتی)
     - [کارتن های اسپتیک](#کارتن-های-اسپتیک)
     - [کارتن چند لایه](#کارتن-چند-لایه)
+
+</blockquote>
 
 ## چه تجهیزاتی در صنعت کارتن سازی مورد نیاز است؟
 

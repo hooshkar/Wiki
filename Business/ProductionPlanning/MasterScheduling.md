@@ -4,9 +4,12 @@ author: سمانه رشوند
 description: زمان بندی اصلی پایه برنامه ریزی کوتاه مدت است که آن را به عنوان قلب برنامه ریزی تولید و کنترل موجودی می شناسند. کار اصلی آن ایجاد ارتباط بین برنامه ریزی میان مدت و کوتاه مدت می باشد.
 dateModified: 2023/09/25
 datePublished: 2022/11/05
-uid: Business\ProductionPlanning\MasterScheduling
+uid: Business/ProductionPlanning/MasterScheduling
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [برنامه ریزی تولید ادغامی چیست](#برنامه-ریزی-تولید-ادغامی-چیست)
 - [زمان بندی اصلی چیست](#زمان-بندی-اصلی-چیست)
     - [ورودی های MS](#ورودی-های-ms)
@@ -14,6 +17,7 @@ uid: Business\ProductionPlanning\MasterScheduling
     - [سیاست های تولیدی در زمان بندی اصلی](#سیاست-های-تولیدی-در-زمان-بندی-اصلی)
 - [برنامه ریزی ظرفیت سر انگشتی RCCP (Rough Cut Capacity Planning)](#برنامه-ریزی-ظرفیت-سر-انگشتی-rccp-rough-cut-capacity-planning)
 
+</blockquote>
 
 ## برنامه ریزی تولید ادغامی چیست
 به برنامه اصلی هر شرکت برای تولید محصول Aggregate Planning گفته می شود.

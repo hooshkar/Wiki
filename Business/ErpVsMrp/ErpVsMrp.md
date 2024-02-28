@@ -4,12 +4,16 @@ author: سمانه رشوند
 description: سیستم‌های ERP امروزی در واقع شکل توسعه یافته MRPII هستند. بنابراین درک تفاوت‌های موجود در این دو سیستم در بکارگیری آنها اهمیت ویژه‌ای دارد.
 dateModified: 2023/09/25
 datePublished: 2022/11/26
-uid: Business\ErpVsMrp\ErpVsMrp
+uid: Business/ErpVsMrp/ErpVsMrp
 ---
-**راهنمای مطالب**
-- [مقدمه](#مقدمه)
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [تفاوت ERP و MRP](#تفاوت-erp-و-mrp)
 - [شباهت های بین ERP و MRP در چیست](#شباهت-های-بین-erp-و-mrp-در-چیست)
+
+</blockquote>
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">نقش ERP در سازمان ها چیست؟</a>

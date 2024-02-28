@@ -4,7 +4,7 @@ author: سمانه رشوند
 description: تاریخچه صنعت بسته بندی در ایران، با تمایزی جالب از تاریخچه اروپا، به دوران نیم قرن پیش باز می‌گردد. در اروپا، این صنعت نزدیک به دو قرن تجربه شده است، اما در ایران، این رشته فعالیت به نیم قرن قبل برمی گردد.
 dateModified: 2023/09/10
 datePublished: 2023/09/03
-uid: Business\Carton\HistoryPackagingIndustryIran
+uid: Business/Carton/HistoryPackagingIndustryIran
 ---
 
 ## تاریخچه بسته بندی در ایران

@@ -4,9 +4,12 @@ author: سمانه رشوند
 description: این سیستم دقیقا سیستم تولید MRP است. برنامه ریزی تولید بر مبنای داده هایی نظیر تقاضاهای پیش بینی شده، لیست مواد (Bill of Material)، زمان تدارک (Lead Time) و وضعیت موجودی صورت می گیرد.
 dateModified: 2023/09/25
 datePublished: 2022/11/12
-uid: Business\ProductionPlanning\JustInTime
+uid: Business/ProductionPlanning/JustInTime
 ---
-**راهنمای مطالب**
+
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
+آنچه در این مطلب خواهید خواند:
+
 - [تعریف سیستم تولید Just in time](#تعریف-سیستم-تولید-just-in-time)
 - [سیستم برنامه ریزی و کنترل تولید فشاری Push SYS](#سیستم-برنامه-ریزی-و-کنترل-تولید-فشاری-push-sys)
 - [سیستم برنامه ریزی و کنترل تولید کششی Pull SYS](#سیستم-برنامه-ریزی-و-کنترل-تولید-کششی-pull-sys)
@@ -21,7 +24,7 @@ uid: Business\ProductionPlanning\JustInTime
 - [تابلو آندون (Andon)](#تابلو-آندون-andon)
 - [زمان تکت (Takt Time)](#زمان-تکت-takt-time)
 
-
+</blockquote>
 
 ## تعریف سیستم تولید Just in time
 
