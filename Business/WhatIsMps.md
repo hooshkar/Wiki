@@ -24,8 +24,8 @@ uid: Business/WhatIsMps
 در این سند، به برنامه ریزی مراحل تولید از شروع تا تحویل کالا یا خدمات پرداخته خواهد شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید چیست؟
-</a></blockquote>
+<p><strong>مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید چیست؟
+</a></p></strong></blockquote>
 
 
 ![سربرنامه تولید (MPS)](./Images/MPS-01.webp)
@@ -47,8 +47,8 @@ uid: Business/WhatIsMps
 **7.	بسته‌بندی و تحویل:** کالا یا خدمات بسته‌بندی و آماده تحویل به مشتری می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی تولید
+</a>فنک</p></strong></blockquote>
 
 ## مزایای سربرنامه تولید
 

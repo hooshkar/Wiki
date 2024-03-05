@@ -27,8 +27,12 @@ uid: Business\WhatIsBpmn
 
 </blockquote>
 
-## مقدمه
+**مقدمه**
+
 BPMN یا مدل‌سازی فرایندهای کسب‌وکار، ابزاری قدرتمند برای مستندسازی و بهبود فرایندهای کاری در سازمان‌هاست. BPMN با ارائه نمایش بصری از فرایندها، به درک بهتر و ارتباط بهتر ذی‌نفعان در سازمان کمک می‌کند. در این مقاله به معرفی BPMN و کاربردهای آن در حوزه‌های مختلف از جمله ERP و BPMS می‌پردازیم.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار مدیریت فرایند</a> فنک</p></strong></blockquote>
 
 ## تعریف BPMN
 به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
@@ -44,7 +48,7 @@ BPMN یا مدل‌سازی فرایندهای کسب‌وکار، ابزاری 
 در حال حاضر، BPMN یکی از پراستفاده‌ترین استانداردهای مدلسازی فرآیند کسب و کار در سراسر جهان است و به عنوان یک ابزار کارآمد در بسیاری از صنایع و سازمان‌ها مورد استفاده قرار می‌گیرد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsBpms" target="_blank">BPMS چیست؟</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsBpms" target="_blank">BPMS چیست؟</a></p></strong></blockquote>
 
 ![BPMN (Business Process Model and Notation) چیست؟](./Images/BPMN.webp)
 
@@ -85,9 +89,7 @@ BPMN یا مدل‌سازی فرایندهای کسب‌وکار، ابزاری 
 
 ![BPM (Business Process Management)](./Images/BPM.webp)
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank"> آشنایی با امکانات نرم افزار مدیریت فرایند (BPMS) فنک
-</a></blockquote>
+
 
 ## هدف مدلسازی مدیریت فرآیند کسب و کار چیست
 هدف اصلی مدلسازی فرآیند کسب و کار، بهبود و بهینه‌سازی فرایندهای کسب و کار است. با مدل‌سازی فرایندها، می‌توان بهترین روش‌های اجرای فرآیندها را شناسایی کرده و برای بهبود و بهینه‌سازی آن‌ها از روش‌هایی مانند استانداردسازی و اتوماسیون استفاده کرد.

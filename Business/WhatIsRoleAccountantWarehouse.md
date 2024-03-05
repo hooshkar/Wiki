@@ -22,8 +22,7 @@ uid: Business/WhatIsRoleAccountantWarehouse
 انباردار یک شخص یا کارمند در سازمان یا شرکت است که مسئولیت مدیریت و کنترل فعالیت‌های انبار و موجودی کالاها را بر عهده دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">آشنایی با امکانات نرم افزار انبارداری سایان
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری ساده</a> سایان</strong></p></blockquote>
 
 ## وظایف حسابدار انبار چیست
 
@@ -38,8 +37,8 @@ uid: Business/WhatIsRoleAccountantWarehouse
 **5. توزیع کالاها:** انباردار مسئولیت تخصیص کالاها به بخش‌های مختلف سازمان یا مشتریان را دارد. او باید کالاها را با دقت از انبار خارج کرده و تحویل مقصد نهایی دهد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">آشنایی با امکانات نرم افزار حسابداری انبار سایان
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">نرم افزار حسابداری انبار 
+</a>سایان</p></strong></blockquote>
 
 **6. همکاری با تیم‌های مرتبط:** انباردار باید با تیم‌های خرید، حسابداری، تولید و مدیران مشترک در سازمان همکاری داشته باشد تا به بهره‌وری و کارایی بهتری در عملیات انبارگردانی برسد.
 
@@ -71,8 +70,10 @@ uid: Business/WhatIsRoleAccountantWarehouse
    - رصد موجودی محصولات دارویی با دقت بالا برای جلوگیری از خطاهای انسانی
    - رعایت استانداردهای ایمنی و بهداشت در انبار داروسازی
 
+
+
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">ویژگی های انتخاب بهترین نرم افزار انبارداری چیست؟</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">ویژگی های انتخاب بهترین نرم افزار انبارداری چیست؟</a></p></strong></blockquote>
 
 **4. انبارداری در خودروسازی:**
    - مدیریت موجودی قطعات خودرو

@@ -15,7 +15,7 @@ uid: Business/WhatIsKpi
 
 </blockquote>
 
-## مقدمه
+**مقدمه**
 
 ![شاخص ارزیابی عملکرد (KPI) چیست؟](./Images/WhatIsKpi.webp)
 
@@ -26,8 +26,8 @@ uid: Business/WhatIsKpi
 این مقاله به شما کمک می‌کند تا فرآیند تخصیص و اعتباردهی صحیح KPIها را درک کنید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/Dashboard" target="_blank">آشنایی با امکانات نرم افزار داشبورد مدیریتی فنک
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/Dashboard" target="_blank">نرم افزار داشبورد مدیریتی
+</a>فنک</p></strong></blockquote>
 
 ## تعریف KPI
 عبارت "شاخص کلیدی عملکرد" یا به اختصار KPI از اصطلاح انگلیسی "Key Performance Indicator" ترجمه می‌شود. در واقع KPI نشان می دهد که یک کسب و کار چقدر در رسیدن به اهداف موفق یا ناموفق بوده است.

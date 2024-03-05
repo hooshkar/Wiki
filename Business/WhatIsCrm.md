@@ -25,8 +25,8 @@ uid: Business/WhatIsCrm
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/CrmAndErpDifferences" target="_blank">تفاوت CRM و  ERP چیست؟
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/CrmAndErpDifferences" target="_blank">تفاوت CRM و  ERP چیست؟
+</a></p></strong></blockquote>
 
 <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">![CRM چیست؟](./Images/CRM.webp)</a>
 
@@ -40,8 +40,8 @@ uid: Business/WhatIsCrm
 **3. بهبود فرآیندهای فروش و بازاریابی:** از طریق تحلیل داده‌های مشتری و پیگیری فعالیت‌ها، سازمان‌ها می‌توانند بهترین استراتژی‌ها و تماس‌های فروش را شناسایی کنند و فرصت‌های فروش را بهبود بخشند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsErp" target="_blank">ERP چیست؟
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsErp" target="_blank">ERP چیست؟
+</a></p></strong></blockquote>
 
 **4. بهبود خدمات پس از فروش:** با داشتن اطلاعات کاملی از مشتریان و تاریخچه خریدها، سازمان‌ها می‌توانند خدمات پس از فروش بهتری را ارائه دهند، مشکلات و نیازهای مشتریان را بهبود بخشند و ارتباط مستدام با مشتریان خود را برقرار کنند.
 
@@ -51,13 +51,5 @@ uid: Business/WhatIsCrm
 
 **7. بهبود امنیت و حفاظت اطلاعات:** با داشتن سیستم مرکزی برای ذخیره و مدیریت اطلاعات مشتریان، امنیت و حفاظت از اطلاعات حساس مشتریان بهبود یافته و احتمال نفوذ و دسترسی غیرمجاز به اطلاعات کاهش می‌یابد.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<a href="https://www.hooshkar.com/Software/Fennec" target="_blank">نرم افزار ERP ایرانی فِنِک</a>:</br>
-
-نرم افزار فنک، نرم افزار جامع و کارآمد مدیریت منابع سازمان است که توسط شرکت هوشکار جهت رفع نیازهای خاص صنعت ایران ارائه شده است. این نرم‌افزار هوشمند با یکپارچه‌سازی فرایندهای مختلف، بهره‌وری و سودآوری شما را افزایش می‌دهد. 
-
-با ERP فنک می‌توانید تولید، منابع انسانی، مالی، فروش و بازاریابی را به صورت یکپارچه مدیریت کنید. همچنین از مزایای دیگر آن می‌توان به گزارش‌گیری آسان، کاهش هزینه‌ها و افزایش بهره‌وری اشاره کرد.
-
-برای کسب اطلاعات بیشتر و آشنایی با قابلیت‌های نرم‌افزار ERP فنک با ما تماس بگیرید.
-
+<blockquote style="background-color:#f5f5f5; padding:0.5rem"><p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">نرم افزار ERP ایرانی</a> فِنِک</p></strong>
 </blockquote>
