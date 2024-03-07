@@ -2,7 +2,7 @@
 title: وظایف حسابدار انبار چیست؟
 author: سمانه رشوند
 description: نقش حسابدار انباردار در حفظ کارایی عملیات انبار و بهره‌وری در مدیریت موجودی انبار بسیار حیاتی است و تاثیر مستقیمی بر روی هزینه‌ها و کیفیت خدمات سازمان دارد
-dateModified: 2023/10/09
+dateModified: 2024/03/07
 datePublished: 2023/10/09
 uid: Business/WhatIsRoleAccountantWarehouse
 ---
@@ -22,7 +22,7 @@ uid: Business/WhatIsRoleAccountantWarehouse
 انباردار یک شخص یا کارمند در سازمان یا شرکت است که مسئولیت مدیریت و کنترل فعالیت‌های انبار و موجودی کالاها را بر عهده دارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری ساده</a> سایان</strong></p></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری</a> (انبار تعدادی) سایان</strong></p></blockquote>
 
 ## وظایف حسابدار انبار چیست
 
@@ -38,7 +38,7 @@ uid: Business/WhatIsRoleAccountantWarehouse
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">نرم افزار حسابداری انبار 
-</a>سایان</p></strong></blockquote>
+</a>(انبار ریالی) سایان </p></strong></blockquote>
 
 **6. همکاری با تیم‌های مرتبط:** انباردار باید با تیم‌های خرید، حسابداری، تولید و مدیران مشترک در سازمان همکاری داشته باشد تا به بهره‌وری و کارایی بهتری در عملیات انبارگردانی برسد.
 
@@ -73,7 +73,7 @@ uid: Business/WhatIsRoleAccountantWarehouse
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">ویژگی های انتخاب بهترین نرم افزار انبارداری چیست؟</a></p></strong></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestInventorySoftware" target="_blank">بهترین نرم افزارهای انبارداری کدامند؟</a></p></strong></blockquote>
 
 **4. انبارداری در خودروسازی:**
    - مدیریت موجودی قطعات خودرو
@@ -84,13 +84,8 @@ uid: Business/WhatIsRoleAccountantWarehouse
    - مدیریت موجودی محصولات در فروشگاه و بررسی نیاز به تازه‌ترین محصولات و تخفیفات
    - رصد و مدیریت موجودی در ایام پرفروشی مانند تخفیفات و تعطیلات
 
-همچنین، انباردار ممکن است در موارد دیگری نیز وظایف خاصی داشته باشد که به نوع کسب و کار و نوع مواد نگهداری شده در انبار بستگی دارد. به عنوان مثال، در صنایع حمل و نقل، انباردار مسئولیت نگهداری از وسایل نقلیه و تجهیزات مرتبط با آنها را دارد. در هر صورت، اهمیت دقت، سازماندهی و مدیریت موجودی در تمامی حوزه‌های انبارداری بسیار بالاست تا از هدررفت منابع جلوگیری و موجب افزایش بهره‌وری شود.
+همچنین، انباردار ممکن است در موارد دیگری نیز وظایف خاصی داشته باشد که به نوع کسب و کار و نوع مواد نگهداری شده در انبار بستگی دارد.
 
+به عنوان مثال، در صنایع حمل و نقل، انباردار مسئولیت نگهداری از وسایل نقلیه و تجهیزات مرتبط با آنها را دارد.
 
-
-
-
-
-
-
-
+در هر صورت، اهمیت دقت، سازماندهی و مدیریت موجودی در تمامی حوزه‌های انبارداری بسیار بالاست تا از هدررفت منابع جلوگیری و موجب افزایش بهره‌وری شود.

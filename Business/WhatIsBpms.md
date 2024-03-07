@@ -2,9 +2,9 @@
 title: BPMS (مدیریت فرآیند کسب و کار) چیست؟
 author: سمانه رشوند
 description: نرم‌افزار BPMS یکی از ابزارهای مدیریت فرایند کسب و کار است که به شما کمک می‌کند تا فرایندهای سازمان خود را از طریق اتوماسیون و بهینه‌سازی بهبود ببخشید.
-dateModified: 2024/01/20
+dateModified: 2024/03/07
 datePublished: 2023/05/03
-uid: Business\WhatIsBpms
+uid: Business/WhatIsBpms
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
@@ -22,12 +22,12 @@ uid: Business\WhatIsBpms
 
 این ابزار شامل مجموعه‌ای از ابزارها و سرویس‌ها است که به شما کمک می‌کند تا فرایندهای سازمانی خود را از طریق مانیتورینگ، اتوماسیون، اجرا و بهینه‌سازی بهبود بخشید.
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار BPMS ایرانی 
+</a>فِنِک</p></strong></blockquote>
+
 
 ![Business Process Management System](./Images/BPMS.webp)
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار مدیریت فرایند 
-</a>فِنِک</p></strong></blockquote>
 
 ## مزایای نرم افزار BPMS
 
@@ -37,6 +37,6 @@ uid: Business\WhatIsBpms
 
 **3. بهبود کیفیت:** با مانیتورینگ و کنترل فرایندهای کسب و کار، کیفیت محصولات و خدمات سازمان شما بهبود می‌یابد.
 
-**4. سازگاری با تغییرات:** با استفاده از <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار BPMS</a>، شما قادر خواهید بود فرایندهای سازمانی خود را با تغییراتی که در محیط کسب و کار رخ می‌دهند، سازگار کنید.
+**4. سازگاری با تغییرات:** با استفاده از نرم افزار BPMS، شما قادر خواهید بود فرایندهای سازمانی خود را با تغییراتی که در محیط کسب و کار رخ می‌دهند، سازگار کنید.
 
 **5. بهبود شفافیت:** با استفاده از مانیتورینگ و گزارش‌دهی فرایندهای کسب و کار، شفافیت سازمان شما افزایش می‌یابد و شما بهترین تصمیم‌گیری‌ها را برای آینده سازمان خود می‌توانید بگیرید.

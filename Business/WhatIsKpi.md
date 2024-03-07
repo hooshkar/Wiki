@@ -2,7 +2,7 @@
 title: شاخص ارزیابی عملکرد (KPI) چیست؟
 author: سمانه رشوند
 description: سربرنامه تولید یک ابزار مهم در مدیریت تولید و پروژه‌های صنعتی است که به تیم‌های تولید کمک می‌کند تا به طور مؤثر و کارآمد برای تولید کالا یا خدمات پیش بینی شده، برنامه ریزی و کنترل داشته باشند.
-dateModified: 2023/12/24
+dateModified: 2024/03/07
 datePublished: 2023/12/30
 uid: Business/WhatIsKpi
 ---
@@ -26,7 +26,7 @@ uid: Business/WhatIsKpi
 این مقاله به شما کمک می‌کند تا فرآیند تخصیص و اعتباردهی صحیح KPIها را درک کنید.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/Dashboard" target="_blank">نرم افزار داشبورد مدیریتی
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/Dashboard" target="_blank">نرم افزار داشبورد
 </a>فنک</p></strong></blockquote>
 
 ## تعریف KPI
@@ -76,6 +76,5 @@ uid: Business/WhatIsKpi
    - شاخص عملکرد یک شاخص قابل اندازه‌گیری‌ است که به هدف کمک می‌کند و نشان‌دهنده عملکرد و پیشرفت است.
    - تارگت یک مقدار مشخص است که به عنوان نقطه مقصود برای رسیدن به هدف و استفاده از KPI تعیین می‌شود.
 
-در کل، هدف برنامه کلی است، KPI شاخص‌های مهم برای اندازه‌گیری عملکرد و تارگت مقدار مشخصی است که برنامه به دنبال رسیدن به آن است.
-
-اگر می‌خواهید سازمان خود را به سمت پیشرفت هدایت کنید، این مقاله یک راهنمای بسیار مفید است. برای مطالعه مقالات بیشتر، به <a href="https://www.hooshkar.com" target="_blank">سایت هوشکار</a> سر بزنید.
+---
+برای دریافت اطلاعات بیشتر در مورد نرم افزار داشبوردساز، به <a href="https://www.hooshkar.com" target="_blank">سایت هوشکار</a> سر بزنید.
