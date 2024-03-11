@@ -9,6 +9,9 @@ uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 آنچه در این مطلب خواهید خواند:
 
+- [محاسبه مرخصی در قانون کار](#محاسبه-مرخصی-در-قانون-کار)
+- [محاسبه مانده مرخصی](#محاسبه-مانده-مرخصی)
+- [فرمول محاسبه مانده مرخصی](#فرمول-محاسبه-مانده-مرخصی)
 
 </blockquote>
 
@@ -43,7 +46,7 @@ uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">جدول مرخصی کارگران و انواع آن</a></strong></p></blockquote>
 
-## فرمول محاسبه مانده مرخصی
+### فرمول محاسبه مانده مرخصی
 
 روش محاسبه مانده مرخصی به تنهایی به حقوق پایه محدود نیست؛ بلکه سایر مزایا نیز مانند حق مسکن در این محاسبات در نظر گرفته می‌شود. بنابراین، فرمول محاسبه مانده مرخصی به این صورت است که حقوق پایه و مزایا جمع می‌شوند و سپس به تعداد روزهای ماه تقسیم می‌شوند. در نهایت، این عدد در تعداد روزهای مرخصی ضرب می‌شود.
 
