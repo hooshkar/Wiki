@@ -2,7 +2,7 @@
 title: تاریخچه صنعت بسته بندی در ایران
 author: سمانه رشوند  
 description: تاریخچه صنعت بسته بندی در ایران، با تمایزی جالب از تاریخچه اروپا، به دوران نیم قرن پیش باز می‌گردد. در اروپا، این صنعت نزدیک به دو قرن تجربه شده است، اما در ایران، این رشته فعالیت به نیم قرن قبل برمی گردد.
-dateModified: 2023/09/10
+dateModified: 2024/03/10
 datePublished: 2023/09/03
 uid: Business/Carton/HistoryPackagingIndustryIran
 ---
@@ -16,8 +16,7 @@ uid: Business/Carton/HistoryPackagingIndustryIran
 صنعت بسته بندی در ایران در سال 1309 با تولید اولین قوطی‌های فلزی در یک کارخانه شخصی به نام "درخشان" آغاز شد. از آن پس، شرایط مناسب برای تأسیس کارخانه‌های دیگر در این زمینه در ایران فراهم شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/CartonIndustry" target="_blank"> صنعت کارتن سازی و راهنمای کامل برای ورود به آن
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/PrintingAndPackaging" target="_blank">نرم افزار چاپ و بسته بندی</a> سایان</p></strong></blockquote>
 
 در سال 1328، کارخانه کاغذ سازی کهریزک تأسیس شد و تولید مقوا و کاغذ در ایران آغاز شد. این کارخانه از کاغذهای باطله بهره‌برد و رشد چشمگیری را تجربه کرد.
 
@@ -28,5 +27,4 @@ uid: Business/Carton/HistoryPackagingIndustryIran
 کارخانه هفت تپه در خوزستان هم به عنوان اولین کارخانه مدرن ایران شناخته می‌شود که در سال‌های اخیر توانایی تولید لایه‌های بیرونی کارتن را دارد. همچنین، لایه‌های پلیمری برای بسته بندی محصولات پاستوریزه نیز در حال تولید در ایران هستند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/PrintingAndPackaging" target="_blank"> آشنایی با امکانات نرم افزار  صنایع چاپ و بسته بندی
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/CartonIndustry" target="_blank">آشنایی با صنعت کارتن سازی</a><p><strong></blockquote>

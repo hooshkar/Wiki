@@ -1,10 +1,10 @@
 ---
-title: جدول مرخصی کارگران و انواع آن
+title: فرمول محاسبه مانده مرخصی
 author: سمانه رشوند
-description: آیا با قوانین مربوط به مرخصی آشنایی دارید؟ چگونه مرخصی ها در قانون کار محاسبه می‌شوند؟
-dateModified: 2024/02/20
+description: مبلغ مرخصی مانده بر اساس حقوق و مزایای دریافتی کارگر و با استفاده از فرمول ارائه شده در این مقاله محاسبه می‌شود. آگاهی از فرمول محاسبه مانده مرخصی و حقوق قانونی مرتبط با آن برای کارفرمایان و کارگران ضروری است.
+dateModified: 2024/03/11
 datePublished: 2022/07/01
-uid: Financial/WhatIsPayroll/TypesOfLeaves
+uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 آنچه در این مطلب خواهید خواند:

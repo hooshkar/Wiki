@@ -1,10 +1,10 @@
 ---
 title: lead time چیست؟
-author: سمانه رشوند  
-description: time به مدت زمانی اشاره دارد که از زمان درخواست یک محصول یا خدمت توسط مشتری تا زمان تحویل نهایی آن به مشتری می‌گذرد
-dateModified: 2023/09/25 
+author: سمانه رشوند
+description: lead time به مدت زمانی اشاره دارد که از زمان درخواست یک محصول یا خدمت توسط مشتری تا زمان تحویل نهایی آن به مشتری می‌گذرد
+dateModified: 2024/03/10
 datePublished: 2023/08/28
-uid: Business\ProductionPlanning\WhatIsLeadTime
+uid: Business/ProductionPlanning/WhatIsLeadTime
 ---
 
 ## تعریف lead time
@@ -13,7 +13,8 @@ uid: Business\ProductionPlanning\WhatIsLeadTime
 به عبارت دیگر، این مفهوم نشان‌دهنده زمان لازم برای پردازش، تولید، حمل و نقل و تحویل یک سفارش به مشتری نهایی است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی تولید</a> سایان</p></strong></blockquote>
+
 
 ![lead time](./Images/LeadTime.webp)
 
@@ -28,5 +29,4 @@ uid: Business\ProductionPlanning\WhatIsLeadTime
 مدیریت مناسب "lead time" موجب بهینه‌سازی عملیات تولید، مدیریت موجودی، پیش‌بینی تقاضا و بهبود سیستم زنجیره تأمین می شود. افزایش بهبود "lead time" می‌تواند به افزایش رضایت مشتریان، کاهش هزینه‌ها و افزایش کارایی منجر شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/TaktTime" target="_blank">زمان تکت (Takt Time) چیست؟</a></blockquote>
-
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/TaktTime" target="_blank">زمان تکت (Takt Time) چیست؟</a></p></strong></blockquote>

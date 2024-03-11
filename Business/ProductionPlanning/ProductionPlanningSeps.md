@@ -1,6 +1,6 @@
 ---
 title: گام های برنامه ریزی تولید
-author: سمانه رشوند  
+author: سمانه رشوند
 description: برنامه ریزی تولید نقش بسزایی در برآورد تقاضای مشتریان، تهیه و تدارک مواد اولیه، کاهش هزینه های جاری و ثابت واحدهای تولیدی دارد. اما اکثر واحدهای تولیدی به دلیل مدیریت سنتی از ضعف برنامه ریزی تولید رنج می برند.
 dateModified: 2023/09/25
 datePublished: 2022/11/07
@@ -14,8 +14,7 @@ uid: Business/ProductionPlanning/ProductionPlanningSeps
 راه های گوناگونی جهت پیش بینی وجود دارد مانند مطالعه روند بازار و تغییرات اقتصادی و یا تخمین بر اساس داده های گذشته که رایج ترین آن ها می باشد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> آشنایی با امکانات نرم افزار تولیدی سایان
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار تولید</a> سایان</p></strong></blockquote>
 
 **2. مشخص نمودن گزینه های دیگر برای تولید**
 ممکن است گزینه های دیگری نیز برای تولید داشته باشید که نیازمند تعدادی ماشین آلات و نیروی انسانی، مواد و زمان است. آمیخته ای از این موارد می تواند به هزینه ها و زمان در تولید کمک بزرگی نماید.

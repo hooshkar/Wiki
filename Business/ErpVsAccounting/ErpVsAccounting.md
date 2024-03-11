@@ -1,8 +1,8 @@
 ---
 title: تفاوت ERP با حسابداری چیست؟
-author: سمانه رشوند  
+author: سمانه رشوند
 description: نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
-dateModified: 2023/09/25 
+dateModified: 2024/03/10
 datePublished: 2022/11/27
 uid: Business/ErpVsAccounting/ErpVsAccounting
 ---
@@ -17,33 +17,20 @@ uid: Business/ErpVsAccounting/ErpVsAccounting
 
 </blockquote>
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">نقش ERP در سازمان ها چیست؟</a>
-</blockquote>
+**مقدمه**
 
-
-## مقدمه
-نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">حقوق و دستمزد</a>، <a href="https://www.hooshkar.com/Wiki/Business/WhatIsCrm" target="_blank">CRM (مدیریت ارتباط با مشتری)</a>، برنامه ریزی تولید، اجرای سفارشات، صورتحساب ها و… می باشد.
+نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">حقوق و دستمزد</a>، <a href="https://www.hooshkar.com/Wiki/Business/WhatIsCrm" target="_blank">CRM (مدیریت ارتباط با مشتری)</a>، <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید</a>، اجرای سفارشات، صورتحساب ها و… می باشد.
 
  سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> آشنایی با امکانات نرم افزار ERP ایرانی فنک</a>
-</blockquote>
+
+
 
 به کمک نرم افزارهای حسابداری می توان تمام امور مالی (گردش مالی، چک، مالیات، ترازنامه و...) یک کسب و کار را مدیریت کرد. جهت ارائه تصویری روشن از عملکرد و وضعیت جاری شرکت بایستی در انتخاب نرم افزار حسابداری بیشترین دقت را بکار گرفت؛ 
 
 اما <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">نرم افزارهای حسابداری</a>  به تنهایی قابلیت برنامه ریزی و پیش بینی آینده سازمان را ندارند. چرا که نرم افزارهای حسابداری تنها برای کسب و کارهای کوچک، مناسب بوده و نیازهای آنها را می تواند تامین نماید. 
 
 هرچه سازمانی بزرگتر شود جهت یکپارچه سازی و مدیریت جامع تر در راستای عملکرد بهتر نیازمند استفاده از سیستم های ERP می باشد.
-
-<!-- 
-> [مطلب پیشنهادی: حسابداری چیست؟](https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting)
--->
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting" target="_blank">حسابداری چیست؟</a> 
-</blockquote>
 
 ## تفاوت ERP و حسابداری
 

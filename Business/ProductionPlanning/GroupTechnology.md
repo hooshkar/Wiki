@@ -1,8 +1,8 @@
 ---
 title: تکنولوژی گروهی چیست؟
-author: سمانه رشوند  
-description: سیستم کارگاهی یا job shop کارگاه‌هایی هستند که ماشین آلات موازی رو در آن قرار می‌دهیم.
-dateModified: 2023/09/25
+author: سمانه رشوند
+description: سیستم کارگاهی یا job shop تکنولوژی گروهی، کارگاه‌هایی هستند که ماشین آلات موازی رو در آن قرار می‌دهیم.
+dateModified: 2024/03/10
 datePublished: 2022/11/06
 uid: Business/ProductionPlanning/GroupTechnology
 ---
@@ -29,8 +29,7 @@ uid: Business/ProductionPlanning/GroupTechnology
 کارایی این روش در مواجهه با حجم کم تولید یا مشابهت کم فرایندها کاهش می‌یابد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> آشنایی با امکانات نرم افزار حسابداری تولیدی سایان</a>
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار حسابداری تولیدی</a> سایان</p></strong></blockquote>
 
 ![MRP](./Images/JobShop.webp)
 

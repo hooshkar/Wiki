@@ -1,8 +1,8 @@
 ---
 title: برنامه ریزی و اهداف برنامه ریزی تولید چیست؟
-author: سمانه رشوند  
+author: سمانه رشوند
 description: برنامه ریزی، دنباله‌ای از مراحل است که تولیدکنندگان را قادر می‌سازد تا هوشمندانه کار کرده و روند تولید خود را به بهترین شکل ممکن بهینه نمایند.
-dateModified: 2023/08/13 
+dateModified: 2024/03/10
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/Planning
 ---
@@ -31,7 +31,8 @@ uid: Business/ProductionPlanning/Planning
 * کنترل و مانیتور کردن فرآیند اجرایی و انجام اقدامات لازم: Controlling & Monitoring
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/MasterScheduling" target="_blank">زمان بندی اصلی چیست؟</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی و کنترل تولید</a> سایان</p></strong></blockquote>
+
 
 ## مراحل مختلف برنامه ریزی
 
@@ -54,6 +55,11 @@ uid: Business/ProductionPlanning/Planning
  * سازمانی: مربوط به کل سازمان و مسیر حرکتی آن است.
  * عملیاتی: مربوط به هر عملکرد سازمانی و باید پیرو مسیر راهبردهای سازمانی باشند.
 
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">انواع سیستم های تولیدی
+</a></p></strong></blockquote>
+
 **4. راهکارها و تاکتیک ها:**
 روش و برنامه هایی که برای اجرایی کردن استراتژی ها به کار می بریم.
 
@@ -75,8 +81,7 @@ uid: Business/ProductionPlanning/Planning
 **6. چشم انداز:** بیان آرمان ها و ارزشهای سازمان
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Production/MasterScheduling" target="_blank">زمان بندی اصلی چیست؟</a></p></strong></blockquote>
 
 ## انواع برنامه ریزی
 
@@ -101,9 +106,6 @@ uid: Business/ProductionPlanning/Planning
 *	کاهش هزینه های نگهداری
 *	ایجاد یک بانک اطلاعاتی مناسب
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید چیست؟
-</a></blockquote>
 
 [مقدمه]: #مقدمه
 [مراحل مختلف برنامه ریزی]: #مراحل-مختلف-برنامه-ریزی

@@ -1,10 +1,10 @@
 ---
 title: انواع سیستم های تولیدی
-author: سمانه رشوند  
+author: سمانه رشوند
 description: فیدبک + خروجی + پردازش + ورودی = سیستم تولید
-dateModified: 2023/09/25
+dateModified: 2024/03/10
 datePublished: 2022/11/05
-uid: Business/ProductionPlanning/ProductionSystems  
+uid: Business/ProductionPlanning/ProductionSystems
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
@@ -47,9 +47,9 @@ uid: Business/ProductionPlanning/ProductionSystems
 
 **4. فیدبک:** یکسری از تجربیات و دانش هایی هستند در جهت ارتقای کیفیت فرایند پردازش و ورودی ها که ما از خروجی استخراج کرده ایم
 
+
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> آشنایی با امکانات نرم افزار تولیدی سایان
-</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار مدیریت تولید</a> سایان</p></strong></blockquote>
 
 
 ![اجزای سیستم تولید](./Images/ProductionSystemComponents.webp)
@@ -68,8 +68,8 @@ uid: Business/ProductionPlanning/ProductionSystems
 تعداد محصولات و ماشین آلات بسیار می باشد که اولین گام در آن طراحی و بکارگیری جداول شدت ترافیک است، اما طراحی سیستم حمل و نقل بسیار ساده است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید چیست؟
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید چیست؟
+</a></p></strong></blockquote>
 
 ## تعریف یکسری مفاهیم کاربردی
 
@@ -114,8 +114,8 @@ uid: Business/ProductionPlanning/ProductionSystems
     سیاست راهبری و دنباله روی
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/GroupTechnology" target="_blank">تکنولوژی گروهی چیست؟
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Production/GroupTechnology" target="_blank">تکنولوژی گروهی چیست؟
+</a></p></strong></blockquote>
 
 ## ایستگاه گلوگاه تولیدی
 

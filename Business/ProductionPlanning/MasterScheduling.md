@@ -26,9 +26,9 @@ uid: Business/ProductionPlanning/MasterScheduling
 
 ![برنامه ریزی ادغامی (Aggregate Planning)](./Images/AggregatePlanning.webp)
 
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار تولیدی</a> سایان</p></strong></blockquote>
+
 
 ## زمان بندی اصلی چیست
 برنامه زمان بندی اصلی (Master Scheduling) محور فعالیت های شرکت در زمینه مهندسی، خرید، ساخت، فروش و امور مالی می باشد. 
@@ -56,7 +56,7 @@ uid: Business/ProductionPlanning/MasterScheduling
 3.	مقدار قابل قول دادن (Available to Promise): مقداری از موجودیست که تعهدی برای آن وجود ندارد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">اتصال ترازو و باسکول به نرم افزار حسابداری سایان</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">اتصال ترازو به نرم افزار حسابداری</a> سایان</p></strong></blockquote>
 
 ### سیاست های تولیدی در زمان بندی اصلی
 *   **سیاست بهر به بهر (LfL):** تولید تا زمان رفع تقاضا یا رسیدن به نقطه اطمینان انجام می شود.

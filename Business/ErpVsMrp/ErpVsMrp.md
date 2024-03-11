@@ -1,8 +1,8 @@
 ---
-title: تفاوت ERP و MRP چیست؟
-author: سمانه رشوند  
+title:  تفاوت MRP و ERP چیست؟
+author: سمانه رشوند
 description: سیستم‌های ERP امروزی در واقع شکل توسعه یافته MRPII هستند. بنابراین درک تفاوت‌های موجود در این دو سیستم در بکارگیری آنها اهمیت ویژه‌ای دارد.
-dateModified: 2023/09/25
+dateModified: 2024/03/10
 datePublished: 2022/11/26
 uid: Business/ErpVsMrp/ErpVsMrp
 ---
@@ -15,22 +15,19 @@ uid: Business/ErpVsMrp/ErpVsMrp
 
 </blockquote>
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">نقش ERP در سازمان ها چیست؟</a>
-</blockquote>
 
-## مقدمه
+**مقدمه**
+
 سیستم های ERP امروزی در واقع شکل توسعه یافته MRP II هستند. 
 
 این دو سیستم در سازمان‌‌ها به جهت توسعه و بهبود عملکرد سازمانی مورد استفاده قرار می‌گیرند و عملکرد منابع سازمانی را مدیریت و کنترل می‌کنند. 
 
 بنابراین درک تفاوت‌های موجود در این دو سیستم در بکارگیری آنها اهمیت ویژه‌ای دارد.
 
-![تفاوت و شباهت (ERP و MRP)](./Images/ErpVsMrp.webp)
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec" target="_blank"> آشنایی با امکانات نرم افزار ERP ایرانی فنک</a>
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">نرم افزار ERP</a> فنک</p></strong></blockquote>
+
+![تفاوت و شباهت (ERP و MRP)](./Images/ErpVsMrp.webp)
 
 ## تفاوت ERP و MRP
 
@@ -39,8 +36,7 @@ uid: Business/ErpVsMrp/ErpVsMrp
 تمرکز MRP بیشتر بر روی مشتری هدف خود است در صورتی که ERP به سمت دامنه وسیعی تری از کسب و کارهای مشتری حرکت می‌‌کند. MRP دارای مزایایی برای تولید کنندگانی است که دارای کسب و کار کوچکی هستند و تقاضای انها را با در نظر گرفتن مقدار و چشم انداز زمانی لحاظ نماید اما ERP می تواند حتی سازندگان محصول و یا هر نوع کسب و کاری را شامل شود و با الزامات تقاضا یا درخواست‌ها شروع می‌شود نه فقط فروش محصولات و یا پیش بینی‌ها.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید فنک</a>
-</blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/ERPRoleInOrganizations" target="_blank">نقش ERP در سازمان ها چیست؟</a></p></strong></blockquote>
 
 ## شباهت های بین ERP و MRP در چیست
 

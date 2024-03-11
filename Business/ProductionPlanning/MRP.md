@@ -1,8 +1,8 @@
 ---
 title: برنامه ریزی مواد و قطعات [MRP] چیست؟
-author: سمانه رشوند  
+author: سمانه رشوند
 description:  پایه زمان بندی برای تولید یا خرید قطعات یا زیر مونتاژهای محصول است که براساس MPS و یکسری ورودی ها مثل Lead Time، وضعیت موجودی ها، ساختار محصول (BOM) و سایر سیاست های سفارش دهی به منظور تامین کردن ریز مونتاژهای محصول انجام می شود.
-dateModified: 2023/09/25 
+dateModified: 2024/03/10
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/MRP
 ---
@@ -23,6 +23,9 @@ uid: Business/ProductionPlanning/MRP
 
 این سیستم بر اساس تقاضا و نیازهای مشتریان، اطلاعات مرتبط با مواد مورد نیاز، تعداد، زمان تولید و سایر عوامل مرتبط را مدیریت می‌کند
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">نرم افزار MRP</a> سایان</p></strong></blockquote>
+
 **تعریف دوم:**
 
 برنامه ریزی احتیاجات مواد پایه زمان بندی برای تولید یا خرید قطعات یا زیر مونتاژهای محصول است که براساس MPS و یکسری ورودی ها مثل Lead Time، وضعیت موجودی ها، ساختار محصول (<a href="https://www.hooshkar.com/Wiki/Production/BOM" target="_blank">BOM</a>) و سایر سیاست های سفارش دهی به منظور تامین کردن ریز مونتاژهای محصول انجام می شود.
@@ -40,8 +43,6 @@ uid: Business/ProductionPlanning/MRP
 *	افزایش بازدهی تولید
 *	کاهش میزان موجودی انبار
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار برنامه ریزی تولید</a></blockquote>
 
 ## حلقه بسته MRP
 
@@ -71,7 +72,7 @@ uid: Business/ProductionPlanning/MRP
 ## مدل سازی نمونه ای از مسائل برنامه ریزی ادغامی
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/ErpVsM/ErpVsMrp" target="_blank">تفاوت ERP و MRP</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/ErpVsM/ErpVsMrp" target="_blank">تفاوت ERP و MRP</a></p></strong></blockquote>
 
 **به دو دلیل امکان مدل سازی در اکسل وجود ندارد:**
 

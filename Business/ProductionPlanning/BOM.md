@@ -1,12 +1,14 @@
 ---
-title: درخت محصول چیست؟ (What is a bill of materials)
-author: سمانه رشوند  
+title: BOM چیست؟
+author: سمانه رشوند
 description: ساختار محصول یا BOM، لیست اجزای مونتاژ یا دستور تولید (در فرایند صنایع تولید) نامیده می‌شود
-dateModified: 2023/08/13
+dateModified: 2024/03/10
 datePublished: 2023/02/14
 uid: Business/ProductionPlanning/BOM
 ---
+
 ## تعریف BOM
+
 ![BOM](./Images/BillOfMaterial.webp)
 
 درخت محصول یا BOM، لیست مواد خام، اجزای مونتاژ یا دستور تولید (در فرایند صنایع تولید) برای تولید یک محصول است.  
@@ -17,8 +19,7 @@ uid: Business/ProductionPlanning/BOM
 همچنین گاهی اوقات تعداد لازم از هر قطعه برای مونتاژ یک واحد محصول سطح بالاتر نیز در کنار نام قطعه نشان داده می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank"> آشنایی با امکانات بسته تولیدی سایان</a>
-</blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/Costing" target="_blank">نرم افزار بهای تمام شده و تولید</a> سایان</p></strong></blockquote>
 
 **مثال:** اگر یک سازنده دوچرخه بخواهد 1000 دوچرخه بسازد، صورتحساب مواد شامل تمام قطعات جداگانه مورد نیاز برای ساخت دوچرخه است.
 
@@ -30,8 +31,4 @@ uid: Business/ProductionPlanning/BOM
 هدف رشته صنایع اینست که بهینه سازی انجام دهد. بعنوان کارشناس برنامه ریزی تولید بایستی توانایی بهینه سازی را داشته باشید. 
 
 اگر قصد دارید بعنوان یک کارشناس برنامه ریزی حرفه‌ای فعالیت نمایید باید بر روی برنامه‌های لینگو (Lingo) یا گمز (GAMS) تخصص لازم را به دست آورید.
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/MasterScheduling" target="_blank">زمان بندی اصلی، ورودی و خروجی های آن</a>
-</blockquote>
 

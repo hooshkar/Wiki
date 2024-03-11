@@ -1,8 +1,8 @@
 ---
 title: توالی عملیات و زمان بندی عملیات چیست؟
-author: سمانه رشوند  
+author: سمانه رشوند
 description: توالی عملیات و زمان بندی عملیات یعنی تعیین ترتیب یک کار بر روی یک ایستگاه کاری یا مراکز کاری مختلف.
-dateModified: 2023/09/25
+dateModified: 2024/03/10
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/SequenceOfOperations
 ---
@@ -37,6 +37,9 @@ uid: Business/ProductionPlanning/SequenceOfOperations
 
 قصد داریم در رابطه با توالی عملیات در سیستم تولید دسته ای صحبت کنیم. گرچه سیستم تولید انبوه و کارگاهی هم داریم. 
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی تولید در کارخانه</a></p></strong></blockquote>
+
 ## سیستم تولید دسته ای
 سیستمی است که میانه سیستم تولید انبوه و کارگاهی قرار گرفته است. هم از نظر تیراژ تولید و هم از نظر تنوع. 
 پس میتوانیم پس از آشنایی با آن، آن را به دو سیستم دیگر تعمیم دهیم.
@@ -47,8 +50,8 @@ uid: Business/ProductionPlanning/SequenceOfOperations
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">تکنولوژی گروهی چیست؟
-</a></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">تکنولوژی گروهی چیست؟
+</a></p></strong></blockquote>
 
 
 ## زمان بندی عملیات
@@ -89,10 +92,6 @@ uid: Business/ProductionPlanning/SequenceOfOperations
 *	**متوسط زمان جریان:** میانگین زمان جریان برای تمام فعالیت های زمان بندی شده بر روی یک ایستگاه کاری.
 
 *	درصدی از فعالیت ها که دچار تاخیر می شوند یا درصدی از فعالیت ها که بدون تاخیر انجام می شوند.
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-مطلب پیشنهادی: <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank"> آشنایی با امکانات نرم افزار تولیدی سایان
-</a></blockquote>
 
 ### اولویت بندی فعالیتها بر روی بیش از یک ماشین (موازی)
 
