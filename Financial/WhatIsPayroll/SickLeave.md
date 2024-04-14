@@ -9,8 +9,9 @@ uid: Financial/WhatIsPayroll/SickLeave
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 
 <details>
-  <summary>انواع مرخصی استعلاجی</summary>
+  <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
+    <li>انواع مرخصی استعلاجی</li>
     <li>مرخصی استعلاجی در طول بارداری</li>
     <li>مرخصی استعلاجی تا سقف ۳ روز</li>
     <li>مرخصی استعلاجی بیشتر از ۳ روز</li>
