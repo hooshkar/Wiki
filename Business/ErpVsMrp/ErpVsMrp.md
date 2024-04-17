@@ -2,16 +2,20 @@
 title:  تفاوت MRP و ERP چیست؟
 author: سمانه رشوند
 description: سیستم‌های ERP امروزی در واقع شکل توسعه یافته MRPII هستند. بنابراین درک تفاوت‌های موجود در این دو سیستم در بکارگیری آنها اهمیت ویژه‌ای دارد.
-dateModified: 2024/03/10
+dateModified: 2024/04/17
 datePublished: 2022/11/26
 uid: Business/ErpVsMrp/ErpVsMrp
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-آنچه در این مطلب خواهید خواند:
 
-- [تفاوت ERP و MRP](#تفاوت-erp-و-mrp)
-- [شباهت های بین ERP و MRP در چیست](#شباهت-های-بین-erp-و-mrp-در-چیست)
+<details>
+  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <ul>
+    <li>تفاوت ERP و MRP</li>
+    <li>شباهت های بین ERP و MRP در چیست</li>
+  </ul>
+</details>
 
 </blockquote>
 

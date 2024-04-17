@@ -2,16 +2,20 @@
 title: انواع مختلف سورس کنترل و تفاوت آن ها
 author: وحید برهانی
 description: نرم‌افزارهای مدیریت کد (source control) به طور کلی به دو دسته توزیع شده (distributed) و متمرکز (centeralized) تقسیم می‌شوند که هر کدام از آن ها ویژگی های خاص خود را دارند.
-dateModified: 2019/09/20  
+dateModified: 2024/04/17  
 datePublished: 2019/09/20  
 uid: It/SourceControl/TypeOfSC  
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-آنچه در این مطلب خواهید خواند:
 
-- [سورس کنترل مرکزی یا Centeralized](#سورس-کنترل-مرکزی-یا-centeralized)
-- [سورس کنترل توزیع شده یا Distributed](#سورس-کنترل-توزیع-شده-یا-distributed)
+<details>
+  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <ul>
+    <li>سورس کنترل مرکزی یا Centralized</li>
+    <li>سورس کنترل توزیع شده یا Distributed</li>
+  </ul>
+</details>
 
 </blockquote>
 

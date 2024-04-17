@@ -2,16 +2,20 @@
 title: CRM یا مدیریت ارتباط با مشتری چیست؟
 author: سمانه رشوند
 description: مدیریت ارتباط با مشتری CRM مخفف عبارت "Customer Relationship Management" است و به یک سیستم مدیریتی اشاره دارد که برای مدیریت ارتباط با مشتریان در یک سازمان به جهت بهبود روابط تجاری استفاده می‌شود.
-dateModified: 2024/03/07
+dateModified: 2024/04/17
 datePublished: 2023/04/26
 uid: Business/WhatIsCrm
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-آنچه در این مطلب خواهید خواند:
 
-- [مخفف CRM چیست](#مخفف-crm-چیست)
-- [کاربردهای CRM در سازمان ها چیست](#کاربردهای-crm-در-سازمان-ها-چیست)
+<details>
+  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <ul>
+    <li>مخفف CRM چیست</li>
+    <li>کاربردهای CRM در سازمان‌ها چیست</li>
+  </ul>
+</details>
 
 </blockquote>
 

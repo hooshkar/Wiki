@@ -2,28 +2,35 @@
 title: BPMN یا مدلسازی فرآیند کسب و کار چیست ؟ تفاوت آن با BPM
 author: سمانه رشوند
 description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
-dateModified: 2024/03/07
+dateModified: 2024/04/17
 datePublished: 2023/05/03
 uid: Business/WhatIsBpmn
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-آنچه در این مطلب خواهید خواند:
 
-- [تعریف BPMN](#تعریف-bpmn)
-- [تاریخچه BPMN](#تاریخچه-bpmn)
-- [استانداردهای قبل از BPMN](#استانداردهای-قبل-از-bpmn)
-    - [1. نمودار زنجیره فرایند رویداد EPC (Event-driven Process Chain)](#1-نمودار-زنجیره-فرایند-رویداد-epc-event-driven-process-chain)
-    - [2. زبان مدلسازی یکپارچه UML (Unified Modeling Language)](#2-زبان-مدلسازی-یکپارچه-uml-unified-modeling-language)
-    - [3. مدل IDEF (Integrated Definition)](#3-مدل-idef-integrated-definition)
-    - [4. مدل Petri Nets](#4-مدل-petri-nets)
-    - [5. نموداری عمومی (Flowchart)](#5-نموداری-عمومی-flowchart)
-- [تفاوت BPM با BPMN چیست](#تفاوت-bpm-با-bpmn-چیست)
-- [هدف مدلسازی مدیریت فرآیند کسب و کار چیست](#هدف-مدلسازی-مدیریت-فرآیند-کسب-و-کار-چیست)
-- [مزایای مدلسازی فرآیند کسب و کار چیست](#مزایای-مدلسازی-فرآیند-کسب-و-کار-چیست)
-- [نقش BPMN در نرم افزارهای ERP](#نقش-bpmn-در-نرم-افزارهای-erp)
-- [مزایای استفاده از BPMN در نرم افزارهای ERP](#مزایای-استفاده-از-bpmn-در-نرم-افزارهای-erp)
-- [تفاوت BPMN و BPMS](#تفاوت-bpmn-و-bpms)
+<details>
+  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <ul>
+    <li>تعریف BPMN</li>
+    <li>تاریخچه BPMN</li>
+    <li>استانداردهای قبل از BPMN
+      <ul>
+        <li>نمودار زنجیره فرایند رویداد EPC (Event-driven Process Chain)</li>
+        <li>زبان مدلسازی یکپارچه UML (Unified Modeling Language)</li>
+        <li>مدل IDEF (Integrated Definition)</li>
+        <li>مدل Petri Nets</li>
+        <li>نموداری عمومی (Flowchart)</li>
+      </ul>
+    </li>
+    <li>تفاوت BPM با BPMN</li>
+    <li>هدف مدلسازی مدیریت فرآیند کسب و کار</li>
+    <li>مزایای مدلسازی فرآیند کسب و کار</li>
+    <li>نقش BPMN در نرم افزارهای ERP</li>
+    <li>مزایای استفاده از BPMN در نرم افزارهای ERP</li>
+    <li>تفاوت BPMN و BPMS</li>
+  </ul>
+</details>
 
 </blockquote>
 

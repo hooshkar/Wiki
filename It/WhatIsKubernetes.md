@@ -2,16 +2,20 @@
 title: Kubernetes چیست؟ کاربردهای آن
 author: سمانه رشوند
 description: کوبرنتیز (Kubernetes) یا به اختصار"K8s"، یک پلتفرم مدیریت کانتینری است که توسط Google توسعه داده شده است
-dateModified: 2023/07/24
+dateModified: 2024/04/17
 datePublished: 2023/04/13
 uid: It/WhatIsKubernetes
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-آنچه در این مطلب خواهید خواند:
 
-- [کوبرنتیز چیست](#کوبرنتیز-چیست)
-- [برخی از ویژگی های اصلی Kubernetes عبارتند از](#برخی-از-ویژگی-های-اصلی-kubernetes-عبارتند-از)
-- [کاربردهای Kubernetes در حوزه های مختلف عبارت است از](#کاربردهای-kubernetes-در-حوزه-های-مختلف-عبارت-است-از)
+<details>
+  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <ul>
+    <li>کوبرنتیز چیست</li>
+    <li>برخی از ویژگی‌های اصلی Kubernetes</li>
+    <li>کاربردهای Kubernetes در حوزه‌های مختلف</li>
+  </ul>
+</details>
 
 </blockquote>
 
@@ -24,7 +28,7 @@ uid: It/WhatIsKubernetes
 
 !["Kubernetes"](./Images/Kubernetes.webp)
 
-## برخی از ویژگی های اصلی Kubernetes عبارتند از
+## برخی از ویژگی های اصلی Kubernetes
 
 **1. اتوماسیون:** به‌صورت خودکار انتقال، اجرا و مدیریت کانتینرها را انجام می‌دهد، به طوری که برنامه‌ها به‌طور خودکار به سرورهای موجود تخصیص داده و در صورت نیاز به سرورهای جدید مهاجرت می‌کنند.
 
@@ -39,7 +43,7 @@ uid: It/WhatIsKubernetes
 **6.** و...
 
 
-## کاربردهای Kubernetes در حوزه های مختلف عبارت است از
+## کاربردهای Kubernetes در حوزه های مختلف
 
 * پیاده‌سازی و مدیریت آسان برنامه‌های کانتینر شده
 * توسعه و ارائه برنامه‌های وب
