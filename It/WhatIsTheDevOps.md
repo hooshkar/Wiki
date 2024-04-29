@@ -3,7 +3,11 @@ title: دواپس (DevOps) چیست؟
 author: فربد وزیرمختار
 description: دواپس (DevOps) به‌عنوان یک رویکرد برای همکاری بین تیم‌های توسعه و عملیات نرم‌افزار تشریح می‌شود، که با استفاده از ابزارهای متنوعی مانند Git و Jenkins، فرآیند توسعه و ارائه نرم‌افزار را تسهیل می‌کند.
 dateModified: 2024/04/29
+<<<<<<< HEAD
 datePublished: 2024/04/28
+=======
+datePublished: 2024/04/29
+>>>>>>> 94ca9144c07515e49b64a8925aed3a5e604a9a76
 uid: It/WhatIsTheDevOps
 ---
 
@@ -11,6 +15,7 @@ uid: It/WhatIsTheDevOps
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
  <ul>
+<<<<<<< HEAD
   <li>مفهوم دواپس (DevOps) چیست؟</li>
   <li>مدل آبشاری (Waterfall) چیست؟</li>
   <li>فاز‌های مختلف مدل آبشاری</li>
@@ -18,6 +23,16 @@ uid: It/WhatIsTheDevOps
   <li>مدل چابک (Agile) چیست؟</li>
   <li>ابزارها در DevOps</li>
   <li>چگونگی عملکرد مهندسین DevOps</li>
+=======
+   <li>دواپس (DevOps) چیست؟</li>
+      <li>مدل آبشاری (Waterfall) چیست؟</li>
+      <li>فاز‌های مختلف مدل آبشاری </li>
+      <li>معایب مدل آبشاری (Waterfall)</li>
+      <li>مدل چابک (Agile) چیست؟</li>
+      <li>ابزارها در DevOps</li>
+      <li>چگونگی عملکرد مهندسین DevOps چیست؟</li>
+      <li>جمع بندی</li>
+>>>>>>> 94ca9144c07515e49b64a8925aed3a5e604a9a76
 </ul>
 </details>
 </blockquote>
@@ -74,7 +89,8 @@ uid: It/WhatIsTheDevOps
 
 ## ابزارها در DevOps:
 
-![ابزارهای دواپس](./Images/ToolsInDevOps.webp)
+![ابزارهای دواپس](./Images/DevOpsTools.webp)
+
 
 همانطور که در فرآیند عملکرد DevOps مشاهده کرده‌اید، برای استفاده از آن نیاز به استفاده از ابزارهای خاصی داریم که به عنوان ابزارهای DevOps شناخته می‌شوند. این ابزارها از هفت بخش زیر تشکیل شده‌اند:
 
