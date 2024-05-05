@@ -31,6 +31,8 @@ uid: Financial/TpTaxGov
 
 با استفاده از <a href="https://my.tax.gov.ir/?url_back=https://tp.tax.gov.ir" target="_blank">سامانه مودیان مالیاتی</a>، مودیان می‌توانند اطلاعات مربوط به درآمدها، هزینه‌ها و سایر اطلاعات مربوط به تعهدات مالیاتی خود را به صورت آنلاین و در قالب اظهارنامه مالیاتی وارد کنند و آن را به سازمان مالیاتی ارسال کنند. این سامانه همچنین امکاناتی مانند پرداخت آنلاین مالیات، مشاهده وضعیت مالیاتی و پیگیری وضعیت اظهارنامه مالیاتی را نیز فراهم می‌کند.
 
+<a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank"><img src="./images/468.60.gif" alt="نرم افزار واسط مودیان" style="display: block; margin-left: auto; margin-right: auto;" title="ثبت دمو" caption="false" width="100%" height="100%"></a>
+
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار سامانه مودیان</a> سایان</strong></p></blockquote>
 
