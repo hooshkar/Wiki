@@ -1,8 +1,8 @@
 ---
-title: قانون سامانه مودیان مالیاتی چیست (سایت tp.tax.gov.ir)
+title: سامانه مودیان مالیاتی چیست (سایت tp.tax.gov.ir)
 author: سمانه رشوند
 description: سامانه مودیان مالیاتی  یک سامانه آنلاین است که توسط سازمان مالیاتی کشور برای ارتباط و ارسال اطلاعات بین مالکین و عرضه‌کنندگان خدمات و کالاها (مودیان) با اداره کنندگان مالیات تعبیه شده است.
-dateModified: 2024/04/20
+dateModified: 2024/05/05
 datePublished: 2023/05/07
 uid: Financial/TpTaxGov
 ---
@@ -31,8 +31,6 @@ uid: Financial/TpTaxGov
 
 با استفاده از <a href="https://my.tax.gov.ir/?url_back=https://tp.tax.gov.ir" target="_blank">سامانه مودیان مالیاتی</a>، مودیان می‌توانند اطلاعات مربوط به درآمدها، هزینه‌ها و سایر اطلاعات مربوط به تعهدات مالیاتی خود را به صورت آنلاین و در قالب اظهارنامه مالیاتی وارد کنند و آن را به سازمان مالیاتی ارسال کنند. این سامانه همچنین امکاناتی مانند پرداخت آنلاین مالیات، مشاهده وضعیت مالیاتی و پیگیری وضعیت اظهارنامه مالیاتی را نیز فراهم می‌کند.
 
-<a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank"><img src="./images/468.60.gif" alt="نرم افزار واسط مودیان" style="display: block; margin-left: auto; margin-right: auto;" title="ثبت دمو" caption="false" width="100%" height="100%"></a>
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار سامانه مودیان</a> سایان</strong></p></blockquote>
 
@@ -42,8 +40,7 @@ uid: Financial/TpTaxGov
 
  >  **بند پ ماده 1 قانون پایانه های فروشگاهی و سامانه مودیان، در تعریف سامانه مودیان مالیاتی مقرر داشته:** "سامانه‌ای است، تحت مدیریت سازمان که در آن، به هر مودی، کارپوشه ویژه‌ای اختصاص یافته و تبادل اطلاعات میان مودیان و سازمان، منحصرا از طریق آن کارپوشه انجام می‌شود. مودیان می‌توانند با استفاده از هرگونه سخت افزار یا نرم افزار، اعم از رایانه شخصی، پایانه فروشگاهی، سامانه‌های ابری یا هر وسیله دیگری که حافظه مالیاتی به آن متصل شده باشد، به سامانه مودیان متصل شوند. مرجع نهائی ثبت، صدور و استعلام صورتحساب الکترونیکی، سامانه مودیان می‌باشد."
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">لیست شرکتهای معتمد مالیاتی</a></p></strong></blockquote>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="ثبت دمو" caption="false" width="100%" height="100%"></a>
 
 ## قانون سامانه مودیان مکمل قوانین مالیاتی کشور
 
@@ -56,13 +53,16 @@ uid: Financial/TpTaxGov
 سامانه مودیان مالیاتی تنها به منظور سهولت و تسهیل در ارتباط بین سازمان‌های مالیاتی و مودیان مالیاتی و همچنین ارائه خدمات آنلاین به افراد و شرکت‌ها استفاده می‌شود و قوانین و مقررات مالیاتی کشور همچنان اعتبار خود را حفظ می‌کنند و مودیان مالیاتی باید در چارچوب این قوانین و مقررات عمل کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/ntsw" target="_blank">سامانه جامع تجارت</a></p></strong></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/ntsw" target="_blank">سامانه جامع تجارت چیست؟</a></p></strong></blockquote>
 
 ## چه کسانی باید در سامانه مودیان مالیاتی ثبت نام کنند
 
 ![چه کسانی باید در سامانه مودیان مالیاتی ثبت نام کنند؟](./Images/TpTaxGov-02.webp)
 
 به طور کلی، افراد و شرکت‌هایی که به عنوان عرضه‌کنندگان خدمات و کالاها در زمینه‌های مختلف فعالیت می‌کنند، می‌بایست در سامانه مودیان مالیاتی ثبت نام کنند. برخی از نمونه‌های افراد و شرکت‌هایی که باید در <a href="https://tp.tax.gov.ir" target="_blank">سامانه مودیان مالیاتی</a> ثبت نام کنند، شامل موارد زیر می‌باشند:
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TrustedCompaniesTaxServices" target="_blank">مشاهده لیست شرکتهای معتمد مالیاتی</a></p></strong></blockquote>
 
 **1.	شرکت‌ها و سازمان‌ها:** شرکت‌ها (سهامی عام، خاص، مسئولیت محدود) و سازمان‌های حقوقی که در زمینه‌های مختلف فعالیت می‌کنند، مانند شرکت‌های تجاری، صنعتی، خدماتی و...
 
