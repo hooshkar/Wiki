@@ -2,7 +2,7 @@
 title: تمدید مهلت ارزش افزوده تا 22 اردیبهشت 1403
 author: سمانه رشوند
 description: در پی بخشنامه جدیدی از سوی رئیس کل سازمان امور مالیاتی کشور، مودیان مالیاتی می توانند تا تاریخ 22 اردیبهشت ماه سال جاری، اظهارنامه مالیات بر ارزش افزوده زمستان سال 1402 را اصلاح و تکمیل و ارسال نمایند.
-dateModified: 2024/04/30
+dateModified: 2024/05/07
 datePublished: 2024/04/17
 uid: Financial/VatDeadline
 ---
@@ -30,6 +30,8 @@ uid: Financial/VatDeadline
 2.	حسب موافقت وزیر محترم امور اقتصادی و دارائی در اجرای تبصره (3) ماده (10) آیین نامه اجرایی موضوع تبصره (3) ماده (169) قانون مالیات های مستقیم، **مهلت ارسال فهرست معاملات** موضوع ماده مذکور **برای فصل زمستان سال 1402، تا پایان روز چهارشنبه مورخ 1403/02/26 تمدید** می شود.
 
 #### منبع: <a href="https://www.intamedia.ir/news/%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D9%85%D9%87%D9%84%D8%AA-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%88-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%BE%DB%8C%D8%B4-%D9%81%D8%B1%D8%B6-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A8%D8%B1-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87-%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%A7-%D8%A7%D8%B1%D8%AF%DB%8C%D8%A8%D9%87%D8%B4%D8%AA-%D9%85%D8%A7%D9%87" target="_blank">تمدید مهلت ارزش افزوده</a>
+
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 --------
 

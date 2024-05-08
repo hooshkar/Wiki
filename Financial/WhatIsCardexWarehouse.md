@@ -40,7 +40,7 @@ uid: Business/WhatIsCardexWarehouse
 
 هرگاه کالا وارد یا خارج شود، اطلاعات مربوطه در کاردکس انبار به دقت و لحظه‌ای ثبت می‌شود و سپس در اسناد حسابداری مورد استفاده قرار می‌گیرد. در واقع، کاردکس انبار و کاردکس کالا مفهومی مشترک دارند و هیچ تفاوتی بین آن‌ها وجود ندارد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ### انواع کاردکس انبار
 

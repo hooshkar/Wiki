@@ -2,7 +2,7 @@
 title: حسابداری چیست؟
 author: سمانه رشوند - فربد وزیرمختار
 description: به طور خلاصه، حسابداری به بررسی و ثبت اطلاعات مالی و اقتصادی سازمان‌ها و شرکت‌ها و تهیه گزارش‌های مالی جهت ارائه به مخاطبان داخلی و خارجی، و همچنین در کمک به تصمیم‌گیری‌های مدیریتی و برنامه‌ریزی مالی می‌پردازد.
-dateModified: 2024/05/06
+dateModified: 2024/05/07
 datePublished: 2023/04/13
 uid: Financial/WhatIsAccounting
 ---
@@ -17,7 +17,7 @@ uid: Financial/WhatIsAccounting
     <li>دفتر کل چیست؟</li>
     <li>راهکارهای موثر برای مدیریت حسابداری</li>
   </ul>
-</details>
+  </details>
 
 </blockquote>
 
@@ -72,7 +72,7 @@ uid: Financial/WhatIsAccounting
 
 تحلیلگران مالی می‌توانند از آن برای ارزیابی عملکرد شرکت استفاده کنند و نهادهای نظارتی نیز می‌توانند اطلاعات حسابداری را بررسی کنند تا به یک درک عمیق‌تر از وضعیت شرکت برسند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ### دفتر کل چیست؟ 
 دفتر کل، تغییرات و موجودی هر یک از حساب‌ها را نمایش می‌دهد. اگرچه واحدهای تجاری ممکن است از انواع مختلفی از دفاتر کل استفاده کنند، اما هر واحد تجاری باید حداقل یک دفتر کل داشته باشد. این دفتر، شامل تمام حساب‌های دارایی، بدهی و حساب‌های حقوق مالکانه است.
