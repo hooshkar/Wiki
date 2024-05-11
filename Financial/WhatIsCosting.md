@@ -207,6 +207,6 @@ uid: Financial/WhatIsCosting
 
 در مجموع، روش های محاسبه بهای تمام شده در حوزه‌های مختلف اقتصادی به‌کار می‌روند. هر یک از این روش‌ها، با توجه به نیازها و شرایط خاص صنایع، برای ارزیابی هزینه‌ها و تعیین قیمت تمام شده محصولات مورد استفاده قرار می‌گیرند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 ﺩﺭ ﭘﺎﯾﺎﻥ، ﺍﺯ شما ﮐﻪ ﺗﺎ ﺍﻧﺘﻬﺎی این مقاله ﻣﺎ ﺭﺍ ﻫﻤﺮﺍﻫﯽ ﻧﻤﻮﺩید، ﺳﭙﺎﺳﮕﺰﺍﺭﯾﻢ. ﺍﻣﯿﺪﻭﺍﺭﯾﻢ ﻣﻄﺎﻟﺐ ﺍﺭﺍﺋﻪ ﺷﺪﻩ ﺑﺮﺍﯼ ﺷﻤﺎ ﻣﻔﯿﺪ ﺑﻮﺩﻩ ﻭ ﺍﺯ ﺁن ﺑﻬﺮﻩ ﺑﺮﺩﻩ ﺑﺎﺷﯿﺪ. ﺍﺯ ﺷﻨﯿﺪﻥ ﻧﻈﺮﺍﺕ ﻭ ﺍﻧﺘﻘﺎﺩﺍﺕ ﺷﻤﺎ ﺧﺸﻨﻮﺩ ﺧﻮﺍهیم ﺷﺪ.

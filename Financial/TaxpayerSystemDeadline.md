@@ -16,6 +16,6 @@ uid: Financial/TaxpayerSystemDeadline
 
 بر اساس آخرین اطلاعیه این سامانه، آخرین مهلت ثبت‌نام جهت ارسال صورتحساب برای اشخاص حقیقی و باقیمانده، **یکم دی ماه** اعلام شده است.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 اگر هنوز نرم افزار مناسبی جهت ارسال صورتحساب ها انتخاب نکرده اید به شما <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار سامانه مودیان سایان</a> با رابط کاربری آسان و در عین حال کاربردی هوشکار پرداز را پیشنهاد می‌کنیم.

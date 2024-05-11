@@ -121,7 +121,7 @@ uid: Financial/TpTaxGov
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>لینک: <a href="https://my.tax.gov.ir/?url_back=https://tp.tax.gov.ir" target="_blank">ثبت نام سامانه مودیان مالیاتی</a></p></strong></blockquote>
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="ثبت دمو" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="ثبت دمو" caption="false" width="100%" height="100%"></a>
 
 
 اگر هنوز نرم افزار مناسبی جهت ارسال صورتحساب ها انتخاب نکرده اید به شما **نرم افزار سامانه مودیان سایان،** بدون وابستگی با ارسال نامحدود فاکتور هوشکار را پیشنهاد می‌کنیم.

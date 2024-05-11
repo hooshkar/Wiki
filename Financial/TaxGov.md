@@ -156,4 +156,4 @@ uid: Financial/TaxGov
 روش ارسال مستقیم صورتحساب ها به سامانه مودیان به این صورت است که مودیان مالیاتی از طریق نرم افزار مخصوص خود، صورتحساب ها را به سامانه مودیان ارسال نمایند. در این راستا شرکت نرم افزاری **هوشکار پرداز** برای مشتریان خود **نرم افزار سامانه مودیان** را ارائه داده است. 
 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>

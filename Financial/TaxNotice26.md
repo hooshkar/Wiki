@@ -29,7 +29,7 @@ uid: Financial/TaxNotice26
 
 > در صورتیکه فروشنده در نقش حق‌العملکار مبادرت به صدور صورتحساب فروش نماید، تا زمانیکه ثبت در سامانه مودیان را به تاخیر انداخته و آمر نیز صورتحساب را تایید ننماید، فروش انجام شده به عنوان فروش حق‌العمکار محاسبه گردیده و موجب کسر از حد مجاز حق‌العمکار می‏شود، لذا ضروری است در ثبت صورتحساب‌های فروش حق‌العمل‌کاری و ترغیب آمران برای واکنش سریع‌تر به آنها اقدام شود.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 منبع: <a href="https://www.intamedia.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-26-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%AE%D8%B5%D9%88%D8%B5-%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C-%D8%AA%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D8%A8%D9%88%D8%B7-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA%D8%AD%D8%B3%D8%A7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D9%88%D8%B4" target="_blank">اطلاعیه شماره 26</a>
 

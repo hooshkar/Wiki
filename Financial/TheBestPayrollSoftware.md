@@ -144,6 +144,6 @@ uid: Financial/TheBestPayrollSoftware
 
 هر سازمانی بسته به فعالیت‌ها، ساختار و فرایندهای داخلی خود، نیازمندی‌ها و خواسته‌های متفاوتی دارد. بنابراین انتخاب نهایی نرم‌افزار باید بر اساس بررسی دقیق نیازها و اولویت‌بندی آن‌ها در هر سازمان صورت پذیرد تا بتواند به بهترین شکل نیازها را پوشش دهد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 **با نرم افزار مدیریت حقوق و دستمزد سایان، محاسبه حقوق کارکنان به سادگی چند کلیک خواهد بود. بدون خطا، دقیق و سریع!**

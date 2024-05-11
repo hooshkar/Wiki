@@ -68,6 +68,6 @@ uid: Business/WhatIsCardexWarehouse
 5. افزایش سرعت در حسابداری و داشتن آمارهای دقیق از مواد اولیه
 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 ﺩﺭ ﭘﺎﯾﺎﻥ، ﺍﺯ شما ﮐﻪ ﺗﺎ ﺍﻧﺘﻬﺎی این مقاله با ﻣﺎ همراه بودید، ﺳﭙﺎﺳﮕﺰﺍﺭﯾﻢ. ﺍﻣﯿﺪﻭﺍﺭﯾﻢ ﻣﻄﺎﻟﺐ ﺍﺭﺍﺋﻪ ﺷﺪﻩ ﺑﺮﺍﯼ ﺷﻤﺎ ﻣﻔﯿﺪ ﺑﻮﺩﻩ ﺑﺎﺷﺪ. ﺍﺯ ﺷﻨﯿﺪﻥ ﻧﻈﺮﺍﺕ ﻭ ﺍﻧﺘﻘﺎﺩﺍﺕ ﺷﻤﺎ ﺧﺸﻨﻮﺩ ﺧﻮﺍهیم ﺷﺪ.

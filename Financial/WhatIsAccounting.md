@@ -91,6 +91,6 @@ uid: Financial/WhatIsAccounting
 
 بدون توجه به کوچک یا بزرگی یک کسب و کار مهمترین اقدام این است که زمان مناسبی برای دستیابی به اهداف مشخص تعیین شود، برنامه‌ریزی و زمان‌بندی به طور عجولانه تغییر نکند. در پایان، گزارش‌های نهایی در زمان‌بندی مشخص، که شواهد عملکرد را ارائه می‌دهند، اهمیت دارند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Article.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 در این راستا <a href="https://www.hooshkar.com" target="_blank">هوشکار</a>، با سابقه سال‌ها در ارائه نرم‌افزارهای حسابداری، آماده است تا خدمات خود را به شما ارائه دهد. برای مشاوره و انجام سفارش، با ما تماس حاصل فرمایید.
