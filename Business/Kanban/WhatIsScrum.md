@@ -2,7 +2,7 @@
 title: اسکرام (Scrum) چیست؟
 author: سمانه رشوند
 description: اسکرام یک چارچوب کاربردی برای مدیریت پروژه‌های نرم‌افزاری و محصولات دیجیتالی است. این روش با تاکید بر تیم‌های کوچک، چرخه‌های کاری کوتاه‌مدت و بازخورد مداوم، امکان انعطاف‌پذیری بالا و سازگاری با تغییرات را فراهم می‌کند.
-dateModified: 2024/04/17
+dateModified: 2024/05/113
 datePublished: 2024/03/10
 uid: Business/Kanban/WhatIsScrum
 ---
@@ -89,6 +89,7 @@ uid: Business/Kanban/WhatIsScrum
 
 **-	تطبیق:** اصلاح سریع انحراف‌های شناسایی‌شده در کوتاه‌ترین زمان ممکن
 
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ## بک لاگ چیست؟
 

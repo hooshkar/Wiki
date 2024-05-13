@@ -2,7 +2,7 @@
 title: شاخص ارزیابی عملکرد (KPI) چیست؟
 author: سمانه رشوند
 description: سربرنامه تولید یک ابزار مهم در مدیریت تولید و پروژه‌های صنعتی است که به تیم‌های تولید کمک می‌کند تا به طور مؤثر و کارآمد برای تولید کالا یا خدمات پیش بینی شده، برنامه ریزی و کنترل داشته باشند.
-dateModified: 2024/04/17
+dateModified: 2024/05/13
 datePublished: 2023/12/30
 uid: Business/WhatIsKpi
 ---
@@ -55,6 +55,8 @@ uid: Business/WhatIsKpi
 
 ### ارزیابی میزان سلامت سازمان
 بعنوان مثال از شاخص‌های کلیدی ارزیابی عملکرد مالی می‌توان برای نمایش میزان سودآوری کسب و کار استفاده نمود. همچنین می‌توانید از شاخص‌های فروش و سایر KPIها برای کنترل روند صعودی یا نزولی آن‌ها در طول زمان استفاده کنید.
+
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ## تفاوت بین KPI، تارگت و هدف چیست
 

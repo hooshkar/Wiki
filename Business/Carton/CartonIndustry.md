@@ -2,7 +2,7 @@
 title: کارتن سازی و راهنمای کامل برای ورود به این صنعت
 author: سمانه رشوند
 description: کارتن سازی یکی از صنایع مهم و پر رونق در جهان است که نقش مهمی در بسته‌بندی، حمل و نقل محصولات دارد.
-dateModified: 2024/03/10
+dateModified: 2024/03/13
 datePublished: 2023/08/30
 uid: Business/Carton/CartonIndustry
 ---
@@ -26,3 +26,4 @@ uid: Business/Carton/CartonIndustry
 
 در نتیجه، صنعت کارتن با ارائه‌ی بسته‌بندی موثر و پایدار، حمایت از محیط زیست و ایجاد فرصت‌های اقتصادی، نقش بسیار مهمی را در جامعه و صنعت جهانی ایفا می‌کند. با رشد صنعت و پیشرفت تکنولوژی‌های مرتبط، انتظار می‌رود که این صنعت در آینده نیز به سرعت گسترش و توسعه خود ادامه دهد و نقش کلیدی خود را در بسته‌بندی و حمل و نقل محصولات حفظ کند.
 
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>

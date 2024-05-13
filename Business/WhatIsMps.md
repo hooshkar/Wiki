@@ -2,7 +2,7 @@
 title: mps در برنامه ریزی تولید چیست
 author: سمانه رشوند
 description: سربرنامه تولید یک ابزار مهم در مدیریت تولید و پروژه‌های صنعتی است که به تیم‌های تولید کمک می‌کند تا به طور مؤثر و کارآمد برای تولید کالا یا خدمات پیش بینی شده، برنامه ریزی و کنترل داشته باشند.
-dateModified: 2024/04/17
+dateModified: 2024/05/13
 datePublished: 2023/05/28
 uid: Business/WhatIsMps
 ---
@@ -60,6 +60,8 @@ uid: Business/WhatIsMps
 *	افزایش اثربخشی تیم تولید و کاهش احتمال اشتباهات و خطاها
 *	افزایش شفافیت در فرآیند تولید و ارتباط بهتر با مشتریان
 *	افزایش اعتماد مشتری به تیم تولید و کاهش احتمال شکایات مشتریان
+
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 ## سربرنامه تولید در نرم افزار سایان
 

@@ -2,7 +2,7 @@
 title: روش کانبان (توسعه) چیست؟
 author: سمانه رشوند  
 description: کانبان یک سیستم ساده گردش مواد و اطلاعات است که برای حرکت مواد از یک ایستگاه کاری به سمت ایستگاه کاری دیگر مورد استفاده قرار می‌گیرد.
-dateModified: 2024/05/12
+dateModified: 2024/05/13
 datePublished: 2022/11/19
 uid: Business/Kanban/WhatIsKanban
 ---
@@ -176,6 +176,8 @@ uid: Business/Kanban/WhatIsKanban
 3.	کاهش اتلاف منابع زمانی و مالی
 4.	جریان تحویل محصولات و خدمات به مشتری را نظم و بهبود می‌‌بخشد
 5.	افزایش سرعت و دقت در فرایند کار به جهت کاهش زمان چرخه
+
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ## معایب کانبان
 

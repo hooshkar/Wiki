@@ -2,7 +2,7 @@
 title: وظایف حسابدار انبار چیست؟
 author: سمانه رشوند
 description: نقش حسابدار انباردار در حفظ کارایی عملیات انبار و بهره‌وری در مدیریت موجودی انبار بسیار حیاتی است و تاثیر مستقیمی بر روی هزینه‌ها و کیفیت خدمات سازمان دارد
-dateModified: 2024/04/17
+dateModified: 2024/05/13
 datePublished: 2023/10/09
 uid: Business/WhatIsRoleAccountantWarehouse
 ---
@@ -48,6 +48,8 @@ uid: Business/WhatIsRoleAccountantWarehouse
 **7. ثبت و گزارش‌دهی:** انباردار مسئولیت ثبت تمام فعالیت‌های مرتبط با انبار در نرم افزار حسابداری انبار را دارد و گزارش‌های مرتبط با موجودی، ورود و خروج کالاها و عملیات انبارگردانی را تهیه می‌کند.
 
 در کل، نقش حسابدار انباردار در حفظ کارایی عملیات انبار و بهره‌وری در مدیریت موجودی انبار بسیار حیاتی است و تاثیر مستقیمی بر روی هزینه‌ها و کیفیت خدمات سازمان دارد.
+
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ## وظایف انباردار در کسب و کارهای مختلف
 

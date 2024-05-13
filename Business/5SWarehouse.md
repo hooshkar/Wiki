@@ -2,7 +2,7 @@
 title: 5S در انبارداری
 author: سمانه رشوند
 description: 5S یک روش مدیریتی برای افزایش نظم، بهره‌وری و ایمنی در محیط‌های انبارداری است. این روش شامل 5 مرحله سورت، سیستم‌بندی، تمیز کردن، استاندارد سازی و انضباط می‌باشد که به بهبود شرایط کاری، کاهش اتلاف و افزایش کارایی در انبارها کمک می‌کند.
-dateModified: 2024/04/07
+dateModified: 2024/05/13
 datePublished: 2024/03/06
 uid: Business/5SWarehouse
 ---
@@ -116,4 +116,4 @@ uid: Business/5SWarehouse
 ### Shitsuke
 مشارکت کارکنان و نظام مدیریت مشارکتی، فرایندی که شامل آموزش و ترویج برای ایجاد انگیزه و مشارکت فعال همه کارکنان است. همچنین، سیستم پیشنهادات، کار گروهی و برگزاری جلسات هماهنگی برای هر بخش از پرسنل
 
-<a href="https://www.hooshkar.com" target="_blank">کلیک کنید</a> و اطلاعات بیشتر را از ما بخواهید!
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
