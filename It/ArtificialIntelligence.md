@@ -2,7 +2,7 @@
 title: هوش مصنوعی، هوش صناعی یا هوش ماشینی
 author: سمانه رشوند
 description: هوش مصنوعی به ایجاد کامپیوترها یا سیستم‌هایی اطلاق می‌شود که قادر به تمامیت یا برخی ویژگی‌های هوش طبیعی انسان‌ها می‌باشند.
-dateModified: 2024/03/10
+dateModified: 2024/05/13
 datePublished: 2023/05/28
 uid: It/ArtificialIntelligence
 ---
