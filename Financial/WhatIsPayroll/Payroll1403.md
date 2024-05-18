@@ -7,7 +7,7 @@ datePublished: 2024/01/15
 uid: Financial/WhatIsPayroll/Payroll1403
 ---
 
-## افزایش حقوق اداره کار 1403
+## حقوق اداره کار 1403 
 
 ![افزایش حقوق کارگران در سال 1403](./Images/Payroll1403.webp)
 

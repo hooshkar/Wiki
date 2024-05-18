@@ -43,7 +43,7 @@ uid: Financial/WhatIsPayroll/Payroll1402
 البته قابل ذکر است هنوز تعیین حداقل حقوق سال ۱۴۰۲ در مرحله کارشناسی است و به تایید نهایی نرسیده است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حداقل حقوق ۱۴۰۱</a></p></strong></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1403" target="_blank">جدول حقوق کارگران 1403</a></p></strong></blockquote>
 
 ## جدول حقوق کارگران 1402
 

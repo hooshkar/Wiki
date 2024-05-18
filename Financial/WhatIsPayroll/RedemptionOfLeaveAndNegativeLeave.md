@@ -2,9 +2,9 @@
 title: بازخرید مرخصی و مرخصی منفی 
 author: سمانه رشوند - فربد وزیرمختار
 description: بازخرید مرخصی و مرخصی منفی. بازخرید مرخصی به این معناست که کارگر می تواند مرخصی های باقی مانده خود را به پول تبدیل کند. از طرف دیگر، مرخصی منفی یعنی کارگر از مرخصی بیشتری نسبت به سهمیه قانونی خود استفاده می کند. 
-dateModified: 2024/05/08
+dateModified: 2024/05/18
 datePublished: 2023/05/08
-uid: Financial/RedemptionOfLeaveAndNegative leave
+uid: Financial/RedemptionOfLeaveAndNegativeleave
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
