@@ -1,8 +1,8 @@
 ---
-title: ماشین آلات کارتن سازی
+title: ماشین الات کارتن سازی
 author: سمانه رشوند
 description: ماشین الات مورد نیاز در صنعت کارتن سازی شامل دایکات، فلسکو، خط تیغ، لمینت ساز، منگنه کوب، لیبل زن، شیتر و...
-dateModified: 2024/05/15
+dateModified: 2024/05/19
 datePublished: 2023/08/30
 uid: Business/Carton/CartonIndustryMachinery
 ---
@@ -14,7 +14,7 @@ uid: Business/Carton/CartonIndustryMachinery
   <ul>
     <li>معرفی ماشین آلات صنعت کارتن سازی</li>
     <ul>
-      <li>دستگاه دایکات (Die-cutting Machine)</li>
+      <li>دستگاه دایکات کارتن(Die-cutting Machine)</li>
       <li>دستگاه چاپ فلکسو (Flexo Printing Machine)</li>
       <li>دستگاه خط و تیغ و برش (Creasing and Cutting Machine)</li>
       <li>تسمه کش (Strapping Machine)</li>
@@ -61,9 +61,9 @@ uid: Business/Carton/CartonIndustryMachinery
 
 ## معرفی ماشین آلات صنعت کارتن سازی
 
-### دستگاه دایکات (Die-cutting Machine)
+### دستگاه دایکات کارتن (Die-cutting Machine)
 
-دستگاه دایکات برای برش، خمیر کاغذ را با الگوهای مورد نظر برش می‌دهد تا قالب‌ها و شکل‌های مختلف بر روی کارتن ایجاد شود. دستگاه‌های دایکات ممکن است به صورت پینگ پنگی (Flatbed)، فکی (Platen) و روتاری (Rotary) باشند.
+دستگاه دایکات برای برش، خمیر کاغذ را با الگوهای مورد نظر برش می‌دهد تا قالب‌ها و شکل‌های مختلف بر روی کارتن ایجاد شود. دستگاه های دایکات کارتن ممکن است به صورت پینگ پنگی (Flatbed)، فکی (Platen) و روتاری (Rotary) باشند.
 
 ![Flatbed DieCutter](./Images/FlatbedDieCutter.webp)
 
