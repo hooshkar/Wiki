@@ -70,4 +70,4 @@ uid: Business/WhatIsCardexWarehouse
 
 <a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
-ﺩﺭ ﭘﺎﯾﺎﻥ، ﺍﺯ شما ﮐﻪ ﺗﺎ ﺍﻧﺘﻬﺎی این مقاله با ﻣﺎ همراه بودید، ﺳﭙﺎﺳﮕﺰﺍﺭﯾﻢ. ﺍﻣﯿﺪﻭﺍﺭﯾﻢ ﻣﻄﺎﻟﺐ ﺍﺭﺍﺋﻪ ﺷﺪﻩ ﺑﺮﺍﯼ ﺷﻤﺎ ﻣﻔﯿﺪ ﺑﻮﺩﻩ ﺑﺎﺷﺪ. ﺍﺯ ﺷﻨﯿﺪﻥ ﻧﻈﺮﺍﺕ ﻭ ﺍﻧﺘﻘﺎﺩﺍﺕ ﺷﻤﺎ ﺧﺸﻨﻮﺩ ﺧﻮﺍهیم ﺷﺪ.
+ﺩﺭ ﭘﺎﯾﺎﻥ، ﺍﺯ شما ﮐﻪ ﺗﺎ ﺍﻧﺘﻬﺎی این مقاله با ﻣﺎ همراه بودید، ﺳﭙﺎﺳﮕﺰﺍﺭﯾﻢ. ﺍﻣﯿﺪﻭﺍﺭﯾﻢ ﻣﻄﺎﻟﺐ ﺍﺭﺍﺋﻪ ﺷﺪﻩ ﺑﺮﺍﯼ ﺷﻤﺎ ﻣﻔﯿﺪ ﺑﻮﺩﻩ ﺑﺎﺷﺪ.
