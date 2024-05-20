@@ -1,8 +1,8 @@
 ---
-title: آموزش مبانی حسابداری
+title: مبانی حسابداری
 author: سمانه رشوند
 description: مبانی حسابداری مالی یکی از مفاهیم اساسی در علم حسابداری است که به بررسی روش‌های ثبت و تجزیه و تحلیل اطلاعات مالی یک شرکت می‌پردازد.
-dateModified: 2024/05/11
+dateModified: 2024/05/20
 datePublished: 2023/03/01
 uid: Financial/BasicsOfFinancialAccounting
 ---
@@ -13,13 +13,8 @@ uid: Financial/BasicsOfFinancialAccounting
   <ul>
     <li>تعریف حسابداری مالی و اهمیت آن</li>
     <li>مفاهیم اساسی حسابداری مالی</li>
-    <li>دوره مالی</li>
-    <li>دوره حسابرسی</li>
-    <li>دارایی‌ها</li>
-    <li>بدهی‌ها</li>
-    <li>حساب ترازنامه</li>
-    <li>گزارش سود و زیان</li>
-    <li>نتیجه‌گیری</li>
+    <li>انواع مبانی حسابداری</li>
+     <li>نتیجه‌گیری</li>
   </ul>
 </details>
 
@@ -70,8 +65,7 @@ uid: Financial/BasicsOfFinancialAccounting
 
 در صورتی که سود شرکت بیشتر از زیان باشد، به معنی این است که شرکت در یک دوره مالی به سود رسیده است. این گزارش برای مدیران، سهامداران و بورسیه‌ها بسیار مهم است.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
+## انواع مبانی حسابداری
 
 ![طبقه بندی حساب ها در ترازنامه](./Images/TypesOfAccountingBasics.webp)
 
@@ -85,6 +79,8 @@ uid: Financial/BasicsOfFinancialAccounting
 **مبنای نقدی تعدیل شده:** ثبت درآمدها در دوره مربوطه و ثبت هزینه‌ها مستلزم برقراری دو شرط ضروری و کافی است؛ یعنی ایجاد تعهد و انجام پرداخت.
 
 **مبنای تعهدی تعدیل شده:** درآمد آماده در دسترس و قابل اندازه‌گیری بوده و هزینه در زمان بروز تعهد، قابل پرداخت است.
+
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 #### نتیجه گیری
 

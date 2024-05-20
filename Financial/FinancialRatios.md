@@ -2,7 +2,7 @@
 title: انواع نسبت های مالی
 author: سمانه رشوند
 description: نسبت‌های مالی برای مدیران، سرمایه‌گذاران و بورس بسیار مهم هستند. با استفاده از این نسبت‌ها، این افراد می‌توانند وضعیت مالی شرکت را بررسی کنند و تصمیمات خوبی در خصوص سرمایه‌گذاری در آن بگیرند. اما در عین حال، باید توجه داشت که هر شرکت و هر صنعتی خصوصیات خود را دارد و بهتر است که نسبت‌های مالی برای هر شرکت به طور جداگانه بررسی شود و تنها به صورت یک عامل در تصمیم گیری‌ها در نظر گرفته نشود.
-dateModified: 2024/05/09
+dateModified: 2024/05/20
 datePublished: 2023/05/23
 uid: Financial/FinancialRatios
 ---
@@ -50,7 +50,7 @@ uid: Financial/FinancialRatios
 
 **•	نسبت بدهی به دارایی:** این نسبت، نشان دهنده میزان استفاده شرکت از منابع بدهی به مقدار دارایی‌های آن است. این نسبت نشان می‌دهد که چقدر شرکت برای تأمین دارایی‌های خود از منابع بدهی استفاده می‌کند.
  
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
  ### 3- نسبت های پوششی
 نسبت‌های پوششی نشان دهنده توانایی شرکت در پرداخت بدهی‌های خود است. این نسبت‌ها نشان می‌دهند که چقدر شرکت توانایی دارد تا بدهی‌های خود را پرداخت کند. چند نسبت اصلی عبارتند از:

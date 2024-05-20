@@ -2,7 +2,7 @@
 title: سامانه جامع تجارت چیست [سایت ntsw.ir]
 author: سمانه رشوند
 description: سامانه جامع تجارت، یک سامانه یکپارچه برای مدیریت تمامی فرایندهای مرتبط با تجارت خارجی از جمله واردات، صادرات، حمل و نقل، انبارداری، پرداخت و ترخیص است که به صورت برخط و در یک محیط واحد انجام می‌شود.
-dateModified: 2024/05/08
+dateModified: 2024/05/20
 datePublished: 2022/12/14
 uid: Financial/ntsw
 ---
@@ -97,7 +97,7 @@ uid: Financial/ntsw
 
 > طبق ماده ۸ قانون بهبود مستمر فضای کسب و کار مصوب سال ۱۳۹۰ و بند الف ماده ۶ قانون مبارزه با قاچاق کالا و ارز، مصوب سال ۱۳۹۲ مجلس شورای اسلامی تهيه، اجرا و بهره برداری از سامانه جامع تجارت بر عهده مرکز توسعه تجارت الکترونيکی به عنوان يکی از سازمان‌های تابعه وزارت صنعت، معدن و تجارت قرار گرفته است.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 در واقع این سامانه به عنوان درگاهی یکپارچه، ارتباط فعالان اقتصادی را اعم از وارد کنندگان و تولید کنندگان با سازمان ها و دستگاه ‌های ذیربط در امر تجارت، کنترل می‌‌کند.
 

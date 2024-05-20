@@ -2,7 +2,7 @@
 title: شرکت های معتمد مالیاتی سامانه مودیان
 author: سمانه رشوند
 description: شرکت‌های معتمد مالیاتی به عنوان واسطه‌ای بین مودیان و سازمان امور مالیاتی عمل می‌کنند. این شرکت‌ها پیش از شروع امور مالیاتی، موظف به دریافت مجوزهای لازم از سازمان امور مالیاتی هستند.
-dateModified: 2024/05/07
+dateModified: 2024/05/20
 datePublished: 2023/11/25
 uid: Financial/TrustedCompaniesTaxServices
 ---
@@ -135,6 +135,6 @@ uid: Financial/TrustedCompaniesTaxServices
 
 از نظر بهره‌وری و کارایی، اتصال مستقیم به سامانه مودیان و ارسال فاکتورهای فروش از طریق نرم افزار مخصوص سامانه به عنوان بهترین روش مطرح می‌شود. 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 در بخش نظرات می توانید چالش‌ها و راه حل هایی که با این سامانه داشته‌اید را با دیگران به اشتراک بگذارید تا به بهبود فرآیند مالیاتی کمک کنید.

@@ -2,7 +2,7 @@
 title: اجرا و استفاده سامانه مودیان در شهرداری ها
 author: سمانه رشوند
 description: شهرداری ها به عنوان یکی از سازمان‌های بزرگ، با گردش مالی فراوان، موظف به پیوستن به سامانه مودیان هستند. شرکت هوشکار با هدف افزایش آگاهی از الزامات، قوانین، و مقررات مربوطه و ایجاد شفافیت بیشتر جهت بهبود عملکرد و استفاده بهینه از سامانه مؤدیان، مقاله‌ای تخصصی تدوین کرده است.
-dateModified: 2024/05/08
+dateModified: 2024/05/20
 datePublished: 2023/11/06
 uid: Financial/TaxGov
 ---
@@ -156,4 +156,4 @@ uid: Financial/TaxGov
 روش ارسال مستقیم صورتحساب ها به سامانه مودیان به این صورت است که مودیان مالیاتی از طریق نرم افزار مخصوص خود، صورتحساب ها را به سامانه مودیان ارسال نمایند. در این راستا شرکت نرم افزاری **هوشکار پرداز** برای مشتریان خود **نرم افزار سامانه مودیان** را ارائه داده است. 
 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>

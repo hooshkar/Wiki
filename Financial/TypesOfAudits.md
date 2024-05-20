@@ -2,7 +2,7 @@
 title: حسابرسی چیست و انواع حسابرسی کدام است؟
 author: سمانه رشوند
 description: حسابرسی یک فرایند مهم در حوزه حسابداری و مالیاتی است که به جهت بررسی صحت و صلاحیت گزارش‌های مالی یک شرکت یا سازمان توسط حسابرسان مستقل صورت می‌گیرد. در ادامه، انواع حسابرسی را بررسی خواهیم کرد.
-dateModified: 2024/04/07
+dateModified: 2024/04/20
 datePublished: 2023/03/02
 uid: Financial/TypesOfAudits
 ---
@@ -72,7 +72,7 @@ uid: Financial/TypesOfAudits
 
 در نهایت، بر اساس نیازهای خاص هر سازمان، نوع حسابرسی مناسبی انتخاب می‌شود که به طور کلی، ذینفعان و سرمایه گذاران به دقت نوع حسابرسی انتخاب شده را مورد بررسی قرار می‌دهند تا بتوانند به درستی از وضعیت مالی و عملکرد شرکت آگاه شوند. همچنین، حسابرسی‌ها می‌توانند برای بهبود عملکرد مالی سازمان و افزایش اعتماد سرمایه گذاران مورد استفاده قرار بگیرند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 اگر سوالی در مورد حسابرسی یا نیاز به راهنمایی در زمینه مالیات، حقوق و دستمزد دارید؟ <a href="https://www.hooshkar.com/Agents" target="_blank">نمایندگان هوشکار</a> آماده اند تا به شما کمک کنند. 
 با ما در ارتباط باشید و سوالات خود را در بخش نظرات مطرح کنید. ما اینجاییم تا به شما اطلاعات لازم را ارائه دهیم.

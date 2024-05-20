@@ -2,7 +2,7 @@
 title: محاسبه حقوق و دستمزد با اکسل یا نرم افزار؟ بهترین روش کدام است؟
 author: سمانه رشوند
 description: در راستای حفظ و مدیریت اطلاعات مالی و پرسنل نرم افزارهای حقوق و دستمزد با بهره‌مندی از دیتابیس‌های پیشرفته نسبت به فایل های اکسل، به سازمان‌ها امکان مدیریت بهینه و کارآمد اطلاعات را می‌دهند.
-dateModified: 2024/05/08
+dateModified: 2024/05/20
 datePublished: 2024/01/10
 uid: Financial/PayrollSoftwareVsExcel
 ---
@@ -48,4 +48,4 @@ uid: Financial/PayrollSoftwareVsExcel
 ---
 با توجه به تحلیل جامع و دقیق از نقاط قوت نرم افزار حقوق و دستمزد نسبت به فایل‌های اکسل از شما دعوت می‌کنیم تا یک گام مثبت بردارید. با گذار از روش‌های قدیمی و محدود به فایل‌های اکسل، به جهانی از امکانات پیشرفته وارد شوید.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>

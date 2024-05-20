@@ -2,7 +2,7 @@
 title: اظهارنامه دوره مالیاتی زمستان سال 1402
 author: سمانه رشوند
 description: مودیان یک ماه فرصت دارند اظهارنامه ارسالی را با ثبت خریدها و فروش‌های خارج از سامانه، تکمیل و به سازمان مسترد نمایند.
-dateModified: 2024/05/08
+dateModified: 2024/05/20
 datePublished: 2024/03/27
 uid: Financial/TaxNotice28
 ---
@@ -31,6 +31,6 @@ uid: Financial/TaxNotice28
 >شایان ذکر است به منظور تکریم و جلوگیری از تضییع حقوق مودیان نظام مالیات بر ارزش افزوده، راهنمای تکمیل اظهارنامه موضوع ماده (3) قانون تسهیل در سامانه اطلاع رسانی سازمان امور مالیاتی کشور به نشانی **<a href="https://www.intamedia.ir" target="_blank">intamedia.ir</a>** قرار می‌گیرد.
 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 منبع: <a href="https://www.intamedia.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87_%D8%B4%D9%85%D8%A7%D8%B1%D9%87_28_%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%88%D8%AC%D9%87-%D9%85%D9%88%D8%AF%DB%8C%D8%A7%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A8%D8%B1-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87" target="_blank">اطلاعیه شماره 28 (دوره مالیاتی زمستان سال 1402)</a>

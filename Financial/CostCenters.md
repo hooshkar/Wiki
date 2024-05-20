@@ -2,7 +2,7 @@
 title: مراکز هزینه در شرکتهای تولیدی
 author: سمانه رشوند
 description: هدف از ایجاد مراکز هزینه در شرکتهای تولیدی، تعیین و محاسبه هزینه‌های مربوط به هر بخش و فعالیت مختلف است. با تقسیم هزینه‌ها بر اساس مراکز هزینه، می‌توان مشخص کرد کدام بخش بیشترین هزینه را دارد و در نتیجه، عملکرد مراکز را مدیریت کرد.
-dateModified: 2024/05/11
+dateModified: 2024/05/20
 datePublished: 2023/03/16
 uid: Financial/CostCenters
 ---
@@ -62,7 +62,7 @@ uid: Financial/CostCenters
 
 در اینجا نکته مهمی باید ذکر شود که تعیین مراکز هزینه به تنهایی کافی نیست و باید در کنار آن، یک سیستم پایش و کنترل نیز برای آن تعیین شود. برای مثال، می‌توان از سیستم‌های مدیریت برنامه‌های کاری و پیشرفت پروژه‌های مربوطه استفاده کرد تا به مراتب بهبود یابد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 #### نتیجه گیری
 در کل، استفاده از مراکز هزینه در شرکت‌های تولیدی برای بهبود عملکرد و کاهش هزینه‌های اضافی، بهبود بودجه‌بندی و افزایش سود شرکت بسیار مهم است. 

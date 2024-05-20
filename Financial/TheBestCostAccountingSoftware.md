@@ -2,7 +2,7 @@
 title: لیست 5 بهترین نرم افزار بهای تمام شده
 author: سمانه رشوند
 description: برخی از ویژگی های بهترین نرم افزار حسابداری بهای تمام شده؛ قابلیت مدیریت فاکتورها و موجودی کالاها، امکان ثبت و کنترل ضایعات و توقفات، امکان تعریف مراکز هزینه، ارائه گزارشات دقیق و غیره
-dateModified: 2024/05/08
+dateModified: 2024/05/20
 datePublished: 2023/05/22
 uid: Financial/TheBestCostAccountingSoftware
 ---
@@ -28,7 +28,7 @@ uid: Financial/TheBestCostAccountingSoftware
 
 در ادامه مقاله به بررسی ویژگی‌ها و کاربردهای اصلی نرم‌افزارهای حسابداری بهای تمام شده و مزایای آن‌ها خواهیم پرداخت.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 **محاسبه بهای تمام شده، یکی از ضروریات اساسی حوزه مالی و حسابداری هر سازمان است.**
 
@@ -116,4 +116,4 @@ uid: Financial/TheBestCostAccountingSoftware
 -	محاسبه انحرافات در پایان دوره تولید براساس روش‌های استاندارد
 -	ارائه گزارش کالاهای فروخته‌شده و ارسال آنها به سامانه انبار
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>

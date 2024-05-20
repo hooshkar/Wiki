@@ -2,7 +2,7 @@
 title: انبارداری چیست؟ (آموزش صفر تا صد انبارداری)
 author: سمانه رشوند
 description: نبارداری یعنی نگهداری ایمن از اقلامی که در انبار سازمان‌ها وجود دارند. به گونه‌ای که از مفقود شدن و هرگونه آسیب به کالا جلوگیری گردد.
-dateModified: 2024/05/08
+dateModified: 2024/05/20
 datePublished: 2023/10/21
 uid: Financial/Inventory
 ---
@@ -209,7 +209,7 @@ uid: Financial/Inventory
 
 3.	صرفه‌جویی در هزینه‌های سازمان
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 در این مقاله سعی کردیم تمام موارد با عنوان انبارداری را تحت پوشش قرار دهیم. امیدواریم که این مطلب برای شما هم مفید بوده باشد. 
 

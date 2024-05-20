@@ -2,7 +2,7 @@
 title: مقایسه 3 بهترین نرم افزارهای حسابداری مطرح [سایان، سپیدار، هلو]
 author: سمانه رشوند
 description: امروز میخواهیم با موضوع جذاب مقایسه بهترین نرم افزارهای حسابداری در خدمتتون باشیم. آیا با قابلیت های یکی از آنها آشنا باشیم می توانیم با بقیه نرم افزارهای حسابداری هم کار کنیم؟
-dateModified: 2024/05/11
+dateModified: 2024/05/20
 datePublished: 2022/07/31
 uid: Financial/ComparisonOfTheTopFinancialSoftware
 ---
@@ -74,7 +74,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 
 - در **نرم افزار سایان** سطح تفصیلی شناور با سطوح نامحدود می‌باشد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 #### نتیجه گیری
 بنابراین برای انتخاب بهترین نرم افزار حسابداری
