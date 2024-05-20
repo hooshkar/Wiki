@@ -2,7 +2,7 @@
 title: تجزیه و تحلیل صورتهای مالی
 author: سمانه رشوند
 description: تجزیه و تحلیل صورتهای مالی می‌تواند به شما کمک کند تا بهترین تصمیمات را برای سرمایه گذاری در شرکت بگیرید. به عنوان مثال، اگر سودآوری شرکت در دوره مالی جاری کمتر از دوره قبلی بوده باشد، می‌توانید بررسی کنید که چه مشکلاتی باعث این کاهش شده‌اند و تلاش کنید برای بهبود آنها. همچنین، اگر شرکت در حال رشد است، می‌توانید سرمایه گذاری بیشتری در آن انجام دهید تا سود بیشتری کسب کنید.
-dateModified: 2024/05/09
+dateModified: 2024/05/20
 datePublished: 2023/03/12
 uid: Financial/FinancialAnalysisBasics
 ---
@@ -109,7 +109,7 @@ uid: Financial/FinancialAnalysisBasics
 
 **5.	نسبت تورم:** نشان دهنده تغییرات در سطح قیمت‌ها در دوره مالی مورد نظر است. این نسبت می‌تواند به عنوان یک اندازه گیری برای تعیین تأثیر تورم بر عملکرد شرکت استفاده شود.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 #### نتیجه گیری
 

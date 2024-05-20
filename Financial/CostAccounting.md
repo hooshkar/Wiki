@@ -2,7 +2,7 @@
 title: هدف از حسابداری صنعتی چیست
 author: سمانه رشوند
 description: حسابداری صنعتی یک شاخه از حسابداری محسوب می شود که به محاسبه بهای تمام شده محصولات و کنترل هزینه های تولید می‌پردازد.
-dateModified: 2024/05/11
+dateModified: 2024/05/20
 datePublished: 2023/07/18
 uid: Financial/CostAccounting
 ---
@@ -97,7 +97,7 @@ uid: Financial/CostAccounting
 
 این طبقه‌بندی هزینه‌ها به حسابداران و مدیران کمک می‌کند تا هزینه‌های مختلف را به صورت دقیق تشخیص داده و برای برنامه ریزی مالی و تصمیم‌گیری‌های استراتژیک مورد استفاده قرار دهند. همچنین، این طبقه‌بندی به تجزیه و تحلیل هزینه‌ها، کاهش هزینه‌ها و بهبود کارایی در فرآیندهای تولید کمک می‌کند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ### وظایف حسابداری
 
@@ -215,6 +215,6 @@ uid: Financial/CostAccounting
 
 **6. مهارت کار با نرم افزارهای مالی (بهای تمام شده) و اداری (اکسل):** حسابداری صنعتی نیازمند استفاده ماهرانه از نرم افزارهای مالی و اداری است. تسلط کامل بر این نرم افزارها و قابلیت استفاده بهینه از ابزارهای آن مهارتی ضروری برای ورود به این شاخه است.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 با توجه به موارد فوق، ورود به این شغل و حوزه نیازمند ترکیبی از تجربه، دانش و مهارت‌های متنوع است. به علاوه، مهارت‌های ارتباطی، توانایی حل مسئله و دقت در کار نیز از اهمیت بالایی برخوردارند. پیشرفت و موفقیت در این حوزه نیازمند یادگیری و به‌روزرسانی مداوم نیز می‌باشد.

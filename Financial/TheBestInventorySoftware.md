@@ -3,7 +3,7 @@ title: لیست بهترین نرم‌افزار های انبارداری
 author: سمانه رشوند
 description: به طور کلی، بهترین نرم افزار انبارداری باید دارای ویژگی‌هایی باشد که به بهبود کارایی، دقت، سرعت و امنیت در
  مدیریت انبار و موجودی‌ها کمک کند و با نیازها و الزامات سازمان‌ها و تجارب تجاری مختلف سازگار باشد
-dateModified: 2024/05/08
+dateModified: 2024/05/20
 datePublished: 2023/05/27
 uid: Financial/TheBestInventorySoftware
 ---
@@ -29,7 +29,7 @@ uid: Financial/TheBestInventorySoftware
 
 در این مقاله قصد داریم تا با معرفی لیستی از  بهترین نرم افزارهای انبارداری، نگاهی اجمالی به کاربردها و قابلیت‌های آن‌ها داشته باشیم تا بتوانیم گزینه مناسبی را برای نیازهای سازمان خود انتخاب کنیم.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ## نرم افزار مدیریت انبار چیست؟
 
@@ -106,4 +106,4 @@ uid: Financial/TheBestInventorySoftware
 - تعیین واحدهای اندازه‌گیری بدون محدودیت
 - امکان طبقه‌بندی کالاها با تعیین سطوح مختلف طبقه‌بندی
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>

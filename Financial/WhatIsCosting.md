@@ -2,7 +2,7 @@
 title: بهای تمام شده چیست؟
 author: سمانه رشوند
 description: بهای تمام شده به تمامی هزینه‌های مواد اولیه مصرفی و دستمزد نیروی کار مستقیم در تولید کالا مرتبط است. این مفهوم مستقیماً هزینه‌های توزیع و فروش که به عنوان هزینه‌های غیرمستقیم در نظر گرفته می‌شوند، را در محاسبات خود در نظر نمی‌گیرد.
-dateModified: 2024/05/07
+dateModified: 2024/05/20
 datePublished: 2023/10/14
 uid: Financial/WhatIsCosting
 ---
@@ -106,7 +106,8 @@ uid: Financial/WhatIsCosting
 
 همچنین، مهم است بدانید که هر سازمان ممکن است از ترکیب مختلفی استفاده کند که بستگی به نوع فعالیت و هدف‌های سازمان دارد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+
 
 ## محاسبه بهای تمام شده در شرکت های تولیدی 
 

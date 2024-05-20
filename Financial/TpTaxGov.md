@@ -2,7 +2,7 @@
 title: سامانه مودیان مالیاتی چیست (سایت tp.tax.gov.ir)
 author: سمانه رشوند
 description: سامانه مودیان مالیاتی  یک سامانه آنلاین است که توسط سازمان مالیاتی کشور برای ارتباط و ارسال اطلاعات بین مالکین و عرضه‌کنندگان خدمات و کالاها (مودیان) با اداره کنندگان مالیات تعبیه شده است.
-dateModified: 2024/05/15
+dateModified: 2024/05/20
 datePublished: 2023/05/07
 uid: Financial/TpTaxGov
 ---
@@ -41,7 +41,7 @@ uid: Financial/TpTaxGov
 
  >  **بند پ ماده 1 قانون پایانه های فروشگاهی و سامانه مودیان، در تعریف سامانه مودیان مالیاتی مقرر داشته:** "سامانه‌ای است، تحت مدیریت سازمان که در آن، به هر مودی، کارپوشه ویژه‌ای اختصاص یافته و تبادل اطلاعات میان مودیان و سازمان، منحصرا از طریق آن کارپوشه انجام می‌شود. مودیان می‌توانند با استفاده از هرگونه سخت افزار یا نرم افزار، اعم از رایانه شخصی، پایانه فروشگاهی، سامانه‌های ابری یا هر وسیله دیگری که حافظه مالیاتی به آن متصل شده باشد، به سامانه مودیان متصل شوند. مرجع نهائی ثبت، صدور و استعلام صورتحساب الکترونیکی، سامانه مودیان می‌باشد."
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ### قانون سامانه مودیان مکمل قوانین مالیاتی کشور
 
@@ -133,7 +133,7 @@ uid: Financial/TpTaxGov
 ![هوشکار پرداز](./Images/HesabdarBartar.webp) | نرم افزار سامانه مودیان حسابداران برتر | استعلام وضعیت فاکتور در سامانه مودیان، قابلیت طراحی فاکتور چاپی، مدیریت مشتری | 7,200,000
 ![هوشکار پرداز](./Images/Chortke.webp) | نرم افزار سامانه مودیان چرتکه | استعلام کد اقتصادی، ارسال آنی فاکتورها، چاپ فاکتور رسمی، امکان اصلاح صورتحساب |  از11,400,00 تا 19,300,000
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="ثبت دمو" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="ثبت دمو" caption="false" width="100%" height="100%"></a>
 
 
 

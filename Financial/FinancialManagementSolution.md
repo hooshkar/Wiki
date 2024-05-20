@@ -2,7 +2,7 @@
 title: برنامه ریزی مالی
 author: سمانه رشوند
 description: مدیریت مالی یک فرایند پویا است که باید به روز رسانی شود. شما می‌توانید با برنامه ریزی مالی، تحلیل و ایجاد روش‌های موثر در مدیریت مالی، کنترل بهتری بر موقعیت مالی خود داشته باشید.
-dateModified: 2024/05/09
+dateModified: 2024/05/20
 datePublished: 2023/03/06
 uid: Financial/FinancialManagementSolution
 ---
@@ -72,7 +72,7 @@ uid: Financial/FinancialManagementSolution
 
 در نظر داشته باشید که تأخیر در پرداخت بدهی‌ها می‌تواند باعث لطمه به اعتبار و کاهش اعتماد به شما از نظر مردم و سازمان‌ها شود.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ### 7. دریافت کمک از مشاوران مالی
 دریافت کمک از مشاوران مالی، یکی دیگر از راهکارهای مهم در مدیریت مالی است. با مشاوره گرفتن از افراد متخصص، می‌توانید برای مسائل مالی خود بهترین راهکارها را پیدا کنید و بهترین تصمیم‌ها را در خصوص مدیریت مالی خود بگیرید. 
