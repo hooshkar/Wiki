@@ -2,7 +2,7 @@
 title: سختی کار چیست؟ (فرمول محاسبه سختی کار)
 author:  سمانه رشوند - فربد وزیرمختار
 description: سختی کار به مشاغلی اطلاق می‌شود که کارکنان در آنها با عوامل خطرناک فیزیکی، شیمیایی، بیولوژیکی و محیطی مواجه هستند و در معرض آسیب‌های جسمی و روحی بیشتری قرار دارند.
-dateModified: 2024/05/20
+dateModified: 2024/05/21
 datePublished: 2024/04/22
 uid: Financial/WhatIsPayroll/WhatIsTheDifficultyOfWork
 ---
@@ -18,7 +18,7 @@ uid: Financial/WhatIsPayroll/WhatIsTheDifficultyOfWork
     <li>مقررات اضافه‌کاری</li>
     <li>مقررات حق بیمه برای کارگران</li>
     <li>مقررات مرخصی</li>
-    <li>سختی کار چگونه محاسبه میشود؟</li>
+    <li>سختی کار چگونه محاسبه می شود؟</li>
   </ul>
 </details>
 </blockquote>
