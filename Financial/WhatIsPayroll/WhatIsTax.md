@@ -49,6 +49,8 @@ uid: Financial/WhatIsTax
 
 ### انواع مالیات مستقیم
 
+![انواع مالیات مستقیم](./Images/DirectTax.webp)
+
 **الف) مالیات بر دارایی:** مالیات بر دارایی بر اساس ثروتی که فرد یا شرکت دارد، اعمال می‌شود. این نوع مالیات دو بخش زیر را شامل می‌شود:
 
 - مالیات بر ارث: مهم‌ترین نوع مالیات بر دارایی که از اموال و دارایی‌های فرد پس از فوت او دریافت می‌شود.
@@ -69,6 +71,8 @@ uid: Financial/WhatIsTax
 -	مالیات بر درآمدهای اتفاقی
 
 ### انواع مالیات غیرمستقیم
+
+![انواع مالیات غیر مستقیم](./Images/indirectTax.webp)
 
 **الف) مالیات بر واردات:**
 
@@ -109,6 +113,8 @@ uid: Financial/WhatIsTax
 3.	ژاپن 
 4.	دانمارک 
 5.	اتریش 
+
+<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 ### جمع بندی:
 
