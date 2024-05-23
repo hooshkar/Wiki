@@ -2,7 +2,7 @@
 title: حق تاهل و جزییات عائله مندی در سال 1403
 author: سمانه رشوند - فربد وزیرمختار
 description: حق تاهل مبلغی معادل 500 هزارتومان در ماه است که به کارگران متاهل پرداخت می‌شود.
-dateModified: 2024/05/08
+dateModified: 2024/05/23
 datePublished: 2024/05/08
 uid: Financial/TheRightToMarry
 ---
