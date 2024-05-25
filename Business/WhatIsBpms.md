@@ -33,8 +33,6 @@ uid: Business/WhatIsBpms
 
 ![Business Process Management System](./Images/BPMS.webp)
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 ## مزایای BPMS
 
 **1. کاهش هزینه‌ها:** با استفاده از اتوماسیون و بهینه‌سازی فرایندهای کسب و کار، هزینه‌های سازمان شما کاهش می‌یابد.
