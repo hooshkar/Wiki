@@ -177,8 +177,6 @@ uid: Business/Kanban/WhatIsKanban
 4.	جریان تحویل محصولات و خدمات به مشتری را نظم و بهبود می‌‌بخشد
 5.	افزایش سرعت و دقت در فرایند کار به جهت کاهش زمان چرخه
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 ## معایب کانبان
 
 معایبی که برای کانبان بیان می‌شود به دلیل پیاده سازی و مدیریت اشتباه و یا عدم بروزرسانی تخته کانبان می‌باشد.

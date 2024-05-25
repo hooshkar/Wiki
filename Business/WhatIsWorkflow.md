@@ -50,8 +50,6 @@ uid: Business/WhatIsWorkflow
 2.	گردش کار موردی (Case Workflow)
 3.	گردش کار پروژه‌ای (Project Workflow) 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 #### گردش کار فرایندی
 
  زمانی ایجاد می‌شود که مجموعه‌ای از وظایف، قابل پیش‌بینی و تکراری باشند. در این نوع گردش کار، پیش از آغاز آن، مسیر وظایف کاملاً مشخص و قابل پیگیری است.

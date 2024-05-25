@@ -39,9 +39,6 @@ uid: Business/ComparisonCrmSoftware
 
 مدیریت ارتباط با مشتری (CRM) با فراهم کردن امکان شناخت عمیق مشتریان و برقراری ارتباطی مستمر و دوطرفه با آنها، نقش محوری در موفقیت سازمان‌ها ایفا می‌کند. 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
-
 ## استفاده از CRM چه مزایایی دارد
 
 **- افزایش فروش و درآمد:** CRM با شناسایی مشتریان بالقوه و هدفمندسازی فعالیت‌های بازاریابی، به افزایش فروش و در نتیجه درآمد کمک می‌کند.

@@ -49,8 +49,6 @@ uid: Business/WhatIsRoleAccountantWarehouse
 
 در کل، نقش حسابدار انباردار در حفظ کارایی عملیات انبار و بهره‌وری در مدیریت موجودی انبار بسیار حیاتی است و تاثیر مستقیمی بر روی هزینه‌ها و کیفیت خدمات سازمان دارد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 ## وظایف انباردار در کسب و کارهای مختلف
 
 ![ویژگی های انتخاب بهترین نرم افزار انبارداری چیست؟](./Images/DutiesStorekeepersDifferentBusinesses.webp)

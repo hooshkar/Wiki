@@ -61,8 +61,6 @@ uid: Business/WhatIsMps
 *	افزایش شفافیت در فرآیند تولید و ارتباط بهتر با مشتریان
 *	افزایش اعتماد مشتری به تیم تولید و کاهش احتمال شکایات مشتریان
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
 ## سربرنامه تولید در نرم افزار سایان
 
 <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">![سربرنامه تولید در نرم افزار سایان](./Images/MPS-02.webp)
