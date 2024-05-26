@@ -61,8 +61,6 @@ uid: Business/TypesCrmSystems
 
 **افزایش بهره‌وری:** با خودکارسازی فرآیندها، بهره‌وری کارکنان را افزایش می‌دهد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Demo.gif" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
 ## انواع سیستم های CRM
 
 سیستم‌های CRM را می‌توان بر اساس کارکردشان به سه دسته تقسیم کرد:
@@ -123,8 +121,6 @@ PM بر روی اهداف پروژه، زمان‌بندی، منابع و بو�
 - هزینه‌های اضافی غیرمنتظره
 
 برای موفقیت پروژه‌های CRM باید این موانع را شناسایی و مدیریت کرد.
-
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ## معرفی محبوب ترین مدل های CRM 
 

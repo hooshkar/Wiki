@@ -56,8 +56,6 @@ uid: Business/WhatIsKpi
 ### ارزیابی میزان سلامت سازمان
 بعنوان مثال از شاخص‌های کلیدی ارزیابی عملکرد مالی می‌توان برای نمایش میزان سودآوری کسب و کار استفاده نمود. همچنین می‌توانید از شاخص‌های فروش و سایر KPIها برای کنترل روند صعودی یا نزولی آن‌ها در طول زمان استفاده کنید.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 ## تفاوت بین KPI، تارگت و هدف چیست
 
 ### تعریف هدف (Goal)

@@ -12,14 +12,14 @@ uid: Business/WhatIsBpms
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>
-    <li>نرم افزار BPMS چیست</li>
-    <li>مزایای نرم افزار BPMS</li>
+    <li>BPMS چیست</li>
+    <li>مزایای BPMS</li>
   </ul>
 </details>
 
 </blockquote>
 
-##  نرم افزار BPMS چیست
+## BPMS چیست
 
 <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار BPMS
 </a> یکی از ابزارهای مدیریت فرایند کسب و کار است که به شما کمک می‌کند تا فرایندهای سازمان خود را از طریق اتوماسیون و بهینه‌سازی بهبود ببخشید.
@@ -33,9 +33,7 @@ uid: Business/WhatIsBpms
 
 ![Business Process Management System](./Images/BPMS.webp)
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/Gif-of-Consultation.gif" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
-## مزایای نرم افزار BPMS
+## مزایای BPMS
 
 **1. کاهش هزینه‌ها:** با استفاده از اتوماسیون و بهینه‌سازی فرایندهای کسب و کار، هزینه‌های سازمان شما کاهش می‌یابد.
 
