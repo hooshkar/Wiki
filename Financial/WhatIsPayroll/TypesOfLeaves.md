@@ -2,7 +2,7 @@
 title: جدول مرخصی کارگران و انواع آن
 author: سمانه رشوند
 description: مشاهده جدول مرخصی کارگران و چگونگی محاسبه انواع آنها در قانون کار.
-dateModified: 2024/05/21
+dateModified: 2024/05/26
 datePublished: 2022/07/01
 uid: Financial/WhatIsPayroll/TypesOfLeaves
 ---
@@ -78,5 +78,4 @@ uid: Financial/WhatIsPayroll/TypesOfLeaves
 
 <a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
-در این مقاله، تلاش شده است تا شما را با انواع مرخصی آشنا نموده، به نحوی که در صورت نیاز به هر یک از آنها، اطلاعات کاملی در این زمینه داشته باشید و قادر باشید به صورت صحیح از حقوق خود دفاع نمایید. 
-از شما که تا انتهای این مقاله با ما همراه بوده اید، سپاسگزاریم.
+از شما که تا انتهای این مقاله با ما همراه بوده اید، سپاسگزاریم. سوالات و نظرات خود را با ما به اشتراک بگذارید.
