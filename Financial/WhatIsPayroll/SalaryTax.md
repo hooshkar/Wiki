@@ -11,7 +11,6 @@ uid: Financial/WhatIsPayroll/SalaryTax
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
     <li>سامانه ارسال لیست مالیات حقوق</li>
-    <li>مالیات مستقیم</li>
     <li>معافیت‌های مالیات حقوق</li>
     <li>درصد و روش محاسبه مالیات حقوق</li>
   </ul>
