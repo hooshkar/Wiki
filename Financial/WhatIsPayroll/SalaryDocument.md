@@ -1,8 +1,8 @@
 ---
 title: سند حقوق و دستمزد چیست؟
-author: سمانه رشوند  
-description: مبلغی که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
-dateModified: 2024/05/26
+author: سمانه رشوند
+description: سند حقوق و دستمزد یک سند حسابداری است که نتایج محاسبه حقوق و دستمزد کارکنان به صورت ماهانه در آن ثبت می شود.
+dateModified: 2024/05/27
 datePublished: 2022/07/31
 uid: Financial/WhatIsPayroll/SalaryDocument
 ---
@@ -13,7 +13,7 @@ uid: Financial/WhatIsPayroll/SalaryDocument
   <ul>
     <li>تعریف سند حقوق و دستمزد</li>
     <li>اهمیت ثبت سند حقوق و دستمزد</li>
-    <li>فیش حقوقی چیست</li>
+    <li>فیش حقوقی چیست؟</li>
   </ul>
 </details>
 
@@ -31,7 +31,7 @@ uid: Financial/WhatIsPayroll/SalaryDocument
 
 سند حقوق و دستمزد یک سند حسابداری است که نتایج محاسبه حقوق و دستمزد کارکنان به صورت ماهانه در آن ثبت می شود.
 
-![سند حقوق و دستمزد](./Images/SalaryDocument.webp)
+![سند حقوق و دستمزد چیست؟](./Images/SalaryDocument.webp)
 
 جهت ثبت این سند نیاز به سرفصل های زیر می‌باشد:
 
@@ -40,7 +40,6 @@ uid: Financial/WhatIsPayroll/SalaryDocument
 مالیات حقوق | هزینه حقوق
 بیمه تامین اجتماعی | حق مسکن
 بیمه تکمیلی | حق بن
-مالیات حقوق | هزینه حقوق
 جاری کارکنان به تفکیک پرسنل | حق بیمه 23 درصد کارفرما
 
 
@@ -50,9 +49,7 @@ uid: Financial/WhatIsPayroll/SalaryDocument
 
 حسابداران می‌بایست برای ثبت این سند، از آخرین بخشنامه‌های قانون کار مطلع باشند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
-## فیش حقوقی چیست
+## فیش حقوقی چیست؟
 
 فیش حقوقی در واقع سندی است که جزئیات کاملی از میزان درآمد کارکنان در آن نوشته شده است. 
 تمام کسب‌وکارهای کوچک و بزرگ، از شرکت‌ها گرفته تا کارخانه‌ها موظف‌اند به کارکنان خود فیش حقوقی را ارائه دهند. 
@@ -63,8 +60,4 @@ uid: Financial/WhatIsPayroll/SalaryDocument
 
 در تصویر زیر، می‌توانید جزئیات موجود در یک نمونه فیش حقوقی را مشاهده کنید.
 
-![جزئیات فیش حقوقی](./Images/WhatIsPayslip.webp)
-
----
-
-برای دریافت راهنمای کامل محاسبه حقوق و دستمزد، <a href="https://www.hooshkar.com" target="_blank">اینجا</a> را کلیک کنید
+![نمونه فیش حقوقی](./Images/WhatIsPayslip.webp)
