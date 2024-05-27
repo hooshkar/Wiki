@@ -1,6 +1,6 @@
 ---
 title: سند حقوق و دستمزد چیست؟
-author: سمانه رشوند  
+author: سمانه رشوند
 description: مبلغی که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
 dateModified: 2024/05/26
 datePublished: 2022/07/31
@@ -49,8 +49,6 @@ uid: Financial/WhatIsPayroll/SalaryDocument
 سند حقوق و دستمزد یکی از مهم‌ترین سندهای هر شرکت است که در حسابداری به آن توجه ویژه‌ای می‌شود. علت اهمیت سند حقوق، این است که ترکیبی از مجموعه قوانین مالیاتی با استانداردهای حسابداری است.
 
 حسابداران می‌بایست برای ثبت این سند، از آخرین بخشنامه‌های قانون کار مطلع باشند.
-
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
 ## فیش حقوقی چیست
 
