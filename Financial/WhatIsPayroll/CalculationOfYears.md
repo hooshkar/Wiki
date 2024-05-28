@@ -2,7 +2,7 @@
 title: سنوات چیست
 author: سمانه رشوند  
 description: پاداشی که در پایان هر سال، قرارداد، یا دوره همکاری، برای کارگران تحت حمایت قانون کار تعیین و واریز می‌شود. این حق همچنین به عنوان مزایای پایان خدمت یا مزایای پایان کار نیز شناخته می‌شود.
-dateModified: 2024/04/07
+dateModified: 2024/05/28
 datePublished: 2023/02/19
 uid: Financial/WhatIsPayroll/CalculationOfYears
 ---
