@@ -1,16 +1,16 @@
 ---
 title: حقوق وزارت کار 1402
-author: سمانه رشوند  
+author: سمانه رشوند
 description:  طبق جدول حقوق کارگران 1402، حداقل دستمزد روزانه 1.769.428 ریال و حداقل حقوق ماهیانه بدون احتساب مزایا 53.082.840 ریال خواهد بود.
-dateModified: 2024/04/07  
-datePublished: 2023/02/13 
+dateModified: 2024/05/28
+datePublished: 2023/02/13
 uid: Financial/WhatIsPayroll/Payroll1402
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
-    <li>منظور از پایه حقوق چیست</li>
+    <li>منظور از پایه حقوق چیست؟</li>
     <li>پایه حقوق 1402</li>
     <li>حقوق اداره کار 1402</li>
     <li>جدول حقوق کارگران 1402</li>
@@ -20,8 +20,11 @@ uid: Financial/WhatIsPayroll/Payroll1402
 
 </blockquote>
 
-## منظور از پایه حقوق چیست
+## منظور از پایه حقوق چیست؟
 طبق قانون کار، به کارکنان رسمی و به کارکنان قراردادی به صورت ساعتی، روزانه یا ماهیانه حقوقی پرداخت می‌شود که به آن حقوق پایه می‌گویند. در واقع این حقوق قبل از هرگونه مالیات و پاداش به کارکنان پرداخت می‌شود.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
 
 ## پایه حقوق 1402
 یکی از مهم‌ترین بحث‌های داغ این روزها میزان افزایش حقوق سال 1402 می‌باشد. 
@@ -29,9 +32,6 @@ uid: Financial/WhatIsPayroll/Payroll1402
 با توجه به تورم بالای 48 درصد در کشور، بحث و گفتگو در مورد مقدار افزایش حقوق اهمیت زیادی هم برای کارگران و کارمندان و هم برای کارفرمایان پیدا کرده است. 
 
 چرا‌که بحث اصلی عدم تطابق درصد افزایش حقوق با میزان تورم می‌باشد.
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
 
 ## حقوق اداره کار 1402
 
@@ -43,7 +43,7 @@ uid: Financial/WhatIsPayroll/Payroll1402
 البته قابل ذکر است هنوز تعیین حداقل حقوق سال ۱۴۰۲ در مرحله کارشناسی است و به تایید نهایی نرسیده است.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1403" target="_blank">جدول حقوق کارگران 1403</a></p></strong></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1403" target="_blank">پایه حقوق 1403</a></p></strong></blockquote>
 
 ## جدول حقوق کارگران 1402
 
@@ -69,7 +69,7 @@ uid: Financial/WhatIsPayroll/Payroll1402
 حاصل این تقسیم برابر با 24.1394 تومان است که نشان‌دهنده درآمد به ازای هر ساعت کاری بدون در نظر گرفتن پاداش، بیمه، حق مسکن و هزینه‌های دیگر می‌شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم افزارهای حقوق و دستمزد</a></p></strong></blockquote>
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">لیست بهترین نرم افزارهای حقوق و دستمزد</a></p></strong></blockquote>
 
 ---
 آیا از هزینه‌ها و زمان صرف شده برای محاسبات دستی حقوق و دستمزد پرسنل خسته شده‌اید؟ 

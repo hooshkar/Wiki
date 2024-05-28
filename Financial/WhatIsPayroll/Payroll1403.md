@@ -2,7 +2,7 @@
 title: پایه حقوق 1403
 author: سمانه رشوند
 description: طبق جدول حقوق کارگران 1403، حداقل دستمزد روزانه 2,388,728 ریال و حداقل حقوق ماهیانه بدون احتساب مزایا 71,661,840 ریال خواهد بود.
-dateModified: 2024/04/28
+dateModified: 2024/05/28
 datePublished: 2024/01/15
 uid: Financial/WhatIsPayroll/Payroll1403
 ---
