@@ -2,7 +2,7 @@
 title: مرخصی فوت بستگان درجه دو
 author: سمانه رشوند
 description: مرخصی فوت بستگان درجه دو یکی از انواع مرخصی‌هایی است که در بسیاری از سازمان‌ها و نظام‌های حقوقی مرتبط با کارگران و کارمندان، برای آنها در نظر گرفته شده است.
-dateModified: 2024/04/14
+dateModified: 2024/05/28
 datePublished: 2024/04/14
 uid: Financial/WhatIsPayroll/DeathLeaveSecondDegreeRelatives
 ---
