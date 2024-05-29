@@ -1,8 +1,8 @@
 ---
-title: مالیات بر دارایی چیست؟ و انواع آن
+title: تعریف مالیات بر دارایی و انواع آن
 author: سمانه رشوند - فربد وزیرمختار
 description: این مقاله به بررسی جنبه‌های مختلف مالیات بر دارایی می‌پردازد، از تعریف آن به عنوان مالیاتی بر ثروت و دارایی‌های خالص افراد گرفته تا انواع و کاربردهای آن در کشورهای مختلف، از جمله ایران.
-dateModified: 2024/05/28
+dateModified: 2024/05/29
 datePublished: 2024/05/21
 uid: Financial/WhatIsPayroll/DefinitionOfPropertyTax
 ---
@@ -11,7 +11,7 @@ uid: Financial/WhatIsPayroll/DefinitionOfPropertyTax
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
-    <li>تعریف مالیات بر دارایی</li>
+    <li>مالیات بر دارایی چیست؟</li>
     <li>چرا مالیات بر دارایی اعمال می‌شود؟</li>
     <li>انواع مالیات بر دارایی</li>
     <li>مالیات سالیانه بر املاک</li>
@@ -31,7 +31,7 @@ uid: Financial/WhatIsPayroll/DefinitionOfPropertyTax
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان</a> سایان</strong></p></blockquote>
 
-## تعریف مالیات بر دارایی
+## مالیات بر دارایی چیست؟
 
 مالیات بر دارایی یک نوع مالیات بر ثروت و دارایی خالص افراد است. برای محاسبه این مالیات، دولت اطلاعاتی از تمام دارایی‌های افراد از جمله پول نقد، خودرو، سهام، املاک و اوراق قرضه را در نظر می‌گیرد. اگر دارایی یک فرد بیشتر از حد معمول باشد، باید به دولت مالیات پرداخت کند. 
 
