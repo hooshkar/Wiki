@@ -2,7 +2,7 @@
 title: حقوق و دستمزد چیست؟
 author: سمانه رشوند
 description: حقوق و دستمزد مبلغی است که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
-dateModified: 2024/05/21  
+dateModified: 2024/06/01  
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/WhatIsPayroll
 ---
@@ -80,7 +80,5 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
 5. پرداختی خالص
 
 **لیست حقوق** در واقع بدهکاری است که شرکت در ازای کارکرد (هفتگی یا ماهانه یا حتی روزانه) کارکنان پرداخت می کند.
-
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 با سایان، حقوق و دستمزد را درست محاسبه کنید.

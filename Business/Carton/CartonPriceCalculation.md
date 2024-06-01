@@ -2,7 +2,7 @@
 title: محاسبه قیمت کارتن 
 author: فربد وزیرمختار - سمانه رشوند
 description: این مقاله به طور خلاصه به روش‌های محاسبه قیمت کارتن با در نظر گرفتن ابعاد، نوع کاغذ، چاپ و سایر عوامل تأثیرگذار می‌پردازد. 
-dateModified: 2024/06/1
+dateModified: 2024/06/01
 datePublished: 2024/05/20
 uid: Business/Carton/CartonPriceCalculation
 ---

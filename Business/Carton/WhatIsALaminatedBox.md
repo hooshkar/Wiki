@@ -2,7 +2,7 @@
 title: جعبه لمینتی - کارتنی چیست؟
 author: فربد وزیرمختار - سمانه رشوند
 description: این مقاله توضیح می‌دهد که جعبه لمینتی نوعی کارتن بسته‌بندی است که از چند لایه مقوا و یک لایه محافظ پلاستیکی تشکیل شده است. 
-dateModified: 2024/06/1
+dateModified: 2024/06/01
 datePublished: 2024/05/19
 uid: Business/Carton/WhatIsALaminatedBox
 ---
