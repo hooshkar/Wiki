@@ -1,7 +1,7 @@
 ---
 title: مهلت ارسال فهرست حقوق بگیران تا 20 خرداد
 author: سمانه رشوند
-description: مودیان یک ماه فرصت دارند اظهارنامه ارسالی را با ثبت خریدها و فروش‌های خارج از سامانه، تکمیل و به سازمان مسترد نمایند.
+description: مودیانی مالیاتی می توانند تا پایان روز یکشنبه مورخ 1403/03/20 نسبت به ارسال فهرست حقوق بگیران خود و پرداخت یا ترتیب پرداخت مالیات آن برای حقوق و مزایای فروردین ماه سال 1403 که تاریخ تخصیص یا پرداخت آن تا پایان 1403/01/31 بوده است، اقدام نمایند
 dateModified: 2024/05/20
 datePublished: 2024/05/20
 uid: Financial/TheDeadlineForSendingTheListOfSalaryEarners
@@ -19,5 +19,8 @@ uid: Financial/TheDeadlineForSendingTheListOfSalaryEarners
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان
 </a> سایان</strong></p></blockquote>
 
+**لینک های مرتبط:**
 
-منبع: <a href="https://tax.gov.ir/action/do/show/16" target="_blank">مهلت ارسال فهرست حقوق بگیران</a>
+<a href="https://salary.tax.gov.ir/Account/LogOn?ReturnUrl=%2f" target="_blank">ورود به سامانه تسلیم فهرست حقوق کارکنان</a>
+
+منبع خبر: <a href="https://tax.gov.ir/action/do/show/16" target="_blank">مهلت ارسال فهرست حقوق بگیران</a>
