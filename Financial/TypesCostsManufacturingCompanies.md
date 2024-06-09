@@ -12,16 +12,12 @@ uid: Financial/TypesCostsManufacturingCompanies
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
-    <li>تعریف مرکز هزینه</li>
     <li>مزایای استفاده از مراکز هزینه در شرکت‌ها</li>
     <li>نمونه مراکز هزینه در شرکت‌های تولیدی</li>
-    <li>نتیجه‌گیری</li>
   </ul>
 </details>
 
 </blockquote>
-
-## تعریف مرکز هزینه
 
 ![مرکز هزینه چیست](./Images/CostCenter-01.webp)
 
@@ -37,7 +33,7 @@ uid: Financial/TypesCostsManufacturingCompanies
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار حسابداری تولیدی</a> سایان</strong></p></blockquote>
 
-### مزایای استفاده از مراکز هزینه در شرکت ها
+## مزایای استفاده از مراکز هزینه در شرکت ها
 
 **1. کاهش هزینه‌های اضافی:** با مشخص شدن هزینه‌های مربوط به هر بخش، می‌توان در هر مرحله از فرآیند تولید، بهترین تصمیمات را اتخاذ کرد تا هزینه‌های اضافی کاهش یابد.
 
@@ -51,7 +47,7 @@ uid: Financial/TypesCostsManufacturingCompanies
 
 ![مراکز هزینه در شرکت‌های تولیدی](./Images/CostCenter.webp)
 
-### نمونه مراکز هزینه در شرکت های تولیدی
+## نمونه مراکز هزینه در شرکت های تولیدی
 در شرکت‌های تولیدی، مراکز هزینه به صورت معمول بر اساس فرآیند تولید تقسیم می‌شود. 
 
 برای مثال، در شرکت‌های تولید خودرو، مراکز هزینه ممکن است شامل خط تولید، پخش، تحقیق و توسعه، بازاریابی و مدیریت باشند. 
@@ -66,7 +62,8 @@ uid: Financial/TypesCostsManufacturingCompanies
 
 <a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
 
-#### نتیجه گیری
+**نتیجه گیری**
+
 در کل، استفاده از مراکز هزینه در شرکت‌های تولیدی برای بهبود عملکرد و کاهش هزینه‌های اضافی، بهبود بودجه‌بندی و افزایش سود شرکت بسیار مهم است. 
 
 با تعیین و محاسبه هزینه‌های مربوط به هر مرکز هزینه، می‌توان تصمیمات بهتری در فرآیند تولید گرفت و باعث بهبود کارایی و بازدهی شرکت شد.
