@@ -2,7 +2,7 @@
 title: محاسبه قیمت کارتن 
 author: فربد وزیرمختار - سمانه رشوند
 description: این مقاله به طور خلاصه به روش‌های محاسبه قیمت کارتن با در نظر گرفتن ابعاد، نوع کاغذ، چاپ و سایر عوامل تأثیرگذار می‌پردازد. 
-dateModified: 2024/06/01
+dateModified: 2024/06/09
 datePublished: 2024/05/20
 uid: Business/Carton/CartonPriceCalculation
 ---
@@ -29,6 +29,9 @@ uid: Business/Carton/CartonPriceCalculation
 
 در پایان، به معرفی نرم ‌افزار کارتن‌ سازی سایان پرداخته می‌شود که امکان محاسبه دقیق و مدیریت کامل فرآیند تولید و بسته‌بندی را فراهم می‌کند. 
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/CartonIndustryMachinery" target="_blank">آشنایی با ماشین الات کارتن سازی</a></p></strong></blockquote>
+
 ## چگونه قیمت کارتن محاسبه می‌شود؟
 
 ![محاسبه قیمت کارتن](./Images/CartonPriceCalculation.webp)
@@ -51,9 +54,6 @@ uid: Business/Carton/CartonPriceCalculation
 **نکته: قیمت ورق خام کارتن را می‌توان از طریق استعلام دریافت کرد.**
 
 با استفاده از این فرمول، ما تنها قیمت ورق کارتن را داریم. برای محاسبه هزینه کل کارتن، باید حدود 5 تا 15 درصد به این مبلغ اضافه کنیم، که شامل هزینه‌های مربوط به کار، چاپ و سایر عوامل در تولید کارتن می‌شود.
-
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/CartonIndustryMachinery" target="_blank">آشنایی با ماشین الات کارتن سازی</a></p></strong></blockquote>
 
 ### عوامل تأثیرگذار در محاسبه قیمت کارتن چیست؟
 
