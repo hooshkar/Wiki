@@ -3,7 +3,7 @@ title: لیست بهترین نرم‌افزار های انبارداری
 author: سمانه رشوند
 description: به طور کلی، بهترین نرم افزار انبارداری باید دارای ویژگی‌هایی باشد که به بهبود کارایی، دقت، سرعت و امنیت در
  مدیریت انبار و موجودی‌ها کمک کند و با نیازها و الزامات سازمان‌ها و تجارب تجاری مختلف سازگار باشد
-dateModified: 2024/05/20
+dateModified: 2024/06/12
 datePublished: 2023/05/27
 uid: Financial/TheBestInventorySoftware
 ---
@@ -14,11 +14,14 @@ uid: Financial/TheBestInventorySoftware
   <ul>
     <li>نرم افزار مدیریت انبار چیست؟</li>
     <li>اهمیت نرم افزارهای انبارداری در مدیریت زنجیره تأمین</li>
-    <li>نرم‌افزار انبارداری سایان</li>
-    <li>نرم‌افزار انبارداری هلو</li>
-    <li>نرم‌افزار انبارداری میزان</li>
-    <li>نرم‌افزار انبارداری سپیدار</li>
-    <li>نرم‌افزار انبارداری کاکتوس</li>
+    <li>معرفی بهترین نرم افزار های مدیریت انبار</li>
+    <ul>
+     <li>نرم‌افزار انبارداری سایان</li>
+     <li>نرم‌افزار انبارداری هلو</li>
+     <li>نرم‌افزار انبارداری میزان</li>
+     <li>نرم‌افزار انبارداری سپیدار</li>
+     <li>نرم‌افزار انبارداری کاکتوس</li>
+    </ul>
   </ul>
 </details>
 </blockquote>
@@ -46,7 +49,7 @@ uid: Financial/TheBestInventorySoftware
 
 ## معرفی بهترین نرم افزار های مدیریت انبار
 
-### <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری سایان</a>
+### 1. <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری سایان</a>
 
 <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">![سایان، بهترین نرم افزار انبارداری](./Images/TheBestInventorySoftware-01.webp)</a>
 
@@ -70,7 +73,7 @@ uid: Financial/TheBestInventorySoftware
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/ComparisonFinancialSoftware" target="_blank">  مقایسه نرم افزار های حسابداری</a></p></strong></blockquote>
 
-### نرم‌افزار انبارداری میزان 
+### 2. نرم‌افزار انبارداری میزان 
 
 - انواع روش های قیمت گذاری 
 - طبقه‌بندی کالاها بر پایه گروه و کد
@@ -79,7 +82,7 @@ uid: Financial/TheBestInventorySoftware
 - قابلیت تعیین تاریخ انقضا برای موارد مختلف
 - استفاده آسان از دستگاه‌های بارکدخوان
 
-### نرم‌افزار انبارداری سپیدار
+### 3. نرم‌افزار انبارداری سپیدار
 
 - قابلیت قیمت‌گذاری موجودی کالا در زمان‌های دلخواه
 - قابلیت یکپارچه‌سازی اطلاعات بین فروش و انبار
@@ -87,7 +90,7 @@ uid: Financial/TheBestInventorySoftware
 - کنترل موجودی در سطح انبار
 - و...
 
-### نرم‌افزار انبارداری هلو 
+### 4. نرم‌افزار انبارداری هلو 
 
 - معرفی کالا در سه سطح اصلی، فرعی و نام کالا
 - ثبت و پیگیری تغییرات قیمت کالاها به صورت کلی (درصدی و ریالی)
@@ -98,7 +101,7 @@ uid: Financial/TheBestInventorySoftware
 - ارائه گزارشات متنوع گردش و کارتابل کالا و انبار براساس تعداد و مبلغ
 - تعریف و مدیریت کارهای خدماتی
 
-### نرم‌افزار انبارداری کاکتوس 
+### 5. نرم‌افزار انبارداری کاکتوس 
 
 - تعریف بی‌محدود مراکز انباری
 - تعریف گوناگون انواع انبارها
