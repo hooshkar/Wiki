@@ -2,7 +2,7 @@
 title: حساب تفصیلی چیست؟
 author: سمانه رشوند  
 description: حساب تفصیلی در توصیف حساب های کل و معین تعریف می شود. معنای لغوی تفصیل یعنی شرح دادن؛ بنابراین حساب های تفصیلی، جزئی ترین حساب های یک سازمان یا شرکت هستند.
-dateModified: 2024/04/07
+dateModified: 2024/06/12
 datePublished: 2022/07/19
 uid: Financial/MultiLayeredAccounting/DetailedAccount  
 ---
@@ -15,12 +15,12 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
     <li>ماهیت حساب تفصیلی</li>
     <li>تفاوت حساب تفصیلی و معین و کل</li>
     <li>انواع حساب تفصیلی
-      <ol type="1">
-        <li>حساب تفصیلی شناور</li>
-        <li>حساب تفصیلی واحد</li>
-      </ol>
+    <ul>
+     <li>حساب تفصیلی شناور</li>
+     <li>حساب تفصیلی واحد</li>
+    </ul>
     </li>
-    <li>گزارش تفصیلی چیست</li>
+    <li>گزارش تفصیلی چیست؟</li>
     <li>تعریف حساب تفصیلی در نرم افزار حسابداری سایان</li>
   </ul>
 </details>
