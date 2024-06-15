@@ -2,7 +2,7 @@
 title: فرمول های مورد استفاده در محاسبه حقوق و دستمزد
 author: سمانه رشوند
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2024/05/28
+dateModified: 2024/06/12
 datePublished: 2022/07/31
 uid: Financial/WhatIsPayroll/PayrollFormula
 ---
@@ -11,6 +11,7 @@ uid: Financial/WhatIsPayroll/PayrollFormula
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
     <li>انواع فرمول های حقوق و دستمزد</li>
+   <ul>
     <li>فرمول محاسبه حقوق پایه</li>
     <li>فرمول اضافه کاری</li>
     <li>فرمول عیدی</li>
@@ -18,8 +19,11 @@ uid: Financial/WhatIsPayroll/PayrollFormula
     <li>فرمول شب کاری</li>
     <li>فرمول محاسبه نوبت کاری</li>
     <li>فرمول محاسبه کسر کار</li>
+   </ul>
     <li>حق اولاد چیست؟ و چگونه محاسبه می شود؟</li>
+  <ul>
     <li>فرمول محاسبه‌ حق اولاد</li>
+  </ul>
   </ul>
 </details>
 

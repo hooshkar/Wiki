@@ -2,7 +2,7 @@
 title: مالیات بر درآمد چیست؟
 author: فربد وزیرمختار - سمانه رشوند
 description: مالیات بر درآمد یکی از مهمترین ابزارهای دولت برای تأمین منابع مالی و تنظیم سیاست های اقتصادی است. این درآمدهای مالیاتی صرف هزینه های عمومی و ارائه خدمات دولتی می شود.
-dateModified: 2024/06/01
+dateModified: 2024/06/12
 datePublished: 2024/05/15
 uid: Financial/WhatIsPayroll/WhatIsIncomeTax
 ---
@@ -13,6 +13,7 @@ uid: Financial/WhatIsPayroll/WhatIsIncomeTax
   <ul>
     <li>تعریف مالیات بر درآمد</li>
     <li>انواع مالیات بر درآمد کدامند؟</li>
+    <ul>
     <li>مالیات بر درآمد اشخاص حقوقی</li>
     <li>مالیات بر درآمد حقوق</li>
     <li>سقف معافیت مالیات حقوق 1403</li>
@@ -20,6 +21,7 @@ uid: Financial/WhatIsPayroll/WhatIsIncomeTax
     <li>مالیات بر درآمد املاک</li>
     <li>مالیات بر درآمد کشاورزی</li>
     <li>مالیات بر درآمد اتفاقی</li>
+  </ul>
   </ul>
 </details>
 </blockquote>
