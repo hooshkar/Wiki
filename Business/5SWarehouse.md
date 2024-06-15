@@ -11,8 +11,8 @@ uid: Business/5SWarehouse
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
-    <li>هدف اصلی 5S</li>
-    <li>اجرای 5S در کارخانه</li>
+    <li>هدف اصلی 5S چیست؟</li>
+    <li>مراحل اجرای 5S در کارخانه</li>
     <ul>
       <li>Seiri</li>
       <li>Seiton</li>
@@ -20,7 +20,7 @@ uid: Business/5SWarehouse
       <li>Seiketsu</li>
       <li>Seisō</li>
     </ul>
-    <li>اجرای 5S در سازمان‌ها و ادارات</li>
+    <li>مراحل اجرای 5S در سازمان‌ها و ادارات</li>
     <ul>
       <li>Seiri</li>
       <li>Seiton</li>
@@ -32,20 +32,15 @@ uid: Business/5SWarehouse
 </details>
 </blockquote>
 
-**مقدمه**
-‌
 آیا می‌دانستید که می‌توان با اجرای یک روش ساده ژاپنی، کارایی انبار را به طور چشمگیری افزایش داد؟ 
 
-مطالعات نشان می‌دهد که فایو اس موجب افزایش 30 تا 50 درصدی کارایی انبار می‌شود. علاوه بر این، سرعت دسترسی به اقلام و زمان چرخه سفارشات نیز بهبود قابل توجهی می‌یابد.
-
-در ادامه با مزایای پیاده‌سازی 5S در انبار و نحوه اجرای مرحله به مرحله آن آشنا خواهید شد.
-
+مطالعات نشان می‌دهد که فایو اس موجب افزایش 30 تا 50 درصدی کارایی انبار، سرعت دسترسی به اقلام و زمان چرخه سفارشات می شود.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری
 </a>سایان</p></strong></blockquote>
 
-## هدف اصلی 5S
+## هدف اصلی 5S چیست؟
 - تضمین ایمنی و احیای محیط کار
 - افزایش کارایی
 - بهبود کیفیت فرآیندها و محصولات
@@ -61,7 +56,7 @@ uid: Business/5SWarehouse
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/5S" target="_blank">5S چیست؟
 </a></p></strong></blockquote>
 
-## اجرای 5S در کارخانه
+## مراحل اجرای 5S در کارخانه
 
 ### Seiro
 
@@ -95,7 +90,7 @@ uid: Business/5SWarehouse
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">بهترین نرم افزار انبارداری چه ویژگی هایی دارد؟
 </a></p></strong></blockquote>
 
-## اجرای 5S در سازمان ها و ادارات
+## مراحل اجرای 5S در سازمان ها و ادارات
 
 ### Seiri
 

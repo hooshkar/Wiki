@@ -4,7 +4,7 @@ author: سمانه رشوند - فربد وزیرمختار
 description: سیستم تولید سلولی یک رویکرد نوین در تولید است که با هدف جابه‌جایی سریع و تولید گسترده محصولات مشابه استفاده می‌شود. 
 dateModified: 2024/05/27
 datePublished: 2024/05/27
-uid: Business/CellProductionSystem
+uid: Business/ProductionPlanning/CellProductionSystem
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
