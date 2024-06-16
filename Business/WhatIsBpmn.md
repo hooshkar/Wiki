@@ -1,7 +1,7 @@
 ---
 title: BPMN چیست؟ تفاوت آن با BPM
 author: سمانه رشوند
-description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است. استاندارد BPMN در سال 2006 توسط یک گروه کاری به نام Object Management Group (OMG) پذیرفته شد.
+description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
 dateModified: 2024/06/16
 datePublished: 2023/05/03
 uid: Business/WhatIsBpmn
