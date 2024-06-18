@@ -2,7 +2,7 @@
 title: ماشین الات کارتن سازی
 author: سمانه رشوند
 description: ماشین الات مورد نیاز در صنعت کارتن سازی شامل دایکات، فلسکو، خط تیغ، لمینت ساز، منگنه کوب، لیبل زن، شیتر و...
-dateModified: 2024/05/19
+dateModified: 2024/06/18
 datePublished: 2023/08/30
 uid: Business/Carton/CartonIndustryMachinery
 ---
@@ -45,8 +45,6 @@ uid: Business/Carton/CartonIndustryMachinery
 </details>
 
 </blockquote>
-
-**مقدمه**
 
 ![ ماشین آلات مورد نیاز در صنعت کارتن سازی](./Images/CartonIndustryMachinery.webp)
 
