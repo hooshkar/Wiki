@@ -18,14 +18,13 @@ uid: Financial/WhatIsPayroll/WorkHoliday
 </details>
 </blockquote>
 
-**مقدمه**
+![تعریف تعطیل کاری](./Images/WorkHoliday02.webp)
 
 تعطیل کاری یکی از مفاهیم اساسی و مهم در حوزه حقوق کار برای کارگران و کارفرمایان است. این مفهوم به نوعی حقوق و مزایایی است که در روزهای تعطیل رسمی برای کارگران تعیین می‌شود. در این مقاله، قصد داریم به تحلیل مفهوم تعطیل کاری پرداخته و فرمول محاسبه آن را بررسی کنیم. 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
 
-![تعریف تعطیل کاری](./Images/WorkHoliday02.webp)
 
 ## تعطیل کاری چیست؟
 
