@@ -2,7 +2,7 @@
 title: سند حقوق و دستمزد چیست؟
 author: سمانه رشوند
 description: سند حقوق و دستمزد یک سند حسابداری است که نتایج محاسبه حقوق و دستمزد کارکنان به صورت ماهانه در آن ثبت می شود.
-dateModified: 2024/05/27
+dateModified: 2024/05/18
 datePublished: 2022/07/31
 uid: Financial/WhatIsPayroll/SalaryDocument
 ---
@@ -18,8 +18,6 @@ uid: Financial/WhatIsPayroll/SalaryDocument
 </details>
 
 </blockquote>
-
-**مقدمه**
 
 سند حقوق و دستمزد یکی از مهمترین اسناد حسابداری هر سازمان است که نشان دهنده جزئیات پرداختی به کارکنان می باشد. در این مقاله با این سند و اجزای آن بیشتر آشنا خواهیم شد.
 
