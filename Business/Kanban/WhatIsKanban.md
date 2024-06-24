@@ -2,7 +2,7 @@
 title: کانبان چیست؟
 author: سمانه رشوند
 description: کانبان یک سیستم ساده گردش مواد و اطلاعات است که برای حرکت مواد از یک ایستگاه کاری به سمت ایستگاه کاری دیگر مورد استفاده قرار می‌گیرد.
-dateModified: 2024/06/18
+dateModified: 2024/06/24
 datePublished: 2022/11/19
 uid: Business/Kanban/WhatIsKanban
 ---
@@ -10,7 +10,7 @@ uid: Business/Kanban/WhatIsKanban
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 
 <details>
-  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
     <li>سیستم کانبان چیست؟</li>
     <li>اصطلاحات اساسی کانبان</li>
@@ -36,14 +36,12 @@ uid: Business/Kanban/WhatIsKanban
 </blockquote>
 
 مدیریت تولید و عملیات یکی از مهمترین چالش‌های پیش روی شرکت‌ها در دنیای امروز است. شرکت‌ها به دنبال راه‌هایی هستند تا بتوانند تولید و سودآوری را افزایش و هزینه‌ها را کاهش دهند. در عین حال کیفیت محصولات و رضایت مشتریان را حفظ نمایند.
-در این مقاله، ابتدا روش کانبان و چگونگی شکل‌گیری آن را مرور می‌کنیم. سپس به بررسی مفهوم کانبان و اجزای اصلی آن می‌پردازیم و مراحل اجرای این روش را توضیح می‌دهیم.
+در این مقاله، ابتدا روش کانبان و چگونگی شکل‌گیری آن را مرور می‌کنیم. سپس به بررسی مفهوم کانبان و اجزای اصلی آن می‌پردازیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار کانبان</a> (داشبورد مدیریتی)</p></strong></blockquote>
 
-
 ![بررسی مفهوم کانبان](./Images/ExploringTheConceptOfKanban.webp)
-
 
 ## سیستم کانبان چیست؟
 
@@ -120,8 +118,6 @@ uid: Business/Kanban/WhatIsKanban
 
 بیشتر این نرم‌افزارها امروزه با سیستم‌های نرم‌افزاری جامع‌تری مانند <a href="https://www.hooshkar.com/Wiki/Business/WhatIsErp
 " target="_blank">ERP</a>ها یا راهکارهای سازمانی مشابه، یکپارچه شده‌اند.
-
-
 
 ### چگونه برنامه ریزی تولید با استفاده از روش کانبان انجام می‌شود؟
 

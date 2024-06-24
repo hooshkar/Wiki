@@ -1,8 +1,8 @@
 ---
-title: انواع CRM
+title: با انواع مختلف CRM آشنا شوید
 author: سمانه رشوند
 description: انواع CRM و ویژگی‌های هر کدام به همراه مزایای CRM مانند افزایش درآمد، بهبود خدمات و تصمیم‌گیری بهتر نیز بررسی می شود.
-dateModified: 2024/06/15
+dateModified: 2024/06/24
 datePublished: 2024/01/06
 uid: Business/TypesCrmSystems
 ---
@@ -10,7 +10,7 @@ uid: Business/TypesCrmSystems
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 
 <details>
-  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
     <li>هدف CRM چیست؟</li>
     <li>مزایای CRM چیست؟</li>
@@ -65,8 +65,6 @@ uid: Business/TypesCrmSystems
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsBpms" target="_blank">مدیریت فرآیند چیست؟</a></p></strong></blockquote>
 
 ## انواع CRM
-
-سیستم‌های CRM را می‌توان بر اساس کارکردشان به سه دسته تقسیم کرد:
 
 **1. عملیاتی:** برای مدیریت بر عملیات و فرآیندهایی مثل فروش، بازاریابی، خدمات مشتری و پشتیبانی استفاده می‌شود.
 
