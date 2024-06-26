@@ -31,6 +31,7 @@ ERP با یکپارچه‌سازی و مدیریت هوشمند فرایندها
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">نرم افزار ERP ایرانی</a> فنک</p></strong></blockquote>
 
+![تاریخچه ERP](./Images/HistoryOfErp.webp)
 
 ## ERP مخفف چیست؟
 ERP مخفف Enterprise Resource Planning یا به فارسی برنامه‌ریزی منابع سازمانی است. ساده‌ترین راه برای تعریف ERP این است که در مورد همه فرایندهای کسب و کار اصلی مورد نیاز برای مدیریت یک شرکت فکر کنیم؛ مانند امور مالی، منابع انسانی، تولید، زنجیره تأمین، خدمات مشتریان، تدارکات و... . ERP در ساده‌ترین حالت، به مدیریت بهینه همه این فرایندها در یک سیستم یکپارچه کمک می‌کند.

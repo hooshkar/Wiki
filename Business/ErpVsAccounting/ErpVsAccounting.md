@@ -17,6 +17,8 @@ uid: Business/ErpVsAccounting/ErpVsAccounting
 
 هرچه سازمانی بزرگتر شود جهت یکپارچه سازی و مدیریت جامع تر در راستای عملکرد بهتر نیازمند استفاده از سیستم های ERP می باشد.
 
+![تفاوت ERP و حسابداری](./Images/ErpVsAccounting.webp)
+
 ## تفاوت ERP و حسابداری در چیست؟
 
 ### 1. ساختار
