@@ -62,6 +62,9 @@ uid: Business/Carton/FlutedVsDuplexCarton
 - هزینه بالاتر: کارتن لمینتی هزینه تولید و قیمت نهایی بیشتری دارد.
 - کمترین قابلیت بازیافت
 
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/HistoryPackagingIndustryIran" target="_blank">سیر تکامل صنعت بسته‌بندی؛ از گذشته تا امروز</a></p></strong></blockquote>
+
 ### انتخاب مناسب برای بسته‌بندی شما
 
 برای انتخاب بین کارتن‌های فلکسویی و لمینتی، باید نیازهای خاص بسته‌بندی محصول خود را در نظر بگیرید:
