@@ -10,16 +10,13 @@ uid: Business/Carton/FlutedVsDuplexCarton
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
-  <ul>
-  <li>تفاوت های کارتن فلکسویی و کارتن لمینتی در چیست؟</li>
+  <ul> 
   <li>کارتن فلکسویی (Fluted Carton)</li>
   <li>کارتن لمینتی (Duplex Carton)</li>
-  <li>کدام یک از کارتن ها برای بسته‌بندی شما مناسب‌تر است؟</li>
+  <li>انتخاب مناسب برای بسته‌بندی شما</li>
   </ul>
 </details>
 </blockquote>
-
-## تفاوت های کارتن فلکسویی و کارتن لمینتی در چیست؟
 
 در <a href="https://www.hooshkar.com/Wiki/Business/CartonIndustry" target="_blank">صنعت کارتن سازی</a>، دو نوع کارتن رایج است که شامل کارتن فلکسویی و کارتن لمینتی می‌شود. این دو نوع کارتن دارای ویژگی‌ها و کاربردهای مختلفی هستند. 
 
