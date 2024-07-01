@@ -2,7 +2,7 @@
 title: انبارداری چیست؟ (آموزش صفر تا صد انبارداری)
 author: سمانه رشوند
 description: نبارداری یعنی نگهداری ایمن از اقلامی که در انبار سازمان‌ها وجود دارند. به گونه‌ای که از مفقود شدن و هرگونه آسیب به کالا جلوگیری گردد.
-dateModified: 2024/06/12
+dateModified: 2024/07/01
 datePublished: 2023/10/21
 uid: Financial/Inventory
 ---
@@ -58,7 +58,7 @@ uid: Financial/Inventory
 امروزه نرم افزارهای حسابداری به کمک ما آمده‌اند تا بهترین تجربه‌ی انبار داری را برای ما رقم بزنند و تا جای ممکن، از بروز خطا جلوگیری کنند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://aparat.com/v/DuQVe" target="_blank">آموزش انبارداری با نرم افزار سایان</a></strong></p></blockquote>
+<p><strong>بیشتر بخوانید: فیلم <a href="https://aparat.com/v/DuQVe" target="_blank">آموزش انبارداری با نرم افزار سایان</a></strong></p></blockquote>
 
 ## انواع سیستم انبارداری
 

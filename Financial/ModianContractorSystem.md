@@ -2,7 +2,7 @@
 title: سامانه مودیان شرکتهای پیمانکاری
 author: سمانه رشوند
 description: این مقاله به بررسی اهمیت و روش‌های ثبت قراردادهای پیمانکاری در سامانه مودیان می‌پردازد و به پیمانکاران این امکان را می‌دهد تا اطلاعات مالی مرتبط با قراردادهای پیمانکاری خود را به دقت و با رعایت قوانین ثبت نمایند.
-dateModified: 2024/05/08
+dateModified: 2024/07/01
 datePublished: 2023/11/28
 uid: Financial/ModianContractorSystem
 ---
@@ -188,6 +188,11 @@ uid: Financial/ModianContractorSystem
 پس از اعلام اداره مالیات و تصمیم به الزامی کردن ارسال فاکتورهای الکترونیکی به سامانه مودیان برای بسیاری از پیمانکاران که درآمدهای آن‌ها بر اساس گزارش‌های وضعیت خود بود، سوالاتی پیرامون نحوه وارد کردن این گزارش‌ها به سامانه مودیان به وجود آمد.
 
 چگونگی ثبت گزارش‌های وضعیت در سامانه مودیان نیازمند صدور یک فاکتور فروش برای هر گزارش وضعیت تأیید شده است.
+
+<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/GuidToRegisteringContractorAgreementsInTheModianSystem
+" target="_blank">ثبت قرارداد پیمانکاری در سامانه مودیان</a></p></strong></blockquote>
+
 
 ![ثبت گزارش وضعیت پیمانکاری](./Images/ModianContractorSystem-04.webp)
 
