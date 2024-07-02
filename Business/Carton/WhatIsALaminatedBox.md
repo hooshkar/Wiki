@@ -9,7 +9,7 @@ uid: Business/Carton/WhatIsALaminatedBox
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
-  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
     <li>جعبه لمینتی چیست؟</li>
     <li>چاپ بر روی لمینت چگونه انجام میشود؟</li>

@@ -27,7 +27,7 @@ uid: Business/Carton/ListOfTheBestCartonsMaking
 در زمینه صنایع بسته‌بندی و تولید کارتن، وجود شرکت‌های متعددی با تنوع فعالیت و کیفیت محصولات امری حیاتی است. این مقاله به بررسی و معرفی لیستی از بهترین کارتن‌سازی‌ها می‌پردازد که در طول سال‌ها با کیفیت و عملکرد خود، توانسته‌اند در بازارهای مختلف به جایگاهی برتر دست یابند. 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank">نرم افزار کارتن سازی</a> سایان</p></strong></blockquote>
+<p><strong>آشنایی با <a href="hhttps://www.hooshkar.com/Software/PrintingAndPackaging" target="_blank">نرم افزار چاپ و بسته بندی</a> سایان</p></strong></blockquote>
 
 ## معرفی بهترین شرکت های کارتن سازی
 
