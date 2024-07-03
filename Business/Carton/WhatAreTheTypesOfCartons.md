@@ -151,7 +151,7 @@ uid: Business/Carton/WhatAreTheTypesOfCartons
 
 به دلیل مقاومت بالا برای بسته‌بندی اقلام سنگین و یا کالاهایی که حساسیت بالایی دارند استفاده می‌شوند.
 
-![کارتن لوازم خانگی سنگین](./Images/HeavyHomeApplianceCarton.webp)
+![کارتن یخچالی](./Images/RefrigeratorCarton.webp)
 
 ### 4. کارتن سر پالتی
 
