@@ -24,7 +24,7 @@ uid: It/WhatIsBlazor
 بلیزر <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">Blazor</a>
 یک فریم ورک توسعه وب تحت پلتفرم ASP.NET توسط شرکت مایکروسافت است. با استفاده از Blazor، برنامه‌نویسان می‌توانند برنامه‌های وب تعاملی را با استفاده از زبان‌های برنامه‌نویسی #C و Razor بنویسند.
 
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">!["Blazor"](./Images/Blazor.webp)</a>
+!["Blazor"](./Images/Blazor.webp)
 
 
 بلیزر از مدل برنامه‌نویسی <a href="https://en.wikipedia.org/wiki/Single-page_application" target="_blank">SPA</a>
