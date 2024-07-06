@@ -2,7 +2,7 @@
 title: کاردکس انبار چیست؟
 author: فربد وزیرمختار - سمانه رشوند
 description: یکی از ابزارهای مورد استفاده برای مدیریت موجودی و انبارداری، "کارتابل انبار" یا "کاردکس انبار" می‌باشد.
-dateModified: 2024/06/12
+dateModified: 2024/07/06
 datePublished: 2024/04/29
 uid: Business/WhatIsCardexWarehouse
 ---
@@ -44,8 +44,6 @@ uid: Business/WhatIsCardexWarehouse
 
 هرگاه کالا وارد یا خارج شود، اطلاعات مربوطه در کاردکس انبار به دقت و لحظه‌ای ثبت می‌شود و سپس در اسناد حسابداری مورد استفاده قرار می‌گیرد. در واقع، کاردکس انبار و کاردکس کالا مفهومی مشترک دارند و هیچ تفاوتی بین آن‌ها وجود ندارد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 ### انواع کاردکس انبار
 
 **1.	کاردکس تعدادی**
@@ -72,6 +70,4 @@ uid: Business/WhatIsCardexWarehouse
 5. افزایش سرعت در حسابداری و داشتن آمارهای دقیق از مواد اولیه
 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
-ﺩﺭ ﭘﺎﯾﺎﻥ، ﺍﺯ شما ﮐﻪ ﺗﺎ ﺍﻧﺘﻬﺎی این مقاله با ﻣﺎ همراه بودید، ﺳﭙﺎﺳﮕﺰﺍﺭﯾﻢ. ﺍﻣﯿﺪﻭﺍﺭﯾﻢ ﻣﻄﺎﻟﺐ ﺍﺭﺍﺋﻪ ﺷﺪﻩ ﺑﺮﺍﯼ ﺷﻤﺎ ﻣﻔﯿﺪ ﺑﻮﺩﻩ ﺑﺎﺷﺪ.
+**ﺩﺭ ﭘﺎﯾﺎﻥ، ﺍﺯ شما ﮐﻪ ﺗﺎ ﺍﻧﺘﻬﺎی این مقاله با <a href="https://www.hooshkar.com" target="_blank">هوشکار پرداز</a> همراه بودید، ﺳﭙﺎﺳﮕﺰﺍﺭﯾﻢ. ﺍﻣﯿﺪﻭﺍﺭﯾﻢ مقاله ﺍﺭﺍﺋﻪ ﺷﺪﻩ ﺑﺮﺍﯼ ﺷﻤﺎ ﻣﻔﯿﺪ ﺑﻮﺩﻩ ﺑﺎﺷﺪ.**

@@ -1,13 +1,13 @@
 ---
-title: مهلت ارسال فهرست حقوق بگیران تا 20 خرداد
+title: بخشنامه مالیات حقوق 1403 - نرخ مالیات حقوق
 author: سمانه رشوند
 description: مودیانی مالیاتی می توانند تا پایان روز یکشنبه مورخ 1403/03/20 نسبت به ارسال فهرست حقوق بگیران خود و پرداخت یا ترتیب پرداخت مالیات آن برای حقوق و مزایای فروردین ماه سال 1403 که تاریخ تخصیص یا پرداخت آن تا پایان 1403/01/31 بوده است، اقدام نمایند
-dateModified: 2024/05/20
+dateModified: 2024/07/06
 datePublished: 2024/05/20
 uid: Financial/TheDeadlineForSendingTheListOfSalaryEarners
 ---
 
-## تسلیم الکترونیکی لیست حقوق کارکنان تا 20 خرداد
+## مهلت ارسال لیست مالیات حقوق کارکنان تا 20 خرداد
 
 **قابل توجه مودیان محترم مالیاتی**
 
@@ -21,6 +21,6 @@ uid: Financial/TheDeadlineForSendingTheListOfSalaryEarners
 
 **لینک های مرتبط:**
 
-<a href="https://salary.tax.gov.ir/Account/LogOn?ReturnUrl=%2f" target="_blank">ورود به سامانه تسلیم فهرست حقوق کارکنان</a>
+<a href="https://salary.tax.gov.ir/Account/LogOn?ReturnUrl=%2f" target="_blank">سامانه ارسال مالیات حقوق</a>
 
-منبع خبر: <a href="https://tax.gov.ir/action/do/show/16" target="_blank">مهلت ارسال فهرست حقوق بگیران</a>
+منبع خبر: <a href="https://tax.gov.ir/action/do/show/16" target="_blank">بخشنامه مالیات حقوق 1403</a>
