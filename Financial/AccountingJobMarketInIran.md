@@ -83,4 +83,4 @@ uid: Financial/AccountingJobMarketInIran
 اگر می‌خواهید در استفاده از نرم‌افزارهای پرکاربرد حسابداری مهارت کسب کنید، شرکت در <a href=" https://www.aparat.com/Hooshkar_Pardaz" target="_blank">دوره‌های آموزشی هوشکار</a></blockquote> را پیشنهاد می‌کنیم.
  
 
-- <a href="https://www.aparat.com/v/Tx9ea" target="_blank">دانلود آموزش رایگان نرم افزار حسابداری سایان</a></blockquote>
+- <a href="https://www.aparat.com/v/Tx9ea" target="_blank">دانلود رایگان آموزش نرم افزار حسابداری سایان</a></blockquote>

@@ -43,9 +43,6 @@ uid: Financial/IndustrialAccountingRecords
 
 این مقاله به بررسی اهمیت و انواع ثبتهای حسابداری صنعتی به‌عنوان یک فرآیند بلندمدت و چگونگی انجام دقیق و موثر آن می‌پردازد.
 
-
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 ## تعریف ثبت های حسابداری صنعتی
 
 ثبت های حسابداری صنعتی به عنوان یکی از <a href="https://www.hooshkar.com/Wiki/Financial/AccountingPrinciples" target="_blank">اصول حسابداری</a>، در پردازش اطلاعات مالی شرکت‌ها بسیار مهم می‌باشد.

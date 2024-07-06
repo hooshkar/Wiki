@@ -69,5 +69,3 @@ uid: Financial/WhatIsPayroll/CalculationOfYears
 چند دیدگاه نادرست وجود دارد که اگر کارگری تصمیم به ترک کار بگیرد، حق سنوات به او تعلق نمی‌گیرد، میتوان گفت که این ادعا نادرست است. 
 
 همچنین، تصریح در قراردادها که اگر کارگر از دریافت سنوات معاف شود، اشتباه است. دستورالعملی که تصریح می‌کرد که کارفرمایان ملزم به پرداخت سنوات به کارگران ترک کار نیستند، اکنون باطل شده و براساس قوانین جدید، کارفرما ملزم به پرداخت سنوات است.
-
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>

@@ -101,8 +101,6 @@ uid: Financial/CostAccounting
 
 این طبقه‌بندی هزینه‌ها به حسابداران و مدیران کمک می‌کند تا هزینه‌های مختلف را به صورت دقیق تشخیص داده و برای برنامه ریزی مالی و تصمیم‌گیری‌های استراتژیک مورد استفاده قرار دهند. همچنین، این طبقه‌بندی به تجزیه و تحلیل هزینه‌ها، کاهش هزینه‌ها و بهبود کارایی در فرآیندهای تولید کمک می‌کند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifConsultation.webp" alt="درخواست مشاوره رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="مشاوره رایگان" caption="false" width="100%" height="100%"></a>
-
 ### وظایف حسابداری
 
 1. برنامه ریزی و اجرای بودجه

@@ -59,6 +59,4 @@ uid: Financial/WhatIsPayroll/ReviewFreePaidVersionsPayrollSoftware
 
 با توجه به توضیحاتی که در بخش بالا داده شد، می‌توان نتیجه گرفت که مناسب ترین نرم افزار، نوع غیر رایگان آن است. چرا که با طراحی اختصاصی، تمام نیازهای شرکت شما رفع شده و با کم‌ترین خطا و بالاترین سرعت، حقوق پرسنل محاسبه می‌گردد. 
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
 از اینکه تا انتهای این مقاله با ما همراه بودید سپاسگذاریم. نظرات و سوالات خود را با ما به اشتراک بگذارید.

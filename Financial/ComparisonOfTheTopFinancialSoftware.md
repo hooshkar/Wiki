@@ -76,8 +76,6 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 
 - در **نرم افزار سایان** سطح تفصیلی شناور با سطوح نامحدود می‌باشد.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
 #### نتیجه گیری
 بنابراین برای انتخاب بهترین نرم افزار حسابداری
 فرقی ندارد که اندازه کسب و کار شما چقدر است؟ 

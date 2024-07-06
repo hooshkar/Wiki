@@ -78,6 +78,4 @@ uid: Financial/AccountingPrinciples
 
 همچنین، اصول حسابداری به شرکت‌ها کمک می‌کند تا برای مواجه شدن با مشکلات مالی، مانند کاهش درآمد، افزایش هزینه‌ها و یا افزایش بدهی‌ها، آماده باشند. با رعایت اصول حسابداری، شرکت‌ها به راحتی می‌توانند میزان درآمد و هزینه‌های خود را محاسبه کنند و برنامه‌ریزی‌های لازم را انجام دهند.
 
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
-
 اگر می‌خواهید در مورد حسابداری بیشتر بدانید، پیشنهاد می‌کنیم فیلم های آموزشی "<a href="https://www.aparat.com/Hooshkar_Pardaz" target="_blank">آپارات هوشکار</a>" را دنبال کنید.
