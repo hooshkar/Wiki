@@ -33,4 +33,4 @@ uid: Financial/TaxNotice28
 
 <a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
-منبع: <a href="https://www.intamedia.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87_%D8%B4%D9%85%D8%A7%D8%B1%D9%87_28_%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%88%D8%AC%D9%87-%D9%85%D9%88%D8%AF%DB%8C%D8%A7%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A8%D8%B1-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87" target="_blank">اطلاعیه شماره 28 (دوره مالیاتی زمستان سال 1402)</a>
+منبع: <a href="https://www.intamedia.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87_%D8%B4%D9%85%D8%A7%D8%B1%D9%87_28_%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%88%D8%AC%D9%87-%D9%85%D9%88%D8%AF%DB%8C%D8%A7%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A8%D8%B1-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87" target="_blank">اظهارنامه دوره مالیاتی زمستان سال 1402</a>
