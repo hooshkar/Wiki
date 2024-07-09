@@ -1,10 +1,10 @@
 ---
-title: ایجاد repository در گیت هاب (github)  
-author: محمد رضا کریمی  
-description: از repository معمولا برای مدیریت و سازمان دهی یک پروژه استفاده میشود. معادل فارسی repositoy، مخزن است، هر آنچه که پروژه ما به آن نیاز دارد از جمله پوشه ها (folders)، فایل ها (files)، تصاویر (images)، فیلم ها (videos) و...، در آن قرار میگیرد. 
-dateModified: 2023/08/13  
-datePublished: 2019/02/13  
-uid: It/SourceControl/Github/CreateRepository  
+title: ایجاد repository در گیت هاب (github)
+author: محمد رضا کریمی
+description: از repository معمولا برای مدیریت و سازمان دهی یک پروژه استفاده میشود. معادل فارسی repositoy، مخزن است، هر آنچه که پروژه ما به آن نیاز دارد از جمله پوشه ها (folders)، فایل ها (files)، تصاویر (images)، فیلم ها (videos) و...، در آن قرار میگیرد.
+dateModified: 2023/08/13
+datePublished: 2019/02/13
+uid: It/SourceControl/Github/CreateRepository
 ---
 
 از repository معمولا برای مدیریت و سازمان دهی یک پروژه استفاده می شود. 

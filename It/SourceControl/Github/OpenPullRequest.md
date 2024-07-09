@@ -1,10 +1,10 @@
 ---
-title: Pull Request در گیت هاب (github)  
-author: محمد رضا کریمی  
-description:  pull request ها قلب همکاری در github هستند. هنگامی که شما یک pull request باز میکنید، در حقیقت شما تغییرات خود را پیشنهاد میکنید و درخواست میکنید تا کسی آن تغییرات را بررسی کند و در اصطلاح آن تغییرات را pull کند و آنها را با branch خود ادغام (merge) کند. 
-dateModified: 2023/08/13  
-datePublished: 2019/02/13  
-uid: It/SourceControl/Github/OpenPullRequest  
+title: Pull Request در گیت هاب (github)
+author: محمد رضا کریمی
+description:  pull request ها قلب همکاری در github هستند. هنگامی که شما یک pull request باز میکنید، در حقیقت شما تغییرات خود را پیشنهاد میکنید و درخواست میکنید تا کسی آن تغییرات را بررسی کند و در اصطلاح آن تغییرات را pull کند و آنها را با branch خود ادغام (merge) کند.
+dateModified: 2023/08/13
+datePublished: 2019/02/13
+uid: It/SourceControl/Github/OpenPullRequest
 ---
 
 اکنون تغییراتی روی شاخه ای از master branch وجود دارد و شما می توانید یک pull request باز کنید.
