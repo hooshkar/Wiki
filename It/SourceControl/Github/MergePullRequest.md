@@ -1,10 +1,10 @@
 ---
-title: ادغام (merge) Pull Request در گیت هاب (github)  
-author: محمد رضا کریمی  
+title: ادغام (merge) Pull Request در گیت هاب (github)
+author: محمد رضا کریمی
 description: بعد از اتمام کار روی یک شاخه، لازم می‌شود که کدهای  شاخه (branch) مورد نظر با یک شاخه‌ی دیگر (معمولاً master) ترکیب شود. گاهی هم ممکن است تغییراتی که در شاخه‌ی سومی وجود دارد را وارد شاخه‌ای که درحال کار روی آن هستیم کنیم. در این مواقع باید از دستور merge استفاده کنیم. 
-dateModified: 2023/08/13  
-datePublished: 2019/02/13  
-uid: It/SourceControl/Github/MergePullRequest  
+dateModified: 2023/08/13
+datePublished: 2019/02/13
+uid: It/SourceControl/Github/MergePullRequest
 ---
 
 در آخرین قدم، می خواهیم تغییرات را کنار هم قرار دهیم، یعنی همان merge کردن `readme-edits branch` در `master branch`.

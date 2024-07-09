@@ -1,10 +1,10 @@
 ---
-title: آموزش گیت هاب (github)  
-author: محمد رضا کریمی  
+title: آموزش گیت هاب (github)
+author: محمد رضا کریمی
 description: گیت هاب (github) یک وب سایت برای نگهداری پروژه و همکاری است. شما میتوانید پروژه خود را روی این وب سایت قرار دهید و تغییرات خود را روی آن اعمال کنید و همچنین همکارانتان را به این پروژه اضافه کنید تا در هر جایی که هستند به آن دسترسی پیدا کنند.
-dateModified: 2023/08/13  
-datePublished: 2019/02/13  
-uid: It/SourceControl/Github/Intro  
+dateModified: 2023/08/13
+datePublished: 2019/02/13
+uid: It/SourceControl/Github/Intro
 ---
 
 یک چیز مرسوم در حوزه برنامه نویسی ایجاد پروژه های Hello World است.

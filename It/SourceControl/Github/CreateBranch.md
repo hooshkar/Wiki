@@ -1,10 +1,10 @@
 ---
-title: ایجاد و استفاده از Branch در گیت هاب 
-author: محمد رضا کریمی  
+title: ایجاد و استفاده از Branch در گیت هاب
+author: محمد رضا کریمی
 description: هنگامی که شما یک branch از روی master branch ایجاد میکنید در واقع یک کپی از master branch در  لحظه میسازید.همچنین  وقتی که شما روی branch خود کار میکنید و افراد دیگر روی master branch تغییراتی را ایجاد میکنند، شما میتوانید آن تغییرات را نیز دریافت کنید.
-dateModified: 2023/08/13  
-datePublished: 2019/02/13  
-uid: It/SourceControl/Github/CreateBranch  
+dateModified: 2023/08/13
+datePublished: 2019/02/13
+uid: It/SourceControl/Github/CreateBranch
 ---
 
 Branching یک راه برای کار کردن روی ورژن های مختلف یک Repository در یک زمان است.
