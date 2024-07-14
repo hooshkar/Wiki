@@ -40,6 +40,8 @@ uid: Financial/Inventory
 
 </blockquote>
 
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+
 امروزه کلمه‌ی انبارداری به بخش جدانشدنی از هر مجموعه، تبدیل شده است؛ چرا که سرمایه‌ی مالی هر سازمان، در انبار آن نهفته است. پس جهت جلوگیری از هرگونه خطا و حفظ سرمایه‌، استفاده از سیستم انبارداری الزامیست. 
 
 ما در این مقاله قصد داریم صفر تا صد نکات انبارداری را بررسی کنیم. اگر شما هم علاقه‌مند به مسائل حسابداری و انبارداری هستید، در ادامه مطلب با ما همراه باشید.
@@ -49,7 +51,6 @@ uid: Financial/Inventory
 
 ![آشنایی با انبارداری و بررسی مهم ترین نکات آن](./Images/FamiliarityWarehousing.webp)
 
-
 ## انبارداری چیست؟
 انبارداری یعنی نگهداری ایمن از اقلامی که در انبار سازمان‌ها وجود دارند. به گونه‌ای که از مفقود شدن و هرگونه آسیب به کالا جلوگیری گردد. 
 
@@ -57,8 +58,9 @@ uid: Financial/Inventory
 
 امروزه نرم افزارهای حسابداری به کمک ما آمده‌اند تا بهترین تجربه‌ی انبار داری را برای ما رقم بزنند و تا جای ممکن، از بروز خطا جلوگیری کنند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://aparat.com/v/DuQVe" target="_blank">فیلم آموزش انبارداری با نرم افزار سایان</a></strong></p></blockquote>
+**فیلم آموزش انبارداری با نرم افزار سایان**
+
+<div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/g329h32/vt/frame?titleShow=true"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 ## انواع سیستم انبارداری
 
