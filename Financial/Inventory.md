@@ -63,6 +63,8 @@ uid: Financial/Inventory
 
 <div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/g329h32/vt/frame?titleShow=true"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="border-radius: 16px;"></iframe></div>
 
+برای مشاهده ادامه ویدئوها بر روی این <a href="https://aparat.com/v/CONkb" target="_blank">لینک</a> کلیک نمایید.
+
 ## انواع سیستم انبارداری
 
 ![بررسی انواع سیستم انبارداری](./Images/StorageSystems.webp)
