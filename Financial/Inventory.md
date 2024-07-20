@@ -40,7 +40,11 @@ uid: Financial/Inventory
 
 </blockquote>
 
-<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+<style>.h_iframe-aparat_embed_frame{position:relative;margin:1rem 0;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}
+ @media only screen and (min-width: 992px){
+    .h_iframe-aparat_embed_frame{width:60%;}
+  }
+</style>
 
 امروزه کلمه‌ی انبارداری به بخش جدانشدنی از هر مجموعه، تبدیل شده است؛ چرا که سرمایه‌ی مالی هر سازمان، در انبار آن نهفته است. پس جهت جلوگیری از هرگونه خطا و حفظ سرمایه‌، استفاده از سیستم انبارداری الزامیست. 
 
