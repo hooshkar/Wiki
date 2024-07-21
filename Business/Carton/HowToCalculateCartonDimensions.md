@@ -2,7 +2,7 @@
 title: ابعاد کارتن را چگونه محاسبه کنیم؟
 author: فربد وزیرمختار - سمانه رشوند
 description: با راهنمای کامل محاسبه ابعاد کارتن، بسته‌بندی محصولات خود را بهینه کنید. برای افزایش کارایی در صنعت بسته‌بندی، محاسبه صحیح ابعاد کارتن ضروری است.
-dateModified: 2024/06/23
+dateModified: 2024/07/21
 datePublished: 2024/05/19
 uid: Business/Carton/HowToCalculateCartonDimensions
 ---
@@ -24,7 +24,7 @@ uid: Business/Carton/HowToCalculateCartonDimensions
 
 محاسبه ابعاد کارتن یکی از مراحل اساسی است که تاثیر بسزایی بر کیفیت و کارایی بسته‌بندی دارد. این ابعاد به طور مستقیم وابسته به نیازها و مشخصات محصولات و همچنین نیازهای مشتریان است.
 
-در این مقاله، به معرفی روش‌های محاسبه ابعاد کارتن، نقش **<a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank"> نرم افزار کارتن سازی</a>** و اهمیت آن در ارتقای کیفیت بسته‌بندی خواهیم پرداخت.
+در این مقاله، به معرفی روش‌های محاسبه ابعاد کارتن، نقش **<a href="https://www.hooshkar.com/Software/PrintingAndPackaging/Package/Carton" target="_blank"> نرم افزار کارتن سازی سایان</a>** و اهمیت آن در ارتقای کیفیت بسته‌بندی خواهیم پرداخت.
 
 ![محاسبه ابعاد کارتن](./Images/CalculateTheCartonDimensions.webp)
 
