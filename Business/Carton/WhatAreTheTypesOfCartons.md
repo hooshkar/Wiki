@@ -2,7 +2,7 @@
 title: کدام تیپ کارتن و جعبه برای محصول شما مناسب است؟
 author: سمانه رشوند - فربد وزیرمختار
 description: تیپ کارتن به ساختار لایه‌های تشکیل‌دهنده آن اشاره دارد و انتخاب صحیح آن می‌تواند تأثیر چشمگیری بر محافظت از محتویات، هزینه‌های حمل و نقل و حتی تأثیرات زیست‌محیطی داشته باشد.
-dateModified: 2024/07/21
+dateModified: 2024/07/22
 datePublished: 2024/06/11
 uid: Business/Carton/WhatAreTheTypesOfCartons
 ---
@@ -116,6 +116,7 @@ uid: Business/Carton/WhatAreTheTypesOfCartons
 ### 2. کارتن و جعبه درپوش مجزا
 
 کارتن درپوش مجزا از نظر شکل ظاهری شباهت زیادی به جعبه های آرشیو بندی دارند که بسته به نوع محصول در ابعاد و اشکال مختلف تولید می شود.
+
 ![کارتن درپوش مجزا](./Images/CartonsWithSeparateLids.webp)
 
 ### 3. کارتن پاکتی شکل
@@ -130,8 +131,8 @@ uid: Business/Carton/WhatAreTheTypesOfCartons
 ### 4. کارتن دایکاتی
 
 کارتن‌ و جعبه های دایکاتی همان کارتن های کرافتی هستند.
-![کارتن های دایکاتی](./Images/DieCuttingCarton.webp)
 
+![کارتن های دایکاتی](./Images/DieCuttingCarton.webp)
 
 ## براساس کاربرد
 
