@@ -4,7 +4,7 @@ author: سمانه رشوند و فربد وزیرمختار
 description: این مقاله به بررسی برنامه‌نویسی کوانتومی می‌پردازد. ابتدا مفهوم و اهمیت این نوع برنامه‌نویسی را توضیح داده و سپس به کاربردهای مهم آن مانند الگوریتم‌های شور و گروور، مدل‌سازی سیستم‌های کوانتومی و تراشه‌های الکترونیکی اشاره می‌کند.
 dateModified: 2024/07/28
 datePublished: 2024/07/27
-uid: Business/WhatIsQuantumProgramming
+uid: It/WhatIsQuantumProgramming
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">

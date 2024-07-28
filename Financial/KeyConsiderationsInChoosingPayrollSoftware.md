@@ -2,9 +2,9 @@
 title: نکات مهم در انتخاب نرم افزار حقوق و دستمزد 
 author: سمانه رشوند - فربد وزیرمختار
 description: این مقاله به بررسی نکات اساسی برای انتخاب نرم‌افزار مناسب مدیریت حقوق و دستمزد می‌پردازد، که شامل انواع وضعیت‌های افراد، کیفیت جمع‌آوری داده‌ها، روش‌های کنترلی، قابلیت محاسبه معوقات و ارائه گزارشات دقیق است.
-dateModified: 2024/07/14
+dateModified: 2024/07/28
 datePublished: 2024/07/13
-uid: Business/KeyConsiderationsInChoosingPayrollSoftware
+uid: Financial/KeyConsiderationsInChoosingPayrollSoftware
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
