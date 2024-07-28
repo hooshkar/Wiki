@@ -4,7 +4,7 @@ author: فربد وزیرمختار - سمانه رشوند
 description: یکی از ابزارهای مورد استفاده برای مدیریت موجودی و انبارداری، "کارتابل انبار" یا "کاردکس انبار" می‌باشد.
 dateModified: 2024/07/06
 datePublished: 2024/04/29
-uid: Business/WhatIsCardexWarehouse
+uid: Financial/WhatIsCardexWarehouse
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
