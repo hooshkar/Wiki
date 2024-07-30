@@ -2,7 +2,7 @@
 title: 10 تفاوت نرم افزار فرم ساز و BPMS  
 author: سمانه رشوند - فربد وزیرمختار
 description: این مقاله به تشریح تفاوت‌های کلیدی بین دو ابزار مهم در حوزه مدیریت فرآیندهای کسب و کار می‌پردازد
-dateModified: 2024/07/20
+dateModified: 2024/07/30
 datePublished: 2024/06/19
 uid: Business/TheDifferenceBetweenFormBuilderSoftwareAndBPMS
 ---
@@ -18,6 +18,8 @@ uid: Business/TheDifferenceBetweenFormBuilderSoftwareAndBPMS
   </ul>
 </details>
 </blockquote>
+
+![10 تفاوت بین نرم افزار  BPMS و فرم ساز](./Images/BpmsVsFormBuilder.webp)
 
 این مقاله به بررسی دو ابزار مهم در زمینهٔ مدیریت فرآیند های کسب و کار می‌پردازد. ابتدا به معرفی نرم‌ افزار فرم ‌ساز می‌پردازیم. این نرم ‌افزار امکاناتی ارائه می‌دهد که افراد بتوانند فرم‌های مورد نیاز خود را طراحی و منتشر کنند.
 
