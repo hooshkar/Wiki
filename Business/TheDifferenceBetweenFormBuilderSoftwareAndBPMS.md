@@ -13,7 +13,6 @@ uid: Business/TheDifferenceBetweenFormBuilderSoftwareAndBPMS
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>
     <li>نرم افزار فرم ساز چیست؟</li>
-    <li>نرم افزار bpms چیست؟</li>
     <li>تفاوت بین نرم افزار فرم‌ساز و BPMS</li>
   </ul>
 </details>
