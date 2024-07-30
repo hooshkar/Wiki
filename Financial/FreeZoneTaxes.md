@@ -4,7 +4,7 @@ author: سمانه رشوند و فربد وزیرمختار
 description: بررسی جامع مناطق آزاد تجاری-صنعتی ایران، شامل تعریف، مزایا و قوانین مرتبط. تشریح معافیت‌های مالیاتی، شرایط بهره‌مندی از آنها و الزامات قانونی فعالیت در این مناطق. راهنمایی کاربردی برای کارآفرینان و سرمایه‌گذاران علاقه‌مند به فعالیت در مناطق آزاد، با تأکید بر ضرورت رعایت مقررات و ارائه اظهارنامه مالیاتی.
 dateModified: 2024/07/30
 datePublished: 2024/07/30
-uid: Financial/WhatIsPayroll/FreeZoneTaxes
+uid: Financial/FreeZoneTaxes
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
