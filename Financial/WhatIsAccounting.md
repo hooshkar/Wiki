@@ -28,6 +28,12 @@ uid: Financial/WhatIsAccounting
 
 </blockquote>
 
+<style>.h_iframe-aparat_embed_frame{position:relative;margin:1rem 0;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}
+ @media only screen and (min-width: 992px){
+    .h_iframe-aparat_embed_frame{width:60%;}
+  }
+</style>
+
 ## تعریف حسابداری
 
 ![حسابداری چیست؟](./Images/WhatIsAccounting.webp)
@@ -38,8 +44,6 @@ uid: Financial/WhatIsAccounting
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری</a> سایان</p></strong></blockquote>
-
-
 
 ## انواع حسابداری
 
@@ -87,6 +91,12 @@ uid: Financial/WhatIsAccounting
 **1. استفاده از نرم افزار**
 
 نرم‌ افزارهای حسابداری به شما این امکان را می‌دهند که وظایف اساسی مانند ردیابی موجودی، صدور صورتحساب، پرداخت‌ها، تهیه گزارشات فروش و هزینه‌ها را به راحتی انجام دهید. همچنین، استفاده از این نرم‌افزارها زمان را برای شما آزاد می‌کند تا بتوانید بر روی رشد و توسعه کسب‌وکار خود تمرکز کنید. 
+
+**فیلم آموزش حسابداری با نرم افزار سایان**
+
+<div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/f50wbb5/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="border-radius: 16px;"></iframe></div>
+
+برای مشاهده ادامه ویدئوها بر روی این <a href="https://www.aparat.com/v/s96nyrd" target="_blank">لینک</a> کلیک نمایید.
 
 **2. تعیین اهداف**
 
