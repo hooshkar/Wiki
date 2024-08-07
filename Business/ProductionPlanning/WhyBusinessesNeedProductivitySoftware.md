@@ -11,7 +11,7 @@ uid: Business/ProductionPlanning/WhyBusinessesNeedProductivitySoftware
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 
 <details>
-  <summary>آنچه در این مطلب خواهید خواند</summary>
+  <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
    <li>چرا شرکت ها به توسعه نرم ‌افزار نیاز دارند؟</li>
    <li>چه ویژگی‌هایی نرم‌افزار سفارشی را متمایز می‌کند؟</li>
