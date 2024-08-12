@@ -2,7 +2,7 @@
 title: جدول حقوق کارگران 1403
 author: سمانه رشوند
 description: طبق جدول حقوق کارگران 1403، حداقل دستمزد روزانه 2,388,728 ریال و حداقل حقوق ماهیانه بدون احتساب مزایا 71,661,840 ریال خواهد بود.
-dateModified: 2024/06/23
+dateModified: 2024/08/12
 datePublished: 2024/01/15
 uid: Financial/WhatIsPayroll/Payroll1403
 ---
@@ -22,7 +22,7 @@ uid: Financial/WhatIsPayroll/Payroll1403
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
 
-## جدول حقوق و مزایای کارگران در سال 1403
+## جدول حقوق کارگران 1403
 
 ### سطح پایه (حداقل)
 
