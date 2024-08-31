@@ -2,7 +2,7 @@
 title: با انواع مختلف CRM آشنا شوید
 author: سمانه رشوند
 description: انواع CRM و ویژگی‌های هر کدام به همراه مزایای CRM مانند افزایش درآمد، بهبود خدمات و تصمیم‌گیری بهتر نیز بررسی می شود.
-dateModified: 2024/06/24
+dateModified: 2024/08/31
 datePublished: 2024/01/06
 uid: Business/TypesCrmSystems
 ---
@@ -76,7 +76,7 @@ uid: Business/TypesCrmSystems
 
 ### ECRM چیست؟
 
-ECRM مخفف Electronic Customer Relationship Management به معنای مدیریت ارتباط الکترونیکی با مشتری است. در ECRM از فناوری‌های دیجیتال و وب برای ارتباط با مشتریان استفاده می‌شود.
+ECRM که به معنای مدیریت ارتباط الکترونیکی با مشتری است، مخفف عبارت **Electronic Customer Relationship Management** می‌باشد. در این روش، از فناوری‌های دیجیتال و اینترنتی برای برقراری و مدیریت ارتباط با مشتریان بهره گرفته می‌شود.
 
 ### تفاوت ECRM و CRM
 
