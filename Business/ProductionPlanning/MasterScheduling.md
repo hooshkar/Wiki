@@ -1,8 +1,8 @@
 ---
-title: زمان بندی اصلی تولید [MPS] چیست؟
-author: سمانه رشوند  
+title: MPS (زمان بندی اصلی) چیست؟
+author: سمانه رشوند
 description: زمان بندی اصلی پایه برنامه ریزی کوتاه مدت است که آن را به عنوان قلب برنامه ریزی تولید و کنترل موجودی می شناسند. کار اصلی آن ایجاد ارتباط بین برنامه ریزی میان مدت و کوتاه مدت می باشد.
-dateModified: 2024/04/17
+dateModified: 2024/09/24
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/MasterScheduling
 ---
@@ -23,7 +23,7 @@ uid: Business/ProductionPlanning/MasterScheduling
 
 </blockquote>
 
-## برنامه ریزی تولید ادغامی چیست
+## برنامه ریزی تولید ادغامی چیست؟
 به برنامه اصلی هر شرکت برای تولید محصول Aggregate Planning گفته می شود.
 
 در برنامه ریزی ادغامی (Aggregate Planning) به ازای هر یک از محصولات یک برنامه تولید میان مدت بصورت ماهیانه ایجاد می شود.
@@ -34,7 +34,7 @@ uid: Business/ProductionPlanning/MasterScheduling
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار تولیدی</a> سایان</p></strong></blockquote>
 
 
-## زمان بندی اصلی چیست
+## زمان بندی اصلی چیست؟
 برنامه زمان بندی اصلی (Master Scheduling) محور فعالیت های شرکت در زمینه مهندسی، خرید، ساخت، فروش و امور مالی می باشد. 
 
 افق برنامه ریزی در MS کوتاه تر از Aggregate Planning است. چرا که Aggregate Planning بصورت ماهیانه بود اما در MS ما میخواهیم کار را خورد کرده و دقیق تر برنامه تولید را برای هفته مشخص نماییم.
@@ -63,6 +63,7 @@ uid: Business/ProductionPlanning/MasterScheduling
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">اتصال ترازو به نرم افزار حسابداری</a> سایان</p></strong></blockquote>
 
 ### سیاست های تولیدی در زمان بندی اصلی
+
 *   **سیاست بهر به بهر (LfL):** تولید تا زمان رفع تقاضا یا رسیدن به نقطه اطمینان انجام می شود.
 *   **سیاست بهر ثابت (LfB):** در هر بار اقدام برای تولید، به اندازه دسته اقتصادی تولید یا ضریبی از آن تولید انجام می شود.
 
@@ -81,11 +82,3 @@ uid: Business/ProductionPlanning/MasterScheduling
 *	ظرفیت انبارهای سازمان
 *	راندمان کاری
 *	زمان در دسترس (مهمترین و کلیدی ترین محدودیت)
-
-
-[برنامه ریزی ادغامی]: #برنامه-ریزی-ادغامی
-[زمان بندی اصلی]: #زمان-بندی-اصلی
-[ورودی های MS]: #ورودی-های-ms
-[خروجی های MS]: #خروجی-های-ms
-[سیاست های تولیدی در زمان بندی اصلی]: #سیاست-های-تولیدی-در-زمان-بندی-اصلی
-[برنامه ریزی ظرفیت سر انگشتی RCCP (Rough Cut Capacity Planning)]: #برنامه-ریزی-ظرفیت-سر-انگشتی-rccp-rough-cut-capacity-planning

@@ -2,7 +2,7 @@
 title: BPMN چیست؟ تفاوت آن با BPM
 author: سمانه رشوند
 description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
-dateModified: 2024/06/16
+dateModified: 2024/09/25
 datePublished: 2023/05/03
 uid: Business/WhatIsBpmn
 ---
@@ -41,12 +41,12 @@ BPMN یا مدل‌سازی فرایندهای کسب‌وکار، ابزاری 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">بهترین نرم افزار BPMS ایرانی</a></p></strong></blockquote>
 
-## تعریف BPMN
+## BPMN چیست؟
 به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
 
 مدلسازی فرآیند کسب و کار به ایجاد نمایش‌های گرافیکی از گردش کار و فعالیت‌های مختلف در یک سازمان اشاره دارد. مدلسازی فرآیند به کمک ابزارهای مختلفی انجام می‌شود و هدف آن به تصویر کشیدن فرآیندها، تعاملات و ارتباطات بین بخش‌ها به نحوی که از طریق یک نمودار یا نمایش گرافیکی قابل فهم باشد.
 
-### تاریخچه BPMN
+### مروری بر تاریخچه BPMN
 
 استاندارد BPMN در سال 2006 توسط یک گروه کاری به نام Object Management Group (OMG) پذیرفته شد. <a href="https://www.omg.org/" target="_blank">OMG</a> یک سازمان بین‌المللی است که در زمینه توسعه استانداردهای صنعتی و فناوری اطلاعات فعالیت می‌کند.
 
