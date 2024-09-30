@@ -23,8 +23,10 @@ github یک وب سایت برای نگهداری پروژه و همکاری ا�
 
 **مطالبی که در این آموزش یاد خواهید گرفت:**
 
-* ایجاد و استفاده از repository
-* آغاز و استفاده از یک branch جدید
-* تغییر یک فایل و فرستادن آن به github به عنوان یک commit
-* باز کردن و ادغام (merge) یک pull request
+* <a href="https://www.hooshkar.com/Wiki/Github/CreateRepository" target="_blank">ایجاد و استفاده از repository</a>
 
+* <a href="https://www.hooshkar.com/Wiki/Github/CreateBranch" target="_blank">ایجاد و استفاده از repository</a>
+
+* <a href="https://www.hooshkar.com/Wiki/Github/MakeCommit" target="_blank">تغییر یک فایل و فرستادن آن به github به عنوان یک commit</a>
+
+* <a href="https://www.hooshkar.com/Wiki/Github/OpenPullRequest" target="_blank">باز کردن و ادغام (merge) یک pull request</a>
