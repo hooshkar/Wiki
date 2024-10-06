@@ -1,10 +1,10 @@
 ---
 title: IIS چیست؟( صفر تا صد وب سرور IIS ) + کاربردهای آن
-author: سمانه رشوند و فربد وزیرمختار
+author: سمانه رشوند - فربد وزیرمختار
 description: وب سرور IIS مایکروسافت، برای میزبانی و پردازش صفحات وب و فایل‌های HTML طراحی شده و با امکانات امنیتی قوی و مقیاس‌پذیری بالا، به مدیریت بهینه درخواست‌های وب کمک می‌کند.
-dateModified: 2024/09/05
+dateModified: 2024/10/06
 datePublished: 2024/09/03
-uid: Business/WhatIsIISAndWhatAreItsUses
+uid: It/WhatIsIisAndWhatAreItsUses
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
