@@ -2,7 +2,7 @@
 title: گردش کار (Workflow) چیست؟
 author: سمانه رشوند - فربد وزیرمختار
 description: گردش کار به معنای، اجرا و اتوماسیون فرایندهای تجاری است که در آن، مجموعه‌ای از وظایف، اطلاعات یا اسناد طبق قوانین خاصی از یک نفر به نفر دیگر برای انجام اقدامات خاصی منتقل می‌شوند.
-dateModified: 2024/06/19
+dateModified: 2024/10/08
 datePublished: 2024/05/22
 uid: Business/WhatIsWorkflow
 ---
@@ -10,7 +10,7 @@ uid: Business/WhatIsWorkflow
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
-    <li>مفهوم مدیریت گردش کار چیست؟</Li>
+    <li>مدیریت گردش کار چیست؟</Li>
     <li>نقش Workflow در سازمان ها</Li>
     <li>انواع گردش کار</Li>
     <ul>
@@ -31,7 +31,7 @@ uid: Business/WhatIsWorkflow
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار BPMS ایرانی 
 </a>فِنِک</p></strong></blockquote>
 
-## مفهوم مدیریت گردش کار چیست؟
+## مدیریت گردش کار چیست؟
 
 ![گردش کار چیست؟](./Images/WhatIsWorkflow.webp)
 
