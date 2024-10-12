@@ -2,7 +2,7 @@
 title: erp چیست و چه کاربردهایی دارد؟
 author: سمانه رشوند
 description: ERP یا برنامه‌ریزی منابع سازمان (Enterprise Resource Planning) یک سیستم نرم‌افزاری است که به کسب‌وکارها کمک می‌کند تا فرآیندهای مختلف خود مانند حسابداری، منابع انسانی، تولید و زنجیره تأمین را در یک پلتفرم یکپارچه مدیریت و خودکارسازی کنند.
-dateModified: 2024/07/14
+dateModified: 2024/10/12
 datePublished: 2022/12/04
 uid: Business/ErpVsAccounting/WhatIsErp
 ---
