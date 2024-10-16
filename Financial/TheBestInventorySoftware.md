@@ -49,7 +49,7 @@ uid: Financial/TheBestInventorySoftware
 
 ### 1. <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری سایان</a>
 
-<a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">![سایان، بهترین نرم افزار انبارداری](./Images/TheBestInventorySoftware-01.webp)</a>
+![سایان، بهترین نرم افزار انبارداری](./Images/TheBestInventorySoftware-01.webp)
 
 شما می توانید موارد مطرح در انبارداری مانند انواع عملیات انبار،
 دسترسی ها، مرور گردش کالا به تفکیک گروه بندی های انجام شده، انبارگردانی و... را در این نرم افزار به شکلی
