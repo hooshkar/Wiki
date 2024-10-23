@@ -19,7 +19,7 @@ uid: Business/Carton/CartonIndustry
 
 ![صنعت کارتن](./Images/CardboardIndustry-01.webp)
 
-کارتن سازی یکی از صنایع مهم و پررونق در جهان است که نقش مهمی در <a href="https://www.hooshkar.com/Software/PrintingAndPackaging" target="_blank">صنعت بسته بندی</a> و حمل و نقل محصولات دارد. 
+یکی از صنایع مهم و پررونق در جهان کارتن سازی است که نقش مهمی در <a href="https://www.hooshkar.com/Software/PrintingAndPackaging" target="_blank">صنعت بسته بندی</a> و حمل و نقل محصولات دارد. 
 
 کارتن، به عنوان یک جعبه مقاوم و قابل حمل، از قدیمی‌ترین و محبوب‌ترین روش‌های بسته‌بندی در صنایع به حساب می‌آید.
 
