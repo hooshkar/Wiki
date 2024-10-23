@@ -1,8 +1,8 @@
 ---
-title: لیست 5 بهترین نرم افزارهای بهای تمام شده
+title: لیست 5 بهترین نرم افزارهای حسابداری بهای تمام شده
 author: سمانه رشوند
 description: برخی از ویژگی های بهترین نرم افزار حسابداری بهای تمام شده؛ قابلیت مدیریت فاکتورها و موجودی کالاها، امکان ثبت و کنترل ضایعات و توقفات، امکان تعریف مراکز هزینه، ارائه گزارشات دقیق و غیره
-dateModified: 2024/07/06
+dateModified: 2024/10/23
 datePublished: 2023/05/22
 uid: Financial/TheBestCostAccountingSoftware
 ---
@@ -22,7 +22,6 @@ uid: Financial/TheBestCostAccountingSoftware
   </ul>
   </ul>
 </details>
-
 </blockquote>
 
 ![بهترین نرم افزار قیمت تمام شده](./Images/TheBestCostAccounting-02.webp)
