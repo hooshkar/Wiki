@@ -2,7 +2,7 @@
 title: محاسبه مالیات حقوق
 author: سمانه رشوند
 description: میزان مالیات حقوق با توجه به حقوق و دستمزد هر فرد می‌تواند متفاوت باشد که به دو نوع مالیات مستقیم و غیر مستقیم، تقسیم می‌شود.
-dateModified: 2024/06/1
+dateModified: 2024/10/23
 datePublished: 2024/04/07
 uid: Financial/WhatIsPayroll/SalaryTax
 ---
@@ -17,13 +17,12 @@ uid: Financial/WhatIsPayroll/SalaryTax
     <li>عواقب عدم پرداخت مالیات بر درآمد چیست؟</li>
   </ul>
 </details>
-
 </blockquote>
 
 پرداخت مالیات بر حقوق و درآمد برای افراد حقیقی و حقوقی الزامی است. مالیات حقوق به دو دسته مالیات مستقیم و غیرمستقیم تقسیم می‌شود. در این مقاله با انواع مالیات حقوق و روش محاسبه آن‌ها آشنا خواهیم شد.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان مالیاتی</a> سایان</strong></p></blockquote>
+<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار مالیات حقوق</a> سایان</strong></p></blockquote>
 
 ## سامانه ارسال لیست مالیات حقوق
 
