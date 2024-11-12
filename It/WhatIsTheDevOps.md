@@ -11,7 +11,7 @@ uid: It/WhatIsTheDevOps
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
  <ul>
-  <li>مفهوم دواپس (DevOps) چیست؟</li>
+  <li> دواپس  چیست؟</li>
   <li>معرفی انواع مدل DevOps</li>
   <ul>
     <li>مدل آبشاری (Waterfall) چیست؟</li>
