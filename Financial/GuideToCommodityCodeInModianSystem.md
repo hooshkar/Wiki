@@ -29,4 +29,4 @@ uid: Financial/GuideToCommodityCodeInModianSystem
 
 3.	پس از دریافت شناسه کالای موردنظر، می‌توانید از طریق نرم‌افزار سایان، نوع کالا و شناسه مربوطه را مدیریت و استفاده کنید.
  
-![شناسه کالا را در نرم افزار سایان وارد کنید](./Images/CommodityCodeInModianSystem-04%20.webp)
+![شناسه کالا را در نرم افزار سایان وارد کنید](./Images/CommodityCodeInModianSystem-04.webp)
