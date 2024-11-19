@@ -8,7 +8,6 @@ uid: Financial/WhatIsGoldTax
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
