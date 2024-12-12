@@ -38,6 +38,8 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری</a> سایان</strong></p></blockquote>
 
+![مثالی از کدینگ حسابداری](./Images/AccountingCodingTable.webp)
+
 ### اهداف کدینگ در حسابداری
 1. کدینگ حسابداری موجب استاندارد سازی عملیات های مالی و یکپارچه نمودن آنها براساس یک فرمت خاص می گردد.
 
@@ -50,15 +52,17 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 ## انواع کدینگ حسابداری
 کدینگ حسابداری امری تخصصی به شمار می آید که باید توسط حسابداران متخصص و مدیران مالی با تجربه انجام شود تا بتواند از بروز مشکلات مالی و حسابداری واحدهای اقتصادی جلوگیری نماید.
 
+- کدینگ حسابداری توده ای
+- کدینگ حسابداری سلسه مراتبی
+- کدینگ حسابداری متوالی
+- کدینگ حسابداری حفظی
+- کدینگ حسابداری وجهی
+
 ![انواع کدینگ حسابداری](./Images/TypesOfAccountingCoding.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
 </a></p></strong></blockquote>
-
-### نمونه ای از کدینگ حسابداری 
-
-![مثالی از کدینگ حسابداری](./Images/AccountingCodingTable.webp)
 
 ### 1. کدینگ سلسه مراتبی
 
