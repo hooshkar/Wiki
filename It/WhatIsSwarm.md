@@ -2,8 +2,8 @@
 title: swarm چیست؟
 author: سمانه رشوند - فربد وزیرمختار
 description: پلتفرم Swarm یک زیرساخت غیرمتمرکز و مقاوم در برابر سانسور است که برای ذخیره‌سازی و سرویس‌دهی به برنامه‌های غیرمتمرکز (Dapps) طراحی شده است.
-dateModified: 2024/10/06
-datePublished: 2024/12/12
+dateModified: 2024/12/12
+datePublished: 2024/10/05
 uid: It/WhatIsSwarm
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
