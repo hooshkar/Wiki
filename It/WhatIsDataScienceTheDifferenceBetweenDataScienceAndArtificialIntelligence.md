@@ -2,7 +2,7 @@
 title: علم داده چیست؟ تفاوت‌های کلیدی آن با هوش مصنوعی
 author: سمانه رشوند - فربد وزیرمختار
 description: علم داده ترکیبی از ریاضیات، آمار و برنامه‌نویسی است که به استخراج بینش از داده‌ها کمک می‌کند. در این مقاله به کاربردها و تفاوت آن با هوش مصنوعی پرداخته می‌شود.
-dateModified: 2025/01/18
+dateModified: 2025/01/20
 datePublished: 2024/08/14
 uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligence
 ---
