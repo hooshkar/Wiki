@@ -2,7 +2,7 @@
 title: پایتون چیست؟ بررسی ویژگی‌ها و کاربردهای این زبان برنامه‌نویسی
 author: سمانه رشوند
 description: پایتون (Python) یک زبان برنامه‌نویسی تفسیری، شیءگرا و همچنین پرکاربرد است که توسط خیدو فان روسوم (Guido van Rossum) در سال 1991 ایجاد شده است.
-dateModified: 2025/01/18
+dateModified: 2025/01/20
 datePublished: 2023/04/17
 uid: It/WhatIsPython
 ---
