@@ -2,7 +2,7 @@
 title: علم داده چیست؟ تفاوت‌های کلیدی آن با هوش مصنوعی
 author: سمانه رشوند - فربد وزیرمختار
 description: علم داده ترکیبی از ریاضیات، آمار و برنامه‌نویسی است که به استخراج بینش از داده‌ها کمک می‌کند. در این مقاله به کاربردها و تفاوت آن با هوش مصنوعی پرداخته می‌شود.
-dateModified: 2025/01/20
+dateModified: 2025/01/26
 datePublished: 2024/08/14
 uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligence
 ---
@@ -25,6 +25,8 @@ uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligenc
 
 ### علم داده چیست؟ 
 
+![علم داده چیست؟](./Images/DataScience.webp)
+
 علم داده (Data Science) یک رشته بین‌رشته‌ای است که از ترکیب ریاضیات، آمار، برنامه‌نویسی، تحلیل داده‌ها و هوش مصنوعی تشکیل شده است. هدف اصلی این رشته، تجزیه و تحلیل داده‌ها برای استخراج اطلاعات مفید و بینش‌های پنهان است که به تصمیم‌گیری‌های سازمان‌ها کمک می‌کند.
 
 ### تاریخچه و تکامل علم داده
@@ -34,11 +36,12 @@ uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligenc
 
 ### کاربردهای علم داده
 علم داده به سازمان‌ها کمک می‌کند تا از داده‌ها برای تصمیم‌گیری‌های کلان و برنامه‌ریزی‌های تجاری استفاده کنند. برخی از کاربردها عبارتند از:
+
+![کاربرد های علم داده](./Images/DataScienceApplications.webp)
+
 - تحلیل داده‌ها برای کشف الگوها و روندها
 - مدل‌سازی پیش‌بینی‌کننده
 - تحلیل بازار و رفتار مشتریان
-
-![کاربرد ها و تکنیک های کلیدی علم داده](./Images/DataScience.webp)
 
 ### تکنیک‌های کلیدی در علم داده
 1. **طبقه‌بندی (Classification)**:
@@ -74,6 +77,7 @@ uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligenc
   - تحلیل داده‌ها و کشف الگوهای تجاری
   - مدل‌سازی پیش‌بینی‌کننده برای پیش‌بینی آینده
   - تحلیل بازار و رفتار مشتریان
+
 - **مهارت‌های مورد نیاز**:
   - تحلیل داده‌ها و آماری
   - برنامه‌نویسی در Python و R
@@ -82,6 +86,9 @@ uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligenc
 ---
 
 ### تفاوت‌های کلیدی بین علم داده و هوش مصنوعی
+
+![تفاوت های کلیدی بین علم داده و هوش مصنوعی](./Images/DataScienceVsAi.webp)
+
 1. **تمرکز اصلی**:
    - **هوش مصنوعی**: توسعه سیستم‌هایی که می‌توانند بیاموزند و تصمیم‌گیری کنند.
    - **علم داده**: تجزیه و تحلیل داده‌ها برای کشف الگوها و پیش‌بینی‌ها.
