@@ -2,7 +2,7 @@
 title: VoIP چیست؟
 author: سمانه رشوند - فربد وزیرمختار
 description: VoIP (Voice over Internet Protocol) یک فناوری پیشرفته است که امکان انتقال صدا و محتوای چندرسانه‌ای از طریق اینترنت را فراهم می‌کند. در این مقاله، با انواع VoIP، مزایا، معایب و دلایل محبوبیت آن آشنا شوید 
-dateModified: 2025/01/21
+dateModified: 2025/01/29
 datePublished: 2024/09/23
 uid: It/WhatIsVoipServiceAndHowDoesItWork
 ---
@@ -19,11 +19,12 @@ uid: It/WhatIsVoipServiceAndHowDoesItWork
 </details>
 </blockquote>
 
-![چیست؟ VoIP](./Images/HowVoIPWorksAndItsEffects.webp)
-
 فناوری VoIP (Voice over Internet Protocol) یکی از تحولات بزرگ در حوزه ارتباطات است که ارتباط صوتی و چندرسانه‌ای را از طریق اینترنت ممکن ساخته است. این مقاله‌ اطلاعات جامعی در این خصوص ارائه می‌دهد.
 
 ## تعریف و عملکرد VoIP
+
+![تعریف و عملکرد VoIP](./Images/WhatIsVoip.webp)
+
 - **تعریف:** VoIP به انتقال صدا و داده‌های چندرسانه‌ای از طریق اینترنت اشاره دارد و جایگزینی برای خطوط تلفن سنتی محسوب می‌شود.
 - **عملکرد:** این سیستم صدای آنالوگ را به داده‌های دیجیتال (باینری) تبدیل کرده و از طریق پروتکل اینترنت منتقل می‌کند. 
 
@@ -45,6 +46,9 @@ uid: It/WhatIsVoipServiceAndHowDoesItWork
 ---
 
 ### مزایا و معایب VoIP
+
+![مزایا و معایب VoIP](./Images/AdvantagesAndDisadvantagesOfVoIP.webp)
+
 #### مزایا:
 - **کاهش هزینه‌ها:** حذف نیاز به خطوط تلفن سنتی و کاهش هزینه‌های زیرساختی.
 - **انعطاف‌پذیری:** امکان جابجایی و استفاده در هر مکانی که اتصال اینترنت وجود داشته باشد.

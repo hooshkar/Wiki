@@ -2,7 +2,7 @@
 title: علم داده چیست؟ تفاوت‌های کلیدی آن با هوش مصنوعی
 author: سمانه رشوند - فربد وزیرمختار
 description: علم داده ترکیبی از ریاضیات، آمار و برنامه‌نویسی است که به استخراج بینش از داده‌ها کمک می‌کند. در این مقاله به کاربردها و تفاوت آن با هوش مصنوعی پرداخته می‌شود.
-dateModified: 2025/01/26
+dateModified: 2025/01/29
 datePublished: 2024/08/14
 uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligence
 ---
@@ -60,6 +60,8 @@ uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligenc
 
 ### علم داده و هوش مصنوعی: مقایسه و تفاوت‌ها
 
+![تفاوت علم داده و هوش مصنوعی](./Images/DataScienceVsAi.webp)
+
 #### 1. **<a href="https://www.hooshkar.com/Wiki/InformationTechnology/ArtificialIntelligence" target="_blank">هوش مصنوعی (Artificial Intelligence)</a>**
 
 - **هدف**: توسعه الگوریتم‌ها و مدل‌هایی که می‌توانند به صورت خودکار کارهایی را انجام دهند که معمولاً نیاز به هوش انسانی دارند.
@@ -70,8 +72,6 @@ uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligenc
 - **مهارت‌های مورد نیاز**: 
   - یادگیری ماشین و یادگیری عمیق
   - برنامه‌نویسی در Python و استفاده از کتابخانه‌هایی مثل TensorFlow و PyTorch
-
-![تفاوت علم داده و هوش مصنوعی](./Images/DataScienceVsAi.webp)
 
 #### 2. علم داده (Data Science)
 - **هدف**: استخراج دانش و الگوها از داده‌ها برای تصمیم‌گیری بهتر و پیش‌بینی‌های دقیق‌تر.
