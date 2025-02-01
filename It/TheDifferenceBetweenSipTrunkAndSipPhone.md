@@ -6,6 +6,7 @@ dateModified: 2025/02/01
 datePublished: 2024/09/29
 uid: It/TheDifferenceBetweenSipTrunkAndSipPhone
 ---
+
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>

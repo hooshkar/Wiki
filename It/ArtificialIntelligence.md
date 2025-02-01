@@ -6,6 +6,7 @@ dateModified: 2025/02/01
 datePublished: 2023/05/28
 uid: It/ArtificialIntelligence
 ---
+
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 
 <details>
