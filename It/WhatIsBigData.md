@@ -66,7 +66,7 @@ uid: It/WhatIsBigData
 ### ابزارها و فناوری‌های کلان داده
 برای مدیریت، پردازش و تحلیل کلان داده، ابزارهای متعددی توسعه یافته‌اند که برخی از مهم‌ترین آن‌ها عبارتند از:  
 
-![big data tools and technologies](./Images/WhatIsBigData.webp)
+![big data tools and technologies](./Images/BigDataToolsAndTechnologies.webp)
 
 1. **Hadoop**: یک فریم‌ورک متن‌باز برای ذخیره‌سازی و پردازش توزیع‌شده داده‌های حجیم که امکان مدیریت داده‌ها را در خوشه‌های سرور فراهم می‌کند.  
 
