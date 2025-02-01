@@ -97,6 +97,8 @@ Docker Swarm با راه‌اندازی یک کلاستر شامل نودهای 
 - امنیت بالا با پشتیبانی از رمزنگاری داخلی
 - مدیریت ساده‌تر برای پروژه‌های کوچک و متوسط
 
+![مزایا و معایب Docker Swarm](./Images/AdvantagesAndDisadvantagesOfDockerSwarm.webp)
+
 ### معایب Docker Swarm
 
 - محدودیت در مقایسه با Kubernetes در مدیریت محیط‌های پیچیده
