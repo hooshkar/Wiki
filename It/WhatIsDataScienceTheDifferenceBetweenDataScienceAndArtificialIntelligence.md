@@ -58,7 +58,7 @@ uid: It/WhatIsDataScienceTheDifferenceBetweenDataScienceAndArtificialIntelligenc
 
 ---
 
-### علم داده و هوش مصنوعی: مقایسه و تفاوت‌ها
+###  مقایسه و تفاوت‌های علم داده و هوش مصنوعی
 
 ![تفاوت علم داده و هوش مصنوعی](./Images/DataScienceVsAi.webp)
 
