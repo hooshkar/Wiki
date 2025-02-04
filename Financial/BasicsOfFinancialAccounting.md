@@ -2,7 +2,7 @@
 title: مبانی حسابداری و انواع آن
 author: سمانه رشوند
 description: مبانی حسابداری مالی یکی از مفاهیم اساسی در علم حسابداری است که به بررسی روش‌های ثبت و تجزیه و تحلیل اطلاعات مالی یک شرکت می‌پردازد.
-dateModified: 2024/06/11
+dateModified: 2025/02/04
 datePublished: 2023/03/01
 uid: Financial/BasicsOfFinancialAccounting
 ---
@@ -44,6 +44,9 @@ uid: Financial/BasicsOfFinancialAccounting
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان</a></strong></p></blockquote>
 
 ## مفاهیم اساسی حسابداری مالی
+
+![مفاهیم اساسی حسابداری مالی](./Images/FinancialAccounting.webp)
+
 ### 1. دوره مالی
 دوره مالی به مدت زمان مشخصی اشاره دارد که در طی آن تراکنش‌های مالی یک شرکت ثبت می‌شوند. معمولاً دوره مالی شرکت‌ها به مدت یک سال است، اما این مدت می‌تواند کمتر یا بیشتر باشد.
 
@@ -82,8 +85,7 @@ uid: Financial/BasicsOfFinancialAccounting
 
 ## انواع مبانی حسابداری
 
-![طبقه بندی حساب ها در ترازنامه](./Images/TypesOfAccountingBasics.webp)
-
+![انواع مبانی حسابداری](./Images/TypesOfAccountingBasics.webp)
 
 **1. مبنای تعهدی:** درآمدها مربوط به خدمات ارائه شده یا کالاهای فروخته شده در طول سال و هزینه‌ها مربوط به دریافت کالا و خدمات در طول همان سال در نظر گرفته می‌شوند.
 
@@ -94,8 +96,6 @@ uid: Financial/BasicsOfFinancialAccounting
 **4. مبنای نقدی تعدیل شده:** ثبت درآمدها در دوره مربوطه و ثبت هزینه‌ها مستلزم برقراری دو شرط ضروری و کافی است؛ یعنی ایجاد تعهد و انجام پرداخت.
 
 **5. مبنای تعهدی تعدیل شده:** درآمد آماده در دسترس و قابل اندازه‌گیری بوده و هزینه در زمان بروز تعهد، قابل پرداخت است.
-
-<a href="https://www.hooshkar.com" target="_blank"><img src="./images/GifDemo.webp" alt="درخواست دموی رایگان" style="display: block; margin-left: auto; margin-right: auto;" title="دموی رایگان" caption="false" width="100%" height="100%"></a>
 
 #### نتیجه گیری
 

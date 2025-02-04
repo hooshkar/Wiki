@@ -33,11 +33,11 @@ uid: Financial/CostAccounting
 
 </blockquote>
 
-![حسابداری صنعتی](./Images/CostAccounting-01.webp)
-
 در این مقاله، به اهمیت حسابداری صنعتی برای کسب و کارهای تولیدی پرداختیم و نقش برجسته آن در مدیریت هزینه‌ها، بهبود کیفیت، کارایی و تصمیمات استراتژیک را بررسی کرده ایم. 
 
 ## حسابداری صنعتی چیست؟
+
+![حسابداری صنعتی](./Images/CostAccounting-01.webp)
 
 حسابداری صنعتی یک شاخه از <a href="https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting" target="_blank">حسابداری</a> محسوب می شود که به <a href="https://www.hooshkar.com/Software/Fennec/Module/Costing" target="_blank">محاسبه بهای تمام شده</a> محصولات و کنترل هزینه های تولید می‌پردازد. 
 
@@ -108,7 +108,6 @@ uid: Financial/CostAccounting
 3. کنترل هزینه‌ها و بهبود عملکرد
 4. هزینه یابی و تعیین قیمت
 5. تحلیل و ارزیابی سودآوری
-
 
 ### وظایف حسابداری صنعتی
 
