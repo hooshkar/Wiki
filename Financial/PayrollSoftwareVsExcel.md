@@ -2,7 +2,7 @@
 title: مقایسه فایل اکسل حقوق و دستمزد با نرم افزار حقوق و دستمزد
 author: سمانه رشوند
 description: در راستای حفظ و مدیریت اطلاعات مالی و پرسنل نرم افزارهای حقوق و دستمزد با بهره‌مندی از دیتابیس‌های پیشرفته نسبت به فایل های اکسل، به سازمان‌ها امکان مدیریت بهینه و کارآمد اطلاعات را می‌دهند.
-dateModified: 2024/07/06
+dateModified: 2025/02/13
 datePublished: 2024/01/10
 uid: Financial/PayrollSoftwareVsExcel
 ---
@@ -14,9 +14,9 @@ uid: Financial/PayrollSoftwareVsExcel
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
 
-![محاسبه حقوق و دستمزد با اکسل یا نرم افزار](./Images/PayrollSoftwareVsExcel-01.webp)
-
 ## تفاوت نرم افزار با فایل اکسل حقوق و دستمزد
+
+![محاسبه حقوق و دستمزد با اکسل یا نرم افزار](./Images/PayrollSoftwareVsExcel-01.webp)
 
 ### 1. ظرفیت ذخیره سازی
 

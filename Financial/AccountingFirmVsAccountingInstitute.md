@@ -2,7 +2,7 @@
 title: شرکت حسابداری چیست و چه تفاوتی با موسسه حسابداری دارد؟
 author: سمانه رشوند - فربد وزیرمختار
 description: شرکت‌های حسابداری خدمات مالی و مالیاتی تخصصی ارائه می‌دهند، شامل تهیه گزارش‌ها، اظهارنامه‌ها، مشاوره و مدیریت امور مالی. 
-dateModified: 2024/02/04
+dateModified: 2025/02/09
 datePublished: 2024/08/17
 uid: Financial/AccountingFirmVsAccountingInstitute
 ---

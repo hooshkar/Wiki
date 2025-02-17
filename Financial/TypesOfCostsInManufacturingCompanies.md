@@ -2,7 +2,7 @@
 title:  انواع هزینه ها در شرکتهای تولیدی
 author: سمانه رشوند - فربد وزیرمختار
 description: انواع هزینه‌های تولید شامل هزینه‌های ثابت و متغیر، هزینه کل، متوسط و نهایی و نحوه محاسبه و کاربرد هرکدام توضیح داده شده است.
-dateModified: 2024/11/17
+dateModified: 2025/02/15
 datePublished: 2024/10/13
 uid: Financial/TypesOfCostsInManufacturingCompanies
 ---
@@ -30,6 +30,8 @@ uid: Financial/TypesOfCostsInManufacturingCompanies
  در این مقاله، انواع هزینه‌های ثابت و متغیر را بررسی می‌کنیم و به شما نشان می‌دهیم که چگونه با مدیریت بهتر این هزینه‌ها، می‌توانید بهره‌وری و سود شرکت خود را افزایش دهید.
 
 ## انواع هزینه های مرتبط با تولید
+
+![انواع هزینه های مرتبط با تولید](./Images/TypesOfCostsAssociatedWithProduction.webp)
 
 -	هزینه‌های ثابت
 -	هزینه‌های متغیر
@@ -88,9 +90,10 @@ uid: Financial/TypesOfCostsInManufacturingCompanies
 
 برای مثال، اگر شرکت دارای ظرفیت اضافی برای تولید کالاهای بیشتر باشد، با دریافت پیشنهاد خرید ۱۰۰۰ واحد با قیمت کمتر، می‌تواند تصمیم بگیرد که آیا سفارش را با قیمت ویژه بپذیرد یا خیر.
 
-![عوامل کلیدی تاثیرگذار بر هزینه های تولید](./Images/FactorsAffectingProductionCosts.webp)
 
 #### عوامل مؤثر بر هزینه‌های تولید
+
+![عوامل کلیدی تاثیرگذار بر هزینه های تولید](./Images/FactorsAffectingProductionCosts.webp)
 
 **-	تقاضا**
 
