@@ -2,7 +2,7 @@
 title: پایه حقوق وزارت کار ۱۴۰۲
 author: سمانه رشوند
 description:  طبق جدول حقوق کارگران 1402، حداقل دستمزد روزانه 1.769.428 ریال و حداقل حقوق ماهیانه بدون احتساب مزایا 53.082.840 ریال خواهد بود.
-dateModified: 2024/09/23
+dateModified: 2025/02/17
 datePublished: 2023/02/13
 uid: Financial/WhatIsPayroll/Payroll1402
 ---
@@ -26,9 +26,10 @@ uid: Financial/WhatIsPayroll/Payroll1402
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
 
-![حقوق وزارت کار 1402](./Images/Salary1402.webp)
-
 ## پایه حقوق 1402
+
+![حقوق وزارت کار 1402](./Images/Salary1402.webp)
+  
 یکی از مهم‌ترین بحث‌های داغ این روزها میزان افزایش حقوق سال 1402 می‌باشد. 
 
 با توجه به تورم بالای 48 درصد در کشور، بحث و گفتگو در مورد مقدار افزایش حقوق اهمیت زیادی هم برای کارگران و کارمندان و هم برای کارفرمایان پیدا کرده است. 

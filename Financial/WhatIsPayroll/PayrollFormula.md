@@ -2,7 +2,7 @@
 title: فرمول محاسبه حقوق و دستمزد (کسر کار، اضافه کاری، تعطیل کاری و...)
 author: سمانه رشوند
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2024/12/10
+dateModified: 2025/02/17
 datePublished: 2022/07/31
 uid: Financial/WhatIsPayroll/PayrollFormula
 ---

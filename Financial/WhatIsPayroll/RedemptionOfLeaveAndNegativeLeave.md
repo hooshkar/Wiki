@@ -2,7 +2,7 @@
 title: مفهوم مرخصی منفی و بازخرید مرخصی در قانون کار
 author: سمانه رشوند - فربد وزیرمختار
 description: 
-dateModified: 2024/05/28
+dateModified: 2025/02/17
 datePublished: 2024/05/08
 uid: Financial/WhatIsPayroll/RedemptionOfLeaveAndNegativeleave
 ---
@@ -17,14 +17,14 @@ uid: Financial/WhatIsPayroll/RedemptionOfLeaveAndNegativeleave
 </details>
 </blockquote>
 
-![مرخصی منفی و تفاوت آن با بازخرید مرخصی](./Images/TheConceptOfNegativeLeave.webp)
-
 در این مقاله به بررسی مفهوم مرخصی منفی و بازخرید مرخصی و نحوه محاسبه آن خواهیم پرداخت. 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
 
 ## مرخصی منفی چیست؟
+
+![مرخصی منفی و تفاوت آن با بازخرید مرخصی](./Images/TheConceptOfNegativeLeave.webp)
 
 مفهوم مرخصی منفی،  به استفاده بیش از حد مجاز مرخصی اشاره دارد که در قانون کار پیش‌بینی نشده است، اما در بسیاری از سازمان‌ها و شرکت‌ها به عنوان عملی عرفی مورد توجه قرار می‌گیرد.
 

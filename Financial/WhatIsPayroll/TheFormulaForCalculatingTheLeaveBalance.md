@@ -2,7 +2,7 @@
 title: فرمول محاسبه مانده مرخصی
 author: سمانه رشوند
 description: مبلغ مرخصی مانده بر اساس حقوق و مزایای دریافتی کارگر و با استفاده از فرمول ارائه شده در این مقاله محاسبه می‌شود. آگاهی از فرمول محاسبه مانده مرخصی و حقوق قانونی مرتبط با آن برای کارفرمایان و کارگران ضروری است.
-dateModified: 2024/12/10
+dateModified: 2025/02/17
 datePublished: 2024/05/08
 uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 ---
@@ -16,8 +16,6 @@ uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 </details>
 </blockquote>
 
-![محاسبه مانده مرخصی](./Images/LeaveCalculation.webp)
-
 مرخصی یکی از حقوق اساسی کارگران در هر سازمانی است که بر اساس قانون کار برای آنها در نظر گرفته شده است.
 
 از آنجایی که گاهی اوقات کارگران به دلایلی نمی‌توانند از کل مرخصی سالانه خود استفاده کنند، امکان انتقال بخشی از آن به سال بعد وجود دارد. در این مقاله به بررسی نحوه محاسبه مانده مرخصی سالانه و فرمول آن پرداخته شده است. 
@@ -26,6 +24,8 @@ uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه مانده مرخصی</a> سایان</strong></p></blockquote>
 
 ## محاسبه مانده مرخصی در قانون کار
+
+![محاسبه مانده مرخصی](./Images/LeaveCalculation.webp)
 
 در برخی از شرکت‌ها، یکی از نگرانی‌های اصلی کارمندان، درخواست مرخصی از مدیر شرکت است؛ زیرا گاهی ممکن است کارمند نیاز به مرخصی داشته باشد اما کارفرما مخالفت کند.
 
