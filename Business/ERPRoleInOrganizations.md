@@ -19,8 +19,6 @@ uid: Business/ERPRoleInOrganizations
 
 </blockquote>
 
-![تاثیر ERP در سازمان ها چیست؟](./Images/TheImpactOfErpInOrganizations.webp)
-
 آیا کسب و کار شما از فقدان یکپارچگی در فرآیندها و عدم مدیریت صحیح منابع رنج می‌برد؟
 
 آیا می‌خواهید همه چیز را تحت کنترل داشته باشید و هر بخش از سازمان را با دقت و کارایی بالا مدیریت کنید؟ اگر پاسخ شما مثبت است، سیستم های ERP راه حل کامل شما هستند.
@@ -32,13 +30,16 @@ uid: Business/ERPRoleInOrganizations
 </a></p></strong></blockquote>
 
 ## تعریف ERP
+
+![تعریف ERP چیست؟](./Images/ErpRoleInOrganizations.webp)
+
 برنامه ریزی منابع سازمانی (Enterprise Resource Planning) به مجموعه‌ای از نرم افزارها و فرآیندهای کسب و کار اطلاق می‌شود که در سازمان‌ها به‌منظور مدیریت و هماهنگ‌سازی فعالیت‌ها و منابع مختلف، استفاده می‌شود. 
 
 در واقع، سیستم ERP به عنوان یک مرکز کنترل و مدیریت جامع برای تمامی فعالیت‌ها و منابع سازمان عمل می‌کند و اطلاعات مربوط به این فعالیت‌ها را در یک پایگاه داده مشترک ذخیره و به‌روزرسانی می‌کند.
 
-![تعریف ERP چیست؟](./Images/ErpRoleInOrganizations.webp)
-
 ## نقش و تاثیر سیستم ERP در سازمان ها
+
+![تاثیر ERP در سازمان ها چیست؟](./Images/TheImpactOfErpInOrganizations.webp)
 
 نقش ERP در سازمان‌ها به عنوان یک سیستم مدیریت جامع تمامی فعالیت‌های سازمان، از جمله <a href="https://www.hooshkar.com/Software/Sayan
 " target="_blank">مالی</a>، <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting

@@ -2,7 +2,7 @@
 title: لجستیک چیست و چه تاثیری در توسعه کسب و کار شما دارد؟
 author: سمانه رشوند - فربد وزیرمختار
 description: لجستیک، رکن حیاتی مدیریت زنجیره تأمین، فراتر از انتقال ساده کالاهاست. این مقاله انواع لجستیک، مزایای کلیدی و عناصر اصلی آن را بررسی کرده و تأثیر آن بر کارایی و سودآوری کسب‌وکارها را تشریح می‌کند.
-dateModified: 2024/11/07
+dateModified: 2025/02/23
 datePublished: 2024/08/28
 uid: Business/WhatIsLogisticsAndHowDoesItAffectYourBusinessDevelopment
 ---

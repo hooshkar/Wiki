@@ -2,7 +2,7 @@
 title: نقش کلیدی انباردار در مدیریت انبار و زنجیره تامین
 author: سمانه رشوند
 description: نقش انباردار در حفظ کارایی عملیات انبار و بهره‌وری در مدیریت موجودی انبار بسیار حیاتی است و تاثیر مستقیمی بر روی هزینه‌ها و کیفیت خدمات سازمان دارد
-dateModified: 2024/06/18
+dateModified: 2025/02/24
 datePublished: 2023/10/09
 uid: Business/WhatIsRoleAccountantWarehouse
 ---
@@ -18,8 +18,6 @@ uid: Business/WhatIsRoleAccountantWarehouse
 
 </blockquote>
 
-![سربرنامه تولید (MPS)](./Images/RoleAccountantWarehouse.webp)
-
 ## انباردار کیست؟
 
 انباردار یک شخص یا کارمند در سازمان یا شرکت است که مسئولیت مدیریت و کنترل فعالیت‌های انبار و موجودی کالاها را بر عهده دارد.
@@ -28,6 +26,8 @@ uid: Business/WhatIsRoleAccountantWarehouse
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری</a> سایان</strong></p></blockquote>
 
 ## وظایف انباردار چیست؟
+
+![وظایف انباردار چیست؟](./Images/RoleAccountantWarehouse.webp)
 
 **1. مدیریت موجودی انبار:** انباردار مسئولیت نظارت بر موجودی کالاها و مواد اولیه در انبار را دارد. این شامل ثبت ورود و خروج کالاها، بررسی موجودی‌ها و رصد تغییرات موجودی می‌شود.
 
@@ -53,7 +53,7 @@ uid: Business/WhatIsRoleAccountantWarehouse
 
 ### مسئولیت‌های حیاتی انباردار در عملکرد کسب و کارهای مختلف
 
-![ویژگی های انتخاب بهترین نرم افزار انبارداری چیست؟](./Images/DutiesStorekeepersDifferentBusinesses.webp)
+![مسئولیت‌های حیاتی انباردار در عملکرد کسب و کارهای مختلف](./Images/DutiesStorekeepersDifferentBusinesses.webp)
 
 وظایف انباردار در کسب و کارهای مختلف متفاوت و بستگی به نوع کسب و کار، نوع مواد نگهداری شده در انبار و فرآیندهای مرتبط با آن دارد. در زیر به برخی از  وظایف انباردار در برخی از صنایع مختلف اشاره می‌کنم:
 
