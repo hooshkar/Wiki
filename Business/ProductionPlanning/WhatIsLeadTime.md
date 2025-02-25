@@ -2,7 +2,7 @@
 title: lead time چیست؟
 author: سمانه رشوند
 description: lead time به مدت زمانی اشاره دارد که از زمان درخواست یک محصول یا خدمت توسط مشتری تا زمان تحویل نهایی آن به مشتری می‌گذرد
-dateModified: 2024/03/10
+dateModified: 2025/02/25
 datePublished: 2023/08/28
 uid: Business/ProductionPlanning/WhatIsLeadTime
 ---

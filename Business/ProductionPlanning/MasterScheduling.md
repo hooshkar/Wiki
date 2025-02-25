@@ -2,7 +2,7 @@
 title: MPS (زمان بندی اصلی) چیست؟
 author: سمانه رشوند
 description: زمان بندی اصلی پایه برنامه ریزی کوتاه مدت است که آن را به عنوان قلب برنامه ریزی تولید و کنترل موجودی می شناسند. کار اصلی آن ایجاد ارتباط بین برنامه ریزی میان مدت و کوتاه مدت می باشد.
-dateModified: 2024/09/24
+dateModified: 2025/02/25
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/MasterScheduling
 ---
@@ -24,11 +24,12 @@ uid: Business/ProductionPlanning/MasterScheduling
 </blockquote>
 
 ## برنامه ریزی تولید ادغامی چیست؟
+
+![برنامه ریزی ادغامی (Aggregate Planning)](./Images/AggregatePlanning.webp)
+
 به برنامه اصلی هر شرکت برای تولید محصول Aggregate Planning گفته می شود.
 
 در برنامه ریزی ادغامی (Aggregate Planning) به ازای هر یک از محصولات یک برنامه تولید میان مدت بصورت ماهیانه ایجاد می شود.
-
-![برنامه ریزی ادغامی (Aggregate Planning)](./Images/AggregatePlanning.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار تولیدی</a> سایان</p></strong></blockquote>

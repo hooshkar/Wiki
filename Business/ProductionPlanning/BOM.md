@@ -2,7 +2,7 @@
 title: BOM چیست؟
 author: سمانه رشوند
 description: ساختار محصول یا BOM، لیست اجزای مونتاژ یا دستور تولید (در فرایند صنایع تولید) نامیده می‌شود
-dateModified: 2024/03/10
+dateModified: 2025/02/25
 datePublished: 2023/02/14
 uid: Business/ProductionPlanning/BOM
 ---

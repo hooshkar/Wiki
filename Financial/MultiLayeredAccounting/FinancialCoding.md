@@ -2,7 +2,7 @@
 title: کدینگ حسابداری چیست؟ انواع کدینگ حسابداری
 author: سمانه رشوند  
 description: کدینگ در معنای لغوی یعنی شماره گذاری که ترکیب آن با حسابداری یعنی حساب ها در حسابداری را کدگذاری نماییم، در یک تعریف ساده، یک نوع از دسته بندی حساب ها در حسابداری به شمار می رود.
-dateModified: 2025/02/19
+dateModified: 2025/02/25
 datePublished: 2022/07/19 
 uid: Financial/MultiLayeredAccounting/FinancialCoding  
 ---
@@ -50,6 +50,9 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 4. فرایند کدینگ، تحلیل و بررسی های مالی جهت سرمایه گذاری یا محاسبه میزان دارایی ها را تسهیل می بخشد که موجب بهبود قدرت در تصمیم گیری برای تصمیم گیرندگان درون سازمانی و برون سازمانی می گردد.
 
 ## انواع کدینگ حسابداری
+
+![انواع کدینگ حسابداری](./Images/TypesOfAccountingCoding.webp)
+
 کدینگ حسابداری امری تخصصی به شمار می آید که باید توسط حسابداران متخصص و مدیران مالی با تجربه انجام شود تا بتواند از بروز مشکلات مالی و حسابداری واحدهای اقتصادی جلوگیری نماید.
 
 - کدینگ حسابداری توده ای
@@ -57,8 +60,6 @@ uid: Financial/MultiLayeredAccounting/FinancialCoding
 - کدینگ حسابداری متوالی
 - کدینگ حسابداری حفظی
 - کدینگ حسابداری وجهی
-
-![انواع کدینگ حسابداری](./Images/TypesOfAccountingCoding.webp)
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
