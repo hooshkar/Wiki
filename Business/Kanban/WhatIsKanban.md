@@ -2,7 +2,7 @@
 title: کانبان چیست؟
 author: سمانه رشوند
 description: کانبان (Kanban) یک روش بصری مدیریت کار است که ریشه در تولید ناب (Lean Manufacturing) دارد و برای بهبود بهره‌وری، جریان کاری و کاهش اتلاف منابع طراحی شده است.
-dateModified: 2024/12/10
+dateModified: 2025/02/26
 datePublished: 2022/11/19
 uid: Business/Kanban/WhatIsKanban
 ---
@@ -42,9 +42,9 @@ uid: Business/Kanban/WhatIsKanban
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار کانبان</a> (داشبورد مدیریتی)</p></strong></blockquote>
 
-![بررسی مفهوم کانبان](./Images/ExploringTheConceptOfKanban.webp)
-
 ## تعریف کانبان
+
+![بررسی مفهوم کانبان](./Images/ExploringTheConceptOfKanban.webp)
 
 کانبان (Kanban) یک روش بصری مدیریت کار است که ریشه در تولید ناب (Lean Manufacturing) دارد و برای بهبود بهره‌وری، جریان کاری و کاهش اتلاف منابع طراحی شده است. 
 در واقع کانبان نشان می دهد یک پروژه، یک عملیات، یک وظیفه در چه مرحله ای قرار دارد؟
@@ -195,11 +195,11 @@ uid: Business/Kanban/WhatIsKanban
 
 ## معایب کانبان چیست؟
 
+![کانبان چه معایبی دارد؟](./Images/DisadvantagesKanban.webp)
+
 معایبی که برای کانبان بیان می‌شود به دلیل پیاده سازی و مدیریت اشتباه و یا عدم بروزرسانی تخته کانبان می‌باشد.
 
 اما مشکل اصلی مشخص نبودن زمان اجرای فعالیت‌هاست، چراکه ستون‌های در نظر گرفته شده بر اساس فاز فرایندها در نظر گرفته شده که نمی‌توانید بفهمید مثلا فاز To Do چقد زمان جهت اجرا و اتمام نیاز دارد تا فازهای بعدی را برنامه ریزی نمایید.
-
-![کانبان چه معایبی دارد؟](./Images/DisadvantagesKanban.webp)
 
 ### کاربردهای کانبان
 

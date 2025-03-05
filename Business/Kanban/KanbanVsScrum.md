@@ -2,7 +2,7 @@
 title: تفاوت کانبان و اسکرام
 author: سمانه رشوند
 description: کانبان و اسکرام هر دو از فریمورک‌های مدیریت پروژه هستند اما کدام یک کارآمدتر است؟
-dateModified: 2024/06/24
+dateModified: 2025/02/25
 datePublished: 2022/11/19
 uid: Business/Kanban/KanbanVsScrum
 ---

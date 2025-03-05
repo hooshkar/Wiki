@@ -2,7 +2,7 @@
 title: تفاوت ERP با حسابداری چیست؟
 author: سمانه رشوند
 description: تفاوت‌های اساسی ERP و سیستم‌های حسابداری را بشناسید. از محدوده عملکرد تا یکپارچه‌سازی داده‌ها و تصمیم‌گیری استراتژیک، دریابید چرا ERP فراتر از حسابداری سنتی عمل می‌کند و چگونه می‌تواند کسب‌وکار شما را متحول سازد.
-dateModified: 2024/06/24
+dateModified: 2025/02/26
 datePublished: 2022/11/27
 uid: Business/ErpVsAccounting/ErpVsAccounting
 ---
@@ -17,9 +17,9 @@ uid: Business/ErpVsAccounting/ErpVsAccounting
 
 هرچه سازمانی بزرگتر شود جهت یکپارچه سازی و مدیریت جامع تر در راستای عملکرد بهتر نیازمند استفاده از سیستم های ERP می باشد.
 
-![تفاوت ERP و حسابداری](./Images/ErpVsAccounting.webp)
-
 ## تفاوت ERP و حسابداری در چیست؟
+
+![تفاوت ERP و حسابداری](./Images/ErpVsAccounting.webp)
 
 ### 1. ساختار
 

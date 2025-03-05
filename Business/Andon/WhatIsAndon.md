@@ -2,7 +2,7 @@
 title: آندون (Andon) چیست؟
 author: سمانه رشوند
 description: اندون، سیستم هشدار بصری-صوتی پیشرفته‌ای است که توسط شرکت تویوتا برای بهبود کیفیت تولید ابداع شد. تابلوی آندون شامل چراغ هایی با رنگ سبز، زرد و قرمز است.
-dateModified: 2024/06/26
+dateModified: 2025/02/05
 datePublished: 2022/11/20
 uid: Business/Andon/WhatIsAndon
 ---
