@@ -32,7 +32,7 @@ uid: Business/TypesCrmSystems
 </details>
 </blockquote>
 
-در این مقاله به بررسی مفهوم <a href="https://www.hooshkar.com/Wiki/Business/WhatIsCrm" target="_blank">CRM</a>، انواع و کاربردهای آن، مزایا و نکات مهم در انتخاب و پیاده‌سازی سیستم CRM می‌پردازیم. امید است مطالعه این متن به درک بهتری از این موضوع مهم کمک کند.
+در این مقاله به بررسی مفهوم CRM، انواع و کاربردهای آن، مزایا و نکات مهم در انتخاب و پیاده‌سازی سیستم CRM می‌پردازیم. امید است مطالعه این متن به درک بهتری از این موضوع مهم کمک کند.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">نرم افزار CRM ایرانی </a>فِنِک</p></strong></blockquote>
