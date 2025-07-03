@@ -150,9 +150,6 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 2. آیا نیاز به امکاناتی مثل <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">انبار</a>، <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">حقوق و دستمزد</a> یا تولید دارم؟
 3. پشتیبانی و امنیت برایم چقدر اهمیت دارد؟
 
-
-
-
 **اگر هنوز تردید دارید، می‌توانید از نسخه دمو یا مشاوره رایگان شرکت‌های فروشنده استفاده کنید.**
 
 ### جمع‌بندی
