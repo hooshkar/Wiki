@@ -50,13 +50,17 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 
 <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری سایان</a> از محصولات شرکت <a href="https://www.hooshkar.com" target="_blank">هوشکار پرداز</a> است که به‌صورت جامع در حوزه‌های فروشگاهی، شرکتی، <a href="https://www.hooshkar.com/Software/Sayan/Package/Services" target="_blank">خدماتی</a> و <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">تولیدی</a> طراحی شده است.
 
-**حسابداری فروشگاهی:** صدور سریع فاکتور، صندوق فروشگاهی، اتصال به بارکدخوان و پرینتر فیش.
+**حسابداری فروشگاهی:** صدور سریع فاکتور، صندوق فروشگاهی، <a href="https://www.hooshkar.com/Software/Sayan/Module/BarcodeReader" target="_blank">اتصال به بارکدخوان</a> و پرینتر فیش.
 
-**حسابداری شرکتی:** دفتر کل، معین، تفضیلی، تراز آزمایشی، سود و زیان.
+**حسابداری شرکتی:** دفتر کل، معین، <a href="https://www.hooshkar.com/Wiki/Accounting/DetailedAccount" target="_blank">تفصیلی</a>، تراز آزمایشی، سود و زیان.
 
 **حسابداری خدماتی:** مدیریت قرارداد، پیگیری هزینه، چک و ضمیمه.
 
-**حسابداری تولیدی:** ثبت BOM، کنترل مواد اولیه، تولید محصول نهایی.
+**حسابداری تولیدی:** ثبت <a href="https://www.hooshkar.com/Wiki/Production/BOM" target="_blank">BOM</a>، کنترل مواد اولیه، تولید محصول نهایی، <a href="https://www.hooshkar.com/Software/Sayan/Module/IndustrialScale" target="_blank">ترازوی تولیدی</a> 
+
+
+
+
 
 ### امکانات کلیدی نرم افزار حسابداری سایان
 
