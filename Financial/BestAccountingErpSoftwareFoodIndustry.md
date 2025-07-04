@@ -7,7 +7,7 @@ datePublished: 2025/07/04
 uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote style="; padding:0.5rem">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -18,7 +18,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
       <li>تولید و BOM چندمرحله‌ای</li>
       <li>پخش مویرگی و فروش منطقه‌ای</li>
     </ul>
-    <li>معرفی نرم‌افزار ERP سایان</li>
+    <li>معرفی نرم افزار حسابداری سایان ویژه صنایع غذایی</li>
     <ul>
       <li>ویژگی‌ها و مزایای کلیدی سایان</li>
       <li>مقایسه با رقبا (داخلی و خارجی)</li>
@@ -26,7 +26,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
     <li>نرم‌افزارهای مطرح جهانی برای صنعت غذا</li>
     <li>رقبای داخلی سایان در صنعت غذایی ایران</li>
     <li>پرسش‌های متداول درباره نرم‌افزار حسابداری صنایع غذایی</li>
-    <li>جمع‌بندی و پیشنهاد نهایی متناسب با نوع کسب‌وکار</li>
+    <li>جمع‌بندی</li>
   </ul>
 </details>
 </blockquote>
