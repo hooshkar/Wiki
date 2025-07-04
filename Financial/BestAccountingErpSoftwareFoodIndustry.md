@@ -7,7 +7,7 @@ datePublished: 2025/07/04
 uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 ---
 
-<blockquote style="; padding:0.5rem">
+<blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
