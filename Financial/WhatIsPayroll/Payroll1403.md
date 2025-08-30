@@ -63,7 +63,7 @@ uid: Financial/WhatIsPayroll/Payroll1403
 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1401" target="_blank">حقوق وزارت کار 1402؛ جدول پایه حقوق اداره کار
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1404" target="_blank">حقوق وزارت کار 1404؛ جدول پایه حقوق اداره کار
 </a></p></strong></blockquote>
 
 -----

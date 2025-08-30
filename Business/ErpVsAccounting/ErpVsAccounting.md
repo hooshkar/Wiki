@@ -7,7 +7,7 @@ datePublished: 2022/11/27
 uid: Business/ErpVsAccounting/ErpVsAccounting
 ---
 
-نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان، برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">حقوق و دستمزد</a>، <a href="https://www.hooshkar.com/Wiki/Business/WhatIsCrm" target="_blank">CRM (مدیریت ارتباط با مشتری)</a>، <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید</a>، اجرای سفارشات، صورتحساب ها و… می باشد.
+نرم افزار حسابداری یک زیر سیستم از ERP محسوب می شود. در واقع اساسی ترین کاربرد نرم افزار ERP در سازمان، برنامه ریزی منابع انسانی (HRP)، ردیابی دارایی ها، زنجیره تامین، <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">حقوق و دستمزد</a>، <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank">CRM (مدیریت ارتباط با مشتری)</a>، <a href="https://www.hooshkar.com/Wiki/Production/ProductionPlanning" target="_blank">برنامه ریزی تولید</a>، اجرای سفارشات، صورتحساب ها و… می باشد.
 
 سیستم ERP به جهت یکپارچه سازی سازمان ها به کار گرفته می شود که قادر است تمام داده ها و اطلاعاتی که از حال و آینده سازمان مورد نیاز است را مهیا نماید.
 
