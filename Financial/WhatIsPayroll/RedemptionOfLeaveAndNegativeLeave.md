@@ -1,8 +1,8 @@
 ---
 title: مفهوم مرخصی منفی و بازخرید مرخصی در قانون کار
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: 
-dateModified: 2025/02/17
+dateModified: 2025/09/02
 datePublished: 2024/05/08
 uid: Financial/WhatIsPayroll/RedemptionOfLeaveAndNegativeleave
 ---
@@ -39,7 +39,6 @@ uid: Financial/WhatIsPayroll/RedemptionOfLeaveAndNegativeleave
 بازخرید مرخصی به معنای دریافت مبلغ در ازای مانده مرخصی است.
 
 در واقع اگر مرخصی های استحقاقی کارگری در پایان سال بیش از 9 روز باشد طبق توافق کارفرما مبلغ آن محاسبه و به حساب کارگر واریز خواهد شد.
-
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/TheFormulaForCalculatingTheLeaveBalance" target="_blank">فرمول محاسبه مانده مرخصی</a></p></strong></blockquote>

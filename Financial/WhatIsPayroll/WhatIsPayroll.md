@@ -1,14 +1,13 @@
 ---
 title: حقوق و دستمزد چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: حقوق و دستمزد مبلغی است که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می کنند.
-dateModified: 2025/02/17
+dateModified: 2025/09/02
 datePublished: 2022/07/31 
 uid: Financial/WhatIsPayroll/WhatIsPayroll
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -19,7 +18,6 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
     <li>لیست حقوق چیست؟</li>
   </ul>
 </details>
-
 </blockquote>
 
  حقوق و دستمزد یکی از مهمترین مزایای کارمندان و کارگران است که باید بر اساس قوانین کار و توافقنامه‌های موجود محاسبه و پرداخت شود. 

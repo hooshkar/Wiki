@@ -1,14 +1,13 @@
 ---
 title: آشنایی با انواع ثبتهای حسابداری صنعتی
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: ثبتهای حسابداری صنعتی شامل ثبت تراکنش های مالی شرکت، دریافت و پرداخت وجه، خرید و فروش کالاها، پرداخت حقوق کارکنان و همچنین ارائه گزارشات مالی به مدیران و سایر صاحبان سهام می‌باشد.
-dateModified: 2025/02/11
+dateModified: 2025/09/02
 datePublished: 2024/01/01
 uid: Financial/IndustrialAccountingRecords
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -32,7 +31,6 @@ uid: Financial/IndustrialAccountingRecords
     <li>برخی از نکات مهم در ثبت های حسابداری صنعتی</li>
   </ul>
 </details>
-
 </blockquote>
 
 <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی</a> به عنوان یکی از ستون‌های اساسی مدیریت مالی شرکت‌ها به ما اجازه می‌دهد تا با دقت و صحت به پردازش اطلاعات مالی بپردازیم. 
@@ -138,7 +136,6 @@ uid: Financial/IndustrialAccountingRecords
 ## در ثبت های حسابداری صنعتی به چه مواردی باید توجه کرد؟
 
 ![نکات قابل توجه در ثبتهای حسابداری](./Images/IndustrialAccountingRecords-03.webp)
-
 
 **1. صحت دقیق تراکنش های مالی:** تمامی تراکنش‌های مالی باید به دقت و با جزییات کاملی ثبت شوند تا گزارش‌های مالی به صورت صحیح تهیه شوند.
 

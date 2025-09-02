@@ -1,8 +1,8 @@
 ---
 title: مدت زمان مرخصی زایمان چقدر است؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: این مقاله درباره مرخصی زایمان برای زنان شاغل در نظام تامین اجتماعی است و به موضوعاتی مانند طول مدت مرخصی، مدارک لازم، زمان درخواست، کمک هزینه بارداری و بازگشت به کار پس از پایان مرخصی می پردازد.
-dateModified: 2025/02/17
+dateModified: 2025/09/02
 datePublished: 2024/05/20
 uid: Financial/WhatIsPayroll/MaternityLeaveLaw
 ---
@@ -67,7 +67,6 @@ uid: Financial/WhatIsPayroll/MaternityLeaveLaw
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>منبع: <a href="https://khadamat.mardom.ir/Service/Details?ServiceId=19041805103&&OrgId=20140000" target="_blank">پرداخت کمک هزینه بارداری برای بیمه شده تامین اجتماعی</a></p></strong></blockquote>
-
 
 ### بررسی شرایط بازگشت به کار پس از پایان مرخصی زایمان
 

@@ -1,8 +1,8 @@
 ---
 title: حسابداری چیست؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: هدف اصلی حسابداری شامل جمع آوری، محاسبه، ثبت، گزارش‌دهی و تفسیر اطلاعات مالی (از جمله ترازنامه، صورت سود و زیان و گزارش‌ مالی دوره‌های مالی مختلف) است تا تصمیم‌گیری‌های مدیران و صاحبان سهام بر اساس این اطلاعات انجام شود.
-dateModified: 2025/02/15
+dateModified: 2025/09/02
 datePublished: 2023/04/13
 uid: Financial/WhatIsAccounting
 ---
@@ -25,7 +25,6 @@ uid: Financial/WhatIsAccounting
     <li>راهکارهای موثر برای مدیریت حسابداری</li>
   </ul>
   </details>
-
 </blockquote>
 
 <style>.h_iframe-aparat_embed_frame{position:relative;margin:1rem 0;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}

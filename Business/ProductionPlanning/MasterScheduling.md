@@ -1,14 +1,13 @@
 ---
 title: MPS (زمان بندی اصلی) چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: زمان بندی اصلی پایه برنامه ریزی کوتاه مدت است که آن را به عنوان قلب برنامه ریزی تولید و کنترل موجودی می شناسند. کار اصلی آن ایجاد ارتباط بین برنامه ریزی میان مدت و کوتاه مدت می باشد.
-dateModified: 2025/02/25
+dateModified: 2025/09/02
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/MasterScheduling
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>
@@ -20,7 +19,6 @@ uid: Business/ProductionPlanning/MasterScheduling
     <li>برنامه ریزی ظرفیت سر انگشتی RCCP (Rough Cut Capacity Planning)</li>
   </ul>
 </details>
-
 </blockquote>
 
 ## برنامه ریزی تولید ادغامی چیست؟
@@ -33,7 +31,6 @@ uid: Business/ProductionPlanning/MasterScheduling
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار تولیدی</a> سایان</p></strong></blockquote>
-
 
 ### تفاوت سربرنامه تولید با MPS چیست؟
 
@@ -76,7 +73,6 @@ MPS به‌طور معمول به‌طور هفتگی یا ماهانه تنظی
 *   **سیاست بهر ثابت (LfB):** در هر بار اقدام برای تولید، به اندازه دسته اقتصادی تولید یا ضریبی از آن تولید انجام می شود.
 
 عاملی که باعث اختلاف بین این دو می شود تا یکی از این سیاست ها را انتخاب نماییم هزینه راه اندازی ماشین آلات و تجهیزات می باشد.
-
 
 ## برنامه ریزی ظرفیت سر انگشتی RCCP (Rough Cut Capacity Planning)
 ترکیب کردن ظرفیت ها، محدودیت ها و منابع کلیدی موجودی سازمان با برنامه اصلی تولید (MPS اولیه) به منظور نهایی نمودن آن است.

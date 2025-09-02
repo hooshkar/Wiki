@@ -2,7 +2,7 @@
 title: VoIP چیست؟ چرا VoIP بهترین انتخاب برای کسب‌وکارهاست؟
 author: تیم تحریریه هوشکار
 description: VoIP (Voice over Internet Protocol) یک فناوری پیشرفته است که امکان انتقال صدا و محتوای چندرسانه‌ای از طریق اینترنت را فراهم می‌کند. در این مقاله، با انواع VoIP، مزایا، معایب و دلایل محبوبیت آن آشنا شوید 
-dateModified: 2025/08/31
+dateModified: 2025/09/02
 datePublished: 2024/09/23
 uid: It/WhatIsVoipServiceAndHowDoesItWork
 ---

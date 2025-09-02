@@ -1,14 +1,13 @@
 ---
 title: صفر تا صد قانون مالیات بر ارث
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: مالیات بر ارث، مالیاتی است که بر اساس ارزش دارایی‌ها و اموال به ارث رسیده از فرد متوفی تعیین می‌شود. این مالیات شامل قوانین و مقررات خاصی است که نحوه محاسبه و پرداخت آن را مشخص می‌کند. برای کسب اطلاعات بیشتر درباره نرخ‌ها، معافیت‌ها و مراحل پرداخت، این مطلب را مطالعه کنید.
-dateModified: 2025/02/25
+dateModified: 2025/09/02
 datePublished: 2024/08/26
 uid: Financial/WhatIsInheritanceTax
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -21,7 +20,6 @@ uid: Financial/WhatIsInheritanceTax
     <li>موارد معاف از مالیات بر ارث کدامند؟</li>
   </ul>
 </details>
-
 </blockquote>
 
 مالیات بر ارث یکی از موضوعات مهم و پیچیده در حوزه مالیات‌های مستقیم است که وراث پس از فوت متوفی با آن مواجه می شوند. این مالیات بر اساس ارزش دارایی‌ها و اموال به‌جا مانده از متوفی محاسبه می گردد که باید طبق قوانین مشخص به سازمان امور مالیاتی پرداخت شود.
@@ -31,7 +29,6 @@ uid: Financial/WhatIsInheritanceTax
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان
 </a> سایان</strong></p></blockquote>
-
 
 ## مالیات بر ارث چیست؟
 

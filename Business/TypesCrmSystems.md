@@ -1,14 +1,13 @@
 ---
 title: با انواع مختلف CRM آشنا شوید
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: انواع CRM و ویژگی‌های هر کدام به همراه مزایای CRM مانند افزایش درآمد، بهبود خدمات و تصمیم‌گیری بهتر نیز بررسی می شود.
-dateModified: 2025/02/22
+dateModified: 2025/09/02
 datePublished: 2024/01/06
 uid: Business/TypesCrmSystems
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>

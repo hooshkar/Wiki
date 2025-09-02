@@ -1,8 +1,8 @@
 ---
 title: نقش سیستم‌های مدیریت محتوا (CMS) در ساده‌سازی و بهینه‌سازی مدیریت وب‌سایت‌ها
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: سیستم‌های مدیریت محتوا (CMS) ابزارهایی قدرتمند برای ایجاد و مدیریت وب‌سایت‌ها هستند که بدون نیاز به دانش فنی، فرآیند طراحی و ویرایش را ساده می‌کنند.
-dateModified: 2025/02/01
+dateModified: 2025/09/02
 datePublished: 2024/08/01
 uid: It/WhatIsAContentManagementSystem(CMS)
 ---
@@ -10,7 +10,6 @@ uid: It/WhatIsAContentManagementSystem(CMS)
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
-
   <ul>
       <li>سیستم مدیریت محتوا (CMS) چیست؟</li>
       <li>سیستم‌های مدیریت محتوا از دو بخش اصلی تشکیل شده‌اند</li>

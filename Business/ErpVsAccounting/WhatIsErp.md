@@ -1,8 +1,8 @@
 ---
 title: erp چیست و چه کاربردهایی دارد؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: ERP یا برنامه‌ریزی منابع سازمان (Enterprise Resource Planning) یک سیستم نرم‌افزاری است که به کسب‌وکارها کمک می‌کند تا فرآیندهای مختلف خود مانند حسابداری، منابع انسانی، تولید و زنجیره تأمین را در یک پلتفرم یکپارچه مدیریت و خودکارسازی کنند.
-dateModified: 2024/10/12
+dateModified: 2024/09/02
 datePublished: 2022/12/04
 uid: Business/ErpVsAccounting/WhatIsErp
 ---
@@ -33,7 +33,6 @@ uid: Business/ErpVsAccounting/WhatIsErp
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">نرم افزار ERP ایرانی</a> فنک</p></strong></blockquote>
 
-
 ## تاریخچه ERP
 
 ![تاریخچه ERP](./Images/HistoryOfErp.webp)
@@ -54,8 +53,6 @@ ERP مخفف Enterprise Resource Planning یا به فارسی برنامه‌ر
 سیستم‌های ERP امروزی چیزی بیشتر از پایه هستند و شباهت کمی به ERP دهه‌های پیش دارند. آنها اکنون از طریق پلتفرم های ابری ارائه می شوند و از جدیدترین فناوری ها مانند <a href="https://www.hooshkar.com/Wiki/InformationTechnology/ArtificialIntelligence" target="_blank">هوش مصنوعی (AI)</a> و یادگیری ماشینی برای ارائه اتوماسیون هوشمند، کارایی بیشتر و بینش فوری در سراسر تجارت استفاده می کنند. 
 
 نرم‌افزار ERP ابری همچنین عملیات داخلی را با شرکای تجاری و شبکه‌های سراسر جهان مرتبط می‌کند و به شرکت‌ها همکاری، چابکی و سرعت لازم برای رقابت امروزی را می‌دهد.
-
-
 
 ### برنامه ریزی منابع سازمانی (ERP) چیست؟
 
@@ -103,7 +100,6 @@ ERP مخفف Enterprise Resource Planning یا به فارسی برنامه‌ر
 
 بنابراین اهمیت ERP برای کسب‌وکارها بسیار زیاد است و پیش‌بینی می‌شود بازار جهانی آن تا سال 2026 به 78 میلیارد دلار برسد.
 
-
 ### مزایای استفاده از ERP در سازمان ها
 
 ![مزایای استفاده از ERP در سازمان‌ها](./Images/AdvantagesUsingErpOrganizations.webp)
@@ -138,7 +134,6 @@ ERP مخفف Enterprise Resource Planning یا به فارسی برنامه‌ر
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Software/Fennec/Module/CRM" target="_blank"> با انواع مختلف CRM </a>آشنا شوید</p></strong></blockquote>
-
 
 **15. افزایش فروش و رشد سازمان:** با بهبود فرآیندها و توسعه کسب‌وکار، سازمان می‌تواند فروش خود را افزایش دهد و رشد کند.
 

@@ -1,8 +1,8 @@
 ---
 title: کوبرنتیز چیست؟ بررسی ویژگی‌ها، کاربردها و مزایا
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: کوبرنتیز (Kubernetes) یا به اختصار"K8s"، یک پلتفرم مدیریت کانتینری است که توسط Google توسعه داده شده است
-dateModified: 2025/02/02
+dateModified: 2025/09/02
 datePublished: 2023/04/13
 uid: It/WhatIsKubernetes
 ---
@@ -16,8 +16,6 @@ uid: It/WhatIsKubernetes
   </ul>
 </details>
 </blockquote>
-
-
 
 !["Kubernetes"](./Images/Kubernetes.webp)
 

@@ -1,8 +1,8 @@
 ---
 title: اجرا و استفاده سامانه مودیان در شهرداری ها
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: شهرداری ها به عنوان یکی از سازمان‌های بزرگ، با گردش مالی فراوان، موظف به پیوستن به سامانه مودیان هستند. شرکت هوشکار با هدف افزایش آگاهی از الزامات، قوانین، و مقررات مربوطه و ایجاد شفافیت بیشتر جهت بهبود عملکرد و استفاده بهینه از سامانه مؤدیان، مقاله‌ای تخصصی تدوین کرده است.
-dateModified: 2025/02/19
+dateModified: 2025/09/02
 datePublished: 2023/11/06
 uid: Financial/TaxGov
 ---
@@ -60,7 +60,6 @@ uid: Financial/TaxGov
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TaxPayersSystemUpdate" target="_blank">مهلت ارسال صورتحساب در سامانه مودیان
 </a></p></strong></blockquote>
-
 
 ## تعریف شماره منحصر به فرد مالیاتی
 

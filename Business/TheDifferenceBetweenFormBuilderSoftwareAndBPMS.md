@@ -1,14 +1,13 @@
 ---
 title: تفاوت BPMS و  فرم ساز
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: فرم ساز و BPMS (سیستم مدیریت فرآیندهای کسب و کار) دو ابزار متفاوت برای مدیریت اطلاعات و فرآیندها هستند. فرم سازها بر ایجاد و مدیریت فرم های الکترونیکی تمرکز دارند، در حالی که BPMS برای مدیریت و بهینه سازی کل فرآیندهای کسب و کار طراحی شده است. BPMS علاوه بر ایجاد فرم، قابلیت اتوماسیون گردش کار، نظارت بر فرآیندها و تحلیل داده ها را نیز ارائه می دهد.
-dateModified: 2025/02/22
+dateModified: 2025/09/02
 datePublished: 2024/06/19
 uid: Business/TheDifferenceBetweenFormBuilderSoftwareAndBPMS
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>

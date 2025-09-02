@@ -1,8 +1,8 @@
 ---
 title: حق تاهل و جزییات عائله مندی در سال 1403
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: حق تاهل مبلغی معادل 500 هزارتومان در ماه است که از سال 1403 برای کارگران متاهل تصویب شده و واریز می گردد.
-dateModified: 2025/02/17
+dateModified: 2025/09/02
 datePublished: 2024/05/26
 uid: Financial/WhatIsPayroll/TheRightToMarry
 ---
@@ -17,13 +17,11 @@ uid: Financial/WhatIsPayroll/TheRightToMarry
 </details>
 </blockquote>
 
-
 حق تاهل به عنوان یکی از مزایای جدید در سال ۱۴۰۳ محسوب می شود که به حقوق کارگران متاهل اضافه گردیده است.
 در این مقاله، به بررسی مفهوم حق تاهل، جزییات عائله مندی می پردازیم.
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
-
 
 ## جزییات حق تاهل
 

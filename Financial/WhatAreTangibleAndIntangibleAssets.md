@@ -1,8 +1,8 @@
 ---
 title: دارایی مشهود و نامشهود چیست؟ و تفاوت‌ بین آن‌ها
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: تفاوت دارایی‌های مشهود و نامشهود در ماهیت فیزیکی آنهاست؛ دارایی‌های مشهود مانند زمین و ماشین‌آلات فیزیکی و قابل لمس هستند، در حالی که دارایی‌های نامشهود شامل علامت تجاری و حق امتیاز، غیرقابل لمس و ارزشمندند.
-dateModified: 2025/02/15
+dateModified: 2025/09/02
 datePublished: 2024/08/01
 uid: Financial/WhatAreTangibleAndIntangibleAssets
 ---
@@ -28,7 +28,6 @@ uid: Financial/WhatAreTangibleAndIntangibleAssets
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Assets" target="_blank">نرم افزار اموال و دارائی ثابت
 </a> سایان</strong></p></blockquote>
-
 
 ## دارایی مشهود (Tangible Asset) چیست؟
 یکی از سؤالاتی که حسابداران با آن مواجه هستند، تفاوت بین دارایی مشهود و نامشهود است. دارایی‌های مشهود دارای ارزش پولی و ماهیت فیزیکی هستند و شامل مواردی می‌شوند که یک شرکت در عملیات خود از آنها استفاده می‌کند و به طور ملموس در دنیای واقعی قابل استفاده‌اند.

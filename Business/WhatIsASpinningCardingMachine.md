@@ -1,8 +1,8 @@
 ---
 title: دستگاه کاردینگ ریسندگی چیست؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: دستگاه کاردینگ در ریسندگی، ماشینی است که برای باز کردن، تمیز کردن و مرتب‌سازی الیاف استفاده می‌شود و اولین مرحله در فرآیند تولید نخ به شمار می‌رود.
-dateModified: 2025/02/22
+dateModified: 2025/09/02
 datePublished: 2024/08/11
 uid: Business/WhatIsASpinningCardingMachine
 ---
@@ -26,7 +26,6 @@ uid: Business/WhatIsASpinningCardingMachine
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Textile" target="_blank">نرم افزار نساجی و رنگرزی</a> سایان</p></strong></blockquote>
-
 
 ## آشنایی با دستگاه کاردینگ
 

@@ -1,8 +1,8 @@
 ---
 title: Takt Time (زمان تکت)
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: تکت تایم فرمولی در ساخت و تولید می باشد، جهت شرح زمان مورد نیاز تولید یک محصول به گونه ای که با تقاضا همخوانی داشته باشد.
-dateModified: 2024/06/24
+dateModified: 2024/09/02
 datePublished: 2022/11/13
 uid: Business/TaktTime/TaktTime
 ---

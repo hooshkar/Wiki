@@ -1,14 +1,13 @@
 ---
 title: برنامه ریزی چیست و انواع آن
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: برنامه ریزی، دنباله‌ای از مراحل است که تولیدکنندگان را قادر می‌سازد تا هوشمندانه کار کرده و روند تولید خود را به بهترین شکل ممکن بهینه نمایند.
-dateModified: 2025/02/25
+dateModified: 2025/09/02
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/Planning
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>
@@ -19,7 +18,6 @@ uid: Business/ProductionPlanning/Planning
     <li>اهداف برنامه ریزی تولید</li>
   </ul>
 </details>
-
 </blockquote>
 
 ## تعریف برنامه ریزی
@@ -39,7 +37,6 @@ uid: Business/ProductionPlanning/Planning
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی و کنترل تولید</a> سایان</p></strong></blockquote>
-
 
 ## مراحل مختلف برنامه ریزی
 
@@ -63,7 +60,6 @@ uid: Business/ProductionPlanning/Planning
 **3. انواع راهبردها:**
  * سازمانی: مربوط به کل سازمان و مسیر حرکتی آن است.
  * عملیاتی: مربوط به هر عملکرد سازمانی و باید پیرو مسیر راهبردهای سازمانی باشند.
-
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Production/ProductionSystems" target="_blank">انواع سیستم های تولیدی

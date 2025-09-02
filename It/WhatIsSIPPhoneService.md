@@ -1,8 +1,8 @@
 ---
 title: سیپ (SIP) چیست و چه کاربردهایی دارد؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: سیپ یا Session Initiation Protocol، یک پروتکل پیشرفته برای برقراری تماس‌های صوتی و تصویری است. در این مقاله با انواع سیپ، تجهیزات موردنیاز و ویژگی‌های خدمات SIP آشنا شوید.
-dateModified: 2025/02/02
+dateModified: 2025/09/02
 datePublished: 2024/09/28
 uid: It/WhatIsSipPhoneService
 ---

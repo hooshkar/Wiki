@@ -1,8 +1,8 @@
 ---
 title: تفاوت کدینگ حسابداری با کدینگ حسابداری صنعتی
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: در این مقاله به بررسی تفاوت‌ها و کاربردهای دو سیستم کدینگ حسابداری و حسابداری صنعتی پرداخته‌ایم. در حسابداری صنعتی، با استفاده از کدهای خاص، اطلاعات دقیق و به‌روز در مورد حساب‌ها فراهم می‌شود که به کنترل دقیق دارایی‌ها کمک می‌کند.
-dateModified: 2025/02/11
+dateModified: 2025/09/02
 datePublished: 2022/12/19
 uid: Financial/IndustrialAccountingCoding
 ---
@@ -26,7 +26,6 @@ uid: Financial/IndustrialAccountingCoding
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری</a> سایان</strong></p></blockquote>
-
 
 ## کدینگ حسابداری صنعتی
 

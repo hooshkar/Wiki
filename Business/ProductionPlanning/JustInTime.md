@@ -1,8 +1,8 @@
 ---
 title: سیستم تولید به هنگام (Just in time) چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: این سیستم دقیقا سیستم تولید MRP است. برنامه ریزی تولید بر مبنای داده هایی نظیر تقاضاهای پیش بینی شده، لیست مواد (Bill of Material)، زمان تدارک (Lead Time) و وضعیت موجودی صورت می گیرد.
-dateModified: 2025/02/25
+dateModified: 2025/09/02
 datePublished: 2022/11/12
 uid: Business/ProductionPlanning/JustInTime
 ---

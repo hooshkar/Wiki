@@ -1,8 +1,8 @@
 ---
 title: کاردکس انبار چیست؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: یکی از ابزارهای مورد استفاده برای مدیریت موجودی و انبارداری، "کارتابل انبار" یا "کاردکس انبار" می‌باشد.
-dateModified: 2025/02/15
+dateModified: 2025/09/02
 datePublished: 2024/04/29
 uid: Financial/WhatIsCardexWarehouse
 ---

@@ -2,7 +2,7 @@
 title: BPMN چیست؟ تفاوت آن با BPM
 author: تیم تحریریه هوشکار
 description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
-dateModified: 2025/08/31
+dateModified: 2025/09/02
 datePublished: 2023/05/03
 uid: Business/WhatIsBpmn
 ---

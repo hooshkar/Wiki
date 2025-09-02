@@ -1,8 +1,8 @@
 ---
 title: نقش کلیدی انباردار در مدیریت انبار و زنجیره تامین
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: نقش انباردار در حفظ کارایی عملیات انبار و بهره‌وری در مدیریت موجودی انبار بسیار حیاتی است و تاثیر مستقیمی بر روی هزینه‌ها و کیفیت خدمات سازمان دارد
-dateModified: 2025/02/24
+dateModified: 2025/09/02
 datePublished: 2023/10/09
 uid: Business/WhatIsRoleAccountantWarehouse
 ---
@@ -15,7 +15,6 @@ uid: Business/WhatIsRoleAccountantWarehouse
     <li>مسئولیت‌های حیاتی انباردار در عملکرد کسب و کارهای مختلف</li>
   </ul>
 </details>
-
 </blockquote>
 
 ## انباردار کیست؟

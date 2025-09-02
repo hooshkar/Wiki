@@ -1,14 +1,13 @@
 ---
 title: آندون (Andon) چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: اندون، سیستم هشدار بصری-صوتی پیشرفته‌ای است که توسط شرکت تویوتا برای بهبود کیفیت تولید ابداع شد. تابلوی آندون شامل چراغ هایی با رنگ سبز، زرد و قرمز است.
-dateModified: 2025/02/05
+dateModified: 2025/09/02
 datePublished: 2022/11/20
 uid: Business/Andon/WhatIsAndon
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -17,7 +16,6 @@ uid: Business/Andon/WhatIsAndon
     <li>آندون چیست؟</li>
   </ul>
 </details>
-
 </blockquote>
 
 ## تفاوت تولید ناب و انبوه
@@ -41,7 +39,6 @@ uid: Business/Andon/WhatIsAndon
 8.  <a href="https://www.hooshkar.com/Wiki/Business/TaktTime" target="_blank">زمان تکت (Takt Time)</a>
 9.	<a href="https://www.hooshkar.com/Wiki/Production/JustInTime" target="_blank">تولید به هنگام (Just-In-Time)</a>
 10.	و...
-
 
 ## آندون چیست؟
 

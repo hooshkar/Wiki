@@ -1,14 +1,13 @@
 ---
 title: هوش مصنوعی چیست و چرا اهمیت دارد؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: آیا می‌خواهید با هوش مصنوعی آشنا شوید؟ در این مقاله، انواع هوش مصنوعی، کاربردها و روش‌های یادگیری ماشین را کشف کنید و ببینید چگونه این تکنولوژی دنیای ما را تغییر می‌دهد.
-dateModified: 2025/02/01
+dateModified: 2025/09/02
 datePublished: 2023/05/28
 uid: It/ArtificialIntelligence
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>

@@ -1,13 +1,12 @@
 ---
 title: اصول حسابداری و انواع آن را نام ببرید
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: اصول حسابداری به مبانی، قواعد، طبقه بندی و گزارش نتایج و معاملات، عملیات مالی و رویدادهای دارای اثر مالی بر یک موسسه می پردازد. این اصول نحوه تعیین سود را مشخص و چگونگی گزارش وضعیت مالی یک موسسه را روشن می کنند.
-dateModified: 2025/02/04
+dateModified: 2025/09/02
 datePublished: 2023/03/07
 uid: Financial/AccountingPrinciples
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -20,7 +19,6 @@ uid: Financial/AccountingPrinciples
     <li>مفروضات حسابداری</li>
   </ul>
 </details>
-
 </blockquote>
 
 اصول حسابداری یکی از مهمترین موضوعات در زمینه <a href="https://www.hooshkar.com/Wiki/Financial/WhatIsAccounting" target="_blank">حسابداری
@@ -52,7 +50,6 @@ uid: Financial/AccountingPrinciples
 2.	اصل بهای تمام‌شده
 3.	اصل تحقق درآمد
 4.	اصل تطابق هزینه‌ها با درآمدها
-
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingJobMarketInIran" target="_blank">بازار کار حسابداری در ایران

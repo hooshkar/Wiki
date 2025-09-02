@@ -1,8 +1,8 @@
 ---
 title: سختی کار چیست؟ (فرمول محاسبه سختی کار)
-author:  سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: سختی کار به مشاغلی اطلاق می‌شود که کارکنان در آنها با عوامل خطرناک فیزیکی، شیمیایی، بیولوژیکی و محیطی مواجه هستند و در معرض آسیب‌های جسمی و روحی بیشتری قرار دارند.
-dateModified: 2025/02/18
+dateModified: 2025/09/02
 datePublished: 2024/04/22
 uid: Financial/WhatIsPayroll/WhatIsTheDifficultyOfWork
 ---
@@ -28,10 +28,8 @@ uid: Financial/WhatIsPayroll/WhatIsTheDifficultyOfWork
 این مقاله به بررسی مفهوم سختی کار و قوانین مرتبط با آن در محیط کار می‌پردازد. سختی کار به مشاغلی اطلاق می‌شود که کارکنان در آنها با عوامل خطرناک فیزیکی، شیمیایی، بیولوژیکی و محیطی مواجه هستند و در معرض آسیب‌های جسمی و روحی بیشتری قرار دارند.
  آشنایی با این قوانین می‌تواند برای کارفرمایان و کارکنان حائز اهمیت باشد.
 
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
-
 
 ## تعریف سختی کار
 

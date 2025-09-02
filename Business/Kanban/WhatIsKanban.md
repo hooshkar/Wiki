@@ -1,8 +1,8 @@
 ---
 title: کانبان چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: کانبان (Kanban) یک روش بصری مدیریت کار است که ریشه در تولید ناب (Lean Manufacturing) دارد و برای بهبود بهره‌وری، جریان کاری و کاهش اتلاف منابع طراحی شده است.
-dateModified: 2025/02/26
+dateModified: 2025/09/02
 datePublished: 2022/11/19
 uid: Business/Kanban/WhatIsKanban
 ---

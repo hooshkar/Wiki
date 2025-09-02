@@ -1,14 +1,13 @@
 ---
 title: انواع سیستم های تولیدی
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: فیدبک + خروجی + پردازش + ورودی = سیستم تولید
-dateModified: 2025/02/25
+dateModified: 2025/09/02
 datePublished: 2022/11/05
 uid: Business/ProductionPlanning/ProductionSystems
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>
@@ -39,9 +38,7 @@ uid: Business/ProductionPlanning/ProductionSystems
     <li>دسته بندی سازمانها (ماهیت محصول)</li>
   </ul>
 </details>
-
 </blockquote>
-
 
 ## اجزای سیستم تولید
 
@@ -55,10 +52,8 @@ uid: Business/ProductionPlanning/ProductionSystems
 
 **4. فیدبک:** یکسری از تجربیات و دانش هایی هستند در جهت ارتقای کیفیت فرایند پردازش و ورودی ها که ما از خروجی استخراج کرده ایم
 
-
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Package/Industrial" target="_blank">نرم افزار مدیریت تولید</a> سایان</p></strong></blockquote>
-
 
 ![اجزای سیستم تولید](./Images/ProductionSystemComponents.webp)
 
@@ -169,4 +164,3 @@ uid: Business/ProductionPlanning/ProductionSystems
 * **صنایع تولید گسسته:** مثل خودرو سازی
 * **صنایع تولید پروژه ای:** مثل ساخت سد، ساختمان
 * **صنایع موجودی خالص:** مثل شرکتهای پخش
-

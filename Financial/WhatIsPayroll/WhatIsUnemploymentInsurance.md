@@ -1,8 +1,8 @@
 ---
 title: شرایط دریافت بیمه بیکاری در زمان جنگ و بلایای طبیعی
-author: سمانه رشوند و فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: بیمه بیکاری حمایت مالی از کارگرانی است که بدون خواست خود شغلشان را از دست داده‌اند. شرایط، مبلغ، مدت‌زمان و نحوه دریافت این مستمری را بررسی می‌کنیم.
-dateModified: 2025/06/26
+dateModified: 2025/09/02
 datePublished: 2025/03/11
 uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
 ---
@@ -102,7 +102,6 @@ uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
 ### مدت زمان دریافت بیمه بیکاری چقدر است؟
 
 ![جدول مدت زمان دریافت بیمه بیکاری](./Images/UnemploymentInsurance.webp)
-
 
 ### آیا مدت بیمه بیکاری جزو سابقه کار محسوب می‌شود؟
 

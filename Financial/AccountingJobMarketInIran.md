@@ -1,14 +1,13 @@
 ---
 title: بازار کار حسابداری در ایران - مزایا و معایب این رشته
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: با توجه به رشد روزافزون بخش خصوصی در ایران و افزایش تعداد شرکت‌ها و سازمان‌ها، نیاز به حسابداران و کارشناسان مالی در این بخش نیز افزایش یافته است. بنابراین، برای ایجاد بازار کار حسابداری سالم و بهبود وضعیت آن، توجه به آموزش و پرورش کارشناسان مالی و حسابداران، ایجاد شغل‌های جدید و تنوع در این بازار کار و استفاده از فناوری‌های روز، ضروری است.
-dateModified: 2025/02/04
+dateModified: 2025/09/02
 datePublished: 2023/03/07
 uid: Financial/AccountingJobMarketInIran
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -19,7 +18,6 @@ uid: Financial/AccountingJobMarketInIran
     <li>نتیجه‌گیری</li>
   </ul>
 </details>
-
 </blockquote>
 
 ## چگونه یک حسابدار می تواند وارد بازار کار در ایران شود؟
@@ -83,6 +81,5 @@ uid: Financial/AccountingJobMarketInIran
 عزیزانی که علاقه‌مند به کار در زمینه حسابداری هستند، آشنایی با نرم‌افزارهای تخصصی حسابداری یک مهارت بسیار ارزشمند محسوب می‌شود.
 
 اگر می‌خواهید در استفاده از نرم‌افزارهای پرکاربرد حسابداری مهارت کسب کنید، شرکت در <a href=" https://www.aparat.com/Hooshkar_Pardaz" target="_blank">دوره‌های آموزشی هوشکار</a></blockquote> را پیشنهاد می‌کنیم.
- 
 
 - <a href="https://www.aparat.com/v/Tx9ea" target="_blank">دانلود رایگان آموزش نرم افزار حسابداری سایان</a></blockquote>

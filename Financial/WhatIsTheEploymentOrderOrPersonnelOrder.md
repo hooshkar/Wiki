@@ -1,14 +1,13 @@
 ---
 title: حکم کارگزینی یا حکم پرسنلی چیست؟ نحوه گرفتن آن چگونه است؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: حکم کارگزینی، سند کلیدی در استخدام، شامل جزئیات شغلی و الزامات آن است. این سند فرآیند استخدام را بهبود بخشیده، همکاری را افزایش داده و باعث تطابق بهتر نامزدها با نیازهای سازمان می‌شود.
-dateModified: 2025/02/17
+dateModified: 2025/09/02
 datePublished: 2024/08/19
 uid: Financial/WhatIsTheEploymentOrderOrPersonnelOrder
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>

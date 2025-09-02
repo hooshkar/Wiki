@@ -1,14 +1,13 @@
 ---
 title:  تفاوت MRP و ERP چیست؟ (از برنامه‌ریزی تولید تا مدیریت جامع سازمانی)
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: تفاوت‌های اساسی MRP و ERP را بشناسید. از برنامه‌ریزی مواد اولیه تا مدیریت جامع منابع سازمانی، دریابید چگونه این دو سیستم می‌توانند بر عملکرد کسب‌وکار شما تأثیر بگذارند.
-dateModified: 2024/06/26
+dateModified: 2025/09/02
 datePublished: 2022/11/26
 uid: Business/ErpVsMrp/ErpVsMrp
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -25,7 +24,6 @@ uid: Business/ErpVsMrp/ErpVsMrp
     <li>شباهت ERP و MRP</li>
   </ul>
 </details>
-
 </blockquote>
 
 ![تفاوت و شباهت (ERP و MRP)](./Images/ErpVsMrp.webp)
@@ -38,7 +36,6 @@ uid: Business/ErpVsMrp/ErpVsMrp
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec" target="_blank">نرم افزار ERP</a> فنک</p></strong></blockquote>
-
 
 ## تعریف ERP
 <a href="https://www.hooshkar.com/Wiki/Business/WhatIsErp" target="_blank">برنامه‌ریزی منابع سازمانی (ERP)</a> یک سیستم مدیریتی یکپارچه است که اطلاعات و عملیات مختلف سازمان را تجمیع می‌کند. این سیستم برای برنامه‌ریزی منابع مالی، انسانی، مواد و فروش به کار می‌رود.

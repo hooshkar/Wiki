@@ -1,8 +1,8 @@
 ---
 title: lead time چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: lead time به مدت زمانی اشاره دارد که از زمان درخواست یک محصول یا خدمت توسط مشتری تا زمان تحویل نهایی آن به مشتری می‌گذرد
-dateModified: 2025/02/25
+dateModified: 2025/09/02
 datePublished: 2023/08/28
 uid: Business/ProductionPlanning/WhatIsLeadTime
 ---
@@ -14,7 +14,6 @@ uid: Business/ProductionPlanning/WhatIsLeadTime
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/ProductionPlanning" target="_blank">نرم افزار برنامه ریزی تولید</a> سایان</p></strong></blockquote>
-
 
 ![lead time](./Images/LeadTime.webp)
 

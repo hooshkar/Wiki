@@ -1,13 +1,12 @@
 ---
 title: داده‌کاوی (Data Mining) چیست؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: داده‌کاوی فرآیندی قدرتمند برای تبدیل داده‌های خام به اطلاعات ارزشمند است. این فناوری با کشف الگوها و روندهای پنهان در داده‌ها، به کسب‌وکارها کمک می‌کند تا تصمیماتی دقیق‌تر و هوشمندانه‌تر بگیرند.
-dateModified: 2025/02/01
+dateModified: 2025/09/02
 datePublished: 2025/01/16
 uid: It/WhatIsDataMining
 ---
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>

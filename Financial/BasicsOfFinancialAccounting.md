@@ -1,8 +1,8 @@
 ---
 title: مبانی حسابداری و انواع آن
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: مبانی حسابداری مالی یکی از مفاهیم اساسی در علم حسابداری است که به بررسی روش‌های ثبت و تجزیه و تحلیل اطلاعات مالی یک شرکت می‌پردازد.
-dateModified: 2025/02/04
+dateModified: 2025/09/02
 datePublished: 2023/03/01
 uid: Financial/BasicsOfFinancialAccounting
 ---
@@ -32,7 +32,6 @@ uid: Financial/BasicsOfFinancialAccounting
     <li>نتیجه‌گیری</li>
   </ul>
 </details>
-
 </blockquote>
 
 ## تعریف حسابداری مالی و اهمیت آن

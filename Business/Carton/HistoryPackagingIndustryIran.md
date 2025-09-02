@@ -1,8 +1,8 @@
 ---
 title: سیر تکامل صنعت بسته‌بندی؛ از گذشته تا امروز
-author: سمانه رشوند  
+author: تیم تحریریه هوشکار
 description: تاریخچه صنعت بسته‌بندی از دوران سنتی تا عصر مدرن را بررسی می‌کنیم. از تحولات فناوری و تأثیر صنعتی شدن بر بسته‌بندی تا چالش‌ها و فرصت‌های کنونی این صنعت
-dateModified: 2025/03/01
+dateModified: 2025/09/02
 datePublished: 2023/09/03
 uid: Business/Carton/HistoryPackagingIndustryIran
 ---

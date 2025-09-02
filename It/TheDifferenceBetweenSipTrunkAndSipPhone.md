@@ -1,8 +1,8 @@
 ---
 title: سیپ ترانک vs SIP Phone؛ تفاوت‌ها و مزایای هر کدام برای کسب‌وکار شما
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: مقایسه سیپ ترانک و SIP Phone؛ تفاوت‌ها، کاربردها و مزایای هر کدام. چگونه این دو فناوری ارتباطی به کسب‌وکارها در مدیریت تماس‌ها کمک می‌کنند؟
-dateModified: 2025/02/01
+dateModified: 2025/09/02
 datePublished: 2024/09/29
 uid: It/TheDifferenceBetweenSipTrunkAndSipPhone
 ---

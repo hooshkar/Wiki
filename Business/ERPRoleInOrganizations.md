@@ -1,14 +1,13 @@
 ---
 title: نقش ERP در سازمان ها چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: نقش سیستم ERP در سازمان‌ها شامل بهبود کارایی و کارکرد، کاهش هدررفت‌ها، بهبود فرآیندهای کسب و کار، بهبود تصمیم‌گیری‌های استراتژیک، افزایش هماهنگی و همکاری سازمانی، پیش‌بینی و مدیریت منابع است. با استفاده از سیستم ERP مناسب و بهینه، سازمان‌ها می‌توانند عملکرد خود را بهبود بخشند.
-dateModified: 2024/06/15
+dateModified: 2025/09/02
 datePublished: 2023/04/15
 uid: Business/ERPRoleInOrganizations
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -16,7 +15,6 @@ uid: Business/ERPRoleInOrganizations
    <li>نقش و تاثیر سیستم ERP در سازمان ها</li>
   </ul>
 </details>
-
 </blockquote>
 
 آیا کسب و کار شما از فقدان یکپارچگی در فرآیندها و عدم مدیریت صحیح منابع رنج می‌برد؟

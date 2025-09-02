@@ -1,8 +1,8 @@
 ---
 title: کدینگ حسابداری بازرگانی
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: کدینگ حسابداری بازرگانی به دسته‌بندی دقیق حساب‌ها و دسترسی سریع به اطلاعات مالی کمک می‌کند.
-dateModified: 2025/02/04
+dateModified: 2025/09/02
 datePublished: 2024/10/08
 uid: Financial/CommercialAccountingCoding
 ---

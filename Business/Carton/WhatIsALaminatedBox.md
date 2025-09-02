@@ -1,8 +1,8 @@
 ---
 title: جعبه لمینتی - کارتنی چیست؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: جعبه هایی که بر روی آن‌ها یک لایه محافظ چسبانده می‌شود، کارتن لمینتی نام دارند. لمینت پوششی است که بر روی کارتن تولید شده اعمال می‌شود و آن را در برابر نور، آب، رطوبت، پارگی و... محافظت می‌کند.
-dateModified: 2025/03/01
+dateModified: 2025/09/02
 datePublished: 2024/05/19
 uid: Business/Carton/WhatIsALaminatedBox
 ---
@@ -57,7 +57,6 @@ uid: Business/Carton/WhatIsALaminatedBox
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/CartonIndustryMachinery" target="_blank">راهنمای خرید ماشین آلات کارتن سازی</a></p></strong></blockquote>
-
 
 ### مراحل تولید جعبه لمینتی
 

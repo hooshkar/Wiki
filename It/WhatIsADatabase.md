@@ -1,14 +1,13 @@
 ---
 title: پایگاه داده چیست و چرا اهمیت دارد؟
-author: سمانه رشوند - فربد وزیرمختار
+author: تیم تحریریه هوشکار
 description: پایگاه داده ساختاری برای ذخیره و مدیریت داده‌ها است که انواع مختلف آن مانند رابطه‌ای، ابری و NoSQL نقش مهمی در تحلیل و تصمیم‌گیری سازمان‌ها دارند.
-dateModified: 2025/02/01
+dateModified: 2025/09/02
 datePublished: 2024/11/05
 uid: It/WhatIsADatabase
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>

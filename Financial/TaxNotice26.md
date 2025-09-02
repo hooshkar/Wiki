@@ -1,8 +1,8 @@
 ---
 title: مزایای تسریع در اقدامات مربوط به صورتحساب های فروش
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: با توجه به فرصت 21 روزه فوق‌الذکر و نیز مهلت 30 روزه خریدار برای واکنش به صورتحساب، اگر صورتحساب فروش صادره توسط فروشنده بصورت نسیه یا نقد/نسیه باشد و خریدار صورتحساب را تأیید نکند، فروش نقدی محسوب می‌شود.
-dateModified: 2024/05/08
+dateModified: 2024/09/02
 datePublished: 2024/03/27
 uid: Financial/TaxNotice26
 ---
@@ -20,4 +20,3 @@ uid: Financial/TaxNotice26
 منبع: <a href="https://www.intamedia.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-26-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%AE%D8%B5%D9%88%D8%B5-%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C-%D8%AA%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D8%A8%D9%88%D8%B7-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA%D8%AD%D8%B3%D8%A7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D9%88%D8%B4" target="_blank">اقدامات مربوط به صورتحساب های فروش</a>
 
 منبع <a href="https://www.intamedia.ir/news/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-25-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%AE%D8%B5%D9%88%D8%B5-%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C-%D8%AA%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D8%A8%D9%88%D8%B7-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA%D8%AD%D8%B3%D8%A7%D8%A8-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF" target="_blank">اقدامات مربوط به صورتحساب های خرید</a>
-

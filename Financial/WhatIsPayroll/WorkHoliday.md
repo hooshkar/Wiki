@@ -1,8 +1,8 @@
 ---
 title: تعطیل کاری چگونه محاسبه می‌شود؟
-author: فربد وزیرمختار - سمانه رشوند
+author: تیم تحریریه هوشکار
 description: کار در روزهای تعطیل نوعی اضافه کاری محسوب می‌شود که به آن تعطیل کاری می گویند. بنابراین، نرخ پرداختی برای ساعات کاری در روزهای تعطیل معادل نرخ اضافه‌کاری و 40 درصد بیشتر از دستمزد هر ساعت کار عادی است.
-dateModified: 2025/02/19
+dateModified: 2025/09/02
 datePublished: 2024/05/15
 uid: Financial/WhatIsPayroll/WorkHoliday
 ---
@@ -18,12 +18,10 @@ uid: Financial/WhatIsPayroll/WorkHoliday
 </details>
 </blockquote>
 
-
 تعطیل کاری یکی از مفاهیم اساسی و مهم در حوزه حقوق کار برای کارگران و کارفرمایان است. این مفهوم به نوعی حقوق و مزایایی است که در روزهای تعطیل رسمی برای کارگران تعیین می‌شود. در این مقاله، قصد داریم به تحلیل مفهوم تعطیل کاری پرداخته و فرمول محاسبه آن را بررسی کنیم. 
 
 <blockquote style="background-color:#f5f5f5; padding:0.5rem">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
-
 
 ## تعطیل کاری چیست؟
 

@@ -1,8 +1,8 @@
 ---
 title: Docker Swarm چیست؟ چگونه کار می کند؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: Docker Swarm یک ابزار برای مدیریت و اجرای برنامه‌های کانتینری با استفاده از تکنولوژی کانتینریزاسیون Docker است.
-dateModified: 2025/02/01
+dateModified: 2025/09/02
 datePublished: 2023/04/13
 uid: It/WhatIsDockerSwarm
 ---

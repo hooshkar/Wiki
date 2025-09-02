@@ -1,14 +1,13 @@
 ---
 title: BPMS (مدیریت فرآیند کسب و کار) چیست؟
-author: سمانه رشوند
+author: تیم تحریریه هوشکار
 description: مدیریت فرایندهای کسب‌وکار (BPMS) ابزاری قدرتمند برای اتوماسیون و بهینه‌سازی فرایندهای سازمانی است که به کاهش هزینه‌ها، افزایش کارایی و بهبود کیفیت کمک می‌کند.
-dateModified: 2025/02/23
+dateModified: 2025/09/02
 datePublished: 2023/05/03
 uid: Business/WhatIsBpms
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
-
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -17,7 +16,6 @@ uid: Business/WhatIsBpms
     <li>تفاوت های ERP و BPMS</li>
   </ul>
 </details>
-
 </blockquote>
 
 ## تعریف BPMS
