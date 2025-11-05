@@ -2,11 +2,11 @@
 title: نحوه محاسبه عیدی، سنوات و مالیات عیدی 1404
 author: تیم تحریریه هوشکار
 description: فردی که یک سال گذشته در واحد اقتصادی مشغول بوده باشد در پایان سال مبلغی معادل دو برابر حقوق پایه ماهیانه خود به عنوان عیدی دریافت خواهد کرد.
-dateModified: 2025/09/02
+dateModified: 2025/11/05
 datePublished: 2023/02/19
 uid: Financial/WhatIsPayroll/EidTax
 ---
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote style="padding:0.5rem; margin-top:0.5rem;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -20,12 +20,12 @@ uid: Financial/WhatIsPayroll/EidTax
     <li>عیدی بازنشستگان تامین اجتماعی</li>
   </ul>
 </details>
-</blockquote>
+</blockquote></br>
 
 محاسبه عیدی و سنوات کارکنان یکی از چالش‌برانگیزترین فرایندهای پایان سال برای بخش مالی سازمان‌هاست. هرچند زمان دقیق پرداخت آن در قانون مشخص نیست اما همه کارکنان طبق فرمول‌هایی مشمول دریافت آن هستند. در این مقاله به نحوه محاسبه عیدی، سنوات و مالیات عیدی پرداخته شده است.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
+برای محاسبه دقیق مزایا می‌توانید از <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم‌افزار محاسبه عیدی و سنوات</a> سایان استفاده کنید.
+
 
 ## عیدی و سنوات چگونه محاسبه می شود؟
 
@@ -37,8 +37,9 @@ uid: Financial/WhatIsPayroll/EidTax
 
 لازم به ذکر است عیدی و سنوات سال جاری (1403) بر‌اساس کارکرد اشخاص در آن سال (1403) محاسبه و پرداخت می‌شود؛ اما از آنجا که این پرداختی منتهی به نوروز سال 1404 است، در بیان عمومی عیدی و سنوات سال 1404 نامیده می‌شود.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1403" target="_blank">جدول حقوق کارگران 1403</a></strong></p></blockquote>
+برای مشاهده جزئیات کامل <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1403" target="_blank">جدول حقوق کارگران 1403</a> این مطلب را بخوانید.
+
+---
 
 ### فرمول محاسبه سنوات
 
@@ -48,6 +49,8 @@ uid: Financial/WhatIsPayroll/EidTax
 
 بنابراین با استفاده از فرمول‌های فوق می‌توان حق سنوات و پایه سنوات کارگران را در سال 1403 محاسبه نمود.
 
+---
+
 ### تأثیر افزایش حقوق، تعدیل نیرو و ترک کار بر سنوات
 
 **افزایش حقوق:** سنوات کارگرانی که در طول سال افزایش حقوق داشته‌اند، بر اساس آخرین حقوق دریافتی آنها محاسبه می‌شود.
@@ -56,8 +59,9 @@ uid: Financial/WhatIsPayroll/EidTax
 
 **ترک کار:** کارگران مستعفی نیز مشمول دریافت سنوات متناسب با مدت اشتغال خود خواهند بود.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/PayrollFormula" target="_blank">فرمول های مورد استفاده در محاسبه حقوق و دستمزد</a></p></strong></blockquote>
+اگر می‌خواهید بدانید در محاسبات حقوق و مزایا از چه <a href="https://www.hooshkar.com/Wiki/Payroll/PayrollFormula" target="_blank">فرمول‌هایی</a> استفاده می‌شود، این مقاله را بخوانید.
+
+---
 
 ### فرمول محاسبه عیدی
 **میزان کارکرد یک سال:** فردی که یک سال کامل در واحد اقتصادی مشغول بوده باشد در پایان سال مبلغی معادل دو برابر حقوق پایه ماهیانه خود به عنوان عیدی دریافت خواهد کرد  به شرطی که از سقف سه برابر حقوق پایه وزارت کار بیشتر نشود.
@@ -84,8 +88,7 @@ uid: Financial/WhatIsPayroll/EidTax
 
 باید دانست عیدی پرداختی کارگران نباید از 60 روز حداقل دستمزد سال جاری کمتر و از 90 روز آن بیشتر باشد. 
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1402" target="_blank">حقوق وزارت کار 1402</a></p></strong></blockquote>
+در این صفحه می‌توانید به آخرین اطلاعات درباره <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1404" target="_blank">حقوق و مزایای وزارت کار در سال 1404</a> دسترسی پیدا کنید.
 
 مبنای محاسبه عیدی و پاداش سالانه کارگران در واحدهای بدون طرح طبقه بندی مشاغل، مزد ثابت، یعنی مزد شغل و مزایای ثابت پرداختی، به تبع شغل خواهد بود، مثل فوق العاده شغل، سختی کار و هرآن‌چه به تبع شغل به کارگر تعلق می‌گیرد.
 
@@ -93,11 +96,15 @@ uid: Financial/WhatIsPayroll/EidTax
 
 مزایای رفاهی و انگیزشی از قبیل حق مسکن، حق بن، پاداش افزایش تولید، حق جذب و... در این خصوص لحاظ نخواهد شد.
 
+---
+
 ### جدول محاسبه عیدی 1404
 
 نحوه محاسبه عیدی سال 1404 با در نظر گرفتن پایه حقوق کارگران در سال 1403 که معادل 7 میلیون و 166 هزار تومان است، حداقل مبلغ عیدی معادل 143 میلیون و 323 هزار و 680 ریال (تقریباً 1403 میلیون تومان) و حداکثر آن 214 میلیون و 985 هزار و 520 ریال (تقریباً 21.4 میلیون تومان) خواهد بود.
 
 ![جدول محاسبه عیدی سال 1404](./Images/Eid1404CalculationTable.webp)
+
+---
 
 #### حق سنوات کارگران غیررسمی چگونه محاسبه می‌شود؟
 
@@ -113,8 +120,7 @@ uid: Financial/WhatIsPayroll/EidTax
 
 یعنی اگر یک نفر 10 میلیون تومان عیدی دریافت کند، ابتدا باید 5 میلیون و 600 هزار تومان از این مبلغ کسر شود و سپس باقیمانده ضربدر 10% گردد. البته برای ارقام بالاتر این درصد، افزایش خواهد یافت.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">لیست بهترین نرم افزارهای حقوق و دستمزد</a></p></strong></blockquote>
+اگر به دنبال انتخاب نرم‌افزار مناسب برای امور پرسنلی هستید، مقاله <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">لیست بهترین نرم‌افزارهای حقوق و دستمزد</a> می‌تواند راهنمای خوبی باشد.
 
 ## عیدی بازنشستگان تامین اجتماعی
 

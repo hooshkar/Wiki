@@ -2,7 +2,7 @@
 title: بخشنامه بخشودگی جرایم مالیاتی به مناسبت دهه فجر
 author: تیم تحریریه هوشکار
 description: به مناسبت دهه فجر، سازمان مالیاتی دستورالعملی مبنی بر بخشودگی جرایم مالیاتی را در چارچوب قانون به مدیران کل امور مالیاتی تفویض کرد. مؤدیان در صورت پرداخت بدهی‌های جاری تا بهمن‌ماه، از بخشش جرایم تا سقف مشخصی بهره‌مند می‌شوند.
-dateModified: 2025/09/02
+dateModified: 2025/10/30
 datePublished: 2024/02/03
 uid: Financial/TaxPenalty
 ---
@@ -15,6 +15,4 @@ uid: Financial/TaxPenalty
 
 طبق این مصوبه، مودیانی که تا پایان بهمن ماه سال جاری نسبت به پرداخت بدهی اقدام کنند، از بخشودگی جرایم طبق دستورالعمل پیوشت شده برخوردار می گردند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان
-</a> سایان</strong></p></blockquote>
+استفاده از <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان سایان</a> می‌تواند به تسریع فرآیند ثبت و ارسال اطلاعات مالیاتی و بهره‌مندی سریع‌تر از بخشودگی‌ها کمک کند.

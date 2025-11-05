@@ -2,7 +2,7 @@
 title: اظهارنامه دوره مالیاتی زمستان سال 1402
 author: تیم تحریریه هوشکار
 description: مودیان یک ماه فرصت دارند اظهارنامه ارسالی را با ثبت خریدها و فروش‌های خارج از سامانه، تکمیل و به سازمان مسترد نمایند.
-dateModified: 2024/09/02
+dateModified: 2024/10/30
 datePublished: 2024/03/27
 uid: Financial/TaxNotice28
 ---
@@ -16,9 +16,7 @@ uid: Financial/TaxNotice28
 
 برای دوره مالیاتی زمستان 1402، سازمان، اظهارنامه‌ای تهیه و در نیمه اول فروردین 1403 در اختیار مودیان قرار می‌دهد. مودیان تا پایان فروردین 1403 فرصت دارند اظهارنامه را ویرایش، تکمیل و مالیات را پرداخت کنند، در غیر این صورت مشمول جریمه می‌شوند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان
-</a> سایان</strong></p></blockquote>
+مودیان می‌توانند برای سهولت و تسریع در تکمیل اظهارنامه و ثبت فروش‌ها و خریدهای خارج از سامانه، از <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان سایان</a> بهره‌مند شوند.
 
 ![بخشنامه تفویض اختیار بخشودگی جرایم مالیاتی](./Images/TaxNotice28.webp)
 

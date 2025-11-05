@@ -7,7 +7,7 @@ datePublished: 2024/05/15
 uid: Financial/StoreAccounting
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote style="padding:0.5rem; margin-top:0.5rem;">
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>

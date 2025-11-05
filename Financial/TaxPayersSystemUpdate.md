@@ -2,7 +2,7 @@
 title: مهلت ارسال صورتحساب در سامانه مودیان
 author: تیم تحریریه هوشکار
 description: تمدید مهلت ارسال فاکتور در سامانه مودیان تا پایان شهریور 1402
-dateModified: 2025/09/02
+dateModified: 2025/10/30 
 datePublished: 2023/07/22
 uid: Financial/TaxPayersSystemUpdate
 ---
@@ -11,8 +11,6 @@ uid: Financial/TaxPayersSystemUpdate
 
 > نظر به درخواست‌های متعدد و در جهت تکریم مودیان محترم مالیاتی که در حال آماده سازی شرایط صدور صورتحساب الکترونیکی می‌باشند، پیرو نامه شماره 200/11842/د مورخ 1402/2/27 در خصوص تمدید اعتبار تفویض اختیار بخشودگی جرایم و تقسیط بدهی، بدین وسیله عبارت **"حداکثر تا پایان خرداد ماه سال جاری"** در بند (2) نامه مذکور به **"حداکثر تا پایان شهریور ماه سال 1402"** اصلاح می گردد.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار مودیان مالیاتی
-</a> سایان</strong></p></blockquote>
+مودیان مالیاتی می‌توانند برای سهولت در ارسال صورتحساب‌های الکترونیکی تا پایان شهریور 1402، از <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار مودیان مالیاتی سایان</a> بهره‌مند شوند.
 
 ![ارسال صورت حساب الکترونیکی تا 31 شهریور تمدید شد](./Images/Bakhshnameh.webp)
