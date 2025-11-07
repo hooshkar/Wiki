@@ -4,7 +4,7 @@ author: تیم تحریریه هوشکار
 description: این مقاله به بررسی جنبه‌های مختلف مالیات بر دارایی می‌پردازد، از تعریف آن به عنوان مالیاتی بر ثروت و دارایی‌های خالص افراد گرفته تا انواع و کاربردهای آن در کشورهای مختلف، از جمله ایران.
 dateModified: 2025/11/07
 datePublished: 2024/05/21
-uid: Financial/DefinitionOfPropertyTax
+uid: Financial/WhatIsPayroll/DefinitionOfPropertyTax
 ---
 <blockquote style="padding:0.5rem; margin-top:0.5rem;">
 <details>

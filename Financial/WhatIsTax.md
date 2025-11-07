@@ -4,7 +4,7 @@ author: تیم تحریریه هوشکار
 description: مالیات یک نوع هزینه اجتماعی است که افراد یا شرکت‌ها باید به دولت پرداخت کنند، به طوری که دولت از این پول برای هزینه‌های عمومی استفاده می‌کند. در هر کشور، مالیات یکی از مهم‌ترین مباحث اقتصادی است و قوانین دقیقی برای آن وجود دارد.
 dateModified: 2025/09/02
 datePublished: 2024/05/26
-uid: Financial/WhatIsTax
+uid: Financial/WhatIsPayroll/WhatIsTax
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">

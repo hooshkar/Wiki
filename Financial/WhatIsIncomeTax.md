@@ -4,7 +4,7 @@ author: تیم تحریریه هوشکار
 description: مالیات بر درآمد، سهمی از درآمد افراد و شرکت‌هاست که به دولت پرداخت می‌شود. مالیات بر درآمد یکی از مهمترین ابزارهای دولت برای تأمین منابع مالی و تنظیم سیاست های اقتصادی است. این درآمدهای مالیاتی صرف هزینه های عمومی و ارائه خدمات دولتی می شود.
 dateModified: 2025/09/02
 datePublished: 2024/05/15
-uid: Financial/WhatIsIncomeTax
+uid: Financial/WhatIsPayroll/WhatIsIncomeTax
 ---
 
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
