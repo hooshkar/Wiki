@@ -27,9 +27,7 @@ uid: Financial/WhatIsTax
 مالیات، به عنوان یکی از مهم‌ترین مسائل اقتصادی هر کشور، نقش بسیار حیاتی در تعیین سیاست‌ها و توسعه اجتماعی دارد.
 در این مقاله، به توضیح مفهوم مالیات، انواع و پیامدهای عدم پرداخت آن می‌پردازیم.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان
-</a> سایان</strong></p></blockquote>
+برای مدیریت دقیق مالیات‌ها و محاسبه سریع مالیات، می‌توانید از <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم‌افزار سامانه مودیان سایان</a> استفاده کنید.
 
 ## مالیات چیست؟
 

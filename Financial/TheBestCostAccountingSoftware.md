@@ -133,62 +133,50 @@ uid: Financial/TheBestCostAccountingSoftware
 ---
 
 <blockquote style="background-color:#f9f9ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
-<p><strong>مقایسه سریع نرم‌افزارهای بهای تمام شده ایرانی و خارجی</strong></p>
-<table style="width:100%; border-collapse:collapse; font-size:0.9rem; min-width:850px;">
-  <thead>
-    <tr>
-      <th style="padding:0.6rem; text-align:right;">ویژگی‌ها</th>
-      <th style="padding:0.6rem; text-align:right;">سایان</th>
-      <th style="padding:0.6rem; text-align:right;">آرین‌سیستم</th>
-      <th style="padding:0.6rem; text-align:right;">سپیدار</th>
-      <th style="padding:0.6rem; text-align:right;">رایورز</th>
-      <th style="padding:0.6rem; text-align:right;">شماران</th>
-      <th style="padding:0.6rem; text-align:right;">SAP</th>
-      <th style="padding:0.6rem; text-align:right;">Oracle</th>
-      <th style="padding:0.6rem; text-align:right;">Microsoft Dynamics</th>
-      <th style="padding:0.6rem; text-align:right;">Infor</th>
-      <th style="padding:0.6rem; text-align:right;">Epicor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:0.5rem;">پشتیبانی فارسی</td>
-      <td>✅ کامل</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
-      <td>❌</td><td>❌</td><td>❌</td><td>❌</td><td>❌</td>
-    </tr>
-    <tr>
-      <td style="padding:0.5rem;">هزینه پیاده‌سازی</td>
-      <td>پایین</td><td>متوسط</td><td>پایین</td><td>متوسط</td><td>متوسط</td>
-      <td>خیلی بالا</td><td>بالا</td><td>متوسط</td><td>متوسط</td><td>بالا</td>
-    </tr>
-    <tr>
-      <td style="padding:0.5rem;">سازگاری با قوانین مالیاتی ایران</td>
-      <td>کامل</td><td>کامل</td><td>کامل</td><td>کامل</td><td>کامل</td>
-      <td>نسبی</td><td>نسبی</td><td>نسبی</td><td>❌</td><td>❌</td>
-    </tr>
-    <tr>
-      <td style="padding:0.5rem;">مناسب برای کسب‌وکارهای</td>
-      <td>متوسط تا بزرگ</td><td>متوسط تا بزرگ</td><td>کوچک تا متوسط</td><td>متوسط تا بزرگ</td><td>متوسط</td>
-      <td>بزرگ و چندملیتی</td><td>بزرگ</td><td>متوسط تا بزرگ</td><td>متوسط</td><td>متوسط تا بزرگ</td>
-    </tr>
-    <tr>
-      <td style="padding:0.5rem;">محاسبه دقیق بهای تمام شده</td>
-      <td>✅ خودکار و بومی</td><td>✅ دقیق</td><td>✅ پایه‌ای</td><td>✅ تحلیلی</td><td>✅</td>
-      <td>✅ پیشرفته</td><td>✅ دقیق</td><td>✅ تحلیلی</td><td>✅ لحظه‌ای</td><td>✅ قوی</td>
-    </tr>
-    <tr>
-      <td style="padding:0.5rem;">یکپارچگی با سیستم‌های دیگر</td>
-      <td>ERP جامع (حسابداری، تولید، انبار و...)</td>
-      <td>ERP تولیدی</td><td>مالی و بازرگانی</td><td>ERP سازمانی</td><td>مالی و تولیدی</td>
-      <td>ERP جامع</td><td>ERP جامع</td><td>Office و ERP</td><td>ERP ابری</td><td>ERP ماژولار</td>
-    </tr>
-    <tr>
-      <td style="padding:0.5rem;">پشتیبانی و آموزش</td>
-      <td>حضوری و آنلاین</td><td>حضوری و آنلاین</td><td>شبکه نمایندگی</td><td>پشتیبانی متمرکز</td><td>آنلاین</td>
-      <td>نمایندگان بین‌المللی</td><td>نمایندگان خاص</td><td>پشتیبانی جهانی</td><td>بر پایه ابر</td><td>پشتیبانی منطقه‌ای</td>
-    </tr>
-  </tbody>
-</table>
+  <p><strong>مقایسه سریع نرم‌افزارهای بهای تمام شده (منتخب)</strong></p>
+  <table style="width:100%; border-collapse:collapse; font-size:0.9rem; min-width:700px;">
+    <thead>
+      <tr>
+        <th style="padding:0.6rem; text-align:right;">ویژگی‌ها</th>
+        <th style="padding:0.6rem; text-align:right;">سایان</th>
+        <th style="padding:0.6rem; text-align:right;">سپیدار</th>
+        <th style="padding:0.6rem; text-align:right;">رایورز</th>
+        <th style="padding:0.6rem; text-align:right;">SAP</th>
+        <th style="padding:0.6rem; text-align:right;">Oracle</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding:0.5rem;">پشتیبانی فارسی</td>
+        <td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td>
+      </tr>
+      <tr>
+        <td style="padding:0.5rem;">هزینه پیاده‌سازی</td>
+        <td>پایین</td><td>پایین</td><td>متوسط</td><td>خیلی بالا</td><td>بالا</td>
+      </tr>
+      <tr>
+        <td style="padding:0.5rem;">سازگاری با قوانین مالیاتی ایران</td>
+        <td>کامل</td><td>کامل</td><td>کامل</td><td>نسبی</td><td>نسبی</td>
+      </tr>
+      <tr>
+        <td style="padding:0.5rem;">مناسب برای کسب‌وکارهای</td>
+        <td>متوسط تا بزرگ</td><td>کوچک تا متوسط</td><td>متوسط تا بزرگ</td><td>بزرگ و چندملیتی</td><td>بزرگ</td>
+      </tr>
+      <tr>
+        <td style="padding:0.5rem;">محاسبه دقیق بهای تمام شده</td>
+        <td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+      </tr>
+      <tr>
+        <td style="padding:0.5rem;">یکپارچگی با سیستم‌های دیگر</td>
+        <td>ERP جامع</td><td>مالی و بازرگانی</td><td>ERP سازمانی</td><td>ERP جامع</td><td>ERP جامع</td>
+      </tr>
+      <tr>
+        <td style="padding:0.5rem;">پشتیبانی و آموزش</td>
+        <td>حضوری و آنلاین</td><td>شبکه نمایندگی</td><td>پشتیبانی متمرکز</td><td>نمایندگان بین‌المللی</td><td>نمایندگان خاص</td>
+      </tr>
+    </tbody>
+  </table>
+
 <p style="margin-top:0.7rem;">🔹 همان‌طور که مشاهده می‌شود، <strong><a href="https://www.hooshkar.com/Software/Fennec/Module/Costing" target="_blank">نرم‌افزار سایان</a></strong> و دیگر نرم‌افزارهای ایرانی، در کنار هزینه پایین‌تر و پشتیبانی بومی، از نظر سازگاری با قوانین مالیاتی و امکانات تخصصی تولید، گزینه‌ای مناسب‌تر از نرم‌افزارهای خارجی برای شرکت‌های داخل کشور هستند.</p>
 </blockquote>
 
