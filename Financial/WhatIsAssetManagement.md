@@ -2,12 +2,39 @@
 title: اموال گردانی (کنترل دارایی ثابت) چیست؟ چه کاربردی دارد؟
 author: تیم تحریریه هوشکار
 description: اموال گردانی به سازمان‌ها در ردیابی، نگهداری و بهینه‌سازی استفاده از اموال خود کمک می‌کنند. این سیستم‌ها، از روش‌های سنتی تا فناوری‌های پیشرفته الکترونیکی، باعث افزایش دقت، کاهش هزینه‌ها و بهبود کنترل مالی می‌شوند.
-dateModified: 2025/11/03
+dateModified: 2025/11/15
 datePublished: 2024/08/14
 uid: Financial/WhatIsAssetManagement
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -19,7 +46,7 @@ uid: Financial/WhatIsAssetManagement
     <li>سؤالات متداول</li>
   </ul>
 </details>
-</blockquote>
+</blockquote><br/>
 
 مدیریت دارایی‌های ثابت یا اموال گردانی به معنای استفاده از سیستم‌های منظم برای جمع‌آوری، ثبت و نگهداری دقیق اطلاعات دارایی‌ها است. این سیستم‌ها به سازمان‌ها کمک می‌کنند تا با ردیابی مؤثر و کاهش خطاها، بهره‌وری و ثبات مالی خود را افزایش دهند. از طریق روش‌های سنتی و مدرن، از جمله استفاده از تکنولوژی‌های الکترونیکی، می‌توان به بهبود کنترل و مدیریت دارایی‌ها پرداخت. این مقاله به تحلیل این روش‌ها و بررسی مزایای آن‌ها می‌پردازد.
 
@@ -97,21 +124,21 @@ uid: Financial/WhatIsAssetManagement
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا اموال گردانی فقط برای دارایی‌های ثابت است؟</summary>
 <p>خیر، می‌توان دارایی‌های موقت و تجهیزات قابل جابجایی را نیز مدیریت و ردیابی کرد.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>روش پیشرفته چه مزایایی نسبت به روش سنتی دارد؟</summary>
 <p>روش مدرن با استفاده از نرم‌افزار و ابزارهای الکترونیکی، سرعت ثبت داده‌ها را افزایش می‌دهد، خطای انسانی را کاهش می‌دهد و گزارش‌گیری را آسان می‌کند.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>اموال گردانی چقدر در کاهش هزینه‌ها تاثیر دارد؟</summary>
 <p>با ردیابی دقیق و جلوگیری از گم شدن یا استفاده غیرمجاز از دارایی‌ها، هزینه‌های نگهداری و جایگزینی کاهش می‌یابد و تخصیص بهینه دارایی‌ها محقق می‌شود.</p>

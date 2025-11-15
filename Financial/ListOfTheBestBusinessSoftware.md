@@ -2,12 +2,12 @@
 title: معرفی بهترین نرم افزار های بازرگانی
 author: تیم تحریریه هوشکار
 description:  جامع‌ترین راهنمای انتخاب بهترین نرم افزارهای کاربردی بازرگانی برای کسب و کارهای ایرانی. مقایسه ویژگی‌ها، قیمت و کارایی برترین نرم افزارهای حسابداری بازرگانی
-dateModified: 2024/09/02
+dateModified: 2024/11/15
 datePublished: 2024/06/15
 uid: Financial/ListOfTheBestBusinessSoftware
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
     <li>نرم افزار بازرگانی سایان</li>

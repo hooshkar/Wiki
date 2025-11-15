@@ -2,12 +2,12 @@
 title: مبانی حسابداری و انواع آن + مثال کاربردی هر کدام
 author: تیم تحریریه هوشکار
 description: مبانی حسابداری مالی شامل اصول، روش‌ها و مفاهیمی است که برای ثبت، طبقه‌بندی و تحلیل اطلاعات مالی یک شرکت استفاده می‌شود. در این مطلب از هوشکار با انواع مبانی حسابداری و کاربرد هرکدام آشنا می‌شویم.
-dateModified: 2025/10/31
+dateModified: 2025/11/15
 datePublished: 2023/03/01
 uid: Financial/BasicsOfFinancialAccounting
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -119,21 +119,21 @@ uid: Financial/BasicsOfFinancialAccounting
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>مبنای حسابداری چیست و چه تفاوتی با اصول حسابداری دارد؟</summary><br/>
     مبنای حسابداری به روش ثبت درآمدها و هزینه‌ها اشاره دارد، در حالی که اصول حسابداری چارچوب و استانداردهایی است که بر نحوه گزارش‌دهی و تحلیل اطلاعات مالی نظارت می‌کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>کدام مبنای حسابداری برای شرکت‌های خصوصی مناسب‌تر است؟</summary><br/>
     بیشتر شرکت‌های خصوصی از مبنای تعهدی استفاده می‌کنند زیرا تصویر دقیق‌تری از عملکرد مالی ارائه می‌دهد، هرچند شرکت‌های کوچک ممکن است مبنای نقدی ترجیح دهند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چرا انتخاب مبنای حسابداری اهمیت دارد؟</summary><br/>
     مبنای حسابداری نحوه شناسایی درآمد، محاسبه سود و تحلیل مالی شرکت را تعیین می‌کند و بر تصمیمات سرمایه‌گذاری و مالیاتی اثر مستقیم دارد.

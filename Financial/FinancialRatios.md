@@ -2,11 +2,11 @@
 title: انواع نسبت های مالی
 author: تیم تحریریه هوشکار
 description: نسبت‌های مالی ابزارهایی حیاتی برای ارزیابی عملکرد مالی شرکت‌ها هستند. با استفاده از نسبت‌های سودآوری، بدهی و پوششی می‌توان وضعیت سلامت مالی یک سازمان را تحلیل و تصمیمات دقیق‌تری در سرمایه‌گذاری اتخاذ کرد.
-dateModified: 2025/10/26
+dateModified: 2025/11/15
 datePublished: 2023/05/23
 uid: Financial/FinancialRatios
 ---
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -64,21 +64,21 @@ uid: Financial/FinancialRatios
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چرا نسبت‌های مالی برای مدیران اهمیت دارند؟</summary>
   نسبت‌های مالی تصویری واضح از عملکرد شرکت ارائه می‌دهند و به مدیران کمک می‌کنند تصمیم‌های بهتری در زمینه بودجه‌بندی، سرمایه‌گذاری و کنترل هزینه‌ها بگیرند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>کدام نسبت برای سنجش توان پرداخت بدهی‌ها کاربردی‌تر است؟</summary>
   نسبت پوشش بهره یکی از شاخص‌های کلیدی برای ارزیابی توان شرکت در پرداخت بدهی‌ها و هزینه‌های مالی است.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا نسبت‌های مالی به تنهایی برای تصمیم‌گیری کافی‌اند؟</summary>
   خیر. بهتر است نسبت‌های مالی همراه با سایر ابزارهای تحلیلی مانند تحلیل جریان نقدی، بازده سرمایه‌گذاری و تحلیل SWOT بررسی شوند.

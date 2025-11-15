@@ -2,12 +2,38 @@
 title: سامانه مودیان شرکتهای پیمانکاری
 author: تیم تحریریه هوشکار
 description: سامانه مودیان برای شرکت‌های پیمانکاری یک روش ویژه برای ثبت و مدیریت قراردادهای پیمانکاری ارائه می‌دهد. پیمانکاران می‌توانند با استفاده از این سامانه، به‌صورت دقیق و با رعایت قوانین مالیاتی، صورتحساب‌های الکترونیکی و شناسه یکتای قراردادهای خود را ثبت و ارسال کنند. این فرآیند به بهبود مدیریت مالی، کاهش اشتباهات و تطابق کامل با قوانین مالیاتی کمک می‌کند و موجب تسهیل در پیگیری قراردادهای پیمانکاری می‌شود.
-dateModified: 2025/10/29
+dateModified: 2025/11/15
 datePublished: 2023/11/28
 uid: Financial/ModianContractorSystem
 ---
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -223,11 +249,11 @@ K7310146 | مشاوره - طراحی شبکه آب، رودخانه و دفع آ
 
 ---
 
-### سوالات متداول
-
 ![FAQ](./Images/FAQ.webp)
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+### سوالات متداول
+
+<blockquote class="faq-block">
   <details>
     <summary>ارسال صورتحساب الکترونیکی چه زمانی است؟</summary>
     با توجه به قانون، از ابتدای فروردین ماه سال ۱۴۰۲ تقریباً تمام گروه‌های مشاغل، 
@@ -237,7 +263,7 @@ K7310146 | مشاوره - طراحی شبکه آب، رودخانه و دفع آ
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا مغازه‌داران نیز ملزم به صدور صورتحساب الکترونیکی هستند؟</summary>
     بله، همه فروشگاه‌های خرده‌فروشی موظفند دستگاه‌های کارتخوان خود را به سامانه مالیاتی متصل کنند. 
@@ -246,7 +272,7 @@ K7310146 | مشاوره - طراحی شبکه آب، رودخانه و دفع آ
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>مهلت ثبت اصل قرارداد پیمانکاری در سامانه مودیان چه زمانی است؟</summary>
     بر اساس قوانین سامانه مودیان، پیمانکاران یک هفته پس از انعقاد رسمی قرارداد فرصت دارند 
@@ -254,7 +280,7 @@ K7310146 | مشاوره - طراحی شبکه آب، رودخانه و دفع آ
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا کارفرما نیز باید صورتحساب را تایید کند؟</summary>
     بله، کارفرما به عنوان خریدار در نوع ۱ صورتحساب تعریف شده و باید از طریق سامانه مودیان 
@@ -267,4 +293,4 @@ K7310146 | مشاوره - طراحی شبکه آب، رودخانه و دفع آ
 
 ### جمع بندی
 
-**برای جلوگیری از جریمه‌های احتمالی در سامانه مودیان و حل چالش های پیش رو در مدیریت قراردادهای پیمانکاری کافیست با کارشناسان  <a href="https://www.hooshkar.com" target="_blank">هوشکار پرداز</a> تماس بگیرید!"**
+برای جلوگیری از جریمه‌های احتمالی در سامانه مودیان و حل چالش های پیش رو در مدیریت قراردادهای پیمانکاری کافیست با کارشناسان  <a href="https://www.hooshkar.com" target="_blank">هوشکار پرداز</a> تماس بگیرید.

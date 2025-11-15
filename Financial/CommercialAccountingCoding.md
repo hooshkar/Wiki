@@ -2,12 +2,12 @@
 title: کدینگ حسابداری بازرگانی | راهنمای جامع طراحی سیستم مالی کارآمد
 author: تیم تحریریه هوشکار
 description: کدینگ حسابداری بازرگانی به دسته‌بندی دقیق حساب‌ها و دسترسی سریع به اطلاعات مالی کمک می‌کند. این راهنما شامل روش‌ها، مثال‌ها و نکات عملی برای طراحی سیستم کدینگ کارآمد است.
-dateModified: 2025/10/31
+dateModified: 2025/11/15
 datePublished: 2024/10/08
 uid: Financial/CommercialAccountingCoding
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -17,7 +17,7 @@ uid: Financial/CommercialAccountingCoding
     <li>مراحل طراحی کدینگ در حسابداری</li>
     <li>اشتباهات رایج در کدینگ</li>
     <li>مثال عملی و نرم‌افزارهای پشتیبان</li>
-    <li>سؤالات متداول و نکات کاربردی</li>
+    <li>سؤالات متداول</li>
   </ul>
 </details>
 </blockquote>
@@ -128,7 +128,7 @@ uid: Financial/CommercialAccountingCoding
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>آیا می‌توان ساختار کدینگ را پس از چند سال تغییر داد؟</summary>
 <br/>
@@ -136,7 +136,7 @@ uid: Financial/CommercialAccountingCoding
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>چه تعداد رقم برای هر سطح کد حسابداری مناسب است؟</summary>
 <br/>
@@ -144,7 +144,7 @@ uid: Financial/CommercialAccountingCoding
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>بهترین روش کدینگ برای شرکت‌های بازرگانی چیست؟</summary>
 <br/>
@@ -152,7 +152,7 @@ uid: Financial/CommercialAccountingCoding
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>آیا نرم‌افزارهای حسابداری عمومی از کدینگ پشتیبانی می‌کنند؟</summary>
 <br/>
@@ -160,7 +160,7 @@ uid: Financial/CommercialAccountingCoding
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>تفاوت بین کدینگ سلسله‌مراتبی و وجهی در چیست؟</summary>
 <br/>
@@ -169,7 +169,7 @@ uid: Financial/CommercialAccountingCoding
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>چگونه می‌توان از خطا در طراحی کدینگ جلوگیری کرد؟</summary>
 <br/>

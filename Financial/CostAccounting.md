@@ -2,12 +2,12 @@
 title: هر آنچه درباره حسابداری صنعتی باید بدانید
 author: تیم تحریریه هوشکار
 description: حسابداری صنعتی چیست و چگونه با کنترل هزینه‌ها و محاسبه بهای تمام شده، به بهبود عملکرد و افزایش سودآوری کسب‌وکارهای تولیدی کمک می‌کند؟
-dateModified: 2025/09/25
+dateModified: 2025/11/15
 datePublished: 2023/07/18
 uid: Financial/CostAccounting
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -169,22 +169,23 @@ uid: Financial/CostAccounting
 
 ---
 
-## سوالات متداول
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+### سوالات متداول
+
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>حسابداری صنعتی چه تفاوتی با حسابداری مالی دارد؟</summary>
   حسابداری صنعتی به مدیریت هزینه‌ها و فرآیند تولید می‌پردازد، اما حسابداری مالی اطلاعات کلی مالی شرکت را ثبت و گزارش می‌کند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>روش‌های هزینه‌یابی کدامند؟</summary>
   شامل هزینه‌یابی مستقیم، سفارش کار، تخمینی، استاندارد، مرحله‌ای، فعالیت و هزینه متغیر است.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>وظایف اصلی حسابدار صنعتی چیست؟</summary>
   جمع‌آوری و تحلیل اطلاعات مالی، تهیه گزارش‌های برون و درون سازمانی و ارائه مشاوره به مدیران برای تصمیم‌گیری.
@@ -193,6 +194,6 @@ uid: Financial/CostAccounting
 
 ---
 
-## جمع‌بندی
+### جمع‌بندی
 
 حسابداری صنعتی ابزار حیاتی برای مدیریت هزینه‌ها و بهبود کارایی تولید است. این شاخه از حسابداری با ارائه اطلاعات دقیق مالی و صنعتی، به مدیران امکان تصمیم‌گیری هوشمندانه می‌دهد و باعث افزایش سودآوری و بهبود عملکرد شرکت می‌شود.

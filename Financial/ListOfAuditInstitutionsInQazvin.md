@@ -2,12 +2,12 @@
 title: لیست موسسات حسابرسی در قزوین
 author: تیم تحریریه هوشکار
 description: معرفی موسسات حسابرسی در قزوین همراه با خدمات حسابداری، مالیاتی و مشاوره مالی برای شرکت‌ها و کسب‌وکارهای تولیدی و بازرگانی.
-dateModified: 2024/10/29
+dateModified: 2024/11/15
 datePublished: 2024/06/16
 uid: Financial/ListOfAuditInstitutionsInQazvin
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -85,21 +85,21 @@ uid: Financial/ListOfAuditInstitutionsInQazvin
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>بهترین موسسه حسابرسی در قزوین کدام است؟</summary>
   انتخاب بهترین موسسه بستگی به نوع خدمات مورد نیاز شما دارد. مؤسسه چابک حساب و حسابگران صنعت تجارت از جمله گزینه‌های معتبر با سابقه طولانی در این حوزه هستند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>موسسات حسابرسی چه خدماتی ارائه می‌دهند؟</summary>
   خدمات شامل حسابداری، حسابرسی، مالیات، تهیه اظهارنامه، مشاوره مالی و طراحی سیستم‌های حسابداری است.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا موسسات حسابرسی در قزوین خدمات آنلاین هم دارند؟</summary>
   بله، بسیاری از موسسات از نرم‌افزارهای مالی مدرن برای ارائه خدمات غیرحضوری به شرکت‌ها استفاده می‌کنند.

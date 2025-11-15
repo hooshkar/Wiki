@@ -2,12 +2,12 @@
 title: تجزیه و تحلیل صورتهای مالی
 author: تیم تحریریه هوشکار
 description: تجزیه و تحلیل صورت‌های مالی ابزاری کلیدی برای بررسی عملکرد شرکت، شناسایی نقاط قوت و ضعف و اتخاذ بهترین تصمیمات سرمایه‌گذاری است. با این تحلیل می‌توانید سودآوری، رشد و پتانسیل شرکت را دقیق‌تر ارزیابی کنید.
-dateModified: 2025/10/26
+dateModified: 2025/11/15
 datePublished: 2023/03/12
 uid: Financial/FinancialAnalysisBasics
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -144,35 +144,35 @@ uid: Financial/FinancialAnalysisBasics
 
 #### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>صورت‌های مالی چه اهمیتی دارند؟</summary>
 صورت‌های مالی به مدیران، سرمایه‌گذاران و تحلیلگران مالی کمک می‌کنند تا عملکرد شرکت را بررسی کنند و تصمیمات هوشمندانه در زمینه سرمایه‌گذاری و مدیریت مالی بگیرند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>تفاوت تحلیل افقی و تحلیل عمودی چیست؟</summary>
 تحلیل افقی برای مقایسه عملکرد شرکت در دوره‌های مختلف و مشاهده تغییرات زمانی استفاده می‌شود، در حالی که تحلیل عمودی ارتباط میان اجزای صورت مالی در یک دوره مشخص را بررسی می‌کند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چه نسبت‌های مالی برای سنجش عملکرد شرکت مهم هستند؟</summary>
 نسبت‌های سود به فروش، دارایی‌ها به بدهی‌ها، سود ناخالص به فروش، دوره پرداخت به بدهی‌ها و نسبت تورم از مهم‌ترین شاخص‌ها برای تحلیل سلامت مالی و عملکرد شرکت هستند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چگونه تجزیه و تحلیل صورت‌های مالی به تصمیم‌گیری سرمایه‌گذاری کمک می‌کند؟</summary>
 با بررسی درآمد، هزینه‌ها، جریان نقد و نسبت‌های مالی، می‌توان نقاط ضعف و قوت شرکت را شناسایی کرده و تصمیم گرفت که سرمایه‌گذاری در شرکت مناسب است یا خیر.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>جریان وجه نقد شامل چه بخش‌هایی است؟</summary>
 جریان وجه نقد شامل سه بخش اصلی است: 

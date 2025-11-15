@@ -2,12 +2,72 @@
 title: سفته چیست؟ قانون سفته و نحوه صدور آن
 author: تیم تحریریه هوشکار
 description: سفته یکی از اسناد مالی پرکاربرد است که تعهد به پرداخت مبلغی مشخص را از سوی صادرکننده به ذی‌نفع نشان می‌دهد. این سند با کاربردهای متنوعی مانند تضمین پرداخت و اجرای تعهدات، جایگاه مهمی در معاملات مالی دارد و شناخت قوانین مربوط به آن می‌تواند از مشکلات حقوقی جلوگیری کند.
-dateModified: 2025/11/03
+dateModified: 2025/11/15
 datePublished: 2024/09/30
 uid: Financial/WhatIsPromissoryNote
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+  /* استایل اختصاصی جدول مقایسه */
+  .faq-block table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px; /* هماهنگ با متن اصلی */
+    line-height: 30px;
+    color: #002145;
+    margin-top: 15px;
+  }
+
+  .faq-block th, 
+  .faq-block td {
+    padding: 0.6rem;
+    text-align: right;
+    border: 1px solid #dcdcdc;
+  }
+
+  .faq-block thead tr {
+    background-color: #eeeeff;
+  }
+
+  .faq-block tbody tr:nth-child(even) {
+    background-color: #fafaff;
+  }
+
+  /* پاراگراف پایانی */
+  .faq-block p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -19,14 +79,14 @@ uid: Financial/WhatIsPromissoryNote
       <li>حداکثر مبلغ سفته چقدر است؟</li>
       <li>تفاوت‌های اصلی چک و سفته</li>
       <li>نکات حقوقی و مسئولیت‌ها</li>
-      <li>سؤالات متداول (FAQ)</li>
+      <li>سؤالات متداول</li>
   </ul>
 </details>
 </blockquote><br/>
 
 سفته یکی از اسناد مالی پرکاربرد در معاملات است که به‌طور مستقیم تعهد به پرداخت مبلغی مشخص را از سوی صادرکننده به ذی‌نفع نشان می‌دهد. این سند با کاربردهای متنوعی همچون تضمین پرداخت و اجرای تعهدات در زمینه‌های مختلف، از جمله وام، خرید کالا و استخدام، جایگاه ویژه‌ای در دنیای تجارت دارد.  
 
-<blockquote style="background-color:#f9f9f9; padding:0.5rem; border-left:4px solid #7066f1;">
+<blockquote class="faq-block">
 برای مثال، تصور کنید شرکتی می‌خواهد کالایی را خریداری کند و نگران است که فروشنده وجه را دریافت نکند؛ در این شرایط، سفته می‌تواند به عنوان تضمین پرداخت عمل کند و امنیت معامله را افزایش دهد.
 </blockquote><br/>
 
@@ -100,42 +160,44 @@ uid: Financial/WhatIsPromissoryNote
 
 ### تفاوت‌های اصلی چک و سفته
 
-<table style="width:100%; border-collapse:collapse; font-size:0.9rem;">
+<blockquote class="faq-block">
+<table>
 <thead>
-<tr style="background-color:#eeeeff;">
-<th style="padding:0.6rem;">ویژگی</th>
-<th style="padding:0.6rem;">سفته</th>
-<th style="padding:0.6rem;">چک</th>
+<tr>
+<th>ویژگی</th>
+<th>سفته</th>
+<th>چک</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="padding:0.5rem;">صدور</td>
-<td style="padding:0.5rem;">توسط شخص متعهد</td>
-<td style="padding:0.5rem;">از حساب بانکی صادر می‌شود</td>
-</tr>
-<tr style="background-color:#fafaff;">
-<td style="padding:0.5rem;">هدف</td>
-<td style="padding:0.5rem;">تضمین یا تعهد</td>
-<td style="padding:0.5rem;">پرداخت مستقیم پول</td>
+<td>صدور</td>
+<td>توسط شخص متعهد</td>
+<td>از حساب بانکی صادر می‌شود</td>
 </tr>
 <tr>
-<td style="padding:0.5rem;">امکان انتقال</td>
-<td style="padding:0.5rem;">در وجه حامل ممکن است</td>
-<td style="padding:0.5rem;">بستگی به نوع چک دارد</td>
-</tr>
-<tr style="background-color:#fafaff;">
-<td style="padding:0.5rem;">مسئولیت ضامن</td>
-<td style="padding:0.5rem;">مسئولیت برابر با صادرکننده</td>
-<td style="padding:0.5rem;">معمولاً ندارد</td>
+<td>هدف</td>
+<td>تضمین یا تعهد</td>
+<td>پرداخت مستقیم پول</td>
 </tr>
 <tr>
-<td style="padding:0.5rem;">جنبه قانونی</td>
-<td style="padding:0.5rem;">حقوقی</td>
-<td style="padding:0.5rem;">حقوقی و کیفری</td>
+<td>امکان انتقال</td>
+<td>در وجه حامل ممکن است</td>
+<td>بستگی به نوع چک دارد</td>
+</tr>
+<tr>
+<td>مسئولیت ضامن</td>
+<td>مسئولیت برابر با صادرکننده</td>
+<td>معمولاً ندارد</td>
+</tr>
+<tr>
+<td>جنبه قانونی</td>
+<td>حقوقی</td>
+<td>حقوقی و کیفری</td>
 </tr>
 </tbody>
 </table>
+</blockquote>
 
 ---
 
@@ -149,21 +211,21 @@ uid: Financial/WhatIsPromissoryNote
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا سفته بدون تاریخ معتبر است؟</summary>
 <p>خیر، تاریخ پرداخت یکی از عناصر اصلی اعتبار سفته است.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>اگر ضامن سفته را امضا کند و صادرکننده پرداخت نکند، چه می‌شود؟</summary>
 <p>ضامن موظف به پرداخت همان مبلغ است و می‌تواند از صادرکننده مطالبه بازپرداخت نماید.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا امکان اصلاح سفته بعد از صدور وجود دارد؟</summary>
 <p>تنها در صورت توافق طرفین و با رعایت قوانین مربوط به تغییرات، امکان اصلاح وجود دارد.</p>

@@ -2,12 +2,12 @@
 title: اصول حسابداری + مثال کاربردی هر کدام (راهنمای کامل ۱۴۰۴)
 author: تیم تحریریه هوشکار
 description: اصول حسابداری به مبانی، قواعد، طبقه‌بندی و گزارش معاملات مالی می‌پردازد و پایه تصمیم‌گیری مدیران در سنجش عملکرد مالی سازمان‌هاست. در این مطلب با انواع اصول حسابداری و مفروضات آن آشنا می‌شوید.
-dateModified: 2025/10/31
+dateModified: 2025/11/15
 datePublished: 2023/03/07
 uid: Financial/AccountingPrinciples
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -165,21 +165,21 @@ uid: Financial/AccountingPrinciples
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>اصول حسابداری چند مورد هستند و مهم‌ترین آن‌ها کدام‌اند؟</summary><br/>
     اصول حسابداری به‌طور کلی شامل چهار رکن اصلی است: اصل افشای کامل اطلاعات، اصل بهای تمام‌شده، اصل تحقق درآمد و اصل تطابق هزینه با درآمد. این اصول مبنای ثبت و گزارش مالی شرکت‌ها هستند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>تفاوت بین اصول حسابداری و مفروضات حسابداری چیست؟</summary><br/>
     مفروضات حسابداری، پایه فکری و فلسفی اصول هستند و چارچوب کلی تهیه صورت‌های مالی را مشخص می‌کنند، در حالی‌که اصول حسابداری قواعد اجرایی برای ثبت و گزارش اطلاعات مالی محسوب می‌شوند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چرا آشنایی با اصول حسابداری برای مدیران مهم است؟</summary><br/>
     مدیران با درک صحیح اصول حسابداری می‌توانند گزارش‌های مالی را بهتر تحلیل کنند، تصمیم‌های اقتصادی دقیق‌تری بگیرند و از بروز اشتباه یا تخلفات مالی جلوگیری نمایند.

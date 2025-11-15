@@ -2,12 +2,12 @@
 title: آموزش ذخیره شناسه یکتا حافظه مالیاتی
 author: تیم تحریریه هوشکار
 description: راهنمای جامع برای دریافت و ذخیره شناسه یکتای حافظه مالیاتی از سامانه مودیان، شامل مراحل ورود، دریافت رمز، ویرایش و ثبت اطلاعات در نرم‌افزار مالیاتی.
-dateModified: 2025/10/28
+dateModified: 2025/11/15
 datePublished: 2024/11/17
 uid: Financial/HowToSaveAUniqueTaxMemoryId
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>فهرست مطالب</summary>
   <ul>
@@ -70,28 +70,28 @@ uid: Financial/HowToSaveAUniqueTaxMemoryId
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا هر مودی باید شناسه یکتا داشته باشد؟</summary>
   بله، تمامی مودیان موظف به دریافت و ثبت شناسه یکتای حافظه مالیاتی هستند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا برای هر نرم‌افزار مالیاتی شناسه جداگانه نیاز است؟</summary>
   خیر، شناسه یکتا برای هر مودی منحصر به فرد است و می‌توان آن را در نرم‌افزارهای مختلف ثبت کرد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>اگر شناسه یکتا را اشتباه وارد کنم چه باید کرد؟</summary>
   می‌توانید از طریق گزینه "ویرایش" در نرم‌افزار سایان، شناسه صحیح را جایگذاری و ثبت نمایید.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا دریافت شناسه یکتا نیاز به مراجعه حضوری دارد؟</summary>
   خیر، تمام مراحل به صورت آنلاین و از طریق سامانه مودیان انجام می‌شود.

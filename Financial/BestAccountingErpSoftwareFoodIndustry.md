@@ -2,12 +2,12 @@
 title: بهترین راهکارهای نرم افزاری برای مدیریت مالی و تولید در صنایع غذایی
 author: تیم تحریریه هوشکار
 description: بررسی جامع نرم‌افزارهای ERP و مدیریت مالی در صنایع غذایی راهکارهایی برای بهینه‌سازی تولید، کاهش ضایعات، مدیریت انبار و پخش، مناسب برای مدیران و کارشناسان شرکت‌های غذایی.
-dateModified: 2025/10/31
+dateModified: 2025/11/15
 datePublished: 2025/07/04
 uid: Financial/SayanERPForFoodIndustry
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>در این مطلب خواهید خواند:</summary>
   <ul>
@@ -142,7 +142,7 @@ uid: Financial/SayanERPForFoodIndustry
 
 ### سوالات متداول (FAQ)
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>چرا حسابداری در صنعت غذا با دیگر صنایع متفاوت است؟</summary>
 <br/>
@@ -150,7 +150,7 @@ uid: Financial/SayanERPForFoodIndustry
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>آیا می‌توان از نرم‌افزارهای عمومی استفاده کرد؟</summary>
 <br/>
@@ -158,7 +158,7 @@ uid: Financial/SayanERPForFoodIndustry
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>چه نرم‌افزاری برای فروشگاه مواد غذایی مناسب است؟</summary>
 <br/>
@@ -167,7 +167,7 @@ uid: Financial/SayanERPForFoodIndustry
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
 <summary>آیا سایان برای شرکت‌های چندشعبه‌ای مناسب است؟</summary>
 <br/>

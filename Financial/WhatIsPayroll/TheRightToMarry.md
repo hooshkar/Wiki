@@ -2,12 +2,12 @@
 title: حق تاهل و جزییات عائله مندی در سال 1403
 author: تیم تحریریه هوشکار
 description: حق تاهل مبلغی معادل 500 هزار تومان در ماه است که از سال 1403 برای کارگران متاهل تصویب شده و واریز می گردد.
-dateModified: 2025/11/13
+dateModified: 2025/11/15
 datePublished: 2024/05/26
 uid: Financial/WhatIsPayroll/TheRightToMarry
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -55,21 +55,21 @@ uid: Financial/WhatIsPayroll/TheRightToMarry
 
 ### سؤالات متداول درباره حق تاهل و عائله‌مندی
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا حق تاهل به کارگران مجرد تعلق می‌گیرد؟</summary><br/>
     خیر، حق تاهل تنها به کارگران متأهل پرداخت می‌شود و شامل افرادی که همسرشان فوت کرده یا جدا شده‌اند نمی‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چگونه می‌توانم حق اولاد را دریافت کنم؟</summary><br/>
     برای دریافت حق اولاد، باید کارگر دارای فرزند بوده و حداقل **۷۲۰ روز سابقه پرداخت حق بیمه** داشته باشد. مبلغ حق اولاد برای هر فرزند به صورت ماهانه به حقوق پایه اضافه می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا حق تاهل و حق اولاد مشمول کسورات بیمه می‌شوند؟</summary><br/>
     حق تاهل مشمول کسر حق بیمه است، اما کمک عائله‌مندی از کسر حق بیمه **معاف** می‌باشد.

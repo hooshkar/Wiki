@@ -2,12 +2,12 @@
 title: انبارداری چیست؟ (آموزش صفر تا صد انبارداری)
 author: تیم تحریریه هوشکار
 description: انبارداری یعنی نگهداری ایمن از اقلامی که در انبار سازمان‌ها وجود دارند. به گونه‌ای که از مفقود شدن و هرگونه آسیب به کالا جلوگیری گردد.
-dateModified: 2025/10/29
+dateModified: 2025/11/15
 datePublished: 2023/10/21
 uid: Financial/Inventory
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -213,35 +213,35 @@ uid: Financial/Inventory
 
 ## سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چرا انبارداری برای سازمان‌ها اهمیت دارد؟</summary>
   انبارداری باعث حفظ سرمایه، جلوگیری از مفقودی و آسیب کالا، و تسهیل در تصمیم‌گیری‌های مدیریتی می‌شود. با مدیریت درست انبار، جریان نقدی و موجودی مواد اولیه کنترل‌شده‌تر خواهد بود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>تفاوت بین رسید انبار و حواله انبار چیست؟</summary>
   رسید انبار زمانی صادر می‌شود که کالا وارد انبار شود، در حالی که حواله انبار برای خروج کالا از انبار استفاده می‌گردد. هر دو سند برای کنترل دقیق ورود و خروج ضروری هستند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>کدام سیستم انبارداری برای کالاهای تاریخ‌دار مناسب‌تر است؟</summary>
   سیستم <strong>FiFo (اولین ورودی، اولین خروجی)</strong> برای کالاهای تاریخ‌دار مانند مواد غذایی و دارویی مناسب‌تر است تا از فساد یا انقضای زودهنگام کالا جلوگیری شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>انبارگردانی هر چند وقت یک‌بار باید انجام شود؟</summary>
   معمولاً سازمان‌ها سالی یک‌بار انبارگردانی کامل انجام می‌دهند تا مغایرت موجودی واقعی با اطلاعات ثبت‌شده در سیستم مشخص شود، هرچند در سازمان‌های بزرگ این کار به‌صورت دوره‌ای (سه‌ماهه یا شش‌ماهه) هم صورت می‌گیرد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>بهترین نرم‌افزار انبارداری برای سازمان‌های تولیدی کدام است؟</summary>
   <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">نرم‌افزار حسابداری انبار سایان</a> یکی از بهترین گزینه‌ها برای شرکت‌های تولیدی است، زیرا ثبت ورود و خروج کالا، صدور رسید، حواله و گزارش‌های مالی را به‌صورت یکپارچه انجام می‌دهد.

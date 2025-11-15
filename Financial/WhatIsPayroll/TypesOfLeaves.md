@@ -2,12 +2,12 @@
 title: جدول مرخصی کارگران و انواع آن
 author: تیم تحریریه هوشکار
 description: مشاهده جدول مرخصی کارگران و چگونگی محاسبه انواع آنها در قانون کار.
-dateModified: 2024/11/13
+dateModified: 2024/11/15
 datePublished: 2022/07/01
 uid: Financial/WhatIsPayroll/TypesOfLeaves
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -88,28 +88,28 @@ uid: Financial/WhatIsPayroll/TypesOfLeaves
 
 ### سؤالات متداول درباره مرخصی در قانون کار
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا کارفرما می‌تواند با درخواست مرخصی مخالفت کند؟</summary><br/>
     بله، در شرایط خاص کاری و به‌دلیل نیاز فوری سازمان، کارفرما می‌تواند زمان استفاده از مرخصی را تغییر دهد، اما نمی‌تواند کارگر را از اصل حق مرخصی محروم کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>اگر مرخصی استحقاقی استفاده نشود، چه می‌شود؟</summary><br/>
     بر اساس ماده 66 قانون کار، حداکثر 9 روز از مرخصی استفاده‌نشده به سال بعد منتقل می‌شود و مازاد آن باید توسط کارفرما به‌صورت نقدی پرداخت گردد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>مرخصی استعلاجی جزو سابقه کار محسوب می‌شود؟</summary><br/>
     بله. اگر مرخصی با تأیید پزشک معتمد و سازمان تأمین اجتماعی باشد، هم جزو سوابق بیمه‌ای و هم سابقه کاری فرد محسوب می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا مرخصی ساعتی برای کار پاره‌وقت هم محاسبه می‌شود؟</summary><br/>
     بله، میزان مرخصی ساعتی متناسب با ساعات کاری فرد در روز تعیین و از سهم مرخصی استحقاقی او کسر می‌شود.

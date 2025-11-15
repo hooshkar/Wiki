@@ -2,11 +2,11 @@
 title: تعریف مالیات بر دارایی و انواع آن
 author: تیم تحریریه هوشکار
 description: این مقاله به بررسی جنبه‌های مختلف مالیات بر دارایی می‌پردازد، از تعریف آن به عنوان مالیاتی بر ثروت و دارایی‌های خالص افراد گرفته تا انواع و کاربردهای آن در کشورهای مختلف، از جمله ایران.
-dateModified: 2025/11/07
+dateModified: 2025/11/15
 datePublished: 2024/05/21
 uid: Financial/DefinitionOfPropertyTax
 ---
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -95,35 +95,35 @@ uid: Financial/DefinitionOfPropertyTax
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>مالیات بر دارایی شامل چه اموالی می‌شود؟</summary><br/>
     شامل تمامی دارایی‌های نقدی و غیرنقدی فرد مانند پول نقد، املاک، خودرو، سهام و اوراق قرضه می‌باشد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا دارایی‌های ارثی هم مشمول مالیات می‌شوند؟</summary><br/>
     بله، دارایی‌هایی که به وارث منتقل می‌شوند، مشمول مالیات بر دارایی هستند و از اموال متوفی کسر می‌شوند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>مالیات خانه‌های خالی چگونه محاسبه می‌شود؟</summary><br/>
     خانه‌های خالی بیش از یک سال مشمول مالیات می‌شوند و نرخ آن از سال دوم افزایش می‌یابد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چه معافیت‌هایی برای مالیات بر املاک وجود دارد؟</summary><br/>
     مالکانی که بیش از ۱۰ سال از تاریخ تملک املاک مسکونی گذشته‌اند، می‌توانند از معافیت‌های مالیاتی بهره‌مند شوند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا مالیات بر دارایی به کاهش فاصله طبقاتی کمک می‌کند؟</summary><br/>
     بله، اعمال مالیات بر دارایی باعث افزایش منابع مالی دولت و توزیع عادلانه‌تر ثروت در جامعه می‌شود.

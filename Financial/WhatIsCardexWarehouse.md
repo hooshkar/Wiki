@@ -2,12 +2,39 @@
 title: کاردکس انبار چیست؟
 author: تیم تحریریه هوشکار
 description: کاردکس انبار سیستمی است برای ثبت، ردیابی و کنترل ورود و خروج کالاها در انبار. این مقاله به بررسی اجزا، انواع، مزایا و نحوه استفاده از کاردکس در انبارداری می‌پردازد.
-dateModified: 2025/11/03
+dateModified: 2025/11/15
 datePublished: 2024/04/29
 uid: Financial/WhatIsCardexWarehouse
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -111,21 +138,21 @@ uid: Financial/WhatIsCardexWarehouse
 ---
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
   <summary>آیا کاردکس انبار همان فهرست موجودی است؟</summary>
   <p>خیر. فهرست موجودی فقط وضعیت فعلی کالا را نشان می‌دهد، اما کاردکس انبار تاریخچه ورود و خروج هر قلم کالا را نیز ثبت می‌کند.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
   <summary>آیا نرم‌افزار کاردکس انبار جایگزین انباردار می‌شود؟</summary>
   <p>خیر، بلکه ابزار کمکی برای افزایش دقت و کاهش خطای انسانی است.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
   <summary>آیا می‌توان کاردکس انبار را با حسابداری یکپارچه کرد؟</summary>
   <p>بله، در سیستم‌های ERP مانند <a href="https://www.hooshkar.com/Software/Sayan" target="_blank">سایان</a>، کاردکس به‌صورت مستقیم با حسابداری و خرید و فروش در ارتباط است.</p>

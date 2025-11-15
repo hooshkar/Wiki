@@ -2,12 +2,12 @@
 title: محاسبه مالیات شرکت‌های غیر فعال چگونه است؟
 author: تیم تحریریه هوشکار
 description: شرکت‌های غیرفعال، شرکت‌هایی هستند که با وجود ثبت قانونی، هیچ‌گونه فعالیت اقتصادی و تجاری ندارند و گردش مالی آن‌ها صفر است. این شرکت‌ها می‌توانند برای بهره‌مندی از معافیت‌های مالیاتی، وضعیت عدم فعالیت خود را به‌طور رسمی به اداره مالیات اعلام کنند.
-dateModified: 2025/10/28
+dateModified: 2025/11/15
 datePublished: 2024/08/21
 uid: Financial/HowToCalculateTheTaxOfInactiveCompanies
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -102,28 +102,28 @@ uid: Financial/HowToCalculateTheTaxOfInactiveCompanies
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا شرکت بدون فعالیت مالیات می‌پردازد؟</summary>
   اگر عدم فعالیت به اداره مالیات اثبات شود، شرکت مشمول مالیات نخواهد بود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چه مدارکی برای اعلام عدم فعالیت نیاز است؟</summary>
   مدارکی شامل گردش حساب بانکی صفر، عدم فاکتورها و صورت‌حساب‌ها، پلمپ دفاتر و عدم پرداخت حقوق است.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا شروع مجدد فعالیت شرکت نیاز به اعلام دارد؟</summary>
   بله، مدیران موظف به اعلام کتبی به اداره مالیات هستند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا انحلال شرکت مالیات معاف دارد؟</summary>
   بله، در صورت ارائه اظهارنامه انحلال و تسویه بدهی‌ها، شرکت از پرداخت مالیات معاف می‌شود.

@@ -2,12 +2,12 @@
 title: تفاوت کدینگ حسابداری با کدینگ حسابداری صنعتی
 author: تیم تحریریه هوشکار
 description: در این مقاله به بررسی تفاوت‌ها و کاربردهای دو سیستم کدینگ حسابداری و حسابداری صنعتی پرداخته‌ایم. در حسابداری صنعتی، با استفاده از کدهای خاص، اطلاعات دقیق و به‌روز در مورد حساب‌ها فراهم می‌شود که به کنترل دقیق دارایی‌ها کمک می‌کند.
-dateModified: 2025/10/28
+dateModified: 2025/11/15
 datePublished: 2022/12/19
 uid: Financial/IndustrialAccountingCoding
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>فهرست مطالب</summary>
   <ul>
@@ -79,28 +79,28 @@ uid: Financial/IndustrialAccountingCoding
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا کدینگ حسابداری صنعتی فقط در کارخانه‌ها کاربرد دارد؟</summary>
   بله، این نوع کدینگ بیشتر برای صنایع تولیدی و شرکت‌هایی استفاده می‌شود که نیاز به محاسبه بهای تمام‌شده دارند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا می‌توان از کدینگ صنعتی در نرم‌افزارهای عمومی استفاده کرد؟</summary>
   تنها در صورتی که نرم‌افزار قابلیت تعریف ساختار چندسطحی و گزارش بهای تمام‌شده را داشته باشد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>تفاوت اصلی کدینگ حسابداری و صنعتی در چیست؟</summary>
   کدینگ حسابداری برای ثبت عمومی تراکنش‌ها و کدینگ صنعتی برای کنترل دقیق هزینه‌ها و مواد استفاده می‌شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>بهترین نرم افزار حسابداری بهای تمام شده چیست؟</summary>
   نرم‌افزار حسابداری بهای تمام‌شده سایان یکی از بهترین گزینه‌ها برای صنایع تولیدی است، زیرا به‌صورت تخصصی برای تحلیل و کنترل هزینه‌های تولید طراحی شده است.

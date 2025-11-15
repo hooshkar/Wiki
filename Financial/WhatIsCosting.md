@@ -7,7 +7,67 @@ datePublished: 2023/10/14
 uid: Financial/WhatIsCosting
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+  /* استایل اختصاصی جدول مقایسه */
+  .faq-block table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px; /* هماهنگ با متن اصلی */
+    line-height: 30px;
+    color: #002145;
+    margin-top: 15px;
+  }
+
+  .faq-block th, 
+  .faq-block td {
+    padding: 0.6rem;
+    text-align: right;
+    border: 1px solid #dcdcdc;
+  }
+
+  .faq-block thead tr {
+    background-color: #eeeeff;
+  }
+
+  .faq-block tbody tr:nth-child(even) {
+    background-color: #fafaff;
+  }
+
+  /* پاراگراف پایانی */
+  .faq-block p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -67,7 +127,7 @@ uid: Financial/WhatIsCosting
 
 اصول حسابداری بهای تمام شده به سازمان‌ها کمک می‌کند تا عملکرد مالی و عملیاتی خود را بهبود بخشند و منابع خود را بهینه‌سازی کنند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<blockquote class="faq-block">
 <p><strong>بیشتر بخوانید: لیست <a href="https://www.hooshkar.com/Wiki/Financial/TheBestCostAccountingSoftware" target="_blank">بهترین نرم افزار های بهای تمام شده</a></p></strong></blockquote>
 
 ### وظایف یک حسابدار بهای تمام شده چیست؟
@@ -86,7 +146,7 @@ uid: Financial/WhatIsCosting
 
 **6. تحلیل و بررسی موجودی کالاها:** برای قیمت‌گذاری محصولات و کنترل موجودی‌ها، باید موجودی‌های کالاها را با دقت تحلیل و بررسی کند. این اطلاعات اساسی برای تعیین قیمت‌ها و مدیریت موجودی‌ها می‌باشد.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<blockquote class="faq-block">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/AccountingPrinciples" target="_blank">اصول حسابداری چیست؟
 </a></p></strong></blockquote>
 
@@ -231,54 +291,54 @@ uid: Financial/WhatIsCosting
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>بهای تمام شده چیست و چه تفاوتی با هزینه‌های فروش دارد؟</summary> <p>بهای تمام شده شامل هزینه‌های مستقیم مرتبط با تولید یا ارائه خدمت است، مانند مواد اولیه و دستمزد نیروی کار مستقیم. هزینه‌های فروش و توزیع که غیرمستقیم هستند، در بهای تمام شده لحاظ نمی‌شوند.</p>
 </details>
 </blockquote> 
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چرا حسابداری بهای تمام شده برای کسب‌وکارها اهمیت دارد؟</summary>این شاخه از حسابداری به مدیران کمک می‌کند تا هزینه‌ها را دقیق محاسبه کنند، قیمت محصولات را بهینه تعیین کنند و تصمیمات مالی و تولیدی بهتری اتخاذ نمایند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چه انواع بهای تمام شده وجود دارد؟</summary>
 انواع آن شامل بهای تمام شده مستقیم، غیرمستقیم، فرصت از دست رفته، اختیاری، قابل کنترل و غیرقابل کنترل و تفاضلی است. هر کدام کاربرد خاص خود را در تصمیم‌گیری‌های مالی و تولیدی دارند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>روش‌های محاسبه بهای تمام شده کدامند؟</summary>
 روش‌ها شامل هزینه‌یابی سفارش کار، هزینه‌یابی مرحله‌ای و هزینه‌یابی عملیات هستند. انتخاب روش مناسب به نوع تولید و فرآیند سازمان بستگی دارد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چگونه بهای تمام شده در شرکت‌های تولیدی محاسبه می‌شود؟</summary>
 ابتدا هزینه‌های مستقیم و غیرمستقیم تولید مشخص می‌شود، سپس موجودی کالا در ابتدا و پایان دوره در نظر گرفته می‌شود و در نهایت بهای تمام شده کل محاسبه و به تعداد کالاها تقسیم می‌شود تا بهای واحد به دست آید.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>محاسبه بهای تمام شده در شرکت‌های خدماتی چگونه است؟</summary>
 هزینه‌های مستقیم کارکنان، مواد مصرفی، تجهیزات، مکان، سربار و سایر هزینه‌های مرتبط با ارائه خدمت محاسبه می‌شود و سپس بهای تمام شده به تعداد خدمات ارائه شده تقسیم می‌شود تا بهای واحد مشخص شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>اصل بهای تمام شده چیست؟</summary>
 این اصل می‌گوید که تمامی رویدادهای مالی بر اساس ارزش آنها در زمان وقوع ثبت می‌شوند و اثر گذر زمان یا تغییر ارزش پول در ثبت اولیه تأثیری ندارد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چگونه می‌توان بهای تمام شده را کاهش داد؟</summary>با خرید مطمئن و بهینه مواد اولیه، کاهش ضایعات تولید، استفاده از اتوماسیون، کنترل هزینه‌های سربار و بهبود فرآیندهای تولید می‌توان بهای تمام شده را کاهش داد.
 </details>

@@ -2,12 +2,12 @@
 title: آشنایی با انواع ثبت های حسابداری صنعتی
 author: تیم تحریریه هوشکار
 description: ثبت‌های حسابداری صنعتی شامل ثبت تراکنش‌های مالی شرکت، دریافت و پرداخت وجه، خرید و فروش کالاها، پرداخت حقوق کارکنان و ارائه گزارش‌های مالی به مدیران و سایر صاحبان سهام می‌باشد.
-dateModified: 2025/10/29
+dateModified: 2025/11/15
 datePublished: 2024/01/01
 uid: Financial/IndustrialAccountingRecords
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -139,28 +139,28 @@ uid: Financial/IndustrialAccountingRecords
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چرا ثبت‌های حسابداری صنعتی اهمیت دارند؟</summary>
   ثبت‌های حسابداری صنعتی امکان مدیریت دقیق هزینه‌ها و درآمدها، تهیه گزارش‌های مالی دقیق و تصمیم‌گیری استراتژیک را فراهم می‌کنند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>نرم‌افزارهای حسابداری چه کمکی می‌کنند؟</summary>
   این نرم‌افزارها تمامی تراکنش‌ها را در یک پایگاه داده ثبت و امکان گزارش‌گیری سریع و دقیق را فراهم می‌کنند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چه نکاتی در ثبت هزینه‌ها و درآمدها باید رعایت شود؟</summary>
   دقت در ثبت جزئیات، رعایت استانداردهای حسابداری و مسائل مالیاتی از مهم‌ترین نکات هستند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>بهترین نرم‌افزار حسابداری بهای تمام شده کدام است؟</summary>
   نرم‌افزار حسابداری بهای تمام‌شده سایان یکی از بهترین گزینه‌ها برای صنایع تولیدی است، زیرا به‌صورت تخصصی برای تحلیل و کنترل هزینه‌های تولید طراحی شده است.

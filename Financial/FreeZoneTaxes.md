@@ -2,12 +2,12 @@
 title: هر آنچه باید از مالیات مناطق آزاد و معافیت آنها بدانیم
 author: تیم تحریریه هوشکار
 description: بررسی جامع مناطق آزاد تجاری-صنعتی ایران، شامل تعریف، مزایا و قوانین مرتبط. تشریح معافیت‌های مالیاتی، شرایط بهره‌مندی از آنها و الزامات قانونی فعالیت در این مناطق. 
-dateModified: 2025/10/27
+dateModified: 2025/11/15
 datePublished: 2024/08/03
 uid: Financial/FreeZoneTaxes
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -98,35 +98,35 @@ uid: Financial/FreeZoneTaxes
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا همه شرکت‌های ثبت‌شده در مناطق آزاد از مالیات معاف هستند؟</summary>
   خیر، تنها شرکت‌هایی که <strong>فعالیت اقتصادی واقعی در محدوده منطقه دارند</strong> و مجوز فعالیت را از سازمان منطقه آزاد دریافت کرده‌اند، مشمول معافیت می‌شوند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>مدت زمان معافیت مالیاتی در مناطق آزاد چقدر است؟</summary>
   بر اساس ماده ۱۳ قانون، این معافیت به مدت <strong>۱۵ سال از تاریخ بهره‌برداری</strong> معتبر است و پس از آن شرکت‌ها تابع مقررات مالیاتی عمومی کشور خواهند بود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا معافیت مالیاتی مناطق آزاد شامل مالیات بر ارزش افزوده هم می‌شود؟</summary>
   خیر، مالیات بر ارزش افزوده (VAT) بسته به نوع کالا و خدمات ممکن است همچنان اعمال شود. تشخیص نهایی آن بر اساس <strong>آیین‌نامه‌های هر منطقه آزاد</strong> صورت می‌گیرد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا اشخاص حقیقی هم می‌توانند از معافیت استفاده کنند؟</summary>
   بله، در صورتی که فعالیت اقتصادی در منطقه آزاد انجام دهند و <strong>اظهارنامه مالیاتی و مجوز فعالیت</strong> خود را ارائه کنند، می‌توانند از معافیت ماده ۱۳ استفاده نمایند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>در صورت فعالیت شرکت در خارج از منطقه آزاد چه اتفاقی می‌افتد؟</summary>
   در این حالت، شرکت مشمول معافیت نخواهد بود و <strong>باید مالیات خود را طبق قانون مالیات‌های مستقیم</strong> پرداخت کند؛ زیرا فعالیت اقتصادی باید در محدوده منطقه آزاد انجام شود.

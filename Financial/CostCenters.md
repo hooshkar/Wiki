@@ -2,12 +2,12 @@
 title: مرکز هزینه چیست؟ نمونه مراکز هزینه در شرکت‌های تولیدی
 author: تیم تحریریه هوشکار
 description: هدف از ایجاد مراکز هزینه در شرکت‌های تولیدی، مدیریت دقیق هزینه‌ها و بهبود عملکرد سازمان است. با تقسیم هزینه‌ها بر اساس مراکز هزینه، می‌توان هزینه‌های هر بخش را تحلیل و کنترل کرد.
-dateModified: 2025/10/25
+dateModified: 2025/11/15
 datePublished: 2023/03/16
 uid: Financial/CostCenters
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -78,21 +78,21 @@ uid: Financial/CostCenters
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>مرکز هزینه چیست و چه اهمیتی دارد؟</summary>
   مرکز هزینه بخشی از سازمان است که هزینه‌های مرتبط با فعالیت‌های آن ثبت و مدیریت می‌شود و به کنترل هزینه‌ها و بهبود عملکرد کمک می‌کند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>چگونه ERP به بهینه‌سازی مراکز هزینه کمک می‌کند؟</summary>
   ERP با یکپارچه‌سازی اطلاعات، گزارش‌دهی دقیق و خودکارسازی فرآیندها، امکان شناسایی هزینه‌های غیرضروری و تخصیص منابع بهینه را فراهم می‌کند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>نمونه مراکز هزینه در شرکت‌های تولیدی کدامند؟</summary>
   مراکز هزینه در شرکت‌های تولیدی شامل خط تولید، تحقیق و توسعه، بازاریابی، پخش و مدیریت هستند و هزینه‌های مستقیم و غیرمستقیم هر بخش ثبت می‌شوند.

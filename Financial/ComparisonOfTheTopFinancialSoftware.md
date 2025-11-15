@@ -2,12 +2,12 @@
 title: مقایسه بهترین نرم‌افزارهای حسابداری ایران | سایان، سپیدار و هلو
 author: تیم تحریریه هوشکار
 description: مقایسه جامع نرم‌افزارهای حسابداری سایان، سپیدار و هلو شامل قابلیت‌ها، ویژگی‌ها، تجربه کاربری و بازار هدف برای انتخاب بهترین گزینه مناسب کسب‌وکار شما.
-dateModified: 2025/10/24
+dateModified: 2025/11/15
 datePublished: 2022/07/31
 uid: Financial/ComparisonOfTheTopFinancialSoftware
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -61,7 +61,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>کدام نرم‌افزار برای کسب‌وکارهای کوچک مناسب است؟</summary>
     <br/>
@@ -69,7 +69,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا با یادگیری یک نرم‌افزار می‌توان با دیگر نرم‌افزارها هم کار کرد؟</summary>
     <br/>
@@ -77,7 +77,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>کدام نرم‌افزار قابلیت سفارشی‌سازی بیشتری دارد؟</summary>
     <br/>
@@ -85,7 +85,7 @@ uid: Financial/ComparisonOfTheTopFinancialSoftware
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا نرم‌افزارهای مقایسه شده برای شرکت‌های چندشعبه‌ای مناسب هستند؟</summary>
     <br/>

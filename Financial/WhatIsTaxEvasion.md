@@ -2,12 +2,72 @@
 title: فرار مالیاتی چیست؟
 author: تیم تحریریه هوشکار
 description: فرار مالیاتی، اقدامی است برای کاهش یا اجتناب از پرداخت مالیات که پیامدهای جدی قانونی و اقتصادی دارد. این پدیده شامل روش‌های متنوعی از پنهان‌کاری درآمد تا سوءاستفاده از معافیت‌ها می‌شود و می‌تواند منجر به مجازات‌هایی چون حبس، جریمه و محرومیت از حقوق اجتماعی گردد.
-dateModified: 2025/11/02
+dateModified: 2025/11/15
 datePublished: 2024/08/11
 uid: Financial/WhatIsTaxEvasion
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+  /* استایل اختصاصی جدول مقایسه */
+  .faq-block table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px; /* هماهنگ با متن اصلی */
+    line-height: 30px;
+    color: #002145;
+    margin-top: 15px;
+  }
+
+  .faq-block th, 
+  .faq-block td {
+    padding: 0.6rem;
+    text-align: right;
+    border: 1px solid #dcdcdc;
+  }
+
+  .faq-block thead tr {
+    background-color: #eeeeff;
+  }
+
+  .faq-block tbody tr:nth-child(even) {
+    background-color: #fafaff;
+  }
+
+  /* پاراگراف پایانی */
+  .faq-block p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -90,7 +150,7 @@ uid: Financial/WhatIsTaxEvasion
 
 ### نمونه‌های واقعی از فرار مالیاتی
 
-<blockquote style="background-color:#f9f9ff; padding:0.5rem; border-right:4px solid #7066f1;">
+<blockquote class="faq-block">
 <p><strong>نمونه داخلی:</strong> در سال‌های اخیر، برخی شرکت‌ها با ثبت فاکتورهای صوری و استفاده از کارت بازرگانی افراد بی‌اطلاع، از پرداخت مالیات بر ارزش افزوده فرار کردند. این موضوع باعث شد سازمان امور مالیاتی طرح «سامانه مؤدیان» را برای شفافیت تراکنش‌ها راه‌اندازی کند.</p>
 <p><strong>نمونه بین‌المللی:</strong> شرکت اپل در ایرلند متهم به فرار مالیاتی از طریق انتقال سود به شرکت‌های تابعه با مالیات پایین شد. کمیسیون اروپا حکم به بازگرداندن میلیاردها یورو مالیات داد.</p>
 </blockquote>
@@ -99,33 +159,33 @@ uid: Financial/WhatIsTaxEvasion
 
 ### تفاوت فرار مالیاتی و اجتناب مالیاتی
 
-<blockquote style="background-color:#f9f9ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
-  <table style="width:100%; border-collapse:collapse; font-size:0.9rem;">
+<blockquote class="faq-block">
+  <table>
     <thead>
       <tr>
-        <th style="padding:0.5rem; text-align:right;">موضوع</th>
-        <th style="padding:0.5rem; text-align:right;">فرار مالیاتی</th>
-        <th style="padding:0.5rem; text-align:right;">اجتناب مالیاتی</th>
+        <th>موضوع</th>
+        <th>فرار مالیاتی</th>
+        <th>اجتناب مالیاتی</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding:0.4rem;">ماهیت</td>
+        <td>ماهیت</td>
         <td>غیرقانونی و جرم محسوب می‌شود</td>
         <td>قانونی اما با استفاده از خلأهای قانون</td>
       </tr>
       <tr>
-        <td style="padding:0.4rem;">روش انجام</td>
+        <td>روش انجام</td>
         <td>پنهان‌کاری، جعل اسناد، گزارش دروغ</td>
         <td>برنامه‌ریزی مالی هوشمندانه</td>
       </tr>
       <tr>
-        <td style="padding:0.4rem;">پیامد</td>
+        <td>پیامد</td>
         <td>مجازات، حبس و جریمه نقدی</td>
         <td>بدون مجازات، در چارچوب قانون</td>
       </tr>
       <tr>
-        <td style="padding:0.4rem;">نمونه</td>
+        <td>نمونه</td>
         <td>پنهان‌کردن درآمد واقعی</td>
         <td>سرمایه‌گذاری در مناطق دارای معافیت مالیاتی</td>
       </tr>
@@ -169,21 +229,21 @@ uid: Financial/WhatIsTaxEvasion
 
 ### سؤالات متداول درباره فرار مالیاتی
 
-<blockquote style="padding:0.5rem">
+<blockquote class="faq-block">
   <details>
     <summary>آیا همه موارد تخلف مالیاتی، فرار مالیاتی محسوب می‌شود؟</summary><br/>
     خیر. برخی تخلفات ناشی از اشتباه در ثبت یا تأخیر در ارسال اظهارنامه است و در صورت اثبات نیت سوء، فرار مالیاتی تلقی می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا فرار مالیاتی فقط مربوط به شرکت‌های بزرگ است؟</summary><br/>
     خیر. حتی کسب‌وکارهای کوچک یا آزادکاران نیز در صورت عدم شفافیت مالی مشمول جرایم فرار مالیاتی می‌شوند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا پرداخت دیرهنگام مالیات فرار مالیاتی محسوب می‌شود؟</summary><br/>
     خیر. تأخیر در پرداخت معمولاً مشمول جریمه تأخیر است، نه مجازات کیفری فرار مالیاتی.

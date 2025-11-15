@@ -3,13 +3,73 @@
 title: صفر تا صد قانون مالیات بر ارث
 author: تیم تحریریه هوشکار
 description: راهنمای کامل و کاربردی مالیات بر ارث در ایران — چیستی، مشمول‌ها، مراحل اجرایی، نحوه محاسبه، معافیت‌ها، اشتباهات رایج و نمونه عملی همراه با دعوت به اقدام.
-dateModified: 2025/11/03
+dateModified: 2025/11/15
 datePublished: 2024/08/26
 uid: Financial/WhatIsInheritanceTax
 
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+  /* استایل اختصاصی جدول مقایسه */
+  .faq-block table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px; /* هماهنگ با متن اصلی */
+    line-height: 30px;
+    color: #002145;
+    margin-top: 15px;
+  }
+
+  .faq-block th, 
+  .faq-block td {
+    padding: 0.6rem;
+    text-align: right;
+    border: 1px solid #dcdcdc;
+  }
+
+  .faq-block thead tr {
+    background-color: #eeeeff;
+  }
+
+  .faq-block tbody tr:nth-child(even) {
+    background-color: #fafaff;
+  }
+
+  /* پاراگراف پایانی */
+  .faq-block p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>

@@ -2,12 +2,12 @@
 title: بازار کار حسابداری در ایران - بررسی آینده، مزایا و فرصت‌های شغلی
 author: تیم تحریریه هوشکار
 description: بازار کار حسابداری در ایران با رشد بخش خصوصی، فرصت‌های شغلی فراوانی دارد. در این مطلب از هوشکار، آینده شغلی، مزایا و مهارت‌های لازم برای موفقیت در حسابداری را بررسی می‌کنیم.
-dateModified: 2025/10/31
+dateModified: 2025/11/15
 datePublished: 2023/03/07
 uid: Financial/AccountingJobMarketInIran
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آنچه در این مطلب خواهید خواند:</summary>
     <ul>
@@ -113,28 +113,28 @@ uid: Financial/AccountingJobMarketInIran
 
 ### سوالات متداول درباره بازار کار حسابداری
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا بازار کار حسابداری در ایران اشباع شده است؟</summary><br/>
     خیر. با وجود افزایش فارغ‌التحصیلان، نیاز به حسابداران متخصص همچنان بالاست، به‌ویژه در شرکت‌هایی که به سیستم‌های مالی مجهز هستند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چه نرم‌افزارهایی برای ورود به بازار کار حسابداری ضروری‌اند؟</summary><br/>
     تسلط بر نرم‌افزارهایی مانند سایان، سپیدار، راهکاران و Excel برای ورود به بازار کار حسابداری ضروری است. یادگیری نرم‌افزار <a href="https://www.aparat.com/v/f50wbb5" target="_blank">سایان</a> می‌تواند نقطه قوت قابل‌توجهی در رزومه شما باشد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>میانگین درآمد حسابداران در ایران چقدر است؟</summary><br/>
     درآمد حسابداران با توجه به تجربه و موقعیت شغلی متغیر است، اما به‌طور میانگین از ۱۵ تا ۸۰ میلیون تومان در ماه متغیر است.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چطور می‌توانم شانس استخدام خود را در حسابداری افزایش دهم؟</summary><br/>
     شرکت در دوره‌های آموزشی معتبر، تسلط بر نرم‌افزارهای حسابداری و داشتن تجربه کارآموزی از مهم‌ترین عوامل موفقیت در استخدام هستند.

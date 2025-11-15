@@ -2,12 +2,12 @@
 title: فرمول محاسبه مانده مرخصی
 author: تیم تحریریه هوشکار
 description: مبلغ مرخصی مانده بر اساس حقوق و مزایای دریافتی کارگر و با استفاده از فرمول ارائه شده در این مقاله محاسبه می‌شود. آگاهی از فرمول محاسبه مانده مرخصی و حقوق قانونی مرتبط با آن برای کارفرمایان و کارگران ضروری است.
-dateModified: 2025/11/13
+dateModified: 2025/11/15
 datePublished: 2024/05/08
 uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -58,21 +58,21 @@ uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 
 ### سؤالات متداول درباره مانده مرخصی
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا می‌توان بیش از ۹ روز مرخصی را به سال بعد منتقل کرد؟</summary><br/>
     خیر، تنها ۹ روز از مرخصی سالانه طبق ماده ۶۶ قانون کار قابل انتقال است. مابقی مرخصی باید استفاده شود یا با توافق کارفرما به صورت معادل ریالی پرداخت گردد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا مرخصی مانده شامل مزایای روزانه نیز می‌شود؟</summary><br/>
     بله، برای محاسبه ریالی مانده مرخصی، حقوق پایه و تمام مزایای روزانه مانند حق مسکن، بن کارگری، ایاب و ذهاب و غذا لحاظ می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>کارمندی که کمتر از یک سال سابقه کار دارد، چگونه مرخصی‌اش محاسبه می‌شود؟</summary><br/>
     چنین کارمندی امکان انتقال مرخصی به سال بعد را ندارد و باید مرخصی خود را در همان سال مصرف کند یا با توافق کارفرما معادل ریالی دریافت نماید.

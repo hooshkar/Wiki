@@ -2,12 +2,12 @@
 title: آموزش شناسه کالا در سامانه مودیان 
 author: تیم تحریریه هوشکار
 description: این راهنما نحوه دریافت و استفاده از شناسه کالا در سامانه مودیان را توضیح می‌دهد. شامل فرآیند دریافت شناسه‌ها از لیست عمومی، جستجو بر اساس مشخصات کالا و مدیریت آن‌ها از طریق نرم‌افزار سایان است.
-dateModified: 2025/10/27
+dateModified: 2025/11/15
 datePublished: 2024/11/17
 uid: Financial/GuideToCommodityCodeInModianSystem
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -76,37 +76,37 @@ uid: Financial/GuideToCommodityCodeInModianSystem
 
 ---
 
-## سوالات متداول درباره شناسه کالا
+### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا دریافت شناسه کالا برای همه مودیان الزامی است؟</summary>
   بله، تمام مودیانی که صورتحساب الکترونیکی صادر می‌کنند باید برای هر کالا یا خدمت، شناسه مرتبط را درج نمایند. در غیر این صورت، فاکتور آنها در سامانه مودیان پذیرفته نخواهد شد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>اگر کالای من در فهرست عمومی وجود نداشت چه کنم؟</summary>
   در این حالت باید از طریق <strong>سامانه جامع تجارت</strong> برای دریافت شناسه اختصاصی اقدام کنید و پس از تأیید، آن را در سامانه مودیان ثبت نمایید.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا شناسه عمومی با شناسه اختصاصی تفاوت دارد؟</summary>
   بله. شناسه عمومی برای کالاهای پرمصرف و مشترک میان مودیان است، اما شناسه اختصاصی به‌صورت ویژه برای کالاهای خاص یک مودی یا تولیدکننده صادر می‌شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا نرم‌افزار سایان به‌صورت خودکار شناسه کالا را فراخوانی می‌کند؟</summary>
   در نسخه‌های جدید، نرم‌افزار سایان قابلیت اتصال مستقیم به فهرست عمومی شناسه‌ها را دارد و می‌تواند بر اساس کلیدواژه، شناسه مرتبط را پیشنهاد دهد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا ثبت اشتباه شناسه کالا باعث رد فاکتور می‌شود؟</summary>
   بله. در صورتی که شناسه درج‌شده با نوع کالا مطابقت نداشته باشد، فاکتور توسط سامانه مودیان برگشت داده می‌شود و لازم است اصلاح صورت گیرد.
@@ -115,7 +115,7 @@ uid: Financial/GuideToCommodityCodeInModianSystem
 
 ---
 
-## جمع‌بندی
+### جمع‌بندی
 
 شناسه کالا یکی از مهم‌ترین عناصر در فرآیند ارسال صورتحساب‌های الکترونیکی است و استفاده از آن برای **شفافیت اطلاعات، جلوگیری از خطا و اعتبار مالیاتی شرکت‌ها** الزامی است.  
 مودیان باید اطمینان حاصل کنند که برای هر کالا، شناسه صحیح را از **لیست رسمی stuffid.tax.gov.ir** انتخاب کرده و در نرم‌افزار خود درج کنند.  

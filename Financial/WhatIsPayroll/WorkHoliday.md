@@ -2,12 +2,12 @@
 title: تعطیل کاری چگونه محاسبه می‌شود؟
 author: تیم تحریریه هوشکار
 description: کار در روزهای تعطیل نوعی اضافه کاری محسوب می‌شود که به آن تعطیل کاری می‌گویند. نرخ پرداختی برای ساعات کاری در روزهای تعطیل معادل نرخ اضافه‌کاری و ۴۰ درصد بیشتر از دستمزد هر ساعت کار عادی است.
-dateModified: 2025/11/13
+dateModified: 2025/11/15
 datePublished: 2024/05/15
 uid: Financial/WhatIsPayroll/WorkHoliday
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -103,35 +103,35 @@ uid: Financial/WhatIsPayroll/WorkHoliday
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا تعطیل‌کاری شامل روز جمعه هم می‌شود؟</summary><br/>
     بله. روز جمعه به عنوان روز تعطیل هفتگی شناخته می‌شود. در صورتی که کارگر در روز جمعه کار کند، کارفرما موظف است مزد آن روز را با ضریب ۴۰ درصد بیشتر (معادل تعطیل‌کاری) پرداخت کند، مگر آنکه روز تعطیل دیگری در هفته برای او در نظر گرفته شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>اگر تعطیل رسمی با روز جمعه هم‌زمان شود، تعطیل‌کاری چگونه محاسبه می‌شود؟</summary><br/>
     در این حالت فقط یک روز تعطیل محسوب می‌شود و اگر کارگر در آن روز کار کند، همان یک بار حق تعطیل‌کاری دریافت خواهد کرد؛ یعنی پرداخت مزد با ضریب ۱.۴ انجام می‌شود، نه دو برابر.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>تعطیل‌کاری به چه کسانی تعلق نمی‌گیرد؟</summary><br/>
     کارگرانی که در روزهای تعطیل رسمی طبق برنامه شیفت کاری‌شان استراحت دارند یا با کارفرما برای کار در تعطیل رسمی توافق نکرده‌اند، مشمول تعطیل‌کاری نمی‌شوند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا تعطیل‌کاری مشمول بیمه و مالیات می‌شود؟</summary><br/>
     بله. مبلغ تعطیل‌کاری مانند سایر مزایای مزدی مشمول حق بیمه و مالیات حقوق است و باید در لیست بیمه و مالیات حقوق درج شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چطور می‌توانم تعطیل‌کاری را در نرم‌افزار سایان مشاهده کنم؟</summary><br/>
     در بخش «محاسبه حقوق و مزایا» نرم‌افزار سایان، گزینه‌ای با عنوان «تعطیل‌کاری» وجود دارد که پس از ورود ساعات تعطیل‌کاری، مبلغ آن به صورت خودکار محاسبه و در فیش حقوقی نمایش داده می‌شود.

@@ -2,12 +2,72 @@
 title: قانون مالیات طلا و نحوه محاسبه آن
 author: تیم تحریریه هوشکار
 description: این مالیات تنها به اجرت ساخت طلا و سود فروشنده تعلق می‌گیرد و شامل اصل طلا نمی‌شود. مالیات طلا به سه دسته تقسیم می‌شود: مالیات بر عایدی طلا با نرخ 0 تا 40 درصد، مالیات بر ارزش‌افزوده طلا با نرخ 10 درصد، مالیات عملکرد طلافروش با نرخ 15 تا 25 درصد.
-dateModified: 2025/11/02
+dateModified: 2025/11/15
 datePublished: 2024/08/03
 uid: Financial/WhatIsGoldTax
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+  /* استایل اختصاصی جدول مقایسه */
+  .faq-block table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px; /* هماهنگ با متن اصلی */
+    line-height: 30px;
+    color: #002145;
+    margin-top: 15px;
+  }
+
+  .faq-block th, 
+  .faq-block td {
+    padding: 0.6rem;
+    text-align: right;
+    border: 1px solid #dcdcdc;
+  }
+
+  .faq-block thead tr {
+    background-color: #eeeeff;
+  }
+
+  .faq-block tbody tr:nth-child(even) {
+    background-color: #fafaff;
+  }
+
+  /* پاراگراف پایانی */
+  .faq-block p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -87,23 +147,23 @@ uid: Financial/WhatIsGoldTax
 
 ---
 
-### پرسش‌های متداول
+### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا مالیات طلا شامل خرید آنلاین هم می‌شود؟</summary>
 <p>بله، تمامی فروشندگان رسمی موظف به دریافت مالیات هستند.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا طلاهای قدیمی و دست دوم مشمول مالیات هستند؟</summary>
 <p>مالیات تنها بر اجرت ساخت و سود فروشنده اعمال می‌شود و اصل طلا معاف است.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چرا نگهداری فاکتور خرید طلا مهم است؟</summary>
 <p>برای محاسبه دقیق مالیات بر عایدی و جلوگیری از مشکلات قانونی و مالیاتی، فاکتور خرید الزامی است.</p>

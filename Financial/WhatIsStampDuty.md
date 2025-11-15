@@ -2,12 +2,72 @@
 title: مالیات حق تمبر چیست؟
 author: تیم تحریریه هوشکار
 description: مالیات حق تمبر یکی از انواع مالیات‌های غیرمستقیم است که برای اعطای اعتبار و رسمیت به اسناد و اوراق بهادار از طریق الصاق تمبر بر آن‌ها وضع می‌شود.
-dateModified: 2025/11/02
+dateModified: 2025/11/15
 datePublished: 2024/08/04
 uid: Financial/WhatIsStampDuty
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+  .faq-block {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    color: #002145;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .faq-block p {
+    margin-bottom: 15px;
+  }
+
+  .faq-block summary {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  /* سایز هدینگ‌ها */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 16px !important;
+    line-height: 30px;
+    color: #002145;
+  }
+  /* استایل اختصاصی جدول مقایسه */
+  .faq-block table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px; /* هماهنگ با متن اصلی */
+    line-height: 30px;
+    color: #002145;
+    margin-top: 15px;
+  }
+
+  .faq-block th, 
+  .faq-block td {
+    padding: 0.6rem;
+    text-align: right;
+    border: 1px solid #dcdcdc;
+  }
+
+  .faq-block thead tr {
+    background-color: #eeeeff;
+  }
+
+  .faq-block tbody tr:nth-child(even) {
+    background-color: #fafaff;
+  }
+
+  /* پاراگراف پایانی */
+  .faq-block p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #002145;
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -110,33 +170,33 @@ uid: Financial/WhatIsStampDuty
 
 ### جدول مقایسه نرخ‌های حق تمبر
 
-<blockquote style="background-color:#f9f9ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
-<table style="width:100%; border-collapse:collapse; font-size:0.9rem;">
+<blockquote class="faq-block">
+<table>
 <thead>
 <tr>
-<th style="padding:0.5rem; text-align:right;">نوع سند</th>
-<th style="padding:0.5rem; text-align:right;">نرخ مالیات</th>
-<th style="padding:0.5rem; text-align:right;">مثال عددی</th>
+<th>نوع سند</th>
+<th>نرخ مالیات</th>
+<th>مثال عددی</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="padding:0.4rem;">افزایش سرمایه</td>
+<td>افزایش سرمایه</td>
 <td>۰.۱٪</td>
 <td>۵۰ میلیون تومان × ۰.۱٪ = ۵۰,۰۰۰ تومان</td>
 </tr>
 <tr>
-<td style="padding:0.4rem;">پروانه کسب</td>
+<td>پروانه کسب</td>
 <td>۰.۱٪</td>
 <td>۵ میلیون تومان × ۰.۱٪ = ۵,۰۰۰ تومان</td>
 </tr>
 <tr>
-<td style="padding:0.4rem;">سفته</td>
+<td>سفته</td>
 <td>۰.۰۵٪</td>
 <td>۱۰ میلیون تومان × ۰.۰۵٪ = ۵,۰۰۰ تومان</td>
 </tr>
 <tr>
-<td style="padding:0.4rem;">ثبت شرکت</td>
+<td>ثبت شرکت</td>
 <td>متغیر</td>
 <td>براساس میزان سرمایه ثبت شده</td>
 </tr>
@@ -148,21 +208,21 @@ uid: Financial/WhatIsStampDuty
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem">
+<blockquote class="faq-block">
 <details>
 <summary>آیا مالیات حق تمبر شامل قراردادهای دیجیتال هم می‌شود؟</summary><br/>
 بله، هر قراردادی که رسمیت قانونی نیاز دارد و دارای ارزش مالی است، مشمول مالیات حق تمبر است.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>پرداخت دیرهنگام مالیات چه تبعاتی دارد؟</summary><br/>
 در صورت تأخیر، علاوه بر جریمه قانونی، ممکن است پرداخت مالیات برای شما مشکل ایجاد کند و دسترسی به برخی خدمات بانکی محدود شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا همه افراد و شرکت‌ها موظف به پرداخت مالیات حق تمبر هستند؟</summary><br/>
 خیر. شرکت‌ها و افراد معاف که در قانون مشخص شده‌اند، نیاز به پرداخت ندارند. مثال: مناطق آزاد یا افزایش سرمایه از آورده نقدی.

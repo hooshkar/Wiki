@@ -2,12 +2,12 @@
 title: آموزش نحوه ثبت قرارداد پیمانکاری در سامانه مودیان
 author: تیم تحریریه هوشکار
 description: جهت ثبت قرارداد پیمانکاری در سامانه مودیان باید شناسه یکتای 12 رقمی مربوط به قرارداد را نیز وارد کنید. این شناسه حتماً باید در الگوی پیمانکاری وارد شود.
-dateModified: 2025/10/27
+dateModified: 2025/11/15
 datePublished: 2024/06/10
 uid: Financial/GuidToRegisteringContractorAgreementsInTheModianSystem
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -68,28 +68,28 @@ uid: Financial/GuidToRegisteringContractorAgreementsInTheModianSystem
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>شناسه ۱۲ رقمی قرارداد چیست و چه کاربردی دارد؟</summary>
   این شناسه به عنوان «شناسه یکتای حافظه مالیاتی قرارداد» شناخته می‌شود و برای هر قرارداد پیمانکاری در سامانه مودیان صادر می‌شود. این شناسه باید در زمان ارسال صورتحساب‌های پیمانکاری درج شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا می‌توان برای یک قرارداد چند صورتحساب پیمانکاری ارسال کرد؟</summary>
   بله. تا زمانی که شناسه قرارداد معتبر است، می‌توان چند صورتحساب جزئی مربوط به همان قرارداد را به سامانه مودیان ارسال کرد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>در صورت وارد کردن اشتباه اطلاعات قرارداد چه باید کرد؟</summary>
   در صورت بروز خطا در اطلاعات قرارداد، باید ابتدا قرارداد اشتباه را لغو کرده و مجدداً با اطلاعات صحیح ثبت کنید. سامانه مودیان امکان ویرایش مستقیم قرارداد تأییدشده را ندارد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا برای هر قرارداد جدید باید شناسه جدید دریافت شود؟</summary>
   بله، هر قرارداد پیمانکاری دارای شناسه یکتای مجزاست که پس از ثبت نهایی در سامانه به مودی اختصاص می‌یابد.

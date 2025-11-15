@@ -2,11 +2,11 @@
 title: کدینگ تفصیلی حسابداری چیست؟
 author: تیم تحریریه هوشکار
 description: کدینگ تفصیلی حسابداری، یکی از مهم‌ترین قسمت‌های سیستم حسابداری است که به کمک آن می‌توان تمامی تراکنش‌های مالی یک شرکت را به صورت دقیق و مفصل ثبت کرد.
-dateModified: 2025/10/26
+dateModified: 2025/11/15
 datePublished: 2023/03/07
 uid: Financial/DetailedAccountingCoding
 ---
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -60,28 +60,28 @@ uid: Financial/DetailedAccountingCoding
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>وظایف اصلی حسابدار صنعتی چیست؟</summary>
   جمع‌آوری و تحلیل اطلاعات مالی، تهیه گزارش‌های برون و درون سازمانی و ارائه مشاوره به مدیران برای تصمیم‌گیری.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>کدینگ تفصیلی حسابداری چه تفاوتی با حساب‌های کل دارد؟</summary>
   حساب‌های کل برای دسته‌بندی کلی تراکنش‌ها هستند، ولی حساب‌های تفصیلی جزئیات هر تراکنش را مشخص می‌کنند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آیا کدینگ تفصیلی برای شرکت‌های کوچک هم لازم است؟</summary>
   بله، حتی در شرکت‌های کوچک، داشتن کدینگ تفصیلی باعث نظم و کنترل بهتر تراکنش‌ها می‌شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>بهترین روش برای ساختاردهی کدینگ تفصیلی چیست؟</summary>
   پیروی از استانداردهای حسابداری، ساده و منطقی بودن کدها و رعایت یک الگوی یکسان در کل شرکت بهترین روش است.

@@ -2,12 +2,12 @@
 title: سختی کار چیست؟ (فرمول محاسبه سختی کار)
 author: تیم تحریریه هوشکار
 description: سختی کار به مشاغلی اطلاق می‌شود که کارکنان در آنها با عوامل خطرناک فیزیکی، شیمیایی، بیولوژیکی و محیطی مواجه هستند و در معرض آسیب‌های جسمی و روحی بیشتری قرار دارند.
-dateModified: 2025/11/13
+dateModified: 2025/11/15
 datePublished: 2024/04/22
 uid: Financial/WhatIsPayroll/WhatIsTheDifficultyOfWork
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -105,28 +105,28 @@ uid: Financial/WhatIsPayroll/WhatIsTheDifficultyOfWork
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>چه تفاوتی بین شغل سخت و شغل زیان‌آور وجود دارد؟</summary><br/>
     شغل سخت ممکن است صرفاً از نظر جسمی دشوار باشد، اما در شغل زیان‌آور فرد در معرض خطرات جانی یا بیماری‌های شغلی نیز قرار دارد. در نتیجه مزایای بیمه‌ای و حمایتی شغل زیان‌آور بیشتر است.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا همه کارگران معدن مشمول سختی کار هستند؟</summary><br/>
     بله. فعالیت در معادن زیرزمینی به‌صورت پیش‌فرض در فهرست مشاغل سخت و زیان‌آور قرار دارد و نیازی به بررسی مجدد کمیته ندارد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا بانوان هم می‌توانند بازنشستگی سختی کار دریافت کنند؟</summary><br/>
     بله. قانون برای همه بیمه‌شدگان، فارغ از جنسیت، شرایط یکسانی در نظر گرفته است. بانوان شاغل در مشاغل سخت نیز می‌توانند با ۲۰ سال سابقه بازنشسته شوند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>اگر کارفرما شغل من را سخت محسوب نکند، چه کنم؟</summary><br/>
     شما می‌توانید به اداره تعاون، کار و رفاه اجتماعی محل کار خود مراجعه کرده و درخواست بررسی شغل را به کمیته استانی ارائه دهید. پس از بازدید و بررسی کارشناسی، نتیجه نهایی اعلام می‌شود.

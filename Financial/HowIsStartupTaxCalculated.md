@@ -2,12 +2,12 @@
 title: مالیات استارتاپ‌ها چگونه محاسبه می‌شود؟
 author: تیم تحریریه هوشکار
 description: استارتاپ‌ها می‌توانند از معافیت‌های مالیاتی مختلفی مانند معافیت سال‌های اولیه تأسیس، کاهش مالیات بر درآمد و تسهیلات بیمه‌ای بهره‌مند شوند. آگاهی از این قوانین و نحوه محاسبه مالیات، به کاهش هزینه‌ها و مدیریت بهتر مالی کسب‌وکار کمک می‌کند.
-dateModified: 2025/09/02
+dateModified: 2025/11/15
 datePublished: 2025/03/11
 uid: Financial/HowIsStartupTaxCalculated
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>

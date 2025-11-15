@@ -2,11 +2,11 @@
 title: شرایط دریافت بیمه بیکاری در زمان جنگ و بلایای طبیعی
 author: تیم تحریریه هوشکار
 description: بیمه بیکاری حمایت مالی از کارگرانی است که بدون خواست خود شغلشان را از دست داده‌اند. شرایط، مبلغ، مدت‌زمان و نحوه دریافت این مستمری را بررسی می‌کنیم.
-dateModified: 2025/11/13
+dateModified: 2025/11/15
 datePublished: 2025/03/11
 uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
 ---
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -120,7 +120,7 @@ uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
 
 برای اطلاع از جزئیات کامل این مقررات، می‌تونید <a href="https://rc.majlis.ir/fa/law/show/112580" target="_blank">آیین‌نامه اجرایی قانون بیمه بیکاری</a> رو مطالعه کنید.
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا در زمان جنگ هم بیمه بیکاری پرداخت می‌شود؟</summary><br/>
     بله. اگر بیکاری ناشی از جنگ یا شرایط اضطراری باشد، مطابق 
@@ -129,7 +129,7 @@ uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>اگر محل کارم بر اثر سیل یا زلزله از بین برود، آیا می‌توانم بیمه بیکاری بگیرم؟</summary><br/>
     بله. در صورت تخریب یا تعطیلی کارگاه به دلیل حوادث غیرمترقبه (مثل سیل یا زلزله)، 
@@ -137,7 +137,7 @@ uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>برای ثبت درخواست بیمه بیکاری چه مدت فرصت دارم؟</summary><br/>
     طبق 
@@ -147,7 +147,7 @@ uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا مدت دریافت بیمه بیکاری جزو سابقه کار محسوب می‌شود؟</summary><br/>
     بله. تمام دوره‌ای که مقرری بیمه بیکاری دریافت می‌کنید، 
@@ -155,7 +155,7 @@ uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>اگر در زمان دریافت بیمه بیکاری به خدمت سربازی اعزام شوم، تکلیف مستمری چیست؟</summary><br/>
     طبق ماده ۱۱ آیین‌نامه، در صورت اعزام به خدمت وظیفه عمومی، پرداخت مقرری بیمه بیکاری متوقف می‌شود. 
@@ -163,7 +163,7 @@ uid: Financial/WhatIsPayroll/WhatIsUnemploymentInsurance
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>اگر در دوره دریافت بیمه بیکاری بازداشت یا زندانی شوم، آیا مقرری ادامه دارد؟</summary><br/>
     خیر. بر اساس ماده ۱۲ آیین‌نامه، در صورت صدور حکم قطعی مجرمیت، پرداخت مقرری متوقف می‌شود. 

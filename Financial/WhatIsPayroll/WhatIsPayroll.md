@@ -2,12 +2,12 @@
 title: حقوق و دستمزد چیست؟
 author: تیم تحریریه هوشکار
 description: حقوق و دستمزد مبلغی است که کارمندان و کارگران از جانب کارفرما طبق قانون وزارت کار و توافقات طرفین در ازای کارکرد برای یک دوره معین دریافت می‌کنند.
-dateModified: 2025/11/13
+dateModified: 2025/11/15
 datePublished: 2022/07/31
 uid: Financial/WhatIsPayroll/WhatIsPayroll
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -91,28 +91,28 @@ uid: Financial/WhatIsPayroll/WhatIsPayroll
 
 ### سؤالات متداول درباره حقوق و دستمزد
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>تفاوت حقوق و دستمزد در قانون کار چیست؟</summary><br/>
     در عرف اداری، «حقوق» معمولاً به پرداخت ثابت ماهانه برای کارمندان رسمی و ثابت گفته می‌شود، در حالی‌که «دستمزد» به پرداخت ساعتی یا روزانه برای کارگران اطلاق می‌شود. با این حال، در قانون کار ایران هر دو مفهوم در یک چارچوب قانونی مشترک تعریف می‌شوند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا پرداخت مزایای غیرنقدی مانند بن یا مسکن اجباری است؟</summary><br/>
     بله. طبق مصوبات شورای عالی کار، حق بن و حق مسکن جزء مزایای ثابت محسوب می‌شوند و باید در محاسبه حقوق کارکنان لحاظ شوند، مگر آنکه قرارداد کار به‌صورت خاص توافق دیگری را تعیین کرده باشد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>آیا اضافه‌کاری باید در فیش حقوقی جداگانه ثبت شود؟</summary><br/>
     بله. طبق ماده ۵۹ قانون کار، اضافه‌کاری باید با رضایت کارگر و کارفرما انجام شود و میزان آن به‌صورت جداگانه در فیش حقوقی درج گردد. نرخ اضافه‌کاری معادل ۴۰٪ بیش از مزد ساعت عادی است.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
   <details>
     <summary>لیست حقوق چه زمانی باید به سازمان تأمین اجتماعی ارسال شود؟</summary><br/>
     کارفرمایان موظف‌اند حداکثر تا پایان ماه بعد، لیست حقوق کارکنان خود را همراه با حق بیمه مربوطه در سامانه سازمان تأمین اجتماعی ثبت و ارسال کنند.

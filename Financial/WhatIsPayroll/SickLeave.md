@@ -2,11 +2,11 @@
 title: انواع مرخصی استعلاجی + میزان آن در قانون کار
 author: تیم تحریریه هوشکار
 description: به بررسی انواع مختلف مرخصی استعلاجی، نحوه محاسبه و پرداخت آن توسط سازمان تأمین اجتماعی و همچنین سقف زمانی این نوع مرخصی‌ها می پردازیم.
-dateModified: 2025/09/02
+dateModified: 2025/11/15
 datePublished: 2024/04/13
 uid: Financial/WhatIsPayroll/SickLeave
 ---
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
