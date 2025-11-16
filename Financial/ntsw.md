@@ -2,12 +2,131 @@
 title: سامانه جامع تجارت چیست [سایت ntsw.ir]
 author: تیم تحریریه هوشکار
 description: سامانه جامع تجارت، یک سامانه یکپارچه برای مدیریت تمامی فرایندهای مرتبط با تجارت خارجی از جمله واردات، صادرات، حمل و نقل، انبارداری، پرداخت و ترخیص است که به صورت برخط و در یک محیط واحد انجام می‌شود.
-dateModified: 2025/10/30
+dateModified: 2025/11/16
 datePublished: 2022/12/14
 uid: Financial/ntsw
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -119,35 +238,35 @@ uid: Financial/ntsw
 
 ### سوالات متدوال
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>سامانه جامع تجارت چیست و چه کاربردی دارد؟</summary>
     سامانه جامع تجارت یک درگاه الکترونیکی یکپارچه است که تمامی فرآیندهای مربوط به واردات، صادرات، حمل‌ونقل، انبارداری و ترخیص کالا را در بستر آنلاین مدیریت می‌کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>هدف از راه‌اندازی سامانه جامع تجارت چیست؟</summary>
     هدف اصلی از اجرای این سامانه، ایجاد شفافیت در فرآیندهای تجاری، کاهش فساد، تسهیل امور واردات و صادرات و یکپارچه‌سازی تعاملات بین فعالان اقتصادی و دستگاه‌های دولتی است.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>چه سازمان‌هایی در سامانه جامع تجارت نقش دارند؟</summary>
     وزارت صنعت، معدن و تجارت، وزارت امور اقتصادی و دارایی، وزارت راه و شهرسازی و گمرک جمهوری اسلامی ایران از مهم‌ترین سازمان‌های مؤثر در این سامانه هستند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا ثبت اطلاعات در سامانه جامع تجارت الزامی است؟</summary>
     بله، کلیه فعالان اقتصادی از جمله تولیدکنندگان، واردکنندگان، صادرکنندگان و انبارداران موظف‌اند اطلاعات مربوط به فعالیت‌های تجاری خود را در سامانه جامع تجارت ثبت کنند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>چگونه می‌توان به سامانه جامع تجارت وارد شد؟</summary>
     برای ورود به این سامانه کافی است به نشانی <a href="https://www.ntsw.ir" target="_blank">www.ntsw.ir</a> مراجعه کرده و با استفاده از نام کاربری و رمز عبور اختصاصی، وارد پنل کاربری خود شوید.

@@ -2,12 +2,131 @@
 title: لیست بهترین نرم افزارهای باشگاه مشتریان [از برندهای جهانی تا پیشنهاد ویژه ایرانی]
 author: تیم تحریریه هوشکار
 description: آشنایی کامل با مفهوم باشگاه مشتریان، مزایا و معایب آن و معرفی نرم‌افزارهای کاربردی ایرانی و خارجی برای افزایش وفاداری مشتریان.
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2025/07/03
 uid: Financial/CustomerClubGuide
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -114,28 +233,28 @@ uid: Financial/CustomerClubGuide
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>باشگاه مشتریان چگونه باعث افزایش فروش می‌شود؟</summary>
   با ایجاد انگیزه برای خریدهای تکراری و حفظ مشتریان فعلی، درآمد کسب‌وکار افزایش می‌یابد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>چه کسب‌وکارهایی به باشگاه مشتریان نیاز دارند؟</summary>
   تقریباً همه کسب‌وکارها از فروشگاه‌های کوچک تا شرکت‌های بزرگ خدماتی و تولیدی.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>هزینه راه‌اندازی باشگاه مشتریان چقدر است؟</summary>
   بسته به نوع برنامه و نرم‌افزار، متغیر است و از رایگان تا چند میلیون تومان قابل تنظیم است.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>آیا نرم‌افزارهای باشگاه مشتریان رایگان هم کارآمدند؟</summary>
   برای شروع مناسب‌اند، اما برای مدیریت حرفه‌ای و رشد، نرم‌افزارهای تخصصی توصیه می‌شوند.

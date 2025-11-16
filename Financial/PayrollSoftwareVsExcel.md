@@ -2,12 +2,131 @@
 title: مقایسه فایل اکسل حقوق و دستمزد با نرم افزار حقوق و دستمزد
 author: تیم تحریریه هوشکار
 description: در راستای حفظ و مدیریت اطلاعات مالی و پرسنل نرم افزارهای حقوق و دستمزد با بهره‌مندی از دیتابیس‌های پیشرفته نسبت به فایل های اکسل، به سازمان‌ها امکان مدیریت بهینه و کارآمد اطلاعات را می‌دهند.
-dateModified: 2025/10/30
+dateModified: 2025/11/16
 datePublished: 2024/01/10
 uid: Financial/PayrollSoftwareVsExcel
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -36,22 +155,22 @@ uid: Financial/PayrollSoftwareVsExcel
 
 ![تفاوت نرم افزار با فایل اکسل حقوق و دستمزد](./Images/PayrollSoftwareVsExcel-01.webp)
 
-<blockquote style="background-color:#f9f9ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
+<blockquote class="faq-block">
 <p><strong>مقایسه سریع نرم‌افزار حقوق و دستمزد با فایل اکسل</strong></p>
-<table style="width:100%; border-collapse:collapse; font-size:0.9rem; min-width:700px;">
-  <thead style="background-color:#efefff;">
+<table>
+  <thead>
     <tr>
-      <th style="padding:0.6rem; text-align:right;">ویژگی‌ها</th>
-      <th style="padding:0.6rem; text-align:right;">نرم‌افزار حقوق و دستمزد</th>
-      <th style="padding:0.6rem; text-align:right;">فایل اکسل</th>
+      <th>ویژگی‌ها</th>
+      <th>نرم‌افزار حقوق و دستمزد</th>
+      <th>فایل اکسل</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td style="padding:0.5rem;">ظرفیت ذخیره‌سازی</td><td>میلیون‌ها رکورد</td><td>محدود (حداکثر حدود 1 میلیون رکورد)</td></tr>
-    <tr><td style="padding:0.5rem;">سرعت جستجو و پردازش</td><td>خیلی بالا (پایگاه داده SQL)</td><td>پایین در فایل‌های بزرگ</td></tr>
-    <tr><td style="padding:0.5rem;">امنیت اطلاعات</td><td>بالا (سطوح دسترسی کاربران)</td><td>پایین (فاقد کنترل دسترسی)</td></tr>
-    <tr><td style="padding:0.5rem;">اتصال به دستگاه حضور و غیاب</td><td>✅ دارد</td><td>❌ ندارد</td></tr>
-    <tr><td style="padding:0.5rem;">گزارش‌گیری و خروجی‌های بانکی</td><td>خودکار و قابل تنظیم</td><td>دستی و زمان‌بر</td></tr>
+    <tr><td>ظرفیت ذخیره‌سازی</td><td>میلیون‌ها رکورد</td><td>محدود (حداکثر حدود 1 میلیون رکورد)</td></tr>
+    <tr><td>سرعت جستجو و پردازش</td><td>خیلی بالا (پایگاه داده SQL)</td><td>پایین در فایل‌های بزرگ</td></tr>
+    <tr><td>امنیت اطلاعات</td><td>بالا (سطوح دسترسی کاربران)</td><td>پایین (فاقد کنترل دسترسی)</td></tr>
+    <tr><td>اتصال به دستگاه حضور و غیاب</td><td>✅ دارد</td><td>❌ ندارد</td></tr>
+    <tr><td>گزارش‌گیری و خروجی‌های بانکی</td><td>خودکار و قابل تنظیم</td><td>دستی و زمان‌بر</td></tr>
   </tbody>
 </table>
 </blockquote>
@@ -98,28 +217,28 @@ uid: Financial/PayrollSoftwareVsExcel
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>چرا نرم افزار حقوق و دستمزد بهتر از فایل اکسل است؟</summary>
     نرم افزار حقوق و دستمزد ظرفیت ذخیره‌سازی بالا، امنیت اطلاعات، سرعت پردازش، امکان شبکه‌کردن کاربران و امکانات متنوع مانند محاسبه مالیات و بیمه را ارائه می‌دهد که اکسل قادر به ارائه آن‌ها نیست.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا می‌توان نرم افزار حقوق و دستمزد را به دستگاه حضور و غیاب متصل کرد؟</summary>
     بله، بسیاری از نرم افزارهای حقوق و دستمزد قابلیت اتصال به انواع دستگاه‌های حضور و غیاب و دریافت اطلاعات ورود و خروج پرسنل را دارند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>مدیریت دسترسی کاربران در اکسل چگونه است؟</summary>
     اکسل محدودیت‌های زیادی در مدیریت دسترسی کاربران دارد و نمی‌توان نقش‌ها و سطوح دسترسی مختلف برای کاربران مختلف تعریف کرد، در حالی که نرم افزارهای حقوق و دستمزد این قابلیت را ارائه می‌دهند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا نرم افزار محاسبه عیدی و سنوات سایان به نرم افزار حقوق و دستمزد متصل است؟</summary>
     بله، این نرم افزار قابلیت یکپارچه‌سازی با سیستم حقوق و دستمزد را دارد و محاسبات عیدی و سنوات را به صورت خودکار انجام می‌دهد.

@@ -2,11 +2,131 @@
 title: مرخصی فوت بستگان (اقوام درجه یک و دو) طبق قانون کار
 author: تیم تحریریه هوشکار
 description: مرخصی فوت بستگان درجه یک یکی از انواع مرخصی‌های قانونی است که به کارمندان در صورت فوت همسر، پدر، مادر یا فرزند تعلق می‌گیرد. این مرخصی به کارمندان کمک می‌کند تا دوران عزاداری خود را سپری کنند و پس از آن با روحیه‌ای بهتر به کار بازگردند. این مقاله به مراحل درخواست مرخصی، مدت زمان آن و شرایط مرخصی برای فوت بستگان درجه دو می‌پردازد.
-dateModified: 2025/11/07
+dateModified: 2025/11/16
 datePublished: 2024/04/14
 uid: Financial/WhatIsPayroll/DeathLeaveSecondDegreeRelatives
 ---
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -96,35 +216,35 @@ uid: Financial/WhatIsPayroll/DeathLeaveSecondDegreeRelatives
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا مرخصی فوت شامل حقوق پایه و مزایا می‌شود؟</summary><br/>
     بله، مرخصی فوت بستگان درجه یک با حقوق کامل پرداخت می‌شود و مزایای ماهانه نیز طبق قانون برای کارمند محفوظ است.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا برای مرخصی فوت درجه دو مدرک خاصی لازم است؟</summary><br/>
     معمولاً نیاز به ارائه گواهی فوت است، اما سازمان‌ها می‌توانند بسته به قوانین داخلی مدارک اضافی درخواست کنند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>اگر چند بستگان درجه یک در یک سال فوت کنند، مرخصی چگونه محاسبه می‌شود؟</summary><br/>
     برای هر بستگان درجه یک، مرخصی به‌صورت جداگانه محاسبه می‌شود، بنابراین مجموع روزها جمع می‌گردد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا کارمندان پاره‌وقت هم می‌توانند مرخصی فوت دریافت کنند؟</summary><br/>
     بله، میزان مرخصی به نسبت ساعات کارکرد محاسبه می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>اگر کارمند نتواند مدارک فوت را ارائه دهد، چه اتفاقی می‌افتد؟</summary><br/>
     در این صورت مرخصی ممکن است بدون حقوق محسوب شود یا کارمند موظف به ارائه مدارک جایگزین طبق سیاست سازمان خواهد بود.

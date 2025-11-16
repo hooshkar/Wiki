@@ -2,10 +2,67 @@
 title: گزارشات ماتریسی حسابها
 author: تیم تحریریه هوشکار
 description: در یک سازمان ماتریسی گزارش دهی و تبادل اطلاعات بین آنها بسیار ساده بوده و نیاز به طی کردن مراحلی که در سازمان های سنتی وجود دارد نیست.
-dateModified: 2025/09/02
+dateModified: 2025/11/16
 datePublished: 2022/07/19
 uid: Financial/MultiLayeredAccounting/MatrixReports
 ---
+
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, p {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+</style>
 
 مدیریت ماتریسی در دهه 1970 توسط شرکت فیلیپس راه اندازی شد. سازمانی که براساس مدیریت ماتریسی بنا شده در آن سیستم گزارش دهی کارکنان به مدیران بصورت شبکه ای تنظیم می شود در صورتیکه در دیگر سازمان های فاقد مدیریت سازمانی گزارش دهی کارکنان بصورت سلسه مراتبی طی می شود. 
 
@@ -15,9 +72,7 @@ uid: Financial/MultiLayeredAccounting/MatrixReports
 
 گزارش ماتریسی نیز برگرفته از همین عنوان می باشد، تهیه یک گزارش ماتریسی از فرایندهای مختلف مالی جهت تصمیم گیری های کلان، یکی از بهترین گزارشات جهت ارائه به مدیران مجموعه است.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟
-</a></p></strong></blockquote>
+برای آشنایی کامل‌تر با ساختارهای پیچیده مالی، پیشنهاد می‌کنیم مطلب <a href="https://www.hooshkar.com/Wiki/Accounting/MultiLayeredAccounting" target="_blank">حسابداری چند لایه چیست؟</a> را مطالعه کنید.
 
 ## گزارش ماتریسی در نرم افزار سایان
 این گزارش ها در <a href="https://www.hooshkar.com/Software/Sayan" target="_blank">نرم افزار سایان

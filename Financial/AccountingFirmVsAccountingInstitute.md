@@ -2,12 +2,131 @@
 title: شرکت حسابداری چیست و چه تفاوتی با موسسه حسابداری دارد؟
 author: تیم تحریریه هوشکار
 description: شرکت‌های حسابداری خدمات مالی و مالیاتی تخصصی ارائه می‌دهند، شامل تهیه گزارش‌ها، اظهارنامه‌ها، مشاوره و مدیریت امور مالی.
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2024/08/17
 uid: Financial/AccountingFirmVsAccountingInstitute
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
   <details>
     <summary>آنچه در این مطلب خواهید خواند:</summary>
     <ul>
@@ -100,21 +219,21 @@ uid: Financial/AccountingFirmVsAccountingInstitute
 - **مؤسسه حسابداری:** اثر بلندمدت بر توسعه علمی و استانداردهای حرفه‌ای دارد.  
 - **شرکت حسابداری:** تأثیر مستقیم و کوتاه‌مدت بر عملکرد مالی مشتریان دارد.  
 
-<blockquote style="background-color:#f8f8ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
+<blockquote class="faq-block">
   <p><strong>مقایسه خلاصه شرکت و مؤسسه حسابداری</strong></p>
-  <table style="width:100%; border-collapse:collapse; font-size:0.9rem;">
-    <thead style="background-color:#efefff;">
+  <table>
+    <thead>
       <tr>
-        <th style="padding:0.5rem; text-align:right;">ویژگی</th>
-        <th style="padding:0.5rem; text-align:right;">شرکت حسابداری</th>
-        <th style="padding:0.5rem; text-align:right;">مؤسسه حسابداری</th>
+        <th>ویژگی</th>
+        <th>شرکت حسابداری</th>
+        <th>مؤسسه حسابداری</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td style="padding:0.5rem;">تمرکز اصلی</td><td>خدمات مالی و حسابرسی</td><td>آموزش و پژوهش</td></tr>
-      <tr><td style="padding:0.5rem;">نوع مشتریان</td><td>شرکت‌ها و سازمان‌ها</td><td>دانشجویان و پژوهشگران</td></tr>
-      <tr><td style="padding:0.5rem;">هدف نهایی</td><td>بهبود عملکرد مالی</td><td>ارتقای سطح علمی حسابداری</td></tr>
-      <tr><td style="padding:0.5rem;">مدت‌زمان تأثیر</td><td>کوتاه‌مدت و عملی</td><td>بلندمدت و نظری</td></tr>
+      <tr><td>تمرکز اصلی</td><td>خدمات مالی و حسابرسی</td><td>آموزش و پژوهش</td></tr>
+      <tr><td>نوع مشتریان</td><td>شرکت‌ها و سازمان‌ها</td><td>دانشجویان و پژوهشگران</td></tr>
+      <tr><td>هدف نهایی</td><td>بهبود عملکرد مالی</td><td>ارتقای سطح علمی حسابداری</td></tr>
+      <tr><td>مدت‌زمان تأثیر</td><td>کوتاه‌مدت و عملی</td><td>بلندمدت و نظری</td></tr>
     </tbody>
   </table>
 </blockquote>
@@ -145,28 +264,28 @@ uid: Financial/AccountingFirmVsAccountingInstitute
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>تفاوت اصلی شرکت حسابداری و موسسه حسابداری چیست؟</summary><br/>
     شرکت حسابداری بر ارائه خدمات مالی و مالیاتی به مشتریان تمرکز دارد، در حالی که مؤسسات حسابداری بیشتر در زمینه آموزش و پژوهش فعالیت می‌کنند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>چرا استفاده از خدمات شرکت حسابداری برای کسب‌وکارها مفید است؟</summary><br/>
     استفاده از خدمات شرکت‌های حسابداری موجب صرفه‌جویی در هزینه، افزایش دقت مالی، رعایت قوانین مالیاتی و کاهش ریسک جریمه‌های احتمالی می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا شرکت حسابداری می‌تواند مشاوره مالیاتی ارائه دهد؟</summary><br/>
     بله، بسیاری از شرکت‌های حسابداری خدمات مشاوره مالیاتی و تنظیم اظهارنامه‌های مالیاتی را نیز ارائه می‌دهند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا برای شرکت‌های کوچک هم استفاده از خدمات حسابداری ضروری است؟</summary><br/>
     بله، حتی شرکت‌های کوچک نیز برای حفظ شفافیت مالی و جلوگیری از جریمه‌های مالیاتی، نیازمند خدمات حسابداری تخصصی هستند.

@@ -2,11 +2,131 @@
 title: حساب تفصیلی چیست؟
 author: تیم تحریریه هوشکار
 description: حساب تفصیلی در توصیف حساب های کل و معین تعریف می شود. معنای لغوی تفصیل یعنی شرح دادن؛ بنابراین حساب های تفصیلی، جزئی ترین حساب های یک سازمان یا شرکت هستند.
-dateModified: 2025/09/02
+dateModified: 2025/11/16
 datePublished: 2022/07/19
 uid: Financial/MultiLayeredAccounting/DetailedAccount  
 ---
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -39,20 +159,17 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 
 بنابراین حسابداران برای تکمیل و دقیق بودن اطلاعات و ثبت هایشان از حساب های تفصیلی کمک می گیرند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم افزار حسابداری</a> سایان</strong></p></blockquote>
+<p>برای مدیریت بهتر امور مالی خود، می‌توانید با <a href="https://www.hooshkar.com/Software/Sayan/Module/Accounting" target="_blank">نرم‌افزار حسابداری سایان</a> آشنا شوید.</p>
 
-## کاربرد حساب تفصیلی
+### کاربرد حساب تفصیلی
 حساب های تفصیلی در تکمیل اطلاعات حساب های معین کاربرد دارند یا به تعریف دیگر مهمترین کاربرد حساب تفصیلی، پاسخگویی مناسب به گزارش گیری حسابداری و مالیست که بدون استفاده از حساب تفصیلی، امکان پاسخگویی به نیازهای گزارش گیری مدیران درون سازمانی و ذینفعان برون سازمانی وجود نخواهد داشت.
 
 بعنوان مثال نیاز داریم گردش و مانده حسابهای اشخاص حقیقی یا حقوقی خود را به تفکیک در سیستم حسابداری داشته باشیم که بدون بکارگیری حساب تفصیل، این امکان وجود نخواهد داشت.
 
-## ماهیت حساب تفصیلی
+### ماهیت حساب تفصیلی
 حساب های تفصیلی ماهیت جزئی دارند. جزئیات اگرچه بسیار مهم هستند اما به تنهایی بی معنا می شوند. حساب های تفصیلی به نوعی ماهیت خود را از حساب معین خود دریافت می کنند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">کدینگ تفصیلی حسابداری چیست؟
-</a></p></strong></blockquote>
+<p>برای درک بهتر ساختار حساب‌ها، می‌توانید مطلب <a href="https://www.hooshkar.com/Wiki/Financial/DetailedAccountingCoding" target="_blank">کدینگ تفصیلی حسابداری چیست؟</a> را مطالعه کنید.</p>
 
 ## تفاوت حساب تفصیلی و معین و کل
 
@@ -70,9 +187,9 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 
 از حساب تفصیلی زمانی که رویدادهای مالی جزئیات بالایی دارند و حساب معین، پاسخگوی تمام اطلاعات نیست استفاده می شود.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟
-</a></p></strong></blockquote>
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
+برای آشنایی با مفاهیم تولید و هزینه‌ها، مطلب <a href="https://www.hooshkar.com/Wiki/Financial/CostAccounting" target="_blank">حسابداری صنعتی چیست؟</a> را مطالعه کنید.
+</blockquote>
 
 ## انواع حساب تفصیلی
 
@@ -93,7 +210,7 @@ uid: Financial/MultiLayeredAccounting/DetailedAccount
 ## گزارش تفصیلی چیست
 گردش حسابهای مربوط به یک شخص حقیقی یا حقوقی که نشان دهنده عملکرد مالی آن شخص می باشد.
 
-## تعریف حساب تفصیلی در نرم افزار حسابداری سایان
+### تعریف حساب تفصیلی در نرم افزار حسابداری سایان
 <a href="https://www.hooshkar.com/Software/Sayan" target="_blank">سایان
 </a> یکی از بهترین نرم افزار های مطرح در عرصه نرم افزارهای مالی و حسابداری است.
 

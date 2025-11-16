@@ -2,12 +2,131 @@
 title: جدول مرخصی کارگران و انواع آن
 author: تیم تحریریه هوشکار
 description: مشاهده جدول مرخصی کارگران و چگونگی محاسبه انواع آنها در قانون کار.
-dateModified: 2024/11/15
+dateModified: 2024/11/16
 datePublished: 2022/07/01
 uid: Financial/WhatIsPayroll/TypesOfLeaves
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -88,28 +207,28 @@ uid: Financial/WhatIsPayroll/TypesOfLeaves
 
 ### سؤالات متداول درباره مرخصی در قانون کار
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا کارفرما می‌تواند با درخواست مرخصی مخالفت کند؟</summary><br/>
     بله، در شرایط خاص کاری و به‌دلیل نیاز فوری سازمان، کارفرما می‌تواند زمان استفاده از مرخصی را تغییر دهد، اما نمی‌تواند کارگر را از اصل حق مرخصی محروم کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>اگر مرخصی استحقاقی استفاده نشود، چه می‌شود؟</summary><br/>
     بر اساس ماده 66 قانون کار، حداکثر 9 روز از مرخصی استفاده‌نشده به سال بعد منتقل می‌شود و مازاد آن باید توسط کارفرما به‌صورت نقدی پرداخت گردد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>مرخصی استعلاجی جزو سابقه کار محسوب می‌شود؟</summary><br/>
     بله. اگر مرخصی با تأیید پزشک معتمد و سازمان تأمین اجتماعی باشد، هم جزو سوابق بیمه‌ای و هم سابقه کاری فرد محسوب می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا مرخصی ساعتی برای کار پاره‌وقت هم محاسبه می‌شود؟</summary><br/>
     بله، میزان مرخصی ساعتی متناسب با ساعات کاری فرد در روز تعیین و از سهم مرخصی استحقاقی او کسر می‌شود.

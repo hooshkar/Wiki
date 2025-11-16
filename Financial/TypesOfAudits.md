@@ -128,7 +128,7 @@ blockquote.faq-block {
 
 </style>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -206,21 +206,21 @@ blockquote.faq-block {
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>تفاوت حسابرسی داخلی و خارجی چیست؟</summary>
 <p>حسابرسی داخلی توسط تیم داخلی سازمان انجام می‌شود و بر بهبود فرایندها تمرکز دارد، در حالی که حسابرسی خارجی توسط شرکت مستقل انجام شده و صحت گزارش‌های مالی را تأیید می‌کند.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>حسابرسی مالیاتی چه مزایایی دارد؟</summary>
 <p>این نوع حسابرسی به شرکت کمک می‌کند از مشکلات مالیاتی جلوگیری کند، مالیات را بهینه پرداخت نماید و از هزینه‌های اضافی پیشگیری کند.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>حسابرسی قانونی برای چه سازمان‌هایی ضروری است؟</summary>
 <p>حسابرسی قانونی برای شرکت‌ها و سازمان‌هایی که ملزم به ارائه گزارش مالی به مراجع قانونی هستند، الزامی است تا صحت و دقت اطلاعات مالی آن‌ها تأیید شود.</p>

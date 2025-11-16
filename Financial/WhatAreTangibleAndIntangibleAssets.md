@@ -127,7 +127,7 @@ blockquote.faq-block {
 
 </style>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -247,28 +247,28 @@ blockquote.faq-block {
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>دارایی‌های مشهود را چگونه ارزش‌گذاری کنیم؟</summary>
 <p>ارزش دارایی‌های مشهود معمولاً بر اساس هزینه خرید یا ارزش بازار تعیین می‌شود و استهلاک برای دارایی‌های استهلاک‌پذیر لحاظ می‌شود.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>دارایی‌های نامشهود چه تأثیری در ارزش شرکت دارند؟</summary>
 <p>دارایی‌های نامشهود می‌توانند بخش بزرگی از ارزش شرکت را تشکیل دهند، مانند برند معتبر یا حق اختراع، و نقش مهمی در جذب سرمایه‌گذار دارند.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>استهلاک دارایی‌های مشهود چگونه ثبت می‌شود؟</summary>
 <p>استهلاک دارایی‌های مشهود به‌صورت دوره‌ای ثبت می‌شود تا ارزش دارایی‌ها در ترازنامه به‌روز باقی بماند و هزینه استفاده از دارایی در صورت سود و زیان لحاظ شود.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چرا دارایی‌های نامشهود مهم هستند؟</summary>
 <p>اگرچه غیرقابل لمس هستند، دارایی‌های نامشهود مانند برند، حق امتیاز و نرم‌افزار اختصاصی ارزش اقتصادی بالایی دارند و به رشد بلندمدت شرکت کمک می‌کنند.</p>

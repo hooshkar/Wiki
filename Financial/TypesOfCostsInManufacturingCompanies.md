@@ -127,7 +127,7 @@ blockquote.faq-block {
 
 </style>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -272,21 +272,21 @@ blockquote.faq-block {
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>تفاوت هزینه ثابت و متغیر چیست؟</summary>
 <p>هزینه ثابت با تغییر میزان تولید تغییر نمی‌کند، اما هزینه متغیر با افزایش یا کاهش تولید تغییر می‌کند.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چگونه هزینه متوسط و نهایی به تصمیم‌گیری کمک می‌کنند؟</summary>
 <p>هزینه متوسط برای قیمت‌گذاری و ارزیابی موجودی مفید است، و هزینه نهایی به مدیران نشان می‌دهد تولید یک واحد اضافی سودآور است یا خیر.</p>
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چرا استفاده از نرم‌افزار مدیریت هزینه توصیه می‌شود؟</summary>
 <p>نرم‌افزارها ثبت و تحلیل دقیق هزینه‌ها، گزارش‌گیری سریع و کاهش خطاهای انسانی را ممکن می‌سازند و تصمیم‌گیری مالی را تسهیل می‌کنند.</p>

@@ -181,67 +181,6 @@ blockquote.faq-block {
 
 نرخ مالیات بر حقوق کارکنان، معاف از مبلغ معینی و تا هفت برابر آن، به نرخ ده درصد (۱۰٪) محاسبه می‌شود و بیش از آن، مشمول مالیات سالانه با نرخ بیست درصد (۲۰٪) است.
 
-
-<style>
-  .faq-block {
-    padding: 0.5rem;
-    margin-top: 0.5rem;
-    color: #002145;
-    font-size: 14px;
-    line-height: 30px;
-  }
-
-  .faq-block p {
-    margin-bottom: 15px;
-  }
-
-  .faq-block summary {
-    cursor: pointer;
-    font-size: 14px;
-    line-height: 30px;
-  }
-
-  /* سایز هدینگ‌ها */
-  h1, h2, h3, h4, h5, h6 {
-    font-size: 16px !important;
-    line-height: 30px;
-    color: #002145;
-  }
-  /* استایل اختصاصی جدول مقایسه */
-  .faq-block table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 14px; /* هماهنگ با متن اصلی */
-    line-height: 30px;
-    color: #002145;
-    margin-top: 15px;
-  }
-
-  .faq-block th, 
-  .faq-block td {
-    padding: 0.6rem;
-    text-align: right;
-    border: 1px solid #dcdcdc;
-  }
-
-  .faq-block thead tr {
-    background-color: #eeeeff;
-  }
-
-  .faq-block tbody tr:nth-child(even) {
-    background-color: #fafaff;
-  }
-
-  /* پاراگراف پایانی */
-  .faq-block p {
-    margin-top: 15px;
-    margin-bottom: 15px;
-    font-size: 14px;
-    line-height: 30px;
-    color: #002145;
-  }
-</style>
-
 <blockquote class="faq-block">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار مالیات حقوق
 </a> سایان</strong></p></blockquote>
@@ -257,14 +196,6 @@ blockquote.faq-block {
 |16.500.000 تا 27.000.000|15%|
 |27.000.000 تا 40.000.000|20%|
 |40.000.000 به بالا|30%|
-
-| حقوق مشمول مالیات سالانه (تومان) | نرخ مالیات حقوق|
-|----------|----------|
-|   144.000.000       |      معاف از مالیات    |
-|    144.000.000 تا 198.000.000      |       10%   |
-|      198.000.000 تا 324.000.000    |    15%      |
-|      324.000.000 تا 480.000.000    |   20%       |
-|    480.000.000 به بالا      |      30%    |
 
 ### 3. مالیات بر درآمد مشاغل
 

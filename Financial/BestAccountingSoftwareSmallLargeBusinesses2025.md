@@ -2,12 +2,131 @@
 title: راهنمای خرید بهترین نرم افزار حسابداری | بررسی کامل سایان و مقایسه با گزینه‌های رایگان و خارجی
 author: تیم تحریریه هوشکار
 description: بهترین نرم‌افزارهای حسابداری را در این راهنمای کامل بشناسید؛ معرفی کامل نرم‌افزار حسابداری سایان، گزینه‌های خارجی رایگان و پاسخ به سوالات پرتکرار
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2025/07/03
 uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
   <details>
     <summary>آنچه در این مقاله خواهید خواند:</summary>
     <ul>
@@ -119,7 +238,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 9. سپیدار
 10. برلیان
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
 <summary>نرم‌افزار حسابداری مناسب برای فروشگاه کوچک کدام است؟</summary>
 <br/>
@@ -127,7 +246,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا نرم‌افزارهای خارجی برای کسب‌وکارهای ایرانی قابل استفاده هستند؟</summary>
 <br/>
@@ -135,7 +254,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
 <summary>آیا می‌توان با نرم‌افزار حسابداری رایگان کار حرفه‌ای انجام داد؟</summary>
 <br/>
@@ -143,7 +262,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
 <summary>نرم‌افزار حسابداری سایان چه تفاوتی با سایر نرم‌افزارهای ایرانی دارد؟</summary>
 <br/>
@@ -156,7 +275,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
 <summary>پشتیبانی نرم‌افزارهای ایرانی چگونه است؟</summary>
 <br/>
@@ -164,7 +283,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
 <summary>نرم‌افزار حسابداری باید چه ویژگی‌هایی داشته باشد؟</summary>
 <br/>
@@ -178,7 +297,7 @@ uid: Financial/BestAccountingSoftwareSmallLargeBusinesses2025
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
 <summary>چطور نرم‌افزار مناسب را انتخاب کنیم؟</summary>
 <br/>

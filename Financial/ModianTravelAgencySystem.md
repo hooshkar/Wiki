@@ -2,12 +2,131 @@
 title: سامانه مودیان آژانس مسافرتی (فروش بلیط)
 author: تیم تحریریه هوشکار
 description: همه شرکت‌هایی که در حوزه فروش بلیط هواپیما مشغول به کارند، موظفند الگوی مربوط به فروش بلیط هواپیما را به عنوان صورتحساب الکترونیکی نوع 1 به سازمان مالیاتی ارسال کنند.
-dateModified: 2024/10/30
+dateModified: 2024/11/16
 datePublished: 2024/06/08
 uid: Financial/ModianTravelAgencySystem
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -106,35 +225,35 @@ uid: Financial/ModianTravelAgencySystem
 
 ### سوالات متداول  
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا همه آژانس‌های هواپیمایی باید در سامانه مودیان ثبت‌نام کنند؟</summary>
     بله، طبق قانون پایانه‌های فروشگاهی و سامانه مودیان، تمامی آژانس‌های مسافرتی و هواپیمایی موظف به ثبت‌نام در این سامانه و ارسال صورتحساب‌های خود هستند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>مهلت ارسال صورتحساب‌های الکترونیکی برای آژانس‌های هواپیمایی چقدر است؟</summary>
     آژانس‌های هواپیمایی باید حداکثر ظرف یک هفته از تاریخ صدور، صورتحساب‌های خود را به‌صورت بسته‌های صدتایی برای سازمان امور مالیاتی ارسال کنند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>در صورت عدم ارسال صورتحساب الکترونیکی چه جریمه‌ای اعمال می‌شود؟</summary>
     در صورت عدم ارسال یا تأخیر در صدور صورتحساب‌های الکترونیکی، جریمه‌ای بین ۲ تا ۱۰ درصد مبلغ صورتحساب‌ها برای آژانس در نظر گرفته می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا استفاده از نرم‌افزار واسط سامانه مودیان اجباری است؟</summary>
     خیر، اما استفاده از نرم‌افزارهای واسط مانند سایان باعث سهولت در فرآیند ارسال، کاهش خطا و اطمینان از صحت ارتباط با سامانه مودیان می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا کارفرما نیز باید صورتحساب را تایید کند؟</summary>
     بله، کارفرما به عنوان خریدار در نوع ۱ صورتحساب تعریف شده و باید از طریق سامانه مودیان 

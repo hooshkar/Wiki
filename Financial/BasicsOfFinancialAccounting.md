@@ -2,12 +2,131 @@
 title: مبانی حسابداری و انواع آن + مثال کاربردی هر کدام
 author: تیم تحریریه هوشکار
 description: مبانی حسابداری مالی شامل اصول، روش‌ها و مفاهیمی است که برای ثبت، طبقه‌بندی و تحلیل اطلاعات مالی یک شرکت استفاده می‌شود. در این مطلب از هوشکار با انواع مبانی حسابداری و کاربرد هرکدام آشنا می‌شویم.
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2023/03/01
 uid: Financial/BasicsOfFinancialAccounting
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -119,21 +238,21 @@ uid: Financial/BasicsOfFinancialAccounting
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>مبنای حسابداری چیست و چه تفاوتی با اصول حسابداری دارد؟</summary><br/>
     مبنای حسابداری به روش ثبت درآمدها و هزینه‌ها اشاره دارد، در حالی که اصول حسابداری چارچوب و استانداردهایی است که بر نحوه گزارش‌دهی و تحلیل اطلاعات مالی نظارت می‌کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>کدام مبنای حسابداری برای شرکت‌های خصوصی مناسب‌تر است؟</summary><br/>
     بیشتر شرکت‌های خصوصی از مبنای تعهدی استفاده می‌کنند زیرا تصویر دقیق‌تری از عملکرد مالی ارائه می‌دهد، هرچند شرکت‌های کوچک ممکن است مبنای نقدی ترجیح دهند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
   <details>
     <summary>چرا انتخاب مبنای حسابداری اهمیت دارد؟</summary><br/>
     مبنای حسابداری نحوه شناسایی درآمد، محاسبه سود و تحلیل مالی شرکت را تعیین می‌کند و بر تصمیمات سرمایه‌گذاری و مالیاتی اثر مستقیم دارد.

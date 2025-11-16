@@ -2,12 +2,132 @@
 title: لیست بهترین نرم افزارهای بهای تمام شده
 author: تیم تحریریه هوشکار
 description:  قابلیت های نرم افزار بهای تمام شده شامل ویژگی‌هایی مانند دقت محاسبه و سهولت کار کردن، تعریف فرمول تولید، محاسبه هزینه مستقیم و غیرمستقیم و.
-dateModified: 2025/10/30
+dateModified: 2025/11/16
 datePublished: 2023/05/22
 uid: Financial/TheBestCostAccountingSoftware
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
   <details>
     <summary>آنچه در این مطلب خواهید خواند:</summary>
     <ul>
@@ -75,7 +195,7 @@ uid: Financial/TheBestCostAccountingSoftware
 
 این نرم‌افزار به دلیل انطباق با نیازهای بازار ایران، هزینه کمتر و پشتیبانی بومی، گزینه‌ای ایده‌آل برای شرکت‌هایی است که می‌خواهند مدیریت مالی و حسابداری بهای تمام شده خود را بهینه کنند.
 
-<blockquote style="padding:0.7rem; margin-top:1rem;">
+<blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 <p><strong>آیا کسب‌وکار شما به نرم‌افزار بهای تمام‌شده نیاز دارد؟</strong></p>
 <ul>
   <li>آیا هزینه‌های تولید شما دقیق و قابل پیگیری نیست؟</li>
@@ -132,46 +252,46 @@ uid: Financial/TheBestCostAccountingSoftware
 
 ---
 
-<blockquote style="background-color:#f9f9ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
+<blockquote class="faq-block">
   <p><strong>مقایسه سریع نرم‌افزارهای بهای تمام شده (منتخب)</strong></p>
-  <table style="width:100%; border-collapse:collapse; font-size:0.9rem; min-width:700px;">
+  <table>
     <thead>
       <tr>
-        <th style="padding:0.6rem; text-align:right;">ویژگی‌ها</th>
-        <th style="padding:0.6rem; text-align:right;">سایان</th>
-        <th style="padding:0.6rem; text-align:right;">سپیدار</th>
-        <th style="padding:0.6rem; text-align:right;">رایورز</th>
-        <th style="padding:0.6rem; text-align:right;">SAP</th>
-        <th style="padding:0.6rem; text-align:right;">Oracle</th>
+        <th>ویژگی‌ها</th>
+        <th>سایان</th>
+        <th>سپیدار</th>
+        <th>رایورز</th>
+        <th>SAP</th>
+        <th>Oracle</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding:0.5rem;">پشتیبانی فارسی</td>
+        <td>پشتیبانی فارسی</td>
         <td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>❌</td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">هزینه پیاده‌سازی</td>
+        <td>هزینه پیاده‌سازی</td>
         <td>پایین</td><td>پایین</td><td>متوسط</td><td>خیلی بالا</td><td>بالا</td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">سازگاری با قوانین مالیاتی ایران</td>
+        <td>سازگاری با قوانین مالیاتی ایران</td>
         <td>کامل</td><td>کامل</td><td>کامل</td><td>نسبی</td><td>نسبی</td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">مناسب برای کسب‌وکارهای</td>
+        <td>مناسب برای کسب‌وکارهای</td>
         <td>متوسط تا بزرگ</td><td>کوچک تا متوسط</td><td>متوسط تا بزرگ</td><td>بزرگ و چندملیتی</td><td>بزرگ</td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">محاسبه دقیق بهای تمام شده</td>
+        <td>محاسبه دقیق بهای تمام شده</td>
         <td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">یکپارچگی با سیستم‌های دیگر</td>
+        <td>یکپارچگی با سیستم‌های دیگر</td>
         <td>ERP جامع</td><td>مالی و بازرگانی</td><td>ERP سازمانی</td><td>ERP جامع</td><td>ERP جامع</td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">پشتیبانی و آموزش</td>
+        <td>پشتیبانی و آموزش</td>
         <td>حضوری و آنلاین</td><td>شبکه نمایندگی</td><td>پشتیبانی متمرکز</td><td>نمایندگان بین‌المللی</td><td>نمایندگان خاص</td>
       </tr>
     </tbody>
@@ -181,42 +301,43 @@ uid: Financial/TheBestCostAccountingSoftware
 </blockquote>
 
 ---
-<blockquote style="padding:0.5rem">
+
+<blockquote class="faq-block">
   <details>
     <summary>نرم افزار بهای تمام شده چیست و چرا استفاده از آن ضروری است؟</summary><br/>
     این نرم‌افزارها ابزارهایی تخصصی برای محاسبه دقیق هزینه‌های تولید و خدمات هستند که به مدیران کمک می‌کنند تصمیم‌گیری‌های مالی و تولیدی بهتری داشته باشند و خطاهای انسانی را کاهش دهند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>نرم افزار بهای تمام شده سایان برای چه نوع شرکت‌هایی مناسب است؟</summary><br/>
     این نرم افزار بیشتر مناسب شرکت‌های تولیدی و صنعتی با نیاز به ثبت دقیق عملیات تولید و کنترل هزینه‌هاست و می‌تواند برای کسب‌وکارهای متوسط تا بزرگ قابل استفاده باشد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا نرم افزارهای خارجی بهای تمام شده قابل استفاده در ایران هستند؟</summary><br/>
     بله، اما معمولاً هزینه بالاتر، پیچیدگی‌های پیاده‌سازی و عدم انطباق کامل با فرآیندهای داخلی ایران از معایب آن‌هاست که نرم‌افزارهای بومی مانند سایان این مشکلات را رفع کرده‌اند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>چه تفاوتی بین نرم افزار بهای تمام شده و نرم‌افزار حسابداری وجود دارد؟</summary><br/>
     نرم‌افزار بهای تمام شده به صورت تخصصی روی محاسبه هزینه‌های تولید و خدمات تمرکز دارد، در حالی که نرم‌افزار حسابداری شامل کل عملیات مالی و حسابداری سازمان است. البته بسیاری از نرم‌افزارهای بهای تمام شده قابلیت یکپارچه‌سازی با حسابداری را دارند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا نرم افزار بهای تمام شده سایان قابلیت توسعه و سفارشی‌سازی دارد؟</summary><br/>
     بله، نرم‌افزار سایان به دلیل انعطاف‌پذیری بالا می‌تواند بر اساس نیازهای خاص هر سازمان، شخصی‌سازی و توسعه یابد.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>پشتیبانی و آموزش نرم افزار بهای تمام شده سایان چگونه است؟</summary><br/>
     تیم فنی سایان پشتیبانی کامل و آموزش‌های تخصصی را در طول فرآیند پیاده‌سازی و پس از آن به کاربران ارائه می‌دهد.

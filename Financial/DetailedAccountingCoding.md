@@ -2,11 +2,131 @@
 title: کدینگ تفصیلی حسابداری چیست؟
 author: تیم تحریریه هوشکار
 description: کدینگ تفصیلی حسابداری، یکی از مهم‌ترین قسمت‌های سیستم حسابداری است که به کمک آن می‌توان تمامی تراکنش‌های مالی یک شرکت را به صورت دقیق و مفصل ثبت کرد.
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2023/03/07
 uid: Financial/DetailedAccountingCoding
 ---
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -60,28 +180,28 @@ uid: Financial/DetailedAccountingCoding
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>وظایف اصلی حسابدار صنعتی چیست؟</summary>
   جمع‌آوری و تحلیل اطلاعات مالی، تهیه گزارش‌های برون و درون سازمانی و ارائه مشاوره به مدیران برای تصمیم‌گیری.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>کدینگ تفصیلی حسابداری چه تفاوتی با حساب‌های کل دارد؟</summary>
   حساب‌های کل برای دسته‌بندی کلی تراکنش‌ها هستند، ولی حساب‌های تفصیلی جزئیات هر تراکنش را مشخص می‌کنند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>آیا کدینگ تفصیلی برای شرکت‌های کوچک هم لازم است؟</summary>
   بله، حتی در شرکت‌های کوچک، داشتن کدینگ تفصیلی باعث نظم و کنترل بهتر تراکنش‌ها می‌شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>بهترین روش برای ساختاردهی کدینگ تفصیلی چیست؟</summary>
   پیروی از استانداردهای حسابداری، ساده و منطقی بودن کدها و رعایت یک الگوی یکسان در کل شرکت بهترین روش است.

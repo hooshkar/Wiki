@@ -2,12 +2,137 @@
 title: انبارداری چیست؟ (آموزش صفر تا صد انبارداری)
 author: تیم تحریریه هوشکار
 description: انبارداری یعنی نگهداری ایمن از اقلامی که در انبار سازمان‌ها وجود دارند. به گونه‌ای که از مفقود شدن و هرگونه آسیب به کالا جلوگیری گردد.
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2023/10/21
 uid: Financial/Inventory
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<style>.h_iframe-aparat_embed_frame{position:relative;margin:1rem 0;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}
+ @media only screen and (min-width: 992px){
+    .h_iframe-aparat_embed_frame{width:60%;}
+  }
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -37,12 +162,6 @@ uid: Financial/Inventory
   </ul>
 </details>
 </blockquote><br/>
-
-<style>.h_iframe-aparat_embed_frame{position:relative;margin:1rem 0;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}
- @media only screen and (min-width: 992px){
-    .h_iframe-aparat_embed_frame{width:60%;}
-  }
-</style>
 
 امروزه کلمه‌ی انبارداری به بخش جدانشدنی از هر مجموعه، تبدیل شده است؛ چرا که سرمایه‌ی مالی هر سازمان، در انبار آن نهفته است. پس جهت جلوگیری از هرگونه خطا و حفظ سرمایه‌، استفاده از سیستم انبارداری الزامیست. 
 
@@ -213,35 +332,35 @@ uid: Financial/Inventory
 
 ## سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>چرا انبارداری برای سازمان‌ها اهمیت دارد؟</summary>
   انبارداری باعث حفظ سرمایه، جلوگیری از مفقودی و آسیب کالا، و تسهیل در تصمیم‌گیری‌های مدیریتی می‌شود. با مدیریت درست انبار، جریان نقدی و موجودی مواد اولیه کنترل‌شده‌تر خواهد بود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>تفاوت بین رسید انبار و حواله انبار چیست؟</summary>
   رسید انبار زمانی صادر می‌شود که کالا وارد انبار شود، در حالی که حواله انبار برای خروج کالا از انبار استفاده می‌گردد. هر دو سند برای کنترل دقیق ورود و خروج ضروری هستند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>کدام سیستم انبارداری برای کالاهای تاریخ‌دار مناسب‌تر است؟</summary>
   سیستم <strong>FiFo (اولین ورودی، اولین خروجی)</strong> برای کالاهای تاریخ‌دار مانند مواد غذایی و دارویی مناسب‌تر است تا از فساد یا انقضای زودهنگام کالا جلوگیری شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>انبارگردانی هر چند وقت یک‌بار باید انجام شود؟</summary>
   معمولاً سازمان‌ها سالی یک‌بار انبارگردانی کامل انجام می‌دهند تا مغایرت موجودی واقعی با اطلاعات ثبت‌شده در سیستم مشخص شود، هرچند در سازمان‌های بزرگ این کار به‌صورت دوره‌ای (سه‌ماهه یا شش‌ماهه) هم صورت می‌گیرد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>بهترین نرم‌افزار انبارداری برای سازمان‌های تولیدی کدام است؟</summary>
   <a href="https://www.hooshkar.com/Software/Sayan/Module/InventoryAccounting" target="_blank">نرم‌افزار حسابداری انبار سایان</a> یکی از بهترین گزینه‌ها برای شرکت‌های تولیدی است، زیرا ثبت ورود و خروج کالا، صدور رسید، حواله و گزارش‌های مالی را به‌صورت یکپارچه انجام می‌دهد.

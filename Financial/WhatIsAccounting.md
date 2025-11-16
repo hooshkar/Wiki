@@ -127,7 +127,7 @@ blockquote.faq-block {
 
 </style>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
    <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -306,48 +306,50 @@ blockquote.faq-block {
 
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;"> <details>
+### سوالات متداول
+
+<blockquote class="faq-block">
 <summary>روش پیشرفته چه مزایایی نسبت به روش سنتی دارد؟</summary>
 روش مدرن با استفاده از نرم‌افزار و ابزارهای الکترونیکی، سرعت ثبت داده‌ها را افزایش می‌دهد، خطای انسانی را کاهش می‌دهد و گزارش‌گیری را آسان می‌کند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>اموال گردانی چقدر در کاهش هزینه‌ها تاثیر دارد؟</summary>
 با ردیابی دقیق و جلوگیری از گم شدن یا استفاده غیرمجاز از دارایی‌ها، هزینه‌های نگهداری و جایگزینی کاهش می‌یابد و تخصیص بهینه دارایی‌ها محقق می‌شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چرا استفاده از نرم‌افزار حسابداری مهم است؟</summary>
 نرم‌افزارهای حسابداری مانند سایان، داده‌ها را به‌صورت خودکار ثبت و طبقه‌بندی می‌کنند، خطاهای انسانی را کاهش می‌دهند و امکان گزارش‌گیری لحظه‌ای و تحلیل عملکرد مالی را فراهم می‌کنند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>تفاوت حسابداری مالی و حسابداری مدیریتی چیست؟</summary>
 حسابداری مالی برای ارائه اطلاعات به خارج سازمان (سهامداران، بانک‌ها و دولت) است، در حالی که حسابداری مدیریتی برای تصمیم‌گیری داخلی مدیران و برنامه‌ریزی استراتژیک استفاده می‌شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>تراز آزمایشی چه نقشی در حسابداری دارد؟</summary>
 تراز آزمایشی برای بررسی تعادل حساب‌ها استفاده می‌شود. هرگونه عدم تطابق در تراز نشان‌دهنده خطا در ثبت یا طبقه‌بندی معاملات است که باید اصلاح شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>دفتر کل چیست و چه کاربردی دارد؟</summary>
 دفتر کل مرجع اصلی تمامی حساب‌هاست و تغییرات دارایی، بدهی و حقوق مالکانه را نشان می‌دهد. این دفتر پایه تهیه صورت‌های مالی و تحلیل عملکرد شرکت است.
 </details>
 </blockquote> 
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
 <details>
 <summary>چه مهارت‌هایی برای یک حسابدار حرفه‌ای لازم است؟</summary>
 دقت، تسلط بر نرم‌افزارهای حسابداری و اکسل، توانایی تحلیل مالی، آشنایی با قوانین مالیاتی و بیمه و اخلاق حرفه‌ای از مهارت‌های کلیدی یک حسابدار است.

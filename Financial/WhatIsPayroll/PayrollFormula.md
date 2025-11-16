@@ -2,11 +2,131 @@
 title: فرمول محاسبه حقوق و دستمزد (کسر کار، اضافه کاری، تعطیل کاری و...)
 author: تیم تحریریه هوشکار
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2025/09/02
+dateModified: 2025/11/16
 datePublished: 2022/07/31
 uid: Financial/WhatIsPayroll/PayrollFormula
 ---
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -28,14 +148,13 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 </details>
 </blockquote>
 
-![جدول فرمول های محاسبه حقوق و دستمزد](./Images/TableOfSalaryFormulas.webp)
-
 محاسبه درست حقوق و دستمزد کارکنان، یکی از مهمترین وظایف بخش حسابداری سازمان‌هاست. رعایت عدالت در پرداخت‌ها و دقت در محاسبات، نقش مهمی در انگیزه و رضایت شغلی کارکنان دارد. 
 
 در این مقاله، قصد داریم تا به بررسی فرمول های محاسبه حقوق پایه، اضافه کاری و شب‌کاری کارکنان و... بپردازیم. فرمول‌های ارائه شده در ادامه، راهنمای مناسبی برای محاسبه دقیق حقوق و مزایای کارکنان بر اساس ضوابط قانون کار هستند. پیروی از این فرمول‌ها می‌تواند از بروز خطا در محاسبات جلوگیری کرده و عدالت را در پرداخت‌ها تضمین نماید.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
+<p>برای مدیریت دقیق حقوق و دستمزد پرسنل، می‌توانید با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم‌افزار حقوق و دستمزد سایان</a> آشنا شوید.</p>
+
+![جدول فرمول های محاسبه حقوق و دستمزد](./Images/TableOfSalaryFormulas.webp)
 
 ## انواع فرمول های حقوق و دستمزد
 
@@ -68,10 +187,7 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 
 روزهای کارکرد سنوات خدمت × 365 ÷ حقوق پایه در حکم
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">نحوه محاسبه عیدی، سنوات و مالیات عیدی
-</a></p></strong></blockquote>
-
+برای یادگیری نحوه محاسبه عیدی، سنوات و مالیات مربوط به آن، مطلب <a href="https://www.hooshkar.com/Wiki/Payroll/EidTax" target="_blank">نحوه محاسبه عیدی، سنوات و مالیات عیدی</a> را مطالعه کنید.
 ### 5. فرمول شب کاری
 
 ساعت کاری عادی کارمندان از شنبه تا پنجشنبه، 7 ساعت و 20 دقیقه در روز است. این 7 ساعت و 20 دقیقه از 6 صبح شروع می‌شود و تا 22 شب ادامه دارد که روز کاری محسوب می‌شود.
@@ -95,8 +211,7 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 
 کسر کار ماه × (2 × 220   ÷ حقوق پایه در حکم)
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم افزارهای حقوق و دستمزد</a></p></strong></blockquote>
+<p>برای انتخاب مناسب‌ترین ابزار مدیریت حقوق و دستمزد، مطلب <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم‌افزارهای حقوق و دستمزد</a> را مطالعه کنید.</p>
 
 ## حق اولاد چیست و چگونه محاسبه می شود؟
 

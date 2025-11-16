@@ -2,12 +2,131 @@
 title: پایه حقوق وزارت کار ۱۴۰۲؛ حداقل مزد، مزایا و بن کارگری
 author: تیم تحریریه هوشکار
 description: طبق جدول حقوق کارگران 1402، حداقل دستمزد روزانه 1.769.428 ریال و حداقل حقوق ماهیانه بدون احتساب مزایا 53.082.840 ریال خواهد بود.
-dateModified: 2025/11/10
+dateModified: 2025/11/16
 datePublished: 2023/02/13
 uid: Financial/WhatIsPayroll/Payroll1402
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -76,28 +195,28 @@ uid: Financial/WhatIsPayroll/Payroll1402
 
 ### سؤالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>حق مسکن و بن کارگری در سال ۱۴۰۲ چقدر است؟</summary><br/>
     حق مسکن ۹.۰۰۰.۰۰۰ ریال و بن ۱۱.۰۰۰.۰۰۰ ریال است.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>پایه سنوات چه زمانی به کارگر تعلق می‌گیرد؟</summary><br/>
     پایه سنوات به کارگرانی تعلق می‌گیرد که حداقل یک سال سابقه کار در محل کار فعلی داشته باشند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>چگونه حقوق ساعتی خود را محاسبه کنیم؟</summary><br/>
     حقوق روزانه ÷ تعداد ساعات کاری روزانه = درآمد ساعتی
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا مزایای غیرنقدی نیز در محاسبه حقوق ۱۴۰۲ لحاظ می‌شود؟</summary><br/>
     خیر، مزایای غیرنقدی (مثل پاداش یا هدیه) معمولاً خارج از ساختار حقوق پایه هستند و در قرارداد ذکر می‌شوند.

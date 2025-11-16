@@ -126,7 +126,7 @@ blockquote.faq-block {
 
 </style>
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -269,22 +269,22 @@ blockquote.faq-block {
 ### مقایسه قیمت نرم افزارهای سامانه مودیان
 در این جدول 5 شرکت  برتر ارائه دهنده نرم افزار سامانه مودیان از نظر قیمت و ویژگی مورد بررسی قرار گرفته است.
 
-<blockquote style="background-color:#f9f9ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
+<blockquote class="faq-block">
   <p><strong>مقایسه سریع نرم‌افزارهای سامانه مودیان مالیاتی</strong></p>
-  <table style="width:100%; border-collapse:collapse; font-size:0.9rem; min-width:900px;">
+  <table>
     <thead>
       <tr>
-        <th style="padding:0.6rem; text-align:right;">ویژگی‌ها</th>
-        <th style="padding:0.6rem; text-align:right;">سایان</th>
-        <th style="padding:0.6rem; text-align:right;">سپیدار</th>
-        <th style="padding:0.6rem; text-align:right;">حسابدار اپ</th>
-        <th style="padding:0.6rem; text-align:right;">حسابداران برتر</th>
-        <th style="padding:0.6rem; text-align:right;">چرتکه</th>
+        <th>ویژگی‌ها</th>
+        <th>سایان</th>
+        <th>سپیدار</th>
+        <th>حسابدار اپ</th>
+        <th>حسابداران برتر</th>
+        <th>چرتکه</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding:0.5rem;">لوگو</td>
+        <td>لوگو</td>
         <td><img src="./Images/Hooshkar.webp" alt="سایان" style="height:30px;"></td>
         <td><img src="./Images/Sepidar.webp" alt="سپیدار" style="height:30px;"></td>
         <td><img src="./Images/HesabdarApp.webp" alt="حسابدار اپ" style="height:30px;"></td>
@@ -292,7 +292,7 @@ blockquote.faq-block {
         <td><img src="./Images/Chortke.webp" alt="چرتکه" style="height:30px;"></td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">ویژگی‌ها</td>
+        <td>ویژگی‌ها</td>
         <td>بدون وابستگی به ماژول های دیگر، تهیه گزارش‌های دلخواه و یکپارچه، ارسال مستقیم و نامحدود فاکتورها، امکان اصلاح صورتحساب‌ها</td>
         <td>وابستگی به ماژول‌های دیگر مانند حسابداری، دریافت و پرداخت، مشتریان و فروش، انبار بازرگانی، ارسال مستقیم فاکتور</td>
         <td>مدیریت بازگشت، ابطال و اصلاح فاکتورها، پشتیبانی، آموزش و بروزرسانی رایگان</td>
@@ -300,7 +300,7 @@ blockquote.faq-block {
         <td>استعلام کد اقتصادی، ارسال آنی فاکتورها، چاپ فاکتور رسمی، امکان اصلاح صورتحساب</td>
       </tr>
       <tr>
-        <td style="padding:0.5rem;">قیمت (تومان)</td>
+        <td>قیمت (تومان)</td>
         <td>8,000,000</td>
         <td>74,151,000</td>
         <td>4,200,000 - 63,000,000</td>
@@ -309,7 +309,7 @@ blockquote.faq-block {
       </tr>
     </tbody>
   </table>
-  <p style="margin-top:0.7rem;">
+  <p>
     🔹 همان‌طور که مشاهده می‌شود، 
     <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم‌افزار سامانه مودیان سایان</a> 
     با قابلیت ارسال نامحدود فاکتور و بدون وابستگی به ماژول‌های دیگر، گزینه‌ای کارآمد و مناسب برای مودیان مالیاتی در ایران است.

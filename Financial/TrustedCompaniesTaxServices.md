@@ -126,7 +126,7 @@ blockquote.faq-block {
 
 </style>
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -258,70 +258,70 @@ blockquote.faq-block {
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>شرکت معتمد مالیاتی چیست و چه نقشی دارد؟</summary>
         <p>شرکت‌های معتمد مالیاتی واسطه‌ای بین مودیان و سازمان امور مالیاتی هستند و وظایفی مانند ثبت، صدور و ارسال صورتحساب‌های الکترونیکی، تکمیل کارپوشه مودیان و ارائه مشاوره مالی بر عهده دارند.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>چه کسانی می‌توانند از خدمات شرکت‌های معتمد مالیاتی استفاده کنند؟</summary>
         <p>تمامی مودیان مشمول ارسال صورتحساب الکترونیکی و کسب‌وکارهای ثبت شده که ملزم به رعایت قوانین سامانه مودیان هستند، می‌توانند از خدمات این شرکت‌ها بهره‌مند شوند.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>چه تفاوتی بین روش مستقیم و غیرمستقیم ارسال فاکتور وجود دارد؟</summary>
         <p>در روش مستقیم، مودیان خود از طریق سامانه مودیان فاکتورها را ارسال می‌کنند، اما در روش غیرمستقیم، شرکت‌های معتمد مالیاتی این کار را انجام می‌دهند و هزینه خدمات طبق تعرفه مشخص محاسبه می‌شود.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>چه انواعی از شرکت‌های معتمد مالیاتی وجود دارد؟</summary>
         <p>سه نوع اصلی شرکت معتمد وجود دارد: نوع اول: نظارت بر عملکرد مودیان، نوع دوم: فعالیت آموزشی، نوع سوم: ارائه خدمات مشاوره مالی و حسابداری.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>چگونه می‌توان لیست شرکت‌های معتمد را مشاهده کرد؟</summary>
         <p>مودیان می‌توانند به سایت سامانه مودیان به نشانی <a href="https://my.tax.gov.ir/?url_back=https://tp.tax.gov.ir" target="_blank">tp.tax.gov.ir</a> مراجعه کرده و در بخش "پایانه‌های فروشگاهی و سامانه مودیان"، لیست شرکت‌های معتمد را مشاهده کنند.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>تعرفه استفاده از خدمات شرکت‌های معتمد چگونه تعیین می‌شود؟</summary>
         <p>تعرفه‌ها از سوی دولت تصویب شده و بر اساس یک هزارم مالیات بر ارزش افزوده محاسبه می‌شود. میزان هزینه با توجه به نوع خدمات و حجم کار متغیر است.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>آیا استفاده از شرکت‌های معتمد مالیاتی اجباری است؟</summary>
         <p>استفاده از خدمات شرکت‌های معتمد اجباری نیست، اما می‌تواند ریسک خطاهای مالیاتی را کاهش دهد و فرآیند ثبت و ارسال فاکتورها را ساده‌تر و سریع‌تر کند.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>اتصال نرم‌افزار حسابداری به سامانه مودیان چه مزایایی دارد؟</summary>
         <p>این اتصال باعث سهولت در ارسال فاکتورها، کاهش خطاهای انسانی، صرفه‌جویی در زمان و ارائه گزارش‌های دقیق مالیاتی می‌شود.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>شرکت‌های معتمد چه آموزش‌ها و مجوزهایی باید داشته باشند؟</summary>
         <p>کارکنان شرکت‌های معتمد باید زیر نظر سازمان امور مالیاتی آموزش‌های لازم را گذرانده و مجوزهای مربوطه را دریافت کنند. این استانداردها تعداد شرکت‌های معتمد را محدود و کیفیت خدمات را تضمین می‌کند.</p>
     </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
     <details>
         <summary>آیا شرکت‌های معتمد می‌توانند در زمینه حقوق و دستمزد نیز مشاوره دهند؟</summary>
         <p>بله، شرکت‌های نوع سوم می‌توانند مشاوره مالی، حسابداری و حتی در محاسبه حقوق و دستمزد مودیان کمک کنند.</p>

@@ -2,12 +2,131 @@
 title: تفاوت کدینگ حسابداری با کدینگ حسابداری صنعتی
 author: تیم تحریریه هوشکار
 description: در این مقاله به بررسی تفاوت‌ها و کاربردهای دو سیستم کدینگ حسابداری و حسابداری صنعتی پرداخته‌ایم. در حسابداری صنعتی، با استفاده از کدهای خاص، اطلاعات دقیق و به‌روز در مورد حساب‌ها فراهم می‌شود که به کنترل دقیق دارایی‌ها کمک می‌کند.
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2022/12/19
 uid: Financial/IndustrialAccountingCoding
 ---
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>فهرست مطالب</summary>
   <ul>
@@ -79,28 +198,28 @@ uid: Financial/IndustrialAccountingCoding
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>آیا کدینگ حسابداری صنعتی فقط در کارخانه‌ها کاربرد دارد؟</summary>
   بله، این نوع کدینگ بیشتر برای صنایع تولیدی و شرکت‌هایی استفاده می‌شود که نیاز به محاسبه بهای تمام‌شده دارند.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>آیا می‌توان از کدینگ صنعتی در نرم‌افزارهای عمومی استفاده کرد؟</summary>
   تنها در صورتی که نرم‌افزار قابلیت تعریف ساختار چندسطحی و گزارش بهای تمام‌شده را داشته باشد.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>تفاوت اصلی کدینگ حسابداری و صنعتی در چیست؟</summary>
   کدینگ حسابداری برای ثبت عمومی تراکنش‌ها و کدینگ صنعتی برای کنترل دقیق هزینه‌ها و مواد استفاده می‌شود.
 </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+<blockquote class="faq-block">
 <details>
   <summary>بهترین نرم افزار حسابداری بهای تمام شده چیست؟</summary>
   نرم‌افزار حسابداری بهای تمام‌شده سایان یکی از بهترین گزینه‌ها برای صنایع تولیدی است، زیرا به‌صورت تخصصی برای تحلیل و کنترل هزینه‌های تولید طراحی شده است.

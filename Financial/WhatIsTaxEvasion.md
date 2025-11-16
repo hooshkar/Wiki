@@ -287,7 +287,7 @@ blockquote.faq-block {
 
 ---
 
-### سؤالات متداول درباره فرار مالیاتی
+### سؤالات متداول
 
 <blockquote class="faq-block">
   <details>

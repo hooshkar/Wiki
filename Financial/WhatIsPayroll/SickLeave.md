@@ -2,11 +2,131 @@
 title: انواع مرخصی استعلاجی + میزان آن در قانون کار
 author: تیم تحریریه هوشکار
 description: به بررسی انواع مختلف مرخصی استعلاجی، نحوه محاسبه و پرداخت آن توسط سازمان تأمین اجتماعی و همچنین سقف زمانی این نوع مرخصی‌ها می پردازیم.
-dateModified: 2025/11/15
+dateModified: 2025/11/16
 datePublished: 2024/04/13
 uid: Financial/WhatIsPayroll/SickLeave
 ---
-<blockquote style="padding:0.5rem; margin-top:0.5rem; color:#002145;">
+
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 25px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 10px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+a {
+  font-size: 13px !important;
+  color: #0d6efd;
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 20px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -18,7 +138,7 @@ uid: Financial/WhatIsPayroll/SickLeave
      <li>مرخصی استعلاجی بیشتر از ۳ روز</li>
     </ul>
      <li>حداکثر زمان مرخصی استعلاجی</li>
-    <li>نتیجه گیری</li>
+    <li>جمع‌بندی</li>
   </ul>
 </details>
 </blockquote>
@@ -27,8 +147,7 @@ uid: Financial/WhatIsPayroll/SickLeave
 
 در این مقاله به بررسی انواع مختلف مرخصی استعلاجی، نحوه محاسبه و پرداخت آن توسط سازمان تأمین اجتماعی و همچنین سقف زمانی این نوع مرخصی‌ها پرداخته شده است.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار حقوق و دستمزد</a> سایان</strong></p></blockquote>
+<p>برای مدیریت آسان و دقیق حقوق و دستمزد کارکنان، می‌توانید با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم‌افزار حقوق و دستمزد سایان</a> آشنا شوید.</p>
 
 ## انواع مرخصی استعلاجی
 
@@ -56,7 +175,7 @@ uid: Financial/WhatIsPayroll/SickLeave
 
 مرخصی استعلاجی برای انواع بیماری‌ها به دوران‌های متفاوت برای درمان نیاز دارد. با این حال، در طول یک سال، سقف مرخصی برای هر فرد ۴ ماه محدود است. اگر پزشک معتمد تأمین اجتماعی تشخیص دهد و همچنین شورای عالی پزشکی آن را تأیید کند که فرد بیش از یک سال به استراحت نیاز دارد یا بیماری او صعب‌العلاج است، کارگر به عنوان بازنشسته محسوب می‌شود و حقوق بازنشستگی به او پرداخت می‌شود.
 
-#### نتیجه گیری
+#### جمع‌بندی 
 
 -	مرخصی استعلاجی یکی از انواع مرخصی‌های پیش‌بینی شده در قانون کار است که در شرایط خاصی همچون بیماری، بارداری و غیره به کارگران اعطا می‌شود.
 
