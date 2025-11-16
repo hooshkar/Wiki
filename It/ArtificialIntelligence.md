@@ -7,6 +7,8 @@ datePublished: 2023/05/28
 uid: It/ArtificialIntelligence
 ---
 
+<link rel="stylesheet" href="./style.css" />
+
 <blockquote style="background-color:#eeeefc; padding:0.5rem">
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
