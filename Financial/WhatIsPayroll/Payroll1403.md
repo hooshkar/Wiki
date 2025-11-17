@@ -2,7 +2,7 @@
 title: جدول حقوق کارگران ۱۴۰۳ بر اساس مصوبه شورای عالی کار
 author: تیم تحریریه هوشکار
 description: طبق جدول حقوق کارگران 1403، حداقل دستمزد روزانه 2,388,728 ریال و حداقل حقوق پایه ماهیانه بدون احتساب مزایا 71,661,840 ریال خواهد بود.
-dateModified: 2025/11/16
+dateModified: 2025/11/17
 datePublished: 2024/01/15
 uid: Financial/WhatIsPayroll/Payroll1403
 ---
@@ -138,8 +138,9 @@ blockquote.faq-block {
 
 طبق جدول حقوق 1403، حداقل دستمزد روزانه 2,388,728 ریال و حداقل حقوق ماهیانه بدون احتساب مزایا 71,661,840 ریال خواهد بود.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم افزار محاسبه عیدی و سنوات</a> سایان</strong></p></blockquote>
+اگر می‌خواهید محاسبات مربوط به عیدی، سنوات و حقوق پایان‌سال را به‌صورت دقیق و بدون خطا انجام دهید، پیشنهاد می‌کنم از 
+<a href="https://www.hooshkar.com/Software/Sayan/Module/Payroll" target="_blank">نرم‌افزار محاسبه عیدی و سنوات سایان</a>
+استفاده کنید.
 
 ## جدول حقوق کارگران 1403
 
@@ -179,10 +180,11 @@ blockquote.faq-block {
 
 **- 7 درصد حق بیمه کارگر از مبلغ حقوق کسر خواهد شد.**
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1404" target="_blank">حقوق وزارت کار 1404؛ جدول پایه حقوق اداره کار
-</a></p></strong></blockquote>
+برای مشاهده آخرین تغییرات پایه حقوق و مزایای سال 1404 می‌توانید به صفحه 
+<a href="https://www.hooshkar.com/Wiki/Payroll/Payroll1404" target="_blank">حقوق وزارت کار 1404</a>
+مراجعه کنید.
 
------
+---
+
  برای اطلاع از **قیمت نرم افزار حقوق و دستمزد سایان**، همین حالا با شماره های 02691001012 - 09120259585 تماس بگیرید. 
  مشاوران <a href="https://www.hooshkar.com" target="_blank">هوشکار</a> آماده پاسخگویی به تمام سوالات شما در این زمینه هستند.
