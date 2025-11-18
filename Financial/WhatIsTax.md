@@ -1,13 +1,11 @@
 ---
-
 title: مالیات چیست؟ (تعریف انواع مالیات)
 author: تیم تحریریه هوشکار
 description: مالیات یک نوع هزینه اجتماعی است که افراد یا شرکت‌ها باید به دولت پرداخت کنند، به طوری که دولت از این پول برای هزینه‌های عمومی استفاده می‌کند. در هر کشور، مالیات یکی از مهم‌ترین مباحث اقتصادی است و قوانین دقیقی برای آن وجود دارد.
-dateModified: 2025/11/16
+dateModified: 2025/11/18
 datePublished: 2024/05/26
 uid: Financial/WhatIsTax
 ---
-
 
 <style>
 /* -----------------------
@@ -125,7 +123,6 @@ tbody tr:nth-child(even) {
 blockquote.faq-block {
   margin-top: 20px !important;
 }
-
 </style>
 
 <blockquote class="faq-block">
