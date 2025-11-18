@@ -134,9 +134,9 @@ blockquote.faq-block {
 
 > مودیان مالیاتی می توانند تا پایان روز **یکشنبه مورخ 1403/03/20** نسبت به ارسال فهرست حقوق بگیران خود و پرداخت یا ترتیب پرداخت مالیات آن برای حقوق و مزایای فروردین ماه سال 1403 که تاریخ تخصیص یا پرداخت آن تا پایان 1403/01/31 بوده است، اقدام نمایند، امکان برخورداری صددرصدی بخشودگی جرائم موضوع مواد (197) و (199) قانون مالیات های مستقیم تا تاریخ مذکور برای ایشان فراهم می باشد.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/TpTaxGov" target="_blank">نرم افزار واسط سامانه مودیان
-</a> سایان</strong></p></blockquote>
+</a> سایان</strong></p></blockquote><br/>
 
 **لینک های مرتبط:**
 

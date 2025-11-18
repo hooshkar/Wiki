@@ -156,7 +156,6 @@ blockquote.faq-block {
 ![تفاوت نرم افزار با فایل اکسل حقوق و دستمزد](./Images/PayrollSoftwareVsExcel-01.webp)
 
 <blockquote class="faq-block">
-<p><strong>مقایسه سریع نرم‌افزار حقوق و دستمزد با فایل اکسل</strong></p>
 <table>
   <thead>
     <tr>
