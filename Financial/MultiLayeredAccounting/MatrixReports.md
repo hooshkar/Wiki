@@ -1,8 +1,8 @@
 ---
 title: گزارشات ماتریسی حسابها
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: در یک سازمان ماتریسی گزارش دهی و تبادل اطلاعات بین آنها بسیار ساده بوده و نیاز به طی کردن مراحلی که در سازمان های سنتی وجود دارد نیست.
-dateModified: 2025/11/16
+dateModified: 2025/11/21
 datePublished: 2022/07/19
 uid: Financial/MultiLayeredAccounting/MatrixReports
 ---

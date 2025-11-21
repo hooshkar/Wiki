@@ -1,8 +1,8 @@
 ---
 title: معرفی بهترین نرم‌افزارهای انبارداری ⭐【آپدیت 1404】✅
-author:  تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: بهترین نرم‌افزارهای انبارداری برای مدیریت موجودی، کنترل انبار و بهینه‌سازی فرآیندها را بشناسید و انتخاب کنید.
-dateModified: 2025/11/18
+dateModified: 2025/11/21
 datePublished: 2023/05/27
 uid: Financial/TheBestInventorySoftware
 ---

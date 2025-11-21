@@ -1,8 +1,8 @@
 ---
 title: قانون مالیات طلا و نحوه محاسبه آن
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: ایا این مالیات تنها به اجرت ساخت طلا و سود فروشنده تعلق می‌گیرد و شامل اصل طلا نمی‌شود.
-dateModified: 2025/11/18
+dateModified: 2025/11/21
 datePublished: 2024/08/03
 uid: Financial/WhatIsGoldTax
 ---

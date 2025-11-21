@@ -1,9 +1,8 @@
 ---
-
 title: مالیات بر درآمد (قوانین و معافیت‌های آن در ایران)
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: مالیات بر درآمد، سهمی از درآمد افراد و شرکت‌هاست که به دولت پرداخت می‌شود. مالیات بر درآمد یکی از مهمترین ابزارهای دولت برای تأمین منابع مالی و تنظیم سیاست های اقتصادی است. این درآمدهای مالیاتی صرف هزینه های عمومی و ارائه خدمات دولتی می شود.
-dateModified: 2025/11/16
+dateModified: 2025/11/21
 datePublished: 2024/05/15
 uid: Financial/WhatIsIncomeTax
 ---
@@ -124,7 +123,6 @@ tbody tr:nth-child(even) {
 blockquote.faq-block {
   margin-top: 20px !important;
 }
-
 </style>
 
 <blockquote class="faq-block">

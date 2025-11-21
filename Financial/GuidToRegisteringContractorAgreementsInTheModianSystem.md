@@ -1,8 +1,8 @@
 ---
 title: آموزش نحوه ثبت قرارداد پیمانکاری در سامانه مودیان ⭐【آپدیت 1404】✅
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: جهت ثبت قرارداد پیمانکاری در سامانه مودیان باید شناسه یکتای 12 رقمی مربوط به قرارداد را نیز وارد کنید. این شناسه حتماً باید در الگوی پیمانکاری وارد شود.
-dateModified: 2025/11/18
+dateModified: 2025/11/21
 datePublished: 2024/06/10
 uid: Financial/GuidToRegisteringContractorAgreementsInTheModianSystem
 ---

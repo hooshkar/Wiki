@@ -1,8 +1,8 @@
 ---
 title: فرمول محاسبه مانده مرخصی
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: مبلغ مرخصی مانده بر اساس حقوق و مزایای دریافتی کارگر و با استفاده از فرمول ارائه شده در این مقاله محاسبه می‌شود. آگاهی از فرمول محاسبه مانده مرخصی و حقوق قانونی مرتبط با آن برای کارفرمایان و کارگران ضروری است.
-dateModified: 2025/11/16
+dateModified: 2025/11/21
 datePublished: 2024/05/08
 uid: Financial/WhatIsPayroll/TheFormulaForCalculatingTheLeaveBalance
 ---

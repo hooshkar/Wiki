@@ -1,8 +1,8 @@
 ---
 title: لیست موسسات حسابرسی در قزوین
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: معرفی موسسات حسابرسی در قزوین همراه با خدمات حسابداری، مالیاتی و مشاوره مالی برای شرکت‌ها و کسب‌وکارهای تولیدی و بازرگانی.
-dateModified: 2024/11/16
+dateModified: 2024/11/21
 datePublished: 2024/06/16
 uid: Financial/ListOfAuditInstitutionsInQazvin
 ---

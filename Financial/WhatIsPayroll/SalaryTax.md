@@ -1,8 +1,8 @@
 ---
 title: محاسبه مالیات حقوق
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: میزان مالیات حقوق با توجه به حقوق و دستمزد هر فرد می‌تواند متفاوت باشد که به دو نوع مالیات مستقیم و غیر مستقیم، تقسیم می‌شود.
-dateModified: 2025/11/16
+dateModified: 2025/11/21
 datePublished: 2024/04/07
 uid: Financial/WhatIsPayroll/SalaryTax
 ---

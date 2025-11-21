@@ -1,8 +1,8 @@
 ---
 title: مهلت ارسال صورتحساب در سامانه مودیان
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: تمدید مهلت ارسال فاکتور در سامانه مودیان تا پایان شهریور 1402
-dateModified: 2025/11/16
+dateModified: 2025/11/21
 datePublished: 2023/07/22
 uid: Financial/TaxPayersSystemUpdate
 ---

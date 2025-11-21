@@ -1,8 +1,8 @@
 ---
 title: مفهوم مرخصی منفی و بازخرید مرخصی در قانون کار
-author: تیم تحریریه هوشکار
+author: ماندانا رشوند
 description: مفهوم مرخصی منفی، به استفاده بیش از حد مجاز مرخصی اشاره دارد که در قانون کار پیش‌بینی نشده است، اما در بسیاری از سازمان‌ها و شرکت‌ها به عنوان عملی عرفی مورد توجه قرار می‌گیرد.
-dateModified: 2025/11/17
+dateModified: 2025/11/21
 datePublished: 2024/05/08
 uid: Financial/WhatIsPayroll/RedemptionOfLeaveAndNegativeleave
 ---
