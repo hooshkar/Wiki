@@ -2,11 +2,10 @@
 title: کوبرنتیز چیست؟ بررسی ویژگی‌ها، کاربردها و مزایا
 author: ماندانا رشوند
 description: کوبرنتیز (Kubernetes) یا به اختصار"K8s"، یک پلتفرم مدیریت کانتینری است که توسط Google توسعه داده شده است
-dateModified: 2025/11/21
+dateModified: 2025/11/23
 datePublished: 2023/04/13
 uid: It/WhatIsKubernetes
 ---
-
 
 <style>
 /* -----------------------
@@ -136,7 +135,7 @@ blockquote.faq-block {
     <li>کاربردهای کوبرنتیز</li>
   </ul>
 </details>
-</blockquote>
+</blockquote><br/>
 
 !["Kubernetes"](./Images/Kubernetes.webp)
 
@@ -205,6 +204,78 @@ blockquote.faq-block {
 با استفاده از قابلیت‌های کوبرنتیز، می‌توان فرآیندهای **یکپارچه‌سازی و استقرار مداوم (CI/CD)** را بهینه کرد و به توسعه‌دهندگان امکان داد تا به‌سرعت تغییرات را اعمال کنند.  
 
 ![مدیریت فرآیندهای CI/CD](./Images/CICD.webp)
+
+---
+
+<blockquote class="faq-block">
+    <details>
+        <summary>کوبرنتیز چیست و چه کاربردی دارد؟</summary>
+        کوبرنتیز یک پلتفرم متن‌باز برای مدیریت و ارکستراسیون کانتینرها است که امکان استقرار، مقیاس‌پذیری، مانیتورینگ و مدیریت خودکار برنامه‌های کانتینری را فراهم می‌کند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>چرا کوبرنتیز محبوب‌ترین ابزار مدیریت کانتینرها است؟</summary>
+        به دلیل قابلیت‌هایی مانند مقیاس‌پذیری خودکار، خودبهبودی، مدیریت منابع، به‌روزرسانی بدون توقف و پشتیبانی توسط جامعه بزرگ توسعه‌دهندگان، کوبرنتیز به پرکاربردترین ابزار کانتینر اورکستریشن تبدیل شده است.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا برای استفاده از کوبرنتیز لازم است Docker نصب باشد؟</summary>
+        بله، به‌صورت معمول کانتینرها با Docker ساخته می‌شوند و کوبرنتیز آن‌ها را مدیریت می‌کند؛ اما کوبرنتیز می‌تواند با سایر Container Runtimeها مانند containerd یا CRI-O نیز کار کند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>کوبرنتیز چگونه مقیاس‌پذیری برنامه‌ها را مدیریت می‌کند؟</summary>
+        با استفاده از مکانیزم‌های Horizontal Pod Autoscaler و Vertical Pod Autoscaler، کوبرنتیز می‌تواند تعداد پادها یا میزان منابع مصرفی را متناسب با بار کاری افزایش یا کاهش دهد.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا کوبرنتیز برای استفاده در سازمان‌های کوچک مناسب است؟</summary>
+        بله، حتی سازمان‌های کوچک نیز می‌توانند از مزایای کوبرنتیز بهره ببرند؛ هرچند به‌طور معمول استفاده از نسخه‌های سبک‌تر مانند K3s یا Minikube برای کسب‌وکارهای کوچک توصیه می‌شود.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>تفاوت کوبرنتیز با Docker Swarm چیست؟</summary>
+        Docker Swarm ساده‌تر و سبک‌تر است، اما کوبرنتیز امکانات پیشرفته‌تری مانند مدیریت پیچیده‌تر منابع، مقیاس‌پذیری برتر، قابلیت‌های مانیتورینگ و تنظیمات دقیق‌تری ارائه می‌دهد.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا کوبرنتیز قابلیت خودبهبودی دارد؟</summary>
+        بله، در صورت بروز مشکل برای یک پاد یا نود، کوبرنتیز به‌صورت خودکار آن را جایگزین، ری‌استارت یا جابه‌جا می‌کند تا سرویس در دسترس بماند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا امکان اجرای کوبرنتیز در محیط‌های چند ابری وجود دارد؟</summary>
+        بله، کوبرنتیز یکی از بهترین گزینه‌ها برای استقرار در محیط‌های Multi-Cloud است و امکان جابجایی سرویس‌ها بین AWS، Azure، Google Cloud و سایر ارائه‌دهندگان را فراهم می‌کند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا کوبرنتیز برای مدیریت CI/CD مناسب است؟</summary>
+        بله، کوبرنتیز با ابزارهایی مانند Jenkins، GitLab CI/CD و ArgoCD یکپارچه شده و امکان استقرار مداوم و به‌روزرسانی بدون توقف برنامه‌ها را فراهم می‌کند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>کوبرنتیز چه مزیتی برای برنامه‌های تحت وب دارد؟</summary>
+        این پلتفرم مقیاس‌پذیری بالا، مدیریت خودکار بار، امنیت بیشتر و امکان ارائه نسخه‌های جدید بدون توقف سرویس را برای وب‌اپلیکیشن‌ها فراهم می‌کند.
+    </details>
+</blockquote>
 
 ---
 
