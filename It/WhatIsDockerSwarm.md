@@ -2,11 +2,10 @@
 title: Docker Swarm چیست؟ چگونه کار می کند؟
 author: ماندانا رشوند
 description: Docker Swarm یک ابزار برای مدیریت و اجرای برنامه‌های کانتینری با استفاده از تکنولوژی کانتینریزاسیون Docker است.
-dateModified: 2025/11/21
+dateModified: 2025/11/24
 datePublished: 2023/04/13
 uid: It/WhatIsDockerSwarm
 ---
-
 
 <style>
 /* -----------------------
@@ -137,9 +136,11 @@ blockquote.faq-block {
     <li>مقایسه Docker Swarm و Kubernetes</li>
     <li>مزایای Docker Swarm</li>
     <li>معایب Docker Swarm</li>
+    <li>سوالات متداول</li>
+    <li>جمع‌بندی</li>
   </ul>
 </details>
-</blockquote>
+</blockquote><br/>
 
 در دنیای توسعه نرم‌افزار و فناوری اطلاعات، مدیریت کانتینرها در محیط‌های توزیع‌شده یکی از چالش‌های اساسی محسوب می‌شود. Docker Swarm، به عنوان یکی از ابزارهای کلیدی اکوسیستم <a href="https://www.hooshkar.com/Wiki/InformationTechnology/WhatIsDocker" target="_blank">Docker</a>، این چالش را با فراهم‌کردن بستری ساده، کارآمد و انعطاف‌پذیر برای مدیریت و اجرای برنامه‌های کانتینری حل کرده است. این ابزار به توسعه‌دهندگان و مدیران سیستم امکان می‌دهد تا یک خوشه از کانتینرها را با استفاده از قابلیت‌های مدیریت توزیع‌شده و خودکارسازی، به راحتی اداره کنند. در این مقاله، به تعریف، کاربردها، ویژگی‌ها و مقایسه Docker Swarm با Kubernetes پرداخته‌ایم.
 
@@ -225,6 +226,80 @@ Docker Swarm با راه‌اندازی یک کلاستر شامل نودهای 
 - محدودیت در مقایسه با Kubernetes در مدیریت محیط‌های پیچیده
 - جامعه کاربری کوچک‌تر نسبت به Kubernetes
 - امکانات کمتر برای خودکارسازی پیشرفته
+
+---
+
+### سوالات متداول
+
+<blockquote class="faq-block">
+    <details>
+        <summary>Docker Swarm چیست؟</summary>
+        Docker Swarm یک ابزار متن‌باز برای مدیریت و اجرای برنامه‌های کانتینری است که به توسعه‌دهندگان امکان می‌دهد خوشه‌ای از سرورها را به‌عنوان یک کلاستر مدیریت کنند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>Docker Swarm چگونه کار می‌کند؟</summary>
+        Docker Swarm با ایجاد نودهای مدیر (Manager) و نودهای کارگر (Worker)، وظایف را بین سرورها توزیع کرده و عملیات خودکار مانند بازیابی از خرابی و توازن بار را انجام می‌دهد.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>تفاوت Docker Swarm و Kubernetes چیست؟</summary>
+        Docker Swarm ساده‌تر و هماهنگ با Docker است و برای پروژه‌های کوچک و متوسط مناسب است. Kubernetes امکانات پیشرفته‌تر، مقیاس‌پذیری بالاتر و جامعه کاربری بزرگ‌تری دارد و برای محیط‌های پیچیده بهتر است.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>مزایای استفاده از Docker Swarm چیست؟</summary>
+        نصب و راه‌اندازی سریع، رابط کاربری ساده، توازن بار خودکار، امنیت بالا با رمزنگاری داخلی و مدیریت ساده برای پروژه‌های کوچک و متوسط از مزایای اصلی Docker Swarm هستند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>معایب Docker Swarm چیست؟</summary>
+        محدودیت در مقایسه با Kubernetes برای محیط‌های پیچیده، جامعه کاربری کوچک‌تر و امکانات کمتر برای خودکارسازی پیشرفته از معایب Docker Swarm هستند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>Docker Swarm چگونه مقیاس‌پذیری را مدیریت می‌کند؟</summary>
+        با اضافه کردن نودهای بیشتر به کلاستر، Docker Swarm وظایف و کانتینرها را به‌صورت خودکار بین سرورها توزیع می‌کند تا عملکرد و پایداری سیستم حفظ شود.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا Docker Swarm از امنیت داخلی برخوردار است؟</summary>
+        بله، Docker Swarm از رمزنگاری ارتباطات بین نودها و مدیریت مجوزها برای حفظ امنیت کانتینرها پشتیبانی می‌کند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا Docker Swarm مناسب پروژه‌های بزرگ است؟</summary>
+        Docker Swarm برای پروژه‌های کوچک و متوسط مناسب است، اما برای محیط‌های بزرگ و پیچیده، Kubernetes گزینه بهتری است.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>آیا Docker Swarm می‌تواند بار را بین سرورها توزیع کند؟</summary>
+        بله، Docker Swarm قابلیت توازن بار خودکار دارد و به صورت یکنواخت ترافیک را بین نودهای مختلف کلاستر تقسیم می‌کند.
+    </details>
+</blockquote>
+
+<blockquote class="faq-block">
+    <details>
+        <summary>Docker Swarm چه قابلیت‌هایی برای مانیتورینگ ارائه می‌دهد؟</summary>
+        Docker Swarm ابزارهای داخلی برای مشاهده وضعیت سرویس‌ها و کانتینرها دارد که به کاربران امکان کنترل و مدیریت لحظه‌ای سیستم را می‌دهد.
+    </details>
+</blockquote>
 
 ---
 

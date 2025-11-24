@@ -133,6 +133,8 @@ blockquote.faq-block {
     <li>کوبرنتیز چیست؟</li>
     <li>ویژگی‌های اصلی کوبرنتیز</li>
     <li>کاربردهای کوبرنتیز</li>
+    <li>سوالات متداول</li>
+    <li>جمع‌بندی</li>
   </ul>
 </details>
 </blockquote><br/>
@@ -206,6 +208,8 @@ blockquote.faq-block {
 ![مدیریت فرآیندهای CI/CD](./Images/CICD.webp)
 
 ---
+
+### سوالات متداول
 
 <blockquote class="faq-block">
     <details>
