@@ -141,7 +141,7 @@ blockquote.faq-block {
     <li>جمع‌بندی</li>
   </ul>
 </details>
-</blockquote>
+</blockquote><br/>
 
 فناوری VoIP (Voice over Internet Protocol) یکی از تحولات بزرگ در حوزه ارتباطات است که ارتباط صوتی و چندرسانه‌ای را از طریق اینترنت ممکن ساخته است. این مقاله‌ اطلاعات جامعی در این خصوص ارائه می‌دهد.
 
