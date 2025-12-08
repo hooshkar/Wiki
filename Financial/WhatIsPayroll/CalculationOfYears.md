@@ -1,8 +1,8 @@
 ---
 title: حق سنوات و پایه سنوات در سال 1404، همه چیز درباره محاسبه و بازخرید آن
-author: ماندانا رشوند
+author: سمانه رشوند
 description: سنوات پاداشی قانونی است که به کارگران در پایان سال کاری یا هنگام پایان همکاری پرداخت می‌شود. این مقاله به نحوه محاسبه سنوات، تفاوت آن با پایه سنوات، قوانین مالیاتی، اشتباهات رایج و مثال‌های عددی پرداخته و نرم‌افزارهای مناسب برای محاسبه دقیق این مزایا را معرفی می‌کند.
-dateModified: 2025/11/21
+dateModified: 2025/12/08
 datePublished: 2023/02/19
 uid: Financial/WhatIsPayroll/CalculationOfYears
 ---
@@ -13,7 +13,7 @@ uid: Financial/WhatIsPayroll/CalculationOfYears
 -------------------------*/
 body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -58,15 +58,24 @@ h3, h4 {
 -------------------------*/
 ul li {
   font-size: 13px !important;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -84,6 +93,7 @@ strong, b {
   margin-top: 0.5rem;
   color: #002145 !important;
   font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
 }
 
 .faq-block summary {
@@ -121,7 +131,7 @@ tbody tr:nth-child(even) {
    فاصله بیشتر بین بخش‌ها
 -------------------------*/
 blockquote.faq-block {
-  margin-top: 20px !important;
+  margin-top: 10px !important;
 }
 
 </style>
@@ -161,16 +171,19 @@ blockquote.faq-block {
 مبنای محاسبه سنوات، آخرین حقوق دریافتی فرد شامل مزایایی مثل حق مسکن، بن خواربار، ایاب‌وذهاب و... است.  
 فرمول کلی محاسبه:
 
-```
-
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 سنوات = (حقوق و مزایای ماه آخر ÷ 30) × روزهای کارکرد
-
-```
+<br/></blockquote>
 
 #### مثال:
-فرض کنید کارگری با حقوق ماهانه 10,000,000 تومان، 2 سال و 6 ماه در یک شرکت کار کرده است:  
-- مجموع سابقه: 2.5 سال  
-- حق سنوات = 10,000,000 × 2.5 = 25,000,000 تومان  
+
+فرض کنید کارگری با حقوق ماهانه 10,000,000 تومان، 2 سال و 6 ماه در یک شرکت کار کرده است: 
+
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
+**مجموع سابقه:** 2.5 سال
+
+**حق سنوات** = 10,000,000 × 2.5 = 25,000,000 تومان
+</blockquote><br/>
 
 بنابراین کارگر در زمان تسویه‌حساب، ۲۵ میلیون تومان حق سنوات دریافت خواهد کرد.
 
@@ -227,11 +240,9 @@ blockquote.faq-block {
 در <a href="https://www.hooshkar.com/Software/Sayan">نرم افزار سایان</a>
 می‌توانید با مراجعه به مسیر زیر خروجی اکسل از لیست سنوات کارکنان دریافت کنید:  
 
-```
-
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 منوی حقوق و دستمزد > گزارش‌ها > گزارش سنوات > خروجی Excel
-
-```
+</blockquote><br/>
 
 این گزارش به شما امکان می‌دهد تا مجموع سنوات هر کارمند را به‌صورت دقیق بررسی کنید.  
 

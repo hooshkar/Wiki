@@ -1,8 +1,8 @@
 ---
 title: تعطیل کاری چگونه محاسبه می‌شود؟
-author: ماندانا رشوند
+author: سمانه رشوند
 description: کار در روزهای تعطیل نوعی اضافه کاری محسوب می‌شود که به آن تعطیل کاری می‌گویند. نرخ پرداختی برای ساعات کاری در روزهای تعطیل معادل نرخ اضافه‌کاری و ۴۰ درصد بیشتر از دستمزد هر ساعت کار عادی است.
-dateModified: 2025/11/21
+dateModified: 2025/12/08
 datePublished: 2024/05/15
 uid: Financial/WhatIsPayroll/WorkHoliday
 ---
@@ -13,7 +13,7 @@ uid: Financial/WhatIsPayroll/WorkHoliday
 -------------------------*/
 body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -58,15 +58,24 @@ h3, h4 {
 -------------------------*/
 ul li {
   font-size: 13px !important;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -84,6 +93,7 @@ strong, b {
   margin-top: 0.5rem;
   color: #002145 !important;
   font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
 }
 
 .faq-block summary {
@@ -121,7 +131,7 @@ tbody tr:nth-child(even) {
    فاصله بیشتر بین بخش‌ها
 -------------------------*/
 blockquote.faq-block {
-  margin-top: 20px !important;
+  margin-top: 10px !important;
 }
 
 </style>
@@ -156,9 +166,9 @@ blockquote.faq-block {
 
 به بیان ساده‌تر، اگر کارگر یا کارمندی در روز تعطیل کار کند، مزد آن روز باید با ضریب ۱.۴ محاسبه گردد.
 
-<blockquote style="background-color:#fff6e5; padding:0.5rem">
-<strong>نکته:</strong> انجام کار در روز تعطیل رسمی باید با رضایت کارگر و توافق کتبی میان کارگر و کارفرما انجام شود. در غیر این صورت، تخلف محسوب می‌شود.
-</blockquote>
+<br><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
+**نکته:** انجام کار در روز تعطیل رسمی باید با رضایت کارگر و توافق کتبی میان کارگر و کارفرما انجام شود. در غیر این صورت، تخلف محسوب می‌شود.
+</blockquote><br>
 
 ---
 
@@ -167,11 +177,17 @@ blockquote.faq-block {
 برای محاسبه تعطیل‌کاری، کافی است نرخ روزانه دستمزد را در **۱.۴** ضرب کنید.  
 
 **فرمول کلی:**
-> مزد تعطیل‌کاری = مزد روزانه × ۱.۴  
+
+<br><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
+ مزد تعطیل‌کاری = مزد روزانه × ۱.۴  
+</blockquote><br>
 
 **نمونه محاسبه:**  
+
+<br><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 اگر حقوق روزانه یک کارگر ۳۰۰ هزار تومان باشد:
 > مزد تعطیل‌کاری = ۳۰۰,۰۰۰ × ۱.۴ = ۴۲۰,۰۰۰ تومان  
+</blockquote><br>
 
 به این ترتیب، کارگری که در یک روز تعطیل کار می‌کند، به‌جای ۳۰۰ هزار تومان، **۴۲۰ هزار تومان دریافت خواهد کرد.**
 

@@ -1,8 +1,8 @@
 ---
 title: فرمول محاسبه حقوق و دستمزد (کسر کار، اضافه کاری، تعطیل کاری و...)
-author: ماندانا رشوند
+author: سمانه رشوند
 description: فرمولهایی که برای محاسبه حقوق و دستمزد استفاده می شود.
-dateModified: 2025/11/21
+dateModified: 2025/12/08
 datePublished: 2022/07/31
 uid: Financial/WhatIsPayroll/PayrollFormula
 ---
@@ -13,7 +13,7 @@ uid: Financial/WhatIsPayroll/PayrollFormula
 -------------------------*/
 body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -58,15 +58,24 @@ h3, h4 {
 -------------------------*/
 ul li {
   font-size: 13px !important;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -84,6 +93,7 @@ strong, b {
   margin-top: 0.5rem;
   color: #002145 !important;
   font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
 }
 
 .faq-block summary {
@@ -121,7 +131,7 @@ tbody tr:nth-child(even) {
    فاصله بیشتر بین بخش‌ها
 -------------------------*/
 blockquote.faq-block {
-  margin-top: 20px !important;
+  margin-top: 10px !important;
 }
 
 </style>
@@ -146,7 +156,7 @@ blockquote.faq-block {
   </ul>
   </ul>
 </details>
-</blockquote>
+</blockquote><br/>
 
 محاسبه درست حقوق و دستمزد کارکنان، یکی از مهمترین وظایف بخش حسابداری سازمان‌هاست. رعایت عدالت در پرداخت‌ها و دقت در محاسبات، نقش مهمی در انگیزه و رضایت شغلی کارکنان دارد. 
 
@@ -162,7 +172,9 @@ blockquote.faq-block {
 
 ### 1. فرمول محاسبه حقوق پایه
 
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 کارکرد ماه × 30 ÷ حقوق پایه در حکم
+</blockquote><br/>
 
 ### 2. فرمول اضافه کاری
 
@@ -172,16 +184,18 @@ blockquote.faq-block {
 
 فرمول حقوق و دستمزد بر اساس اضافه کاری به شرح زیر است:
 
-<p style="text-align:center">ساعات اضافه کاری × ۱.۴ × ۲۲۰ ÷ (حقوق پایه) = فرمول اضافه کاری</p>
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
+ساعات اضافه کاری × ۱.۴ × ۲۲۰ ÷ (حقوق پایه) = فرمول اضافه کار
+</blockquote><br/>
 
 ### 3. فرمول عیدی
 عیدی یکی از اصلی‌ترین حقوق پرسنل است که پس از اتمام سال، کارفرما باید مبلغی دو برابر حقوق پایه کارکنانش، به آن‌ها پرداخت کند. 
 
-<p style="text-align:center">
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 پایه حقوق روزانه × 60 = حداقل عیدی 1403
 <br>
 پایه حقوق روزانه × 90 = حداکثر عیدی 1403
-</p>
+</blockquote><br/>
 
 ### 4. فرمول محاسبه سنوات
 
@@ -195,11 +209,11 @@ blockquote.faq-block {
  
 فرمول محاسبه حقوق کارکنان شب کار، به شرح زیر است:
 
-<p style="text-align:center">
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 تعداد ساعات شب کاری × 1.35 × (7.33 ÷ دستمزد روزانه) = شب کاری
 <br>
 کارکرد شب کاری × 100 ÷ 35 × (220 ÷ حقوق پایه در حکم) = شب کاری
-</p>
+</blockquote><br/>
 
 ### 6. فرمول محاسبه نوبت کاری
 
@@ -209,7 +223,9 @@ blockquote.faq-block {
 
 ### 7. فرمول محاسبه کسر کار
 
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 کسر کار ماه × (2 × 220   ÷ حقوق پایه در حکم)
+</blockquote><br/>
 
 <p>برای انتخاب مناسب‌ترین ابزار مدیریت حقوق و دستمزد، مطلب <a href="https://www.hooshkar.com/Wiki/Financial/TheBestPayrollSoftware" target="_blank">معرفی بهترین نرم‌افزارهای حقوق و دستمزد</a> را مطالعه کنید.</p>
 
@@ -221,11 +237,11 @@ blockquote.faq-block {
 
 ### فرمول محاسبه‌ حق اولاد
 
-<p style="text-align:center">
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
 تعداد فرزندان * (حداقل دستمزد روزانه آن سال * ۳) = حق اولاد در بخش خصوصی
 <br>
 14 درصد * ضریب سالانه * حقوق پایه = حق اولاد برای یک فرزند در بخش دولتی
-</p>
+</blockquote><br/>
 
 ---
 

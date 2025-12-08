@@ -1,8 +1,8 @@
 ---
 title: مدت زمان مرخصی زایمان چقدر است؟
-author: ماندانا رشوند
+author: سمانه رشوند
 description: این مقاله درباره مرخصی زایمان برای زنان شاغل در نظام تامین اجتماعی است و به موضوعاتی مانند طول مدت مرخصی، مدارک لازم، زمان درخواست، کمک هزینه بارداری و بازگشت به کار پس از پایان مرخصی می پردازد.
-dateModified: 2025/11/21
+dateModified: 2025/12/08
 datePublished: 2024/05/20
 uid: Financial/WhatIsPayroll/MaternityLeaveLaw
 ---
@@ -13,7 +13,7 @@ uid: Financial/WhatIsPayroll/MaternityLeaveLaw
 -------------------------*/
 body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -58,15 +58,24 @@ h3, h4 {
 -------------------------*/
 ul li {
   font-size: 13px !important;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -84,6 +93,7 @@ strong, b {
   margin-top: 0.5rem;
   color: #002145 !important;
   font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
 }
 
 .faq-block summary {
@@ -121,7 +131,7 @@ tbody tr:nth-child(even) {
    فاصله بیشتر بین بخش‌ها
 -------------------------*/
 blockquote.faq-block {
-  margin-top: 20px !important;
+  margin-top: 10px !important;
 }
 
 </style>
@@ -138,7 +148,7 @@ blockquote.faq-block {
    <li>زمان مناسب برای اقدام به مرخصی زایمان</li>
    <li>کمک هزینه بارداری</li>
    <li>بازگشت به کار پس از پایان مرخصی زایمان</li>
-   <li>جمع‌بندی و نکات مهم</li>
+   <li>جمع‌بندی</li>
   </ul>
 </details>
 </blockquote><br/>
@@ -196,11 +206,13 @@ blockquote.faq-block {
 
 طبق ماده ۶۷ قانون تامین اجتماعی:  
 
+<br/><blockquote style="padding:0.8rem; border-right:4px solid #7066f1;">
+
 > بیمه شده زن با حداقل ۶۰ روز سابقه پرداخت بیمه در سال قبل از زایمان، می‌تواند به شرط عدم اشتغال، از کمک هزینه بارداری استفاده کند. این کمک معادل ۲/۳ مزد یا حقوق بیمه شده برای مدت ۶ ماه پرداخت می‌شود.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
-<p><strong>منبع: <a href="https://khadamat.mardom.ir/Service/Details?ServiceId=19041805103&&OrgId=20140000" target="_blank">پرداخت کمک هزینه بارداری برای بیمه شده تامین اجتماعی</a></strong></p>
-</blockquote>
+<br/><strong>منبع: <a href="https://khadamat.mardom.ir/Service/Details?ServiceId=19041805103&&OrgId=20140000" target="_blank">پرداخت کمک هزینه بارداری برای بیمه شده تامین اجتماعی</a></strong>
+
+</blockquote><br/>
 
 ---
 
