@@ -1,8 +1,8 @@
 ---
 title: مقایسه فایل اکسل حقوق و دستمزد با نرم افزار حقوق و دستمزد
-author: ماندانا رشوند
+author: سمانه رشوند
 description: در راستای حفظ و مدیریت اطلاعات مالی و پرسنل نرم افزارهای حقوق و دستمزد با بهره‌مندی از دیتابیس‌های پیشرفته نسبت به فایل های اکسل، به سازمان‌ها امکان مدیریت بهینه و کارآمد اطلاعات را می‌دهند.
-dateModified: 2025/11/21
+dateModified: 2025/12/09
 datePublished: 2024/01/10
 uid: Financial/PayrollSoftwareVsExcel
 ---
@@ -13,7 +13,7 @@ uid: Financial/PayrollSoftwareVsExcel
 -------------------------*/
 body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -58,15 +58,24 @@ h3, h4 {
 -------------------------*/
 ul li {
   font-size: 13px !important;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -84,6 +93,7 @@ strong, b {
   margin-top: 0.5rem;
   color: #002145 !important;
   font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
 }
 
 .faq-block summary {
@@ -121,7 +131,7 @@ tbody tr:nth-child(even) {
    فاصله بیشتر بین بخش‌ها
 -------------------------*/
 blockquote.faq-block {
-  margin-top: 20px !important;
+  margin-top: 10px !important;
 }
 
 </style>

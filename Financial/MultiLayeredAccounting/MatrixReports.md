@@ -1,8 +1,8 @@
 ---
 title: گزارشات ماتریسی حسابها
-author: ماندانا رشوند
+author: سمانه رشوند
 description: در یک سازمان ماتریسی گزارش دهی و تبادل اطلاعات بین آنها بسیار ساده بوده و نیاز به طی کردن مراحلی که در سازمان های سنتی وجود دارد نیست.
-dateModified: 2025/11/21
+dateModified: 2025/12/09
 datePublished: 2022/07/19
 uid: Financial/MultiLayeredAccounting/MatrixReports
 ---
@@ -11,9 +11,9 @@ uid: Financial/MultiLayeredAccounting/MatrixReports
 /* -----------------------
    تنظیمات کلی متن
 -------------------------*/
-body, p {
+body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -26,12 +26,14 @@ p + p {
 
 /* فاصله بین هر پاراگراف و هدینگ */
 p + h1,
-p + h2 {
+p + h2,
+p + h3,
+p + h4 {
   margin-top: 30px !important;
 }
 
 /* فاصله‌های قبل از هدینگ */
-h1, h2 {
+h1, h2, h3, h4 {
   margin-top: 30px !important;
   margin-bottom: 10px !important;
 }
@@ -47,12 +49,33 @@ h2 {
   font-size: 16px !important;
 }
 
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 2px;
+}
+
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -62,7 +85,76 @@ strong, b {
   font-size: 12.5px !important;
 }
 
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 10px !important;
+}
+
 </style>
+
+<blockquote class="faq-block">
+<details>
+  <summary>آنچه در این مطلب خواهید خواند:</summary>
+  <ul>
+    <li>تعریف حق سنوات</li>
+    <li>نحوه محاسبه سنوات با مثال عددی</li>
+    <li>مبلغ سنوات پرداختی چقدر است؟</li>
+    <li>تفاوت حق سنوات و پایه سنوات در جدول مقایسه‌ای</li>
+    <li>پرداخت سنوات خدمت بین کارمندان رسمی و غیررسمی</li>
+    <li>نکات مالیاتی و اشتباهات رایج کارفرمایان</li>
+    <li>حق سنوات در سال 1403</li>
+    <li>بازخرید حق سنوات هنگام بازنشستگی</li>
+    <li>نکته کاربردی برای حسابداران</li>
+    <li>آشنایی با نرم‌افزار محاسبه سنوات</li>
+    <li>سؤالات متداول</li>
+    <li>جمع‌بندی</li>
+  </ul>
+</details>
+</blockquote><br/>
 
 مدیریت ماتریسی در دهه 1970 توسط شرکت فیلیپس راه اندازی شد. سازمانی که براساس مدیریت ماتریسی بنا شده در آن سیستم گزارش دهی کارکنان به مدیران بصورت شبکه ای تنظیم می شود در صورتیکه در دیگر سازمان های فاقد مدیریت سازمانی گزارش دهی کارکنان بصورت سلسه مراتبی طی می شود. 
 
