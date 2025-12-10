@@ -2,7 +2,7 @@
 title: منابع آموزش گیت هاب (Github)
 author: محمد رضا کریمی
 description: این مطلب ترجمه آموزش در وب سایت اصلی github بوده و با کمی تغییرات و جمع آوری در اختیار شما قرار گرفته است. در صورت نیاز شما می توانید برای اصلاحات و بهتر شدن کیفیت این مطلب از طریق github با ما همکاری نمایید.
-dateModified: 2025/11/24
+dateModified: 2025/12/10
 datePublished: 2019/09/18
 uid: It/SourceControl/Github/References
 
@@ -14,7 +14,7 @@ uid: It/SourceControl/Github/References
 -------------------------*/
 body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -59,15 +59,24 @@ h3, h4 {
 -------------------------*/
 ul li {
   font-size: 13px !important;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -85,6 +94,7 @@ strong, b {
   margin-top: 0.5rem;
   color: #002145 !important;
   font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
 }
 
 .faq-block summary {
@@ -122,7 +132,7 @@ tbody tr:nth-child(even) {
    فاصله بیشتر بین بخش‌ها
 -------------------------*/
 blockquote.faq-block {
-  margin-top: 20px !important;
+  margin-top: 10px !important;
 }
 
 </style>

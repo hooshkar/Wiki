@@ -1,13 +1,142 @@
 ---
 title: 5S در انبارداری، روشی برای بهینه‌سازی فضا و زمان
-author: تیم تحریریه هوشکار
+author: سمانه رشوند
 description: 5S یک روش مدیریتی برای افزایش نظم، بهره‌وری و ایمنی در محیط‌های انبارداری است. این روش شامل 5 مرحله سورت، سیستم‌بندی، تمیز کردن، استاندارد سازی و انضباط می‌باشد که به بهبود شرایط کاری، کاهش اتلاف و افزایش کارایی در انبارها کمک می‌کند.
-dateModified: 2025/09/02
+dateModified: 2025/12/10
 datePublished: 2024/03/06
 uid: Business/5SWarehouse
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 22px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 2px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+
+a {
+  font-size: 13px !important;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 10px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -36,7 +165,7 @@ uid: Business/5SWarehouse
 
 مطالعات نشان می‌دهد که فایو اس موجب افزایش 30 تا 50 درصدی کارایی انبار، سرعت دسترسی به اقلام و زمان چرخه سفارشات می شود.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<blockquote class="faq-block">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">نرم افزار انبارداری
 </a>سایان</p></strong></blockquote>
 
@@ -52,7 +181,7 @@ uid: Business/5SWarehouse
 
 ![فایو اس (5S) در انبار](./Images/5SWarehouse.webp)
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<blockquote class="faq-block">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/5S" target="_blank">5S چیست؟
 </a></p></strong></blockquote>
 
@@ -86,7 +215,7 @@ uid: Business/5SWarehouse
 
 انجام همه امور با مشارکت جمعی و رهبری از مدیریت ارشد و مدیران بخش‌ها، نصب نمودارها و فلوچارت‌های واضح و ساده در مکان‌های مناسب، رسم و نصب نمودار فرآیند تولید در مکانی که همه به راحتی ببینند، خط‌کشی و تعیین مرزها و گذرها در خط تولید.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<blockquote class="faq-block">
 <p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Software/Sayan/Module/Inventory" target="_blank">بهترین نرم افزار انبارداری چه ویژگی هایی دارد؟
 </a></p></strong></blockquote>
 

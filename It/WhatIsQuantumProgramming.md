@@ -1,8 +1,8 @@
 ---
 title: برنامه نویسی کوانتومی چیست؟
-author: ماندانا رشوند
+author: سمانه رشوند
 description: برنامه‌نویسی کوانتومی با برنامه‌نویسی سنتی تفاوت‌های بنیادی دارد، زیرا به جای بیت‌های کلاسیک (0 و 1) از کیوبیت‌ها استفاده می‌کند. کیوبیت‌ها می‌توانند همزمان هم 0 و هم 1 باشند (به دلیل ویژگی برهم‌نهی در مکانیک کوانتومی).
-dateModified: 2025/11/29
+dateModified: 2025/12/10
 datePublished: 2024/07/27
 uid: It/WhatIsQuantumProgramming
 ---
@@ -13,7 +13,7 @@ uid: It/WhatIsQuantumProgramming
 -------------------------*/
 body, .faq-block, p, li, td, th {
   font-size: 13px !important;
-  line-height: 25px;
+  line-height: 22px;
   color: #002145;
   margin: 0;
   padding: 0;
@@ -58,15 +58,24 @@ h3, h4 {
 -------------------------*/
 ul li {
   font-size: 13px !important;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 /* -----------------------
    لینک‌ها
 -------------------------*/
+
 a {
   font-size: 13px !important;
-  color: #0d6efd;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
 }
 
 /* -----------------------
@@ -84,6 +93,7 @@ strong, b {
   margin-top: 0.5rem;
   color: #002145 !important;
   font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
 }
 
 .faq-block summary {
@@ -121,20 +131,7 @@ tbody tr:nth-child(even) {
    فاصله بیشتر بین بخش‌ها
 -------------------------*/
 blockquote.faq-block {
-  margin-top: 20px !important;
-}
-
-.code-block {
-    direction: ltr;            /* نمایش کد چپ‌به‌راست */
-    text-align: left;          /* کد در سمت چپ قرار بگیرد */
-    background: #1e1e1e;       /* پس‌زمینه تیره شبیه VS Code */
-    color: #dcdcdc;            /* رنگ متن */
-    padding: 16px;
-    border-radius: 8px;
-    overflow-x: auto;          /* برای اسکرول افقی در صورت طولانی بودن خطوط */
-    font-family: Consolas, "Courier New", monospace;
-    font-size: 14px;
-    line-height: 1.6;
+  margin-top: 10px !important;
 }
 
 </style>

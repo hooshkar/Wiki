@@ -1,13 +1,142 @@
 ---
 title: بررسی و مقایسه بهترین نرم افزارهای CRM معروف ایرانی
-author: تیم تحریریه هوشکار
+author: سمانه رشوند
 description: مقایسه بهترین نرم افزارهای CRM از نظر امکانات، قیمت و... برای کسب و کارهای ایرانی با هدف آنکه به خوانندگان کمک کند تا بهترین راه حل را برای نیازهای خاص خود انتخاب کنند.
-dateModified: 2025/09/02
+dateModified: 2025/12/10
 datePublished: 2024/01/06
 uid: Business/ComparisonCrmSoftware
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 22px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 2px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+
+a {
+  font-size: 13px !important;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 10px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
   <details>
     <summary>آنچه در این مطلب خواهید خواند:</summary>
       <li>چرا به نرم افزار CRM نیاز داریم؟</li>
@@ -287,36 +416,40 @@ Odoo یک پلتفرم ERP متن‌باز است که ماژول CRM نیز د�
 
 ### سوالات متداول
 
-<blockquote style="padding:0.5rem">
+<blockquote class="faq-block">
   <details>
     <summary>نرم‌افزار CRM چیست و چه کاربردی دارد؟</summary>
     <ul>
       <li>نرم‌افزار CRM ابزاری برای مدیریت ارتباط با مشتریان است که کمک می‌کند تعاملات فروش، بازاریابی و خدمات پس از فروش به صورت سازمان‌یافته و کارآمد انجام شود.</li>
     </ul>
   </details>
-
-  <details style="margin-top:0.5rem;">
+</blockquote>
+<blockquote class="faq-block">
+  <details>
     <summary>چه مزایایی در استفاده از نرم‌افزار CRM وجود دارد؟</summary>
     <ul>
       <li>افزایش فروش، بهبود رضایت مشتری، مدیریت بهتر داده‌ها، تحلیل رفتار مشتری و بهینه‌سازی فرآیندهای بازاریابی و فروش از مهم‌ترین مزایای این نرم‌افزار است.</li>
     </ul>
   </details>
-
-  <details style="margin-top:0.5rem;">
+</blockquote>
+<blockquote class="faq-block">
+  <details>
     <summary>آیا نرم‌افزارهای رایگان CRM گزینه مناسبی هستند؟</summary>
     <ul>
       <li>برای کسب‌وکارهای کوچک یا استارتاپ‌ها نرم‌افزارهای رایگان می‌توانند گزینه خوبی باشند اما ممکن است محدودیت‌هایی در امکانات و پشتیبانی داشته باشند.</li>
     </ul>
   </details>
-
-  <details style="margin-top:0.5rem;">
+</blockquote>
+<blockquote class="faq-block">
+  <details>
     <summary>نرم‌افزار CRM چگونه به افزایش فروش کمک می‌کند؟</summary>
     <ul>
       <li>با ثبت دقیق اطلاعات مشتریان، پیگیری بهتر فرصت‌های فروش و تحلیل داده‌ها، فرایند فروش سازمان‌دهی شده و فروش بهینه‌تر انجام می‌شود.</li>
     </ul>
   </details>
-
-  <details style="margin-top:0.5rem;">
+</blockquote>
+<blockquote class="faq-block">
+  <details>
     <summary>آیا نرم‌افزار CRM فنک، قابلیت سفارشی‌سازی دارد؟</summary>
     <ul>
       <li>بله، نرم‌افزار CRM فنک امکان سفارشی‌سازی فرم‌ها، گزارش‌ها و فرایندها را مطابق نیاز کسب‌وکار دارد.</li>

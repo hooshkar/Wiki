@@ -1,13 +1,142 @@
 ---
 title: کاربرد نرم افزار مدیریت فرایند در صنایع و حوزه های مختلف
-author: تیم تحریریه هوشکار
+author: سمانه رشوند
 description: BPMS در صنایع مختلفی از جمله صنعت داروسازی و بهداشت، مدیریت تأمین و موجودی، مدیریت ایمنی و حفاظت از محیط زیست، هوش تجاری، مدیریت اسناد و مدیریت دسترسی و امنیت کاربرد دارد.
-dateModified: 2025/09/02
+dateModified: 2025/12/10
 datePublished: 2024/05/27
 uid: Business/TheApplicationOfBpmsInIndustries
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 22px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 2px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+
+a {
+  font-size: 13px !important;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 10px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند:</summary>
   <ul>
@@ -24,7 +153,7 @@ uid: Business/TheApplicationOfBpmsInIndustries
 
 BPMS در صنایع مختلفی از جمله صنعت داروسازی و بهداشت، مدیریت تأمین و موجودی، مدیریت ایمنی و حفاظت از محیط زیست، هوش تجاری، مدیریت اسناد و مدیریت دسترسی و امنیت کاربرد دارد. این ابزار به شرکت‌ها کمک می‌کند تا عملکرد خود را بهبود بخشند و به ارائه خدمات بهتری برای مشتریان خود بپردازند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem">
+<blockquote class="faq-block">
 <p><strong>آشنایی با <a href="https://www.hooshkar.com/Software/Fennec/Module/BPMS" target="_blank">نرم افزار BPMS ایرانی 
 </a>فِنِک</p></strong></blockquote>
 
@@ -52,7 +181,8 @@ BPMS در صنایع مختلفی از جمله صنعت داروسازی و ب�
 
 با ارائه ابزارها و قابلیت‌های تحلیلی، BPMS به کاربران این امکان را می‌دهد که داده‌ها را تجزیه و تحلیل کرده و الگوها، روندها و ارتباطات کلیدی در فرآیندهای کسب و کار را شناسایی نمایند. این تحلیل‌ها می‌توانند به تصمیم‌گیری‌های استراتژیک کمک کرده و بهبودهای لازم را در فرآیندها ایجاد نمایند.
 
-<blockquote style="background-color:#f5f5f5; padding:0.5rem"><p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsBpmn" target="_blank">BPMN چیست؟</a></p></strong></blockquote>
+<blockquote class="faq-block">
+<p><strong>بیشتر بخوانید: <a href="https://www.hooshkar.com/Wiki/Business/WhatIsBpmn" target="_blank">BPMN چیست؟</a></p></strong></blockquote>
 
 ### 3. سامانه مدیریت اسناد (DMS)
 

@@ -1,13 +1,142 @@
 ---
 title: BPMN چیست؟ تفاوت آن با BPM
-author: تیم تحریریه هوشکار
+author: سمانه رشوند
 description: به معنای Business Process Model and Notation است و یک استاندارد برای نمایش فرایندهای کسب و کار است.
-dateModified: 2025/09/02
+dateModified: 2025/12/10
 datePublished: 2023/05/03
 uid: Business/WhatIsBpmn
 ---
 
-<blockquote style="background-color:#eeeefc; padding:0.5rem">
+<style>
+/* -----------------------
+   تنظیمات کلی متن
+-------------------------*/
+body, .faq-block, p, li, td, th {
+  font-size: 13px !important;
+  line-height: 22px;
+  color: #002145;
+  margin: 0;
+  padding: 0;
+}
+
+/* فاصله بین پاراگراف‌ها */
+p + p {
+  margin-top: 10px !important;
+}
+
+/* فاصله بین هر پاراگراف و هدینگ */
+p + h1,
+p + h2,
+p + h3,
+p + h4 {
+  margin-top: 30px !important;
+}
+
+/* فاصله‌های قبل از هدینگ */
+h1, h2, h3, h4 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+/* -----------------------
+   تنظیم اندازه هدینگ‌ها
+-------------------------*/
+h1 {
+  font-size: 18px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+h3, h4 {
+  font-size: 15px !important;
+}
+
+/* -----------------------
+   لیست‌ها
+-------------------------*/
+ul li {
+  font-size: 13px !important;
+  margin-bottom: 2px;
+}
+
+/* -----------------------
+   لینک‌ها
+-------------------------*/
+
+a {
+  font-size: 13px !important;
+  animation: colorRotate 4s linear infinite;
+}
+
+@keyframes colorRotate {
+  0%   { color: #0d6efd; }
+  25%  { color: #1ecbe1; }
+  50%  { color: #00c37a; }
+  75%  { color: #ff7f50; }
+  100% { color: #0d6efd; }
+}
+
+/* -----------------------
+   متن‌های بولد
+-------------------------*/
+strong, b {
+  font-size: 12.5px !important;
+}
+
+/* -----------------------
+   FAQ و فهرست
+-------------------------*/
+.faq-block {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  color: #002145 !important;
+  font-size: 13px !important;
+  background-color: #e9f4ff; /* آبی خیلی کم‌رنگ */
+}
+
+.faq-block summary {
+  cursor: pointer;
+  color: #002145 !important;
+  font-size: 13px !important;
+}
+
+/* -----------------------
+   جدول‌ها
+-------------------------*/
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px !important;
+  font-size: 12.5px !important;
+}
+
+th, td {
+  padding: 0.6rem !important;
+  border: 1px solid #dcdcdc;
+  text-align: right !important;
+  font-size: 12.5px !important;
+}
+
+thead tr {
+  background-color: #eeeeff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafaff;
+}
+
+/* -----------------------
+   فاصله بیشتر بین بخش‌ها
+-------------------------*/
+blockquote.faq-block {
+  margin-top: 10px !important;
+}
+
+</style>
+
+<blockquote class="faq-block">
 <details>
   <summary>آنچه در این مطلب خواهید خواند</summary>
   <ul>
@@ -158,35 +287,35 @@ BPMN یا مدل‌سازی فرایندهای کسب‌وکار، ابزاری 
 
 ---
 
-<blockquote style="padding:0.5rem">
+<blockquote class="faq-block">
   <details>
     <summary>BPMN چیست و چه کاربردی دارد؟</summary>
     BPMN (Business Process Model and Notation) یک استاندارد برای مدل‌سازی فرآیندهای کسب‌وکار است که با ارائه نمایش بصری، درک و بهبود فرآیندها را آسان می‌کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>تفاوت BPMN و BPMS چیست؟</summary>
     BPMN یک زبان گرافیکی برای نمایش فرآیندها است، در حالی که BPMS نرم‌افزاری برای مدیریت فرآیندهاست که امکان اجرا، مانیتورینگ و بهینه‌سازی فرآیندها را فراهم می‌کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>BPMN چه مزایایی دارد؟</summary>
     این استاندارد به بهبود ارتباطات بین ذی‌نفعان، کاهش خطا، بهینه‌سازی فرآیندها، افزایش توان تصمیم‌گیری و سهولت آموزش کارکنان کمک می‌کند.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>آیا می‌توان از BPMN در نرم‌افزارهای ERP استفاده کرد؟</summary>
     بله، BPMN در ERP برای مدل‌سازی و بهینه‌سازی فرآیندهای کسب‌وکار کاربرد دارد و باعث افزایش کیفیت و کارآیی سیستم‌ها می‌شود.
   </details>
 </blockquote>
 
-<blockquote style="padding:0.5rem; margin-top:0.5rem;">
+<blockquote class="faq-block">
   <details>
     <summary>برای شروع مدل‌سازی فرآیندها چه اقداماتی لازم است؟</summary>
     ابتدا نیازهای سازمان را شناسایی کرده، ابزار مناسب BPMN را انتخاب کرده و سپس با استفاده از نرم‌افزار BPMS فرآیندها را طراحی، اجرا و مانیتور کنید.
