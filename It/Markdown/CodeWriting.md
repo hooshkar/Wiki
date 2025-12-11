@@ -67,15 +67,6 @@ ul li {
 
 a {
   font-size: 13px !important;
-  animation: colorRotate 4s linear infinite;
-}
-
-@keyframes colorRotate {
-  0%   { color: #0d6efd; }
-  25%  { color: #1ecbe1; }
-  50%  { color: #00c37a; }
-  75%  { color: #ff7f50; }
-  100% { color: #0d6efd; }
 }
 
 /* -----------------------
