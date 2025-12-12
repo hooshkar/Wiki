@@ -146,8 +146,10 @@ blockquote.faq-block {
 
 فناوری VoIP (Voice over Internet Protocol) یکی از تحولات بزرگ در حوزه ارتباطات است که ارتباط صوتی و چندرسانه‌ای را از طریق اینترنت ممکن ساخته است. این مقاله‌ اطلاعات جامعی در این خصوص ارائه می‌دهد.
 
-برای آشنایی با راهکار کامل مدیریت تماس‌های سازمانی و بهره‌مندی از امکاناتی مانند داخلی نامحدود، تلفن‌گویا و ضبط مکالمات، می‌توانید <a href="https://www.hooshkar.com/Software/Fennec/Module/Dashboard" target="_blank">نرم افزار ویپ فنک</a>
+<blockquote style="background-color:#f9f9ff; padding:1rem; border-right:4px solid #7066f1; margin-top:1rem;">
+برای آشنایی با راهکار کامل مدیریت تماس‌های سازمانی و بهره‌مندی از امکاناتی مانند داخلی نامحدود، تلفن‌گویا و ضبط مکالمات، می‌توانید <a href="https://www.hooshkar.com/Software/Fennec/Module/VoIP" target="_blank">تلفن ویپ فنک</a>
  را بررسی کنید.
+</blockquote><br/>
 
 ## تعریف و عملکرد VoIP
 
